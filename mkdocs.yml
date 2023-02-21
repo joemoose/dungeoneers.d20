@@ -1,0 +1,14 @@
+site_name: TyroRPG
+site_url: https://joemoose.github.io/TyrosRPG/
+repo_url: https://github.com/joemoose/Tyros-RPG/
+edit_uri: edit/main/docs/
+site_dir: '/Users/zachary/Documents/Github/joemoose.github.io/TyrosRPG'
+nav:
+    - Home: README.md
+    - ‘1 Intro.md' 
+    - ‘2 Making an Adventurer.md'
+    - ‘3-Equipment.md'
+    - ‘4-How to Play.md'
+    - ‘5-Appendices.md'
+  
+theme: material
