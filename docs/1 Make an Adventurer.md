@@ -2,7 +2,7 @@
 
 You’re a newly minted adventurer: a tomb-raiding, treasure-seeking ne’er-do-well who wields a spellbook just as easily as a blade. You will live a dangerous life. You will delve into strange and mysterious places. With some luck, you might retire before dying.
 
-## 1. Backstory
+## Step 1: Backstory
 
 Create a little backstory for your character. You chose to become an adventurer for a reason—what is it?
 
@@ -36,9 +36,8 @@ You don’t have to decide all this now; developing your character as you play i
 | 18 | Smuggler | Replaced | Serene | Vengeful |
 | 19 | Student | Robbed | Stoic | Wasteful |
 | 20 | Tracker | Suspected | Tolerant | Whiny |
-[Character Background Table]
 
-## 2. Name and Appearance
+## Step 2: Name and Appearance
 
 ➡️ Give your character a name and describe how they look.
 
@@ -70,7 +69,6 @@ If you’d like inspiration or prefer to determine your character’s name and a
 | 18 | Elsbeth | Odette | Ursula |
 | 19 | Erasmus | Ogden | Webster |
 | 20 | Esme | Olga | Zora |
-[Forenames Table]
 
 *Roll once with d6 and d20.*
 
@@ -96,7 +94,6 @@ If you’d like inspiration or prefer to determine your character’s name and a
 | 18 | Fernsby | Pestle | Westergren |
 | 19 | Fisk | Phillifent | Wexley |
 | 20 | Gimble | Relish | Wilberforce |
-[Surnames Table]
 
 ### Appearance
 
@@ -124,9 +121,8 @@ If you’d like inspiration or prefer to determine your character’s name and a
 | 18 | Grey Hair | Pockmarked | Weathered |
 | 19 | Groomed | Pointed Chin | White Hair |
 | 20 | Hairless | Rosy Cheeks | Wild Hair |
-[Character Appearance Table]
 
-## 3. Attribute Scores
+## Step 3: Attribute Scores
 
 Four attributes describe your character’s primary characteristics:
 
@@ -141,14 +137,14 @@ Strength is a prime attribute for warriors. Dexterity serves thieves well. Casti
 
 ➡️ Roll **2d6+4** four times, noting the results. Assign the lowest value to your LUCK and the other three as you prefer to STR, DEX, and WIL.
 
-## 4. Hit Points
+## Step 4: Hit Points
 
 Hit points (HP) are the amount of damage you can shrug off before suffering any real harm. HP is easily and quickly restored.
 
 ➡️ Roll **d4+2** to determine your starting hit points.
 
 
-## 5. Starting Equipment
+## Step 5: Starting Equipment
 
 Let’s see what equipment you’ve brought to your new adventuring life.
 
@@ -188,7 +184,7 @@ In addition to your starting equipment, your party of adventurers begins with th
 
 Distribute each of these kits across all characters as equally as possible. Each kit is *bulky* (taking two inventory slots). So long as these resources aren’t depleted, the party has enough for everyone.
 
-## 6. Introductions
+## Step 6: Introductions
 
 Introduce your character to your adventuring party, and get ready to roll dice.
 

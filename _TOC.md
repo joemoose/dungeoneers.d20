@@ -7,3 +7,4 @@ docs/2 Equipment.md
 
 docs/3 How to Play.md
 
+docs/4 Appendix.md

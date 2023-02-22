@@ -39,7 +39,6 @@ Conditions can be removed only by meeting their Clear requirement, usually a Sho
 | *Deprived* | Can’t heal from resting | Meal and long rest |
 | *Fatigued* | - | Long rest |
 | *Injured* | Disadvantage on STR and DEX Saves | Full rest |
-[Conditions Table]
 
 ## Usage
 
@@ -77,7 +76,6 @@ Some weapons have characteristics that affect their use.
 | Shortbow | d6 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 50 |
 | Crossbow | d8 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 100 |
 | Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
-[Weapons List]
 
 ## Armor
 
@@ -93,7 +91,6 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Medium (Chain) | 3 armor | Two body slots | 1200 |
 | Heavy (Plate Mail) | 4 armor | Two body slots | 4,000 |
 | Extreme (Full Plate) | 5 armor | Two body slots, a helmet is integrated | 8,000 |
-[Armor List]
 
 ## Tools & Gear
 
@@ -163,7 +160,8 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Twine (300 ft) | 5 |
 | Waterskin | 5 |
 | Whistle | 5 |
-[Tools & Gear List]
+
+### Illumination
 
 | Item | Coins |
 | :--- | ----: |
@@ -172,7 +170,8 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Lamp Oil, 4 hours | 5 |
 | Tinderbox | 10 |
 | Torch, 1 hour | 1 |
-[Illumination List]
+
+### Expeditionary Kits
 
 | Kit | Notes | Coins |
 | :-- | :---- | ----: |
@@ -181,7 +180,8 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Healers | (bandages, splints, arrow spoon, forceps, herbal poultices, needle & thread) *bulky* | 50 |
 | Illumination | (torches, lanterns, lamp oil, tinderbox) *bulky* | 50 |
 | Provisions | (rations, waterskin, mess kit, pots, salt) *bulky* | 50 |
-[Expeditionary Kits]
+
+### Artisan Kits
 
 | Kit | Notes | Coins |
 | :-- | :---- | ----: |
@@ -191,7 +191,8 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Herbalist | (clippers, pouches, mortar & pestle, muslin, pan, alcohol ) *bulky* | 50 |
 | Thieves | (lockpicks, hand drill, crowbar, file) *bulky*  | 50 |
 | Tinkers | (needles & thread, whetstone, hammer, tongs, charcoal, leather scraps, glue ) *bulky* | 50 |
-[Artisan Kits]
+
+### Clothing
 
 | Item | Coins |
 | :--- | ----: |
@@ -200,7 +201,8 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Noble | 1,000 |
 | Furs | 3,000 |
 | Winter | 100 |
-[Clothing List]
+
+### Food
 
 | Item | Coins |
 | :--- | ----: |
@@ -223,7 +225,8 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Spices, 1 lb | 100 |
 | Sugar, 1 lb | 12 |
 | Wine/ale, bottle | 1 |
-[Food List]
+
+### Animals
 
 | Item | Coins |
 | :--- | ----: |
@@ -239,7 +242,8 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Ox | 300 |
 | Pig | 30 |
 | Sheep | 15 |
-[Animals List]
+
+### Lodging
 
 | Item | Coins |
 | :--- | ----: |
@@ -248,14 +252,14 @@ A player character can only have up to 6 armor, even if items would increase it 
 | Meal | 2 |
 | Hot bath | 2 |
 | Stabling and fodder | 2 |
-[Lodging List]
+
+### Transportation
 
 | Item | Coins |
 | :--- | ----: |
 | Carriage | 320 |
 | Cart | 50 |
 | Wagon | 120 |
-[Transport List]
 
 ## Hirelings
 

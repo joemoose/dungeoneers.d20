@@ -1,8 +1,15 @@
-site_name: TyroRPG
+site_name: Tyros RPG
 nav:
-   - Home: README.md
-   - 2 Making an Adventurer.md
-   - 3 Equipment.md
-   - 4 How to Play.md
+  - Home: README.md
+  - 1 Make an Adventurer.md
+  - 2 Equipment.md
+  - 3 How to Play.md
+  - 4 Appendix.md
+
   
-theme: material
+theme:
+  name: readthedocs
+  analytics:
+    gtag: ''
+    navigation_depth: 3
+    locale: en

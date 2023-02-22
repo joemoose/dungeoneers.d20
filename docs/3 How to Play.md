@@ -202,7 +202,6 @@ The following table shows the total XP required to advance each level.
 | 3 | 3d6 | 2 | 3000 |
 | 4 | 3d6 | 2 | 6000 |
 | 5+ | 3d6 | 3 | +5000 |
-[Level Table]
 
 When your character earns enough XP to advance to the next level, perform the following actions:
 
@@ -271,5 +270,4 @@ A fully charged spell can usually be sold for 2d6 x 100 coins in a settlement. A
 | 18 | **Pinpoint** | Locate [DICE] specific objects or creatures within [SUM] yards. | Wrap in black silk and tuck between books in a busy place where it must remain unnoticed for three days. |
 | 19 | **Restore** | Remove [DICE] conditions from a creature. | Bury in a peaceful field or riverbank for three days. |
 | 20 | **Unseen Servant** | Create an illusory porter that can carry 6 inventory slots for [DICE] x 6 turns. | Bury in a cemetery for three nights. |
-[Spells Table]
 
