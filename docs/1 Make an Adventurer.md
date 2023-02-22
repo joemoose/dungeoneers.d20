@@ -143,7 +143,6 @@ Hit points (HP) are the amount of damage you can shrug off before suffering any 
 
 ➡️ Roll **d4+2** to determine your starting hit points.
 
-
 ## Step 5: Starting Equipment
 
 Let’s see what equipment you’ve brought to your new adventuring life.
@@ -186,6 +185,6 @@ Distribute each of these kits across all characters as equally as possible. Each
 
 ## Step 6: Introductions
 
-Introduce your character to your adventuring party, and get ready to roll dice.
+Introduce your character to your adventuring group, and get ready to roll dice.
 
 Good luck, adventurer!

@@ -242,32 +242,46 @@ Whenever one or more **6s** are rolled when casting a spell, the spell drains th
 
 ### Selling spells
 
-A fully charged spell can usually be sold for 2d6 x 100 coins in a settlement. A depleted spell’s value is, at most, a fourth.
+A fully charged spell can usually be sold for 2d6 x 100 coins in a settlement. A depleted spell is, at most, a fourth of its value.
 
-### Spells
+### Spell List
 
-==**Re-work these spells to remove Mausritter**==
-
-| d20 | Spell | Effect | Recharge |
-| :-: | :---- | :----- | :------- |
-| 1 | **Darkness** | Create [DICE] zones of pure darkness for [SUM] rounds. | Leave uncovered in a lightless place for three days. |
-| 2 | **Terrify** | Give the *Terrified* condition to [DICE] creatures. | Receive the *Terrified* condition from a hostile creature while carrying the spell. |
-| 3 | **Fireball** | Shoot a fireball up to [DICE] zones away. Deal [SUM] + [DICE] *blast* damage to all creatures within the target zone. | Burn in the heart of a raging fire for three days and nights. |
-| 4 | **Grease** | Cover [DICE] zones up to [DICE] zone away in slick, flammable grease. Creatures in the area must make a FINESSE save or fall prone. | Coat in animal fat. Leave until it putrefies. |
-| 5 | **Grok** | Make your meaning clear to [DICE] creatures who don’t understand you for [DICE] turns. | Give away freely to a creature of another species. |
-| 6 | **Reduce** | Shrink a creature to [DICE] + 1 times its original size for [SUM] rounds. | Drop into a well and leave it for three days. |
-| 7 | **Harm** | Deal [SUM] + [DICE] damage to a creature within sight. | Drop from a height of at least 30ft. Touch the spell within one round. |
-| 8 | **Haunt** | Summon a ghost for [SUM] turns. Its reaction starts at Talkative and goes down one step for each miscast rolled. | Place a circle of 13 candles on the tablet, and ensure only one is always lit until all have burned down. |
-| 9 | **Heal** | Heal [SUM] HP, [DICE] BODY, FINESSE, and MIND damage. Remove [DICE] *Injured* or *Dazed* conditions. | Cut self for d6 BODY damage, sprinkle with the blood. |
-| 10 | **Impetus** | Push or pull an object or creature [DICE] x caster's weight [DICE] zones. | Suspend on a wire over a ravine or chasm for three days. |
-| 11 | **Invisibility** | Make a creature invisible for [DICE] turns. Any movement reduces duration by 1 turn. | Go a day without ever opening your eyes while holding the spell. |
-| 12 | **Invisible Wall** | Creates a barrier of force between [DICE] sides of a zone. It is invisible and immovable. Lasts [DICE] turns. | Forge an iron hoop and pass the spell through it. Melt or dissolves the ring. |
-| 13 | **Knock** | Open a locked or barred door or container like a BODY save of 10 + [DICE x 4]. | Put in a locked box, inside a locked box, inside a locked box. Leave for three days. |
-| 14 | **Light** | Force [DICE] creatures to make a MIND save or become stunned. Alternately, create light as bright as a lantern for [SUM] turns. | Place in the first light of a sunrise and the last light of sunset for three days. |
-| 15 | **Lure** | Turn an object into an irresistible lure for a creature. Lasts [DICE] turns. | Give a creature a gift it truly desires. |
-| 16 | **Mend** | Repair [DICE] usage dots on a damaged weapon, armor, or similar gear. | Bury beneath an anvil in a bustling smith's shop for three days. |
-| 17 | **Panoply** | A touched creature is cloaked in translucent, shimmering armor that lasts [DICE] turns or until the panoply absorbs a total of [SUM] damage. | Use the tablet to crush 3 precious gemstones into powder. |
-| 18 | **Pinpoint** | Locate [DICE] specific objects or creatures within [SUM] yards. | Wrap in black silk and tuck between books in a busy place where it must remain unnoticed for three days. |
-| 19 | **Restore** | Remove [DICE] conditions from a creature. | Bury in a peaceful field or riverbank for three days. |
-| 20 | **Unseen Servant** | Create an illusory porter that can carry 6 inventory slots for [DICE] x 6 turns. | Bury in a cemetery for three nights. |
+| d66 | Spell Name | Effect | Recharge |
+| :-: | :--------- | :----- | :------- |
+| 1 • 1 | Animate Dead | [DICE] Nearby skeletons rise and follow your commands for [DICE] Turns. | You must dig an open grave in a cemetery by yourself and remain within for three days and three nights. |
+| 1 • 2 | Arcane Eye | You can see through a magical floating eyeball that flies around at your command for [DICE] Turns. | Grind a precious gemstone into powder and consume it in hot fennel tea. | 
+| 1 • 3 | Be Understood | Make your meaning clear to [DICE] creatures of another species for [DICE] Turns. | Carry three tomes on your person written in three languages you do not understand for three days and three nights. |
+| 1 • 4 | Beast Form | You and your possessions transform into a mundane animal. You can perform [DICE] actions intrinsically related to the chosen animal during a Watch. | Feed, groom, and remain beside the same animal for three days and three nights. |
+| 1 • 5 | Bless | [DICE] Close targets receive Advantage on their next Save. | Melt enough silver coins you’ve earned through honest labor to forge a silver horseshoe, then cast it into deep water. |
+| 1 • 6 | Charm | A Close target must MIND Save or treat you as a friend for [SUM] Turns. | Perform three favors for three people unbidden. |
+| 2 • 1 | Command | One target that can hear and comprehend you must MIND Save or obey a command with up to [SUM] words that you give. | Bend a sword used in battle and cast it into deep water. |
+| 2 • 2 | Control Weather | You may alter the type of weather for [SUM] minutes, but you do not otherwise control it. | Travel solely in the direction of the wind for three days. |
+| 2 • 3 | Create Pit | A pit 3x [SUM]ft deep and 9ft in diameter appears at the point you touch for [DICE] hours. The sides are smooth and difficult to climb. Anything in the pit when the duration expires is summarily disgorged. | Dig a pit three times as deep as you are tall and remain therein for days and three nights. |
+| 2 • 4 | Darkness | Create a [SUM] x 2ft diameter sphere of pure darkness for [DICE] Turns. | Spend three days and three nights in utter darkness with no illumination. | 
+| 2 • 5 | Detect Magic | Detect and understand [DICE] Nearby magical effects. | Select a fallen branch from an elder tree, carve a wand from the wood, and inscribe your name on it. Under a full moon, light a fire and burn the wand while blindfolded. |
+| 2 • 6 | Earthquake | The ground begins shaking violently for [DICE] Turns. Structures may be damaged or collapse. | Gather three small, flat stones from a hilltop or mountainside, bury them for three days and three nights, then skip each stone across the surface of a body of deep water. |
+| 3 • 1 | Enchanted Weapon | A weapon you’re holding shines as a torch for [DICE] Turns. The wielder receives +1 Armor, and the first attack made with it receives +d12 Bonus Damage. | Carve three swords from fallen oak branches each night for three nights, burning all nine swords after the final night. |
+| 3 • 2 | Fear | [DICE] creatures must MIND Save or try to flee. | Bear no weapons or armor for three days and three nights, and on the final night, bellow your name from a hilltop or mountainside three times. |
+| 3 • 3 | Fireball | Shoot a fireball Nearby. Deal [SUM] + [DICE] Damage to all creatures within 6ft. | Place the spell in a fire you tend continuously for three days and three nights. |
+| 3 • 4  | Freezing Touch | Your hands are charged with negative energy. The next target you touch suffers 2x [SUM] Damage. | Submerge your hands in icy water from sunset to sunrise over three nights. |
+| 3 • 5 | Grease | Cover a Close area in slippery, flammable grease. BODY Save or fall prone. | Coat the spell in freshly rendered lard and place it beneath floorboards for three days and three nights. |
+| 3 • 6 | Greed | [SUM] creatures develop an overwhelming urge to possess a visible item of your choice. | Place three stolen coins in a flagon of wine to be drunk by three persons unknown to you. |
+| 4 • 1 | Grow | Grow a creature to [DICE] + 1 times its original size for 1 Turn. | Tie the spell with a silken cord to the highest branch of the third oak tree you find for three days and three nights. |
+| 4 • 2 | Haste | [DICE] Close targets can make an additional move and action in their next Round. | Fasten three falcon feathers and three whiskers from a living hare to the spell with silver wire and gallop with it on horseback for three leagues. |
+| 4 • 3 | Heal | Once per day, heal [SUM] BODY Damage and remove one Fatigue from a Close creature. | Cut yourself with a silvered blade for d3 STR damage and sprinkle your blood on the spell. | 
+| 4 • 4 | Invisibility | Make a creature invisible for [DICE] Turns. Any movement reduces the duration by 1 Turn. | Carry a small mirror and the spell upon your person and remain unseen by any person or creature for three days and three nights. |
+| 4 • 5 | Leap | For [DICE] Rounds, a Close target can jump up to 10ft high as their move. | Feed a cricket you have caught in your hands to a frog you’ve captured barehanded. |
+| 4 • 6 | Light | Force [DICE] creatures to make a MIND Save or become stunned. Alternately, create light as bright as a torch for [SUM] Turns. | Light three beeswax candles on the spell under a starry night sky. Let them completely burn down while reflecting the light from each onto the others with three small mirrors. |
+| 5 • 1 | Magic Missile | Deal [SUM] + [DICE] Damage to a Far Away creature. | Heat the spell in a fire on a stormy night. With a silvered blade, draw blood for 1 STR damage from three people and sizzle their blood on the spell. |
+| 5 • 2 | Magic Rope | You summon a magic rope of 2x [SUM]ft long. It obeys one command and lasts for 1 Turn. | Wind 25 feet of silk rope around the table and burn it in a fire under a full moon. |
+| 5 • 3 | Mirror Image | [DICE] illusory duplicates of yourself appear under your control. | With the spell and a small mirror upon your person, do all things backward for three days and three nights (speaking sentences in reverse, walking only backward, using your offhand, wearing clothes front to back, and so on). |
+| 5 • 4 | Pacify | [DICE] creatures Nearby have an aversion to violence. | Melt enough swords to forge a plowshare. Bind the spell and plowshare with silver wire and bury them for three days and three nights. |
+| 5 • 5 | Read Mind | You can hear [SUM] surface thoughts of Nearby creatures for [DICE] Turns. | Share three secrets with three strangers. |
+| 5 • 6 | Scry | You can see through the eyes of a creature you touched since your last Long Rest for [DICE] Turns. | Stir three drops of blood from three willing people into a glass of wine. Stir three times with an owl feather and drink the wine at sunset. This mixture must be the only thing you consume until the following sunset. |
+| 6 • 1 | Shield | A Close creature is protected against [SUM] mundane Damage for 1 Turn. | Bind the spell with silver wire between two shields for three days and three nights. Afterward, burn the shields upon a body of deep water. |
+| 6 • 2 | Shrink | [DICE] Close targets are reduced to the size of a mouse. | Drink and eat only what can be served in a silver thimble for three days and three nights. |
+| 6 • 3 | Sleep | [DICE] Nearby creatures make a MIND Save or fall into a light sleep. | Place the spell under a pillow or cushion and sleep on it for three nights. A stranger must sleep on the pillow or cushion on the fourth night. |
+| 6 • 4 | Sounds | You create up to [DICE] illusory sounds that seem to come from a direction of your choice. | Swallow three live crickets and refrain from speaking for three days and three nights. |
+| 6 • 5 | Ward | A silver 50ft ring appears on the ground. [SUM] creatures of a chosen species cannot cross it during [DICE] Turns. | Forge a silver hoop and pass the spell through the hoop three times. Cast the hoop into deep water. |
+| 6 • 6 | Web | Fills a Close area with a sticky web for [DICE] Turns. | Bind your arms and hands in a silken cord for three days and three nights, burning the cords after the final night. |
 
