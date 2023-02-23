@@ -226,42 +226,44 @@ For each point of Stamina, you may place one burden into the Stamina space on yo
 
 ## Spells
 
-Spells are living, sentient spirits or demons bound within rune-carved tablets. Spells are rare and found in forgotten places, such as dungeons, ancient tombs, and dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
+Spells are living, sentient spirits bound within rune-etched obsidian or lead tablets. Spells are rare and found in forgotten places, such as dungeons, ancient tombs, and dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
 
-A tablet has three units of arcane power, potentially drained whenever you cast the spell contained within it. The more power you harness to cast a single casting, the greater the effect of the spell, but the greater the risk you’ll drain the tablet.
+A spell tablet has three units of arcane energy or essence used to power the spell it contains. Essence is volatile and can be depleted from the tablet by casting its spell. The more essence you harness when casting, the greater the magnitude and effect of the spell, but the greater the risk you’ll deplete the essence. Once all essence is depleted from a tablet, the spell can no longer be cast.
 
-### Casting a spell
+### Casting a Spell
 
-To cast a spell, your character must hold the tablet in one hand and read it aloud.
+To cast a spell, your character must hold the tablet and recite the inscribed incantations aloud.
 
-Declare how many uses you’ll burn in the casting, up to the maximum number of uses remaining on the spell.
+Declare how much essence you’ll use when casting the spell, up to the maximum number remaining in the tablet.
 
-Roll as many **d6** equal to the number of uses in the casting. For each die that shows the value of **5 or 6**, mark one use on the spell. 
+Roll as many **d6** equal to the declared amount of essence. Deplete one essence in the tablet for each **5 or 6** rolled. 
 
-The spell has an effect that varies depending on the number of dice [DICE] invested and the sum of the rolled dice.
+The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
 
-### Recharging a spell
+### Recharging a Spell
 
-After all of a spell’s uses are spent, the spell is depleted and can no longer be cast. Each spell, however, has a recharge requirement. Fulfilling this requirement rekindles the spirit within the tablet and resets the number of uses. 
+Once all the essence in a tablet is depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three essence. 
 
-### Miscasts
+### Miscasting a Spell
 
-Whenever one or more **6s** are rolled when casting a spell, the spell drains the caster’s focus and mental energies. For each 6, the caster takes **d6** damage to WIL and then makes a WIL check. If failed, the caster takes a *Dazed* burden.
+Whenever one or more **6s** are rolled when casting a spell, the spell parasitically drains the caster’s focus and mental energies. For each 6, the caster takes **d6** damage to WIL and then makes a WIL check. If failed, the caster takes a *Dazed* burden.
 
-### Selling spells
+The spell still materializes, though at a cost to the caster.
 
-A fully charged spell can usually be sold for 2d6 x 100 coins in a settlement. A depleted spell is, at most, a fourth of its value.
+### Selling a Spell
+
+A fully charged spell tablet can usually be sold for 2d6 x 100 coins in a large settlement. A depleted tablet is, at most, a fourth of its value.
 
 ### Spell List
 
 In the following Effect descriptions:
 
-- [DICE] is the number of dice rolled, as determined by the amount of power used to cast the spell.
+- [DICE] is the number of dice rolled equal to the essence used to cast the spell.
 - [SUM] is the sum of the rolled dice.
 
 For example, the Darkness spell creates a [SUM] x 2-foot diameter sphere of pure darkness for [DICE] turns.
 
-If 2 power are used to cast Darkness, and the result of the 2d6 roll is 7, the spell creates a sphere 14 feet wide for 2 turns.
+If 2 essence are used to cast Darkness, and the result of the 2d6 roll is 7, the spell creates a sphere 14 feet wide for 2 turns.
 
 | d66 | Spell Name | Effect | Recharge |
 | :-: | :--------- | :----- | :------- |
