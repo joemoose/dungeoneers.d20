@@ -6,7 +6,7 @@
 - **Recharge conditions**: [D100 - Potential Spell Recharge Conditions](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html). *d4 Caltrops*, 19 Sept. 2022, by [Ktrey](https://twitter.com/ktrey).
 
 | d100 | Spell | Description | Recharge |
-| :-: | :- | :- | :- |
+| :-: | :-- | :-- | :-- |
 | 1 | Adhere | An object is covered in extremely sticky slime. | Carry a fresh Egg wrapped in rabbit pelt on your person for three days; it must not break. |
 | 2 | Anchor | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. | Spend twenty-four hours in a Circle or Beach Sand no more than 10 feet in diameter, drinking only seawater. |
 | 3 | Animate Object | An object obeys your commands as best it can. | Whittle, sculpt, or otherwise create a facsimile of yourself the size of your foot and bury it at a crossroads you have never visited. |

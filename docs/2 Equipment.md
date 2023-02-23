@@ -18,31 +18,55 @@ Your character can’t carry more items than their inventory allows. Carts, hors
 
 Your character can carry up to 50 coins freely in their pockets. After that, each additional 150 coins occupy one inventory slot.
 
-## Conditions
+## Burdens
 
-Burdens are adverse conditions your character suffers, such as *Injured*, *Dazed*, or *Frightened*.
+Burdens are adverse conditions your character suffers, such as *Injured* or *Frightened*. Complications from failed checks or events in the narrative can inflict burdens.
 
-Each burden must be placed in an inventory slot. You may have multiple copies of the same burden. If there aren’t enough inventory slots for a new burden, an item must be dropped to make room.
+Each burden must be placed in an inventory slot. You can have multiple copies of the same burden. If there aren’t enough inventory slots for a new burden, an item must be dropped to make room.
 
-Some burdens have additional adverse effects. The effects apply as long as the burden remains in your inventory. 
+Some burdens have additional adverse effects. These effects apply as long as the burden remains in your inventory. 
 
 Conditions can be removed only by meeting their Clear requirement, usually a Short, Long, or Full rest.
-
-**Note**: For information about “Saves,” see the “How to Play” section.
 
 ### Example Burdens
 
 | Burden | Adverse Effect | Cleared After |
 | :- | :- | :- |
-| *Dazed* | Disadvantage on WIL Saves | Long rest |
+| *Dazed* | Disadvantage on WIL checks | Long rest |
 | *Deprived* | Can’t heal from resting | Meal and long rest |
-| *Fatigued* | - | Long rest |
-| *Frightened* | Make a WIL Save to approach the source of fear | Short rest |
-| *Injured* | Disadvantage on STR and DEX Saves | Full rest |
+| *Frightened* | Make a WIL check to approach the source of fear | Short rest |
+| *Injured* | Disadvantage on STR and DEX checks | Full rest |
+
+**Note**: For information about “Checks,” see the “How to Play” section.
+
+## Hirelings
+
+A pair of helping hands might give you the edge you’ll need to survive or, at the very least, haul more equipment. In many settlements, especially larger ones, you can find people willing to explore the world with you and your party. 
+
+- **Torchbearer** (1 coin/day): 2 HP, 9 STR, 9 DEX, 9 WIL. Torch.
+- **Guard** (3 coins/day): 4 HP, 10 STR, 10 DEX, 10 WIL. Spear, Shield.
+- **Sellsword** (6 coins/day): 6 HP, 12 STR, 10 DEX, 10 WIL. Sword, Light Armor, Shield.
+- **Expert** (10 coins/day): 3 HP, 10 STR, 10 DEX, 12 WIL. Crossbow, Helmet, Specific Expertise.
+
+In addition to a daily wage, hirelings must be fed and provided lodging.
+
+### Hireling Morale
+
+When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or flee.
+
+Well-paid or loyal hirelings may make this check with Advantage.
+
+### Hireling Advancement
+
+Hirelings can improve in the same way that your character does.
+
+Hirelings who receive a share of treasure gain 1 XP per coin above their daily wage. Like your character, once they earn 1000 XP, they advance to Level 2.
+
+Not receiving a share of treasure may cause resentment amongst hirelings.
 
 ## Usage
 
-Most items have three **uses** as an abstract method to track resource consumption or wear and tear on adventuring gear. After all three uses are marked, the item is depleted, broken, or destroyed. Usage can be repaired on items such as weapons and armor for 10% of the original cost per use removed.
+Most items have three **uses** as an abstract method to track resource consumption or wear and tear on adventuring gear. After all three uses are marked, the item is depleted, broken, or destroyed. Usage can be repaired on items such as weapons and armor for 10% of the original cost per use removed. 
 
 - **Weapons, armor, and ammunition**: After a fight, roll **d6** for each item used during the battle. On **5-6**, mark a usage.
 - **Other equipment**: If used in a way that could break or deplete it, the GM may ask you to mark usage.
@@ -84,7 +108,7 @@ Armor reduces the damage suffered from an attack. A player character can only ha
 | Type | Armor Rating | Details | Coins |
 | :--- | :----------- | :------ | :---: |
 | Heavy cloak | +1 armor | One body slot | 20 | 
-| Helmet | +1 armor | One body slot, provides Advantage on critical damage saves | 20 |
+| Helmet | +1 armor | One body slot, provides Advantage on critical damage checks | 20 |
 | Shield | +1 armor | Offhand, can be sundered (destroyed) to avoid all damage from an attack, can be used as an offhand weapon (as cudgel) instead of +1 armor | 30 |
 | Cloth (Gambeson) | 1 armor | Two body slots | 60 |
 | Light (Brigandine) | 2 armor | Two body slots | 500 |
@@ -261,27 +285,3 @@ Armor reduces the damage suffered from an attack. A player character can only ha
 | Cart | 50 |
 | Wagon | 120 |
 
-## Hirelings
-
-A pair of helping hands might give you the edge you’ll need to survive. In many settlements, especially larger ones, you can find people willing to explore the world with you and your party. 
-
-- **Torchbearer** (1 coin/day): 2 HP, 9 STR, DEX, and WIL. Torch, Club.
-- **Guard** (5 coins/day): 4 HP, 10 STR, DEX, and WIL. Spear, Shield.
-- **Expert** (10 coins/day): 3 HP, 10 STR and DEX. 12 WIL, Crossbow, Specific Expertise.
-- **Sellsword** (share of the treasure): 6 HP, 12 STR, 10 DEX and WIL. Bow, Sword, Light Armor, Shield.
-
-In addition to a daily wage, hirelings must be fed and provided lodging.
-
-### Hireling Morale
-
-When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL Save or flee.
-
-Well-paid or loyal hirelings may make this Save with Advantage.
-
-### Hireling Advancement
-
-Hirelings can improve in the same way that your character does.
-
-Hirelings who receive a share of treasure gain 1 XP per coin above their daily wage. Like your character, once they earn 1000 XP, they advance to Level 2.
-
-Not receiving a share of treasure may cause resentment amongst hirelings.
