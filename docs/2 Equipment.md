@@ -20,24 +20,24 @@ Your character can carry up to 50 coins freely in their pockets. After that, eac
 
 ## Conditions
 
-Conditions are adverse effects suffered by your character, such as *Injured* or *Dazed*.
+Burdens are adverse conditions your character suffers, such as *Injured*, *Dazed*, or *Frightened*.
 
-Each condition must be placed in an inventory slot. You may have multiple copies of the same condition.
+Each burden must be placed in an inventory slot. You may have multiple copies of the same burden. If there aren’t enough inventory slots for a new burden, an item must be dropped to make room.
 
-Some conditions have additional adverse effects. The effects apply as long as the condition remains in your inventory. 
+Some burdens have additional adverse effects. The effects apply as long as the burden remains in your inventory. 
 
 Conditions can be removed only by meeting their Clear requirement, usually a Short, Long, or Full rest.
 
 **Note**: For information about “Saves,” see the “How to Play” section.
 
-### Example Conditions
+### Example Burdens
 
-| Condition | Effect | Cleared After |
+| Burden | Adverse Effect | Cleared After |
 | :- | :- | :- |
-| *Afraid* | Make a WIL Save to approach the source of fear | Short rest |
 | *Dazed* | Disadvantage on WIL Saves | Long rest |
 | *Deprived* | Can’t heal from resting | Meal and long rest |
 | *Fatigued* | - | Long rest |
+| *Frightened* | Make a WIL Save to approach the source of fear | Short rest |
 | *Injured* | Disadvantage on STR and DEX Saves | Full rest |
 
 ## Usage
@@ -79,7 +79,7 @@ Some weapons have characteristics that affect their use.
 
 ## Armor
 
-A player character can only have up to 6 armor, even if items would increase it above this number.
+Armor reduces the damage suffered from an attack. A player character can only have up to a 6 armor rating, even if items would increase it above this number.
 
 | Type | Armor Rating | Details | Coins |
 | :--- | :----------- | :------ | :---: |
@@ -269,6 +269,8 @@ A pair of helping hands might give you the edge you’ll need to survive. In man
 - **Guard** (5 coins/day): 4 HP, 10 STR, DEX, and WIL. Spear, Shield.
 - **Expert** (10 coins/day): 3 HP, 10 STR and DEX. 12 WIL, Crossbow, Specific Expertise.
 - **Sellsword** (share of the treasure): 6 HP, 12 STR, 10 DEX and WIL. Bow, Sword, Light Armor, Shield.
+
+In addition to a daily wage, hirelings must be fed and provided lodging.
 
 ### Hireling Morale
 
