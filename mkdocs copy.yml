@@ -4,11 +4,12 @@ nav:
   - 1 Make an Adventurer.md
   - 2 Equipment.md
   - 3 How to Play.md
+  - 4 Appendix.md
   
 theme:
   name: material
   palette:
-    scheme: slate
+    scheme:
   features:
     - navigation.instant
     - navigation.tabs.sticky

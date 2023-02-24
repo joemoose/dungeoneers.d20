@@ -16,7 +16,7 @@ Your character can’t carry more items than their inventory allows. Carts, hors
 
 ## Coins
 
-Your character can carry up to 50 coins freely in their pockets. After that, each additional 150 coins occupy one inventory slot.
+Your character can carry up to 50 coins freely in their pockets. After that, each additional 200 coins occupy one inventory slot.
 
 ## Burdens
 
@@ -26,22 +26,22 @@ Each burden must be placed in an inventory slot. You can have multiple copies of
 
 Some burdens have additional adverse effects. These effects apply as long as the burden remains in your inventory. 
 
-Conditions can be removed only by meeting their Clear requirement, usually a Short, Long, or Full rest.
+Conditions can be removed only by meeting their clear requirement, usually a short, long, or full rest.
 
 ### Example Burdens
 
-| Burden | Adverse Effect | Cleared After |
+| Condition | Adverse Effect | Cleared After |
 | :- | :- | :- |
 | *Dazed* | Disadvantage on WIL checks | Long rest |
 | *Deprived* | Can’t heal from resting | Meal and long rest |
 | *Frightened* | Make a WIL check to approach the source of fear | Short rest |
 | *Injured* | Disadvantage on STR and DEX checks | Full rest |
 
-**Note**: For information about “Checks,” see the “How to Play” section.
+**Note**: See the “How to Play” section for information about attribute checks and disadvantages.
 
 ## Hirelings
 
-A pair of helping hands might give you the edge you’ll need to survive or, at the very least, haul more equipment. In many settlements, especially larger ones, you can find people willing to explore the world with you and your party. 
+A pair of helping hands might give you the edge you’ll need to survive or, at the very least, carry more equipment. In many settlements, especially larger ones, you can find people willing to explore the world with you. 
 
 - **Torchbearer** (1 coin/day): 2 HP, 9 STR, 9 DEX, 9 WIL. Torch.
 - **Guard** (3 coins/day): 4 HP, 10 STR, 10 DEX, 10 WIL. Spear, Shield.
@@ -54,7 +54,7 @@ In addition to a daily wage, hirelings must be fed and provided lodging.
 
 When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or flee.
 
-Well-paid or loyal hirelings may make this check with Advantage.
+Well-paid or loyal hirelings may make this check with an advantage.
 
 ### Hireling Advancement
 
@@ -66,7 +66,7 @@ Not receiving a share of treasure may cause resentment amongst hirelings.
 
 ## Usage
 
-Most items have three **uses** as an abstract method to track resource consumption or wear and tear on adventuring gear. After all three uses are marked, the item is depleted, broken, or destroyed. Usage can be repaired on items such as weapons and armor for 10% of the original cost per use removed. 
+Most items have three **uses** as an abstract method to track resource consumption or wear and tear on adventuring gear. After all three uses are marked, the item is depleted, broken, or destroyed. Usage can be repaired on things such as weapons and armor for 10% of the original cost per use removed. 
 
 - **Weapons, armor, and ammunition**: After a fight, roll **d6** for each item used during the battle. On **5-6**, mark a usage.
 - **Other equipment**: If used in a way that could break or deplete it, the GM may ask you to mark usage.
@@ -108,7 +108,7 @@ Armor reduces the damage suffered from an attack. A player character can only ha
 | Type | Armor Rating | Details | Coins |
 | :--- | :----------- | :------ | :---: |
 | Heavy cloak | +1 armor | One body slot | 20 | 
-| Helmet | +1 armor | One body slot, provides Advantage on critical damage checks | 20 |
+| Helmet | +1 armor | One body slot, provides an advantage on critical damage checks | 20 |
 | Shield | +1 armor | Offhand, can be sundered (destroyed) to avoid all damage from an attack, can be used as an offhand weapon (as cudgel) instead of +1 armor | 30 |
 | Cloth (Gambeson) | 1 armor | Two body slots | 60 |
 | Light (Brigandine) | 2 armor | Two body slots | 500 |

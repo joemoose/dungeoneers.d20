@@ -10,7 +10,7 @@ Suppose the outcome of your character’s actions is not immediately apparent, o
 
 When you describe your character doing something risky, or the outcome is uncertain, the GM may ask you to make an **attribute check**.
 
-Roll a **d20** and compare the result to the applicable attribute score. If the result is less than or equal to the relevant attribute score, your character succeeds and suffers no consequences. If the result exceeds the score, your character fails and suffers the consequences described by the GM.
+Roll a **d20** and compare the result to the applicable attribute score. If the result is less than or equal to the relevant attribute score, your character succeeds and suffers no consequences. If the result exceeds the score, your character fails and suffers the outcome described by the GM.
 
 ## Using Attributes
 
@@ -28,15 +28,15 @@ Conversely, rolling a **20** is a critical failure, and the outcome will be wors
 
 ## Advantage and Disadvantage
 
-If you roll a check and are particularly well prepared or equipped, the GM may allow you to roll with Advantage. Roll **two d20s** and take the **best** result.
+If you roll a check and are particularly well prepared or equipped, the GM may allow you to roll with an advantage. Roll **two d20s** and take the **best** result.
 
-If you are in a dire position or ill-prepared for your task, the GM may ask you to roll with Disadvantage. Roll **two d20s** and take the **worst** result.
+If you are in a dire position or ill-prepared for your task, the GM may ask you to roll with a disadvantage. Roll **two d20s** and take the **worst** result.
 
 ## Luck
 
 Luck applies only to player characters, not hirelings, monsters, or any other non-player characters controlled by the GM.
 
-You can decrease (burn) your LUCK to change the dice rolls for an attribute check. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have Disadvantage and possibly other detrimental effects. LUCK can’t be less than zero.
+You can decrease (burn) your LUCK to change the dice rolls for an attribute check. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other detrimental effects. LUCK can’t be less than zero.
 
 The GM may sometimes call for a LUCK check if an outcome is random and your other attributes don’t apply.
 
@@ -139,17 +139,17 @@ Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or 
 
 ### Advantage in Combat
 
-Characters can gain Advantage in combat by attacking a target who is on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
+Characters can gain an advantage in combat by attacking a target on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
 
-When a character has Advantage against an opponent on their combat turn, they can apply Advantage to either their damage roll or a gambit against that opponent. Alternatively, you can make an attack and a gambit attempt in the same round against that opponent without Advantage.
+When a character has an advantage against an opponent on their combat turn, they can apply advantage to either their damage roll or a gambit against that opponent. Alternatively, you can make an attack and a gambit attempt against that opponent without an advantage in the same round.
 
-If you apply Advantage to your damage roll, roll only your weapon’s damage die twice, taking the best result. If you have any bonus damage dice, such as +d12 for attacking an unaware opponent, bonus dice are not rolled twice. Bonus damage dice rolls are only ever rolled once and not modified by Advantage.
+If you apply advantage to your damage roll, roll only your weapon’s damage die twice, taking the best result. If you have any bonus damage dice, such as +d12, for attacking an unaware opponent, bonus dice are not rolled twice. Bonus damage dice rolls are only ever rolled once and not modified by advantage.
 
 ### Morale
 
 When you’re fighting more than one opponent, the opponents must pass a WIL check as a group to keep fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated.
 
-Lone foes must pass a WIL check when they’re reduced to 0 HP.
+Lone foes must pass a WIL check when reduced to 0 HP.
 
 Morale checks don’t apply to players. You have to decide when it’s prudent to run away!
 
@@ -157,7 +157,7 @@ Morale checks don’t apply to players. You have to decide when it’s prudent t
 
 If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX check to disengage from the fight. If you fail, the enemy makes a free attack as you move out of the zone.
 
-An attribute check is not required if you have allies in the zone that haven’t yet taken an action.
+An attribute check is not required if you have allies in the zone that haven’t yet taken action.
 
 ## Hit Points and Damage
 
@@ -175,7 +175,7 @@ If you’re left unconscious for an hour, your character dies.
 
 ## Attribute Score Loss and Death
 
-If your STR is reduced to zero, your character is dead. If your DEX is reduced to zero, you’re paralyzed. If your WIL is reduced to zero, you fall into a stupor. If your LUCK is reduced to zero, all your dice rolls have Disadvantage.
+If your STR is reduced to zero, your character is dead. If your DEX is reduced to zero, you’re paralyzed. If your WIL is reduced to zero, you fall into a stupor. All your dice rolls are disadvantaged if your LUCK is reduced to zero.
 
 If your character dies, create a new one. The GM will introduce them as quickly as possible. 
 
@@ -183,7 +183,7 @@ If your character dies, create a new one. The GM will introduce them as quickly 
 
 There are three ways for your character to rest and recover:
 
-- **Short Rest**: Resting for a full turn restores all lost HP but may expose the party.
+- **Short Rest**: Resting for a complete turn restores all lost HP but may expose the party.
 - **Long Rest**: Resting for a watch uninterrupted restores one lost point of STR, DEX, and WIL and removes all *Dazed* and *Fatigued* burdens.
 - **Full Rest**: Resting in a safe location for a week restores all lost STR, DEX, and WIL and removes all *Injured* or other long-term burdens.
 
@@ -222,13 +222,13 @@ The highest value that a character can attain for attributes and HP is 18.
 
 Starting at level 2, your character gains the **Stamina** attribute. Stamina allows your character to ignore burdens.
 
-For each point of Stamina, you may place one burden into the Stamina space on your character sheet rather than in your inventory. After it’s placed into the Stamina space, a burden is ignored but can’t be removed until cleared.
+For each point of Stamina, you may place one burden into the Stamina space on your character sheet rather than in your inventory. After it’s put into the Stamina space, a burden is ignored but can’t be removed until cleared.
 
 ## Spells
 
 Spells are living, sentient spirits bound within rune-etched obsidian or lead tablets. Spells are rare and found in forgotten places, such as dungeons, ancient tombs, and dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
 
-A spell tablet has three units of arcane energy or essence used to power the spell it contains. Essence is volatile and can be depleted from the tablet by casting its spell. The more essence you harness when casting, the greater the magnitude and effect of the spell, but the greater the risk you’ll deplete the essence. Once all essence is depleted from a tablet, the spell can no longer be cast.
+A spell tablet has three units of arcane energy or essence used to power the spell it contains. Essence is volatile and can be depleted from the tablet by casting its spell. The more essence you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the essence. Once all essence is exhausted from a tablet, the spell can no longer be cast.
 
 ### Casting a Spell
 
@@ -263,7 +263,7 @@ In the following Effect descriptions:
 
 For example, the Darkness spell creates a [SUM] x 2-foot diameter sphere of pure darkness for [DICE] turns.
 
-If 2 essence are used to cast Darkness, and the result of the 2d6 roll is 7, the spell creates a sphere 14 feet wide for 2 turns.
+If two essence are used to cast Darkness, and the result of the 2d6 roll is 7, the spell creates a sphere 14 feet wide for 2 turns.
 
 Spells extract
 ---
@@ -273,7 +273,7 @@ Spells extract
 | 11 | Animal Form | The target of the spell and their possessions are transformed into a beast of your choice for [SUM] turns or until they take critical damage. The transformed beast is limited to the actions and abilities natural to its animal form. | Feed, groom, and remain beside the same animal for three days and three nights. |
 | 12 | Animate Dead | [DICE] nearby piles of bones or dead bodies rise and follow your simple [DICE]+1 word commands for [SUM] turns. | You must dig an open grave in a cemetery by yourself and remain within for three days and three nights. |
 | 13 | Arcane Eye | You create a hovering magical eyeball that moves at your command for [DICE] turns. You can see through the eye, which has low-light vision and can look in every direction. | Grind a precious gemstone into a fine powder and consume it in hot fennel tea. | 
-| 14 | Bless | Up to [SUM] targets near you receive Advantage on attribute checks for [DICE] rounds. | Melt enough silver coins you’ve earned through honest labor to forge a silver horseshoe, then cast it into deep water. |
+| 14 | Bless | Up to [SUM] targets near you receive an advantage on attribute checks for [DICE] rounds. | Melt enough silver coins you’ve earned through honest labor to forge a silver horseshoe, then cast it into deep water. |
 | 15 | Charm | A target near you treats you as a friend for [SUM] turns. | Perform three favors for three people unbidden. |
 | 16 | Command | A creature that understands your language obeys a [DICE]-word command that does not harm it. | Bend a sword used in battle and cast it into deep water. |
 | 21 | Control Weather | You change the weather for [SUM] turns, but otherwise, do not control it. | Travel solely in the direction of the wind for three days. |
@@ -304,7 +304,7 @@ Spells extract
 | 62 | Sleep | [SUM] creatures fall into a light sleep. | Place the spell under a pillow or cushion and sleep on it for three nights. A stranger must sleep on the pillow or cushion on the fourth night. |
 | 63 | Illusion | You create an impressive illusion under your control with full motion and sound for [DICE] rounds. | Paint a panorama on a canvas larger than yourself and trade it with a stranger for something that makes a sound. |
 | 64 | Tongues | You become fluent in all languages for [DICE] turns. | Carry three tomes on your person written in three languages you do not understand for three days and three nights. |
-| 65 | Ward | A narrow silver ring [SUM] x 10 feet in diameter appears on the ground around you. Name the creature that can not cross it for [DICE] turns. Upon casting, any such creatures within the ring are forcibly ejected for [SUM] + [DICE] damage. | Forge a silver hoop and pass the spell tablet and the remains of a monstrous creature through the hoop three times. Cast the hoop into deep water. |
+| 65 | Ward | A narrow silver ring [SUM] x 10 feet in diameter appears on the ground around you. Name the creature that can not cross it for [DICE] turns. Any such creatures within the ring are forcibly ejected for [SUM] + [DICE] damage upon casting. | Forge a silver hoop and pass the spell tablet and the remains of a monstrous creature through the hoop three times. Cast the hoop into deep water. |
 | 66 | Web | Fills an area [SUM] x 10 feet wide with a sticky web for [DICE] turns. | Bind your arms and hands in a silken cord for three days and three nights, burning the cords with a spider’s web after the final night. |
 
 

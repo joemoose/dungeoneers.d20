@@ -8,9 +8,6 @@ This appendix contains the following sections:
 
 ## 1. TYROS RPG Rules Summary 
 
----
-
-  
 ### Best practices
 
 - Ask lots of questions. Make notes. Draw maps.
@@ -19,7 +16,7 @@ This appendix contains the following sections:
 - Play to win. Delight in losing.
 - Fight dirty. Run. Die. Roll a new adventurer.
 
-### Saves
+### Attribute Checks
 
 Roll **d20** equal to or less than the applicable attribute:
 
@@ -28,17 +25,17 @@ Roll **d20** equal to or less than the applicable attribute:
 - **WILLPOWER (WIL)**: Tests of charisma and determination.
 - **LUCK**: Tests of chance or fate; can burn points to modify other Saves.
 
-**Advantage & Disadvantage**: When making a Save from a strong or weakened position, roll **two d20**. Take the best or worst result, respectively.
+**Advantage & Disadvantage**: When making a check from a strong or weakened position, roll **two d20**. Take the best or worst result, respectively.
 
-**Critical Success**: Rolling exact attribute score, a better-than-expected outcome. LUCK +1.
+**Critical Success**: Rolling the exact attribute score, a better-than-expected outcome. LUCK +1.
 
 **Critical Failure**: Rolling a 20, a worse-than-expected outcome. LUCK -1.
 
 ### Combat
 
-On your turn, move and take an action.
+On your turn, you can move and take an action.
 
-**Initiative**: If the enemy is surprised, you go before them. If the enemy is not surprised, make a DEX *or* WIL Save to act first. Maintain the same order in subsequent rounds.
+**Initiative**: If the enemy is surprised, you go before them. If the enemy is not surprised, make a DEX *or* WIL check to act first. Maintain the same order in subsequent rounds.
 
 **Attacks**: Attacks always hit. Roll weapon damage and deal that much damage to an enemy, minus any armor.
 
@@ -49,24 +46,24 @@ On your turn, move and take an action.
 **Damage**: Dealt first to HP.
 
 - Once HP is depleted, take damage to STR.
-- After taking STR damage, make a STR Save. On failure, take an *Injured* burden and become incapacitated.
+- After taking STR damage, make a STR check. On failure, take an *Injured* burden and become incapacitated.
 - If STR is reduced to zero, you die.  
 
 **Usage**: After combat, roll d6 for each weapon, ammunition, and armor. On 5-6, mark usage.  
 
 ### Rest & Healing
 
-- **Short**: Takes a Turn. Restore all HP.
-- **Long**: Takes a Watch. Restore 1 STR, DEX, and WIL.
+- **Short**: Takes a turn. Restore all HP.
+- **Long**: Takes a watch. Restore 1 STR, DEX, and WIL.
 - **Full**: Takes a week. Restore all STR, DEX, and WIL. Removes *Injured* and other long-term burdens.
 
 ### Spells
 
 Invest **1–3 Power** (up to the remaining uses).  
 
-- Roll **d6** for each **Power** invested. Mark usage for each  5 or 6 rolled.  
-- The spell effect happens using [SUM] and [DICE].  
-- For every 6 rolled, take d6 WIL damage. Make a WIL Save. On failure, take a *Dazed* burden.  
+- Roll **d6** for each **Essence** invested. Mark usage for each  5 or 6 rolled.  
+- The spell effect happens using number of dice tolled and the sum.
+- For every 6 rolled, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* burden.  
 
 ### Inventory
 
@@ -76,9 +73,7 @@ Invest **1–3 Power** (up to the remaining uses).
 
 ## 2. Character Archetype Starting Gear
 
----
-
-**Attribution**: Archetype starting gear adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
+**Attribution**: Adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
 
 ### Bard 
 
@@ -103,7 +98,7 @@ Invest **1–3 Power** (up to the remaining uses).
 - shepherd’s crook (d8, *bulky*)
 - jute clothing
 - relic: *Witchwood Brooch*
-- herbal poultice (WIL save removes a burden)
+- herbal poultice (WIL check removes a burden)
 - owl, animal companion (1 hp, talons d4)
 
 ### Fighter 
@@ -143,7 +138,7 @@ Invest **1–3 Power** (up to the remaining uses).
 - spell tablet (*random*) 
 - spell tablet (*random*) 
 - ragged clothing (hidden pockets)
-- *Leycap Mushrooms* (removes all *Drained* burdens, STR save vs. addiction)
+- *Leycap Mushrooms* (removes all *Drained* burdens, STR check vs. addiction)
 
 ### Scribe (Mage) 
 
@@ -177,39 +172,33 @@ Invest **1–3 Power** (up to the remaining uses).
 
 **Holy Ward**
 
-- **Initial charges**: d3+1
+- **Charges**: d6+1
 - **Usage**: A thin silver circle 50ft across appears on the ground around you. Specify the type of creature that cannot cross. Any such creatures within the circle as it is cast are forcibly tossed outwards for d6 damage.
-- **Recharge**: Pray for 24 hours. Add the *Dazed* and *Deprived* burdens upon completion.
 
 **Sigil Ring** 
 
-- **Initial charges**: d3+1
+- **Charges**: d6+1
 - **Usage**: Shoots a stream of paint visible only to you. You can always see the color on whatever you have applied it to, even through solid objects.
-- **Recharge**: Heat the ring and brand the sigil upon yourself (1 STR damage) under a full moon.
 
 **Witchwood Brooch**
 
-- **Initial charges**: d3+1
+- **Charges**: d6+1
 - **Usage**: You and your possessions transform into a mundane animal. Add the *Deprived* burden upon changing back to human form.
-- **Recharge**: Feed, groom, and sleep next to the same animal for a week.
 
 **Yew Wand**
 
-- **Initial charges**: d3+1
+- **Charges**: d6+1
 - **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature will not be hostile toward you.
-- **Recharge**: Melt enough swords to forge a plowshare. Bind the wand and plowshare with silver wire for three days.
 
 ## 3. Alternate Initiative System
 
----
-
-**Attribution**: This alternate initiative system adapted from [*Errant*](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition) written by Ava Islam and published by [Kill Jester Publishing, LLP](https://www.killjester.com/). Licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+**Attribution**: Adapted from [*Errant*](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition) written by Ava Islam and published by [Kill Jester Publishing, LLP](https://www.killjester.com/). Licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Declaring Actions
 
 At the beginning of a round, the GM describes the actions likely taken by your opponents. You then declare your character’s intentions for the round before rolling any dice. 
 
-### Determing Quick Turns & Slow Turns
+### Determining Quick and Slow Turns
 
 Next, all combatants determine whether their declared intentions involve a *quick* or *slow* turn.
 
@@ -231,13 +220,13 @@ A **slow** turn consists of both **moving and taking an action**, or actions tha
 - Concentrating on maintaining an ongoing spell
 - Retrieving a weapon from a backpack, then attacking
 
-### Setting the Turn Order and Resolving Actions
+### Setting Turn Order and Resolving Actions
 
 After determining who’s turns will be quick or slow, the order of resolving actions is as follows:
 
 1. Resolve all quick turns before slow turns.
-2. If both players and opponents take a quick turn, the player must make a DEX *or* WIL save to go first.
-3. If both players and opponents take a slow turn, the player must make a DEX *or* WIL save to go first.
+2. If players and opponents both take a quick turn, the player must make a DEX *or* WIL check to go first.
+3. If players and opponents both take a slow turn, the player must make a DEX *or* WIL check to go first.
 
 
 
