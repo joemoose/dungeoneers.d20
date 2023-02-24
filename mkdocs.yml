@@ -8,8 +8,8 @@ nav:
   
 theme:
   name: material
-  palette: slate
-    scheme:
+  palette: 
+    scheme: slate
   features:
     - navigation.instant
     - navigation.tabs.sticky
