@@ -6,11 +6,9 @@ nav:
   - 3 How to Play.md
   - 4 Appendix.md
 
-  
 theme:
   name: readthedocs
   analytics:
     gtag: ''
-    navigation_depth: 3
+    navigation_depth: 4
     locale: en
-    logo: img/paper-2.png

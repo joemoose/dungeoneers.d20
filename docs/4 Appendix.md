@@ -2,11 +2,11 @@
 
 This appendix contains the following sections:
 
-- core rules summary
+- core rules reference
 - starting gear for standard fantasy archetypes
 - alternate tactical initiative rules
 
-## 1. TYROS RPG Rules Summary 
+## 1. Rules Reference
 
 ### Best practices
 
