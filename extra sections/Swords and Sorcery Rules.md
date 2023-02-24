@@ -1,54 +1,26 @@
 ## 4. Swords and Sorcery Genre Rules
 
----
-
-**Attribution**: My thanks to the following sources for inspiration.
-
-- Adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin. Licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
-- Warrior and Thief archetype adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com). The Electrum Archive is copyright Emiel Boven and CULT OF THE LIZARD KING. TYROS is an independent production by Zachary Taylor and is not affiliated with CULT OF THE LIZARD KING. It is published under the TEA Third Party License.
-- Sorcerer archetype inspired by “[OSR: Class: Sorcerer”](https://coinsandscrolls.blogspot.com/2018/03/osr-class-sorcerer.html), *Coins and Scrolls*, 29 March 2018, by Skerples. 
-
-### Sword & Sorcery
-
-- The universe is decadent, mostly dead, and without interest in cosmic good or redemption.
-- Any given world is rent apart by ancient machinery, fell sorceries, and intervening godlings.
-- Humankind bands together to manage a living, but tensions and threats are everywhere.
-
-### Picaresque Adventure
-
-- You play as and compete with daring scoundrels out for treasure, power, and reputation.
-- Opportunities abound for high-stakes expeditions. Your context is dangerous, but you have grit.
-- Fair fights are bad odds. You must negotiate, plot, haggle, ally, and deceive to survive.
-
-### Inspiration
-
-- Howard's *Cimmeria*, where Conan slogged against petty rulers and snake people for profit and renown.
-- Vance's *Dying Earth*, where Cugel crossed through portals to far sanctums while his world rotted.
-- Lieber's *Lankhmar*, where Fafhrd and the Gray Mouser fleeced nobles with bounties on their heads.
+The following rules provide a grittier campaign geared more toward violent action and dark powers.
 
 ### Additional Step in Character Creation
 
-Character creation remains the same as the core Tyros rule with one extra step: choosing an archetype for your character. Archetypes add unique talents to your character.
+Character creation remains the same as the core TYROS system with one extra step: choosing an archetype for your character. Archetypes add unique talents and specializations.
 
 ➡️  Pick either a **Warrior**, **Thief**, or **Sorcerer** archetype for your character.
 
 Archetypes are described in the following sections. 
 
-### Character Archetypes
-
-An archetype provides your character with a unique set of specialized abilities.
-
-#### WARRIOR
+### WARRIOR
 
 Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of fighters is to battle monsters and defend other characters.
 
-##### Talent: Combat Maneuvers
+#### Talent: Combat Maneuvers
 
 A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **GRIT**. You start with one grit. At every **even-numbered** level, you gain one additional GRIT. You may use multiple maneuvers at the same time.
 
-The GRIT you spend is restored after you take a long rest.
+The GRIT you spend is restored after a long rest.
 
-###### Level 1 Maneuvers
+##### Level 1 Maneuvers
 
 A new warrior starts with three combat maneuvers in their repertoire:
 
@@ -56,19 +28,18 @@ A new warrior starts with three combat maneuvers in their repertoire:
 - **NOT ON MY WATCH!**: You can spend one GRIT to act before your opponents when determining combat turn order.
 - **SHAKE IT OFF**: Whenever you take damage, you can spend one GRIT to reduce the damage by d6.
 
-###### Level 2, 5, & 7 Maneuvers
+##### Level 2, 5, & 7 Maneuvers
 
 Choose one of the following maneuvers at levels 2, 5, and 7 to add to your repertoire.
 
-- **COMMAND**: Instead of making an attack, you may spend one GRIT to allow an ally to make an attack that deals +d8 additional damage.
+- **CLEAVE**: Instead of making a normal attack, you may spend one GRIT to make a single attack with the *blast* quality to attack all opponents in the zone for half damage.
+- **COMMAND**: Instead of making an attack, you may spend one GRIT to allow an ally to make an attack that deals +d10 bonus damage.
 - **PAYBACK**: When an ally takes damage from an opponent within the range of your weapon, you may spend one GRIT to attack the opponent immediately.
-- **SHIELD**: When an ally you share a zone with takes damage, you may spend a GRIT and add your armor to theirs for this Round (this can increase it above 6).
-- **SPLIT FIRE**: When you use a ranged weapon, you may spend one GRIT to shoot at two separate targets.
-- **TAUNT**: You may spend one GRIT to make all enemies attack you this Round.
-- **RALLY**: At the start of a Round, spend one GRIT to give you and your allies +1 additional damage until the end of the next Round.
-- **CLEAVE**: Instead of making a normal attack, you may spend one GRIT to make a single attack hitting up to four enemies in your zone. This attack deals half damage but still ignores Armor on a critical hit.
+- **RAPID FIRE**: When you use a ranged weapon, you may spend one GRIT to shoot at two separate targets.
+- **SHIELD**: When an ally in your zone takes damage, you may spend a GRIT and add your armor rating to theirs for this round.
+- **TAUNT**: You may spend one GRIT to make all enemies attack you this round. 
 
-##### Talent: Trophies
+#### Talent: Trophies
 
 You gain the following warrior abilities at level 3.
 
@@ -78,26 +49,26 @@ After you defeat a creature in combat, you may take a trophy from their remains.
 
 When you encounter a creature of which you carry a trophy, you may spend one GRIT to:
 
-- Receive +d6 bonus damage when attacking it.
-- Gain Advantage on Saves against that creature’s abilities.
+- Receive +d8 bonus damage when attacking it.
+- Gain an advantage on attribute checks against that creature’s abilities.
 
 **SPOOR**
 
-You can also construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed after it is used once.
+You can also construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed after use.
 
-#### THIEF
+### THIEF
 
 Thieves are adventurers who live by their wits and luck, with a little resourcefulness and finesse for good measure. Their range of unique talents makes them versatile companions in adventures.
 
-##### Talents
+#### Talents
 
-You have a variety of unique abilities. When you create your character and gain a level each time, you may choose one talent from the following list or gain mastery of a talent you already know.
+You have a variety of unique abilities. When you first create your character, and each time you gain a level, you can choose one talent from the following list or gain mastery of a talent you already know.
 
 **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the Advantage you would typically gain, you double the damage rolled.
 
-- **Mastery**: During combat, as part of your attack, you may make a DEX or WIL Save against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
+- **Mastery**: During combat, as part of your attack, you may make a DEX or WIL check against a creature aware of you to flank or confuse the target, adding +d12 damage bonus.
 
-**EXPERTISE**: You may re-roll an attribute Save once per session.
+**EXPERTISE**: You may re-roll an attribute check once per session.
 
 - **Mastery**: You may re-roll any dice roll.
 
@@ -105,46 +76,46 @@ You have a variety of unique abilities. When you create your character and gain 
 
 - **Mastery**: You gain two additional backpack slots.
 
-**NETWORK**: Make a WIL Save when entering a new settlement. If you succeed, note that you have a contact in the settlement. The nature of this contact is up to you and the GM and can be fleshed out whenever the need arises.
+**NETWORK**: Make a WIL check when entering a new settlement. If you succeed, note that you have a contact in the settlement. The nature of this contact is up to you and the GM and can be fleshed out whenever the need arises.
 
-- **Mastery**: You may make a WIL Save once each session to see if you have a contact in an area, regardless of whether you’re new to the area.
+- **Mastery**: You may make a WIL check once each session to see if you have a contact in an area, regardless of whether you’re new to that area.
 
-**SUPPLIES**: You may buy a Supply for 10 coins in a settlement. A Supply is an abstract item with a single use available only to the thief that takes up one inventory slot. It can be changed into any *common or cheap* mundane item.
+**SUPPLIES**: You may buy a *Supply* for 10 coins in a settlement. Supply is an abstract item with a single use available only to the thief that takes up one inventory slot. It can be changed into any *common or cheap* mundane item.
 
 - **Mastery**: A supply can also produce a *rare or valuable* mundane item.
 
 **SWIFT**: You no longer trigger a free attack when disengaging.
 
-- **Mastery**: You always act before the enemy if you’re not surprised and not wearing heavy armor or wielding a shield.
+- **Mastery**: You always act before the enemy if you’re not surprised.
 
-#### SORCERER
+### SORCERER
 
 Anyone can cast magic from spellbooks, scrolls, and relics. Sorcerers, though, possess an innate magical power. Whether it arises from an exotic bloodline, otherworldly influence, or exposure to unknown corrupting forces, no one chooses sorcery; the power chooses the sorcerer.
 
 A sorcerer brings substantial capabilities to an adventuring party, but a sorcerer risks losing their souls, if not their lives, to the fell Corruptions of their art. 
 
-##### Talent
+#### Talent
 
 **Sorcereous Powers**: You alter the world through sheer force of will and your body’s consumption. You need no charms, runes, spellbooks, or scrolls. Reality is yours to command.
 
 Your sorcerous power requires you to expend at least one attribute point of STR, DEX, WIL, or LUCK as essence to fuel your magic. The more of your body you sacrifice, the greater the essence consumed and the greater the magnitude of the power unleashed.
 
-Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. When losing an attribute score for essence, a critical damage Save is not required. 
+Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. A critical damage check is unnecessary when losing an attribute score for essence. 
 
-**To invoke a sorcerous power**, sacrifice abilities scores for essence and make a WIL Save.
+**To invoke a sorcerous power**, sacrifice abilities scores for essence and make a WIL check.
 
-- If the Save succeeds, the power manifests as you intended.
-- The power does not materialize on a failure; you must make a Corruption Save to avoid the sorcerous backlash.
+- If the check succeeds, the power manifests as you intended.
+- The power does not materialize on a failure; you must make a corruption check to avoid the sorcerous backlash.
 
-The WIL save to invoke your power has Advantage if performed over two or more rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
+The WIL check to invoke your power is advantageous if performed over two or more rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
-##### Powers
+#### Powers
 
 When you create your character, pick one Power. You may select one additional Power at levels 3, 5, and 7.
 
-###### ALTER
+##### ALTER
 
-Make a declarative statement affecting one creature or object you can see. The statement is true for [essence] combat rounds. The creation cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can Save to avoid being altered.
+Make a declarative statement affecting one creature or object you can see. The statement is true for [essence] combat rounds. The creation cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
 
 The maximum size or weight of the creature or object to be altered is that of the sorcerer. You can double the size or weight altered for each additional essence. 
 
@@ -152,35 +123,35 @@ The maximum size or weight of the creature or object to be altered is that of th
 > "The giant is now a mole.” The giant retains its abilities and HP, but it would be easier to surround a mole and attack.  
 > "The dragon is made of paper." The dragon is now made of paper. It retains its abilities and HP but will take extra damage if you set it on fire with a torch.  
 
-###### CREATE
+##### CREATE
 
 Bring forth a creation. The creature or object created exists for [essence] rounds. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
 
-More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks), but these objects do not deal magic damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
+More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks), but these objects do not deal magic damage or provide permanent results. For example, HP restored from an invoked healing elixer lasts only for the duration of your invocation.
 
-> Zathar the Sorcerer invokes a flying throne, which he mounts to escape. He sacrifices six essences (the throne is *2 times his size* and can *fly* for *3 rounds*).
+> Zathar the Sorcerer invokes a flying throne, which he mounts to escape. He sacrifices six essences (the throne is about his *weight* and can *fly* for *4 rounds*).
 
-###### HARM
+##### HARM
 
-Deal an [essence] number of d6 damage to one target creature or object you can see. Creatures and magical objects can make a Save to avoid or mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice an essence for each additional target affected.
+Deal an [essence] number of d6 damage to one target creature or object you can see. Creatures and magical objects can make an attribute check to avoid or mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
 
-> Zathar sacrifices two essences. He can Harm one creature for 2d6 damage or two creatures for 1d6 damage each.
+> Zathar sacrifices two essence. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
 
-###### SOUL SIGHT
+##### SOUL SIGHT
 
-You can see an [essence] number of creatures’ souls as long as you concentrate exclusively on the observation and do not move. This allows you to sense the approximate location of invisible creatures. You can also immediately sense if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in other meta physiological states.
+You can see an [essence] number of creatures’ souls as long as you concentrate exclusively on the observation and do not move. This sight allows you to sense the approximate location of invisible creatures. You can also immediately sense if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in some other meta-physiological state.
 
-###### WARD
+##### WARD
 
-Manifest a simmering, translucent shield around you or a target creature or object for [essence x2] rounds. The ward provides Advantage on Saves to avoid magical effects and Disadvantage on damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack.
+Manifest a simmering, translucent shield around you or a target creature or object for [essence] rounds. The ward provides an advantage on attribute checks to avoid magical effects and a disadvantage on damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack.
 
-##### Dark Blood Magic
+#### Dark Blood Magic
 
-The essence required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their Corruption immediately by 1. A Corruption Save is required regardless of whether the invocation succeeds.
+The essence required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their corruption level immediately by 1. A corruption check is required regardless of whether the invocation succeeds.
 
 The process is not as efficient as draining essence from the sorcerer’s body; two attribute points must be sacrificed from the host for one essence. The essence drained from the host can be combined with that from the sorcerer.
 
-If essence is drained from an unwilling victim, the victim must be restrained, and, assuming they are conscious, they can make a Save to resist the loss of attribute scores.
+If essence is drained from an unwilling victim, the victim must be restrained, and, assuming they are conscious, they can make an attribute check to resist the loss.
 
 ### Scars
 
@@ -199,11 +170,11 @@ When a character’s HP is reduced to zero or less, they are uniquely scarred. L
 | 9 | **Re-brained**: Some remote part of your psyche is knocked loose. Roll 3d6. If the result is higher than your WIL Score, swap it. |
 | 10 | **Sundered**: An appendage is torn off, crippled, or useless. The GM will tell you which. Roll 3d6. If the result is higher than your STR Score, swap it. |
 | 11 | **Mortal Wound**: You are *deprived* and out of the action. Add a Fatigue to your inventory. You will die shortly unless stabilized or healed. Upon recovery, roll 4d4. Take the new result as your max HP. |
-| 12+ | **Doomed**: Death seemed imminent, but somehow, luckily, you survived. If your next Save against Critical Damage fails, you die immediately and horrifically. Otherwise, roll 3d6. If the result is higher than your LUCK Score, swap it. |
+| 12+ | **Doomed**: Death seemed imminent, but somehow, luckily, you survived. If your next STR check against Critical Damage fails, you die immediately and horrifically. Otherwise, roll 3d6. If the result is higher than your LUCK Score, swap it. |
 
 ### Relics
 
-Relics are arcane items imbued with a magical spell or wonderous power. They do not require WIL Saves or cause Fatigue when used. However, when using relics, you can sometimes risk Corruption. Most relics have limited uses, as well as a recharge condition.
+Relics are arcane items imbued with a magical spell or wonderous power. They do not require WIL Saves or cause Fatigue when used. However, when using relics, you can sometimes risk corruption. Most relics have limited uses, as well as a recharge condition.
 
 #### Attunement
 
@@ -217,24 +188,24 @@ Attunement ends if you’ve been more than 100 feet away from the relic for at l
 
 ### Corruption and Fell Sorcery
 
-Magic is volatile and warps its practitioners. Sorcerous Corruption is everywhere in the Shattered Lands. 
+Magic is volatile and warps its practitioners. Sorcerous corruption is everywhere in the Shattered Lands. 
 
-Your Corruption score can be increased by using sorcerous powers, attuning arcane relics, or committing heinous acts. A newly created character has a zero Corruption score.
+Your corruption level can be increased by using sorcerous powers, attuning arcane relics, or committing heinous acts. A newly created character has a zero corruption level.
 
-As your Corruption score increases, you suffer increasingly unpleasant effects.
+As your corruption level increases, you suffer increasingly unpleasant effects.
 
-#### Corruption Save 
+#### Corruption Checks 
 
-When directed by the GM to make a Corruption Save, roll d20.
+When directed by the GM to make a corruption check, roll **d20**.
 
-- If the result equals or exceeds your current Corruption score, you hold chaos at bay (this time) and suffer no consequences.
-- If you fail, roll a subsequent d20, add your current Corruption score, then consult the following table for an effect.
+- If the result **equals or exceeds** your current **corruption level**, you hold chaos at bay (this time) and suffer no consequences.
+- If you **fail**, roll a subsequent **d20** and **add your current corruption level**, then consult the following table for an effect.
 
-Regardless of success or failure, increase your Corruption score by 1.
+Regardless of success or failure, increase your corruption level by 1.
 
 #### Manifestations of Corruption
 
-On a failed Corruption Save, roll d20 +Corruption score and consult the following table.
+Roll **d20 +corruption level** on a failed corruption check and consult the following table.
 
 | d20 | Effect |
 | :-: | :- |
@@ -267,7 +238,7 @@ On a failed Corruption Save, roll d20 +Corruption score and consult the followin
 | 27 | Everyone around you always hears a rasping whisper. |
 | 28 | Gain one **Chthonian Aspect**, one **Demonian Aspect**, and one **Ophidian Aspect**. |
 | 29 | All animals loathe you, fleeing from you if they are prey and attacking you if predatory. |
-| 30 | A portal to a dimension without flesh and hope opens and consumes you. You are forever obliterated. Every character near you gains one Corruption immediately and makes a Corruption Save. |
+| 30 | A portal to a dimension without flesh and hope opens and consumes you. You are forever obliterated. Every character near you gains one corruption immediately and makes a corruption check. |
 
 #### Chthonian Aspects
 

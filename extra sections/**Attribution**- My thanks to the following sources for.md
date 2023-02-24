@@ -1,0 +1,5 @@
+**Attribution**: My thanks to the following sources for inspiration.
+
+- Adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin. Licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+- Warrior and Thief archetype adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com). The Electrum Archive is copyright Emiel Boven and CULT OF THE LIZARD KING. TYROS is an independent production by Zachary Taylor and is not affiliated with CULT OF THE LIZARD KING. It is published under the TEA Third Party License.
+- Sorcerer archetype inspired by “[OSR: Class: Sorcerer”](https://coinsandscrolls.blogspot.com/2018/03/osr-class-sorcerer.html), *Coins and Scrolls*, 29 March 2018, by Skerples. 

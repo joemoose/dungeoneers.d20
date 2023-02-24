@@ -10,11 +10,11 @@ Suppose the outcome of your character’s actions is not immediately apparent, o
 
 When you describe your character doing something risky, or the outcome is uncertain, the GM may ask you to make an **attribute check**.
 
-Roll a **d20** and compare the result to the applicable attribute score. If the result is less than or equal to the relevant attribute score, your character succeeds and suffers no consequences. If the result exceeds the score, your character fails and suffers the outcome described by the GM.
+Roll a **d20** and compare the result to the applicable attribute score. If the result is **less than or equal to** the relevant attribute score, your character **succeeds** and suffers no consequences. If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
 
 ## Using Attributes
 
-Your character is a determined, resourceful adventurer, capable of trying almost anything. So when the outcome is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
+Your character is a determined, resourceful adventurer, capable of almost anything. So when the outcome is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
 
 Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to force it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
@@ -22,21 +22,21 @@ Don’t think about what your character is capable of, but *how* they would appr
 
 ## Critical Successes and Failures
 
-Rolling the **exact attribute score** on a check is a critical success, and the outcome will be better than expected. Increase your LUCK attribute score by 1.
+Rolling the **exact attribute score** on a check is a **critical success**, and the outcome will be better than expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a **20** is a critical failure, and the outcome will be worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a **20** is a **critical failure**, and the outcome will be worse than expected. Decrease your LUCK by 1.
 
 ## Advantage and Disadvantage
 
-If you roll a check and are particularly well prepared or equipped, the GM may allow you to roll with an advantage. Roll **two d20s** and take the **best** result.
+If you roll an attribute check and are particularly well prepared or equipped for the task, the GM may allow you to roll with an **advantage**. Roll **two d20s** and take the **best** result.
 
-If you are in a dire position or ill-prepared for your task, the GM may ask you to roll with a disadvantage. Roll **two d20s** and take the **worst** result.
+If you are in a dire position or ill-prepared for your task, the GM may ask you to roll with a **disadvantage**. Roll **two d20s** and take the **worst** result.
 
 ## Luck
 
 Luck applies only to player characters, not hirelings, monsters, or any other non-player characters controlled by the GM.
 
-You can decrease (burn) your LUCK to change the dice rolls for an attribute check. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other detrimental effects. LUCK can’t be less than zero.
+You can decrease (burn) your LUCK to change the dice rolls for an attribute check. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other calamitous effects. LUCK can’t be less than zero.
 
 The GM may sometimes call for a LUCK check if an outcome is random and your other attributes don’t apply.
 
@@ -50,7 +50,7 @@ The game measures time in three durations:
 
 ## Distances and Zones
 
-The game uses zones as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
+The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
 
 For example, at the start of combat, the GM divides the battlefield into at least three zones; one where the party starts, one where the enemies start, and the area between them.
 
@@ -99,15 +99,15 @@ On your turn in a combat round, your character can move to an adjacent zone and 
 
 ### Bonus Damage
 
-In some situations, attacks may receive an extra die, noted as +d6, +d8, etc. Roll the extra die with your weapon’s damage roll, keeping the **best** result. For example, attacks against helpless or unaware targets receive **+d12** bonus damage.
+In some situations, attacks may receive an extra die, noted as +d6, +d8, etc. Roll the extra die with your weapon’s damage roll, keeping the **best** result. For example, attacks against helpless or unaware targets receive +d12 bonus damage.
 
 ### Impaired Attacks
 
-When an attack is impaired, such as firing into cover or fighting while your hands are bound, roll the **+d4** damage and use the **worst** result.
+When an attack is **impaired**, such as firing into cover or fighting while your hands are bound, roll **+d4** damage and keep the **worst** result.
 
 ### Critical Hits
 
-Rolling the **maximum damage** on a weapon’s die roll is a critical hit. A critical hit **ignores** the target’s armor and deals the total damage.
+Rolling the **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor and deals the total damage.
 
 ### Dual-Wielding
 
@@ -127,7 +127,7 @@ Not moving and using an action to aim instead of attacking allows a character to
 
 ### Blast
 
-Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive cleaving onslaughts, and a swarm of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number.
+Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, and a swarm of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
 
 ### Subdual
 
@@ -135,15 +135,15 @@ Rather than inflicting grievous harm, you can attempt to **subdue** an opponent 
 
 ### Gambits
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They’re resolved with a check by the combatant most at risk. Gambits can’t cause damage directly but may do so indirectly (for example, pushing an enemy off a ledge). 
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They’re resolved with an attribute check by the combatant most at risk. Gambits can’t cause damage directly but may do so indirectly (for example, pushing an enemy off a ledge). 
 
 ### Advantage in Combat
 
 Characters can gain an advantage in combat by attacking a target on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
 
-When a character has an advantage against an opponent on their combat turn, they can apply advantage to either their damage roll or a gambit against that opponent. Alternatively, you can make an attack and a gambit attempt against that opponent without an advantage in the same round.
+When a character has an advantage against an opponent on their combat turn, they can apply advantage to either their damage roll or a gambit attempt against that opponent. Alternatively, you can make an attack and a gambit attempt against that opponent without an advantage in the same round.
 
-If you apply advantage to your damage roll, roll only your weapon’s damage die twice, taking the best result. If you have any bonus damage dice, such as +d12, for attacking an unaware opponent, bonus dice are not rolled twice. Bonus damage dice rolls are only ever rolled once and not modified by advantage.
+If you apply advantage to your damage roll, roll only your weapon’s damage die twice, taking the best result. If you have any bonus damage dice, such as a +d12 for attacking an unaware opponent, bonus dice are not rolled twice. Bonus damage dice rolls are only ever rolled once and not modified by advantage.
 
 ### Morale
 
@@ -155,15 +155,15 @@ Morale checks don’t apply to players. You have to decide when it’s prudent t
 
 ### Disengaging
 
-If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX check to disengage from the fight. If you fail, the enemy makes a free attack as you move out of the zone.
+If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX check to disengage from the fight. If you fail, the enemy makes a free attack against you as you retreat out of the zone.
 
-An attribute check is not required if you have allies in the zone that haven’t yet taken action.
+An attribute check is not required to disengage if you have allies in the zone that haven’t yet taken action.
 
 ## Hit Points and Damage
 
-Damage is first dealt to your Hit Points (HP). HP represents your ability to avoid or shrug off any harm.
+Damage is first dealt to your **Hit Points** (HP). HP represents your ability to avoid or shrug off any harm.
 
-When HP is depleted, the damage is dealt to your STR attribute. Damage to the STR attribute is potentially grievous harm.
+When HP is depleted, the damage is dealt to your **STR attribute**. Damage to the STR attribute is potentially grievous harm.
 
 After taking STR damage, you must make a STR check. If the check succeeds, you’re still in action and can continue fighting. If you fail, you take **critical damage**.
 
@@ -177,7 +177,7 @@ If you’re left unconscious for an hour, your character dies.
 
 If your STR is reduced to zero, your character is dead. If your DEX is reduced to zero, you’re paralyzed. If your WIL is reduced to zero, you fall into a stupor. All your dice rolls are disadvantaged if your LUCK is reduced to zero.
 
-If your character dies, create a new one. The GM will introduce them as quickly as possible. 
+If your character dies, create a new one. The GM will introduce them as quickly as possible. Alternatively, you can take over playing one of your hirelings. You can still create a new character later if you choose.
 
 ## Rest and healing
 
@@ -259,17 +259,16 @@ A fully charged spell tablet can usually be sold for 2d6 x 100 coins in a large 
 In the following Effect descriptions:
 
 - [DICE] is the number of dice rolled equal to the essence used to cast the spell.
-- [SUM] is the sum of the rolled dice.
+- [SUM] is the sum of the dice rolled.
+
+The spell effect is based on the [DICE] and SUM] values.
 
 For example, the Darkness spell creates a [SUM] x 2-foot diameter sphere of pure darkness for [DICE] turns.
 
 If two essence are used to cast Darkness, and the result of the 2d6 roll is 7, the spell creates a sphere 14 feet wide for 2 turns.
 
-Spells extract
----
-
-| d66 | Spell Name | Effect | Recharge |
-| :-: | :--------- | :----- | :------- |
+| d66 | Name | Effect | Recharge |
+| :-: | :--- | :----- | :------- |
 | 11 | Animal Form | The target of the spell and their possessions are transformed into a beast of your choice for [SUM] turns or until they take critical damage. The transformed beast is limited to the actions and abilities natural to its animal form. | Feed, groom, and remain beside the same animal for three days and three nights. |
 | 12 | Animate Dead | [DICE] nearby piles of bones or dead bodies rise and follow your simple [DICE]+1 word commands for [SUM] turns. | You must dig an open grave in a cemetery by yourself and remain within for three days and three nights. |
 | 13 | Arcane Eye | You create a hovering magical eyeball that moves at your command for [DICE] turns. You can see through the eye, which has low-light vision and can look in every direction. | Grind a precious gemstone into a fine powder and consume it in hot fennel tea. | 
