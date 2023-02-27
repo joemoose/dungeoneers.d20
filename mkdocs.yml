@@ -13,13 +13,13 @@ nav:
   - 5 Credits.md
 
 # Copyright
-copyright: Copyright &copy; 2023 All rights reserved.
+# copyright: Copyright &copy; 2023. All rights reserved.
 
 # Theme
 theme:
   name: material
-  logo: img/RPG-game.png
-  favicon: img/favicon.ico
+  logo: tyros_icon.png
+  favicon: favicon.ico
   features:
     - navigation.instant
     - navigation.tracking
@@ -49,4 +49,4 @@ markdown_extensions:
   - pymdownx.superfences
 
 extra:
-  generator: true
+  generator: false
