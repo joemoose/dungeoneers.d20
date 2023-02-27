@@ -18,26 +18,29 @@ Your character can’t carry more items than their inventory allows. Carts, hors
 
 Your character can carry up to 50 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
 
-## Burdens
+## Constraints
 
-Burdens are detrimental conditions your character endures, such as *Injured* or *Frightened*. Burdens can result from failed attribute checks, baleful spells, or events in the narrative.
+Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from failed attribute checks, baleful spells, or events in the narrative.
 
-Each burden must be placed in an inventory slot. You can have multiple copies of the same burden. If there aren’t enough inventory slots for a new burden, an item must be dropped to make room.
+Each constraint must be placed in an inventory slot. You can have multiple copies of the same constraint. If there aren’t enough inventory slots for a new constraint, an item must be dropped to make room.
 
-Some burdens have additional adverse effects besides taking up inventory slots. These effects apply as long as the burden remains in your inventory. 
+Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
-Conditions can be removed only by meeting their clear requirement, usually a short, long, or full rest.
+Conditions can only be removed from your inventory by meeting their cleared requirement, usually a short, long, or full rest.
 
-### Example Burdens
+### Example Constraints
 
 | Condition | Adverse Effect | Cleared After |
 | :- | :- | :- |
 | *Dazed* | Disadvantage on WIL checks | Long rest |
 | *Deprived* | Can’t heal from resting | Meal and long rest |
+| *Fatigued* | No effect besides taking up inventory | Long rest |
 | *Frightened* | Make a WIL check to approach the source of fear | Short rest |
-| *Injured* | Disadvantage on STR and DEX checks | Full rest |
+| *Geas* | No effect besides taking up inventory | Complete the magical obligation |
+| *Wounded* | Disadvantage on STR and DEX checks | Full rest |
 
-**Note**: See the “How to Play” section for information about attribute checks and disadvantages.
+!!! Note
+		See the [How to Play](3 How to Play.md) section for information about attribute checks and disadvantages.
 
 ## Hirelings
 
@@ -212,7 +215,7 @@ All expeditionary kits are bulky.
 
 | Kit | Notes | Coins |
 | :-- | :---- | ----: |
-| Camping | Bedrolls, tarps, tent, tie line | 100 |
+| Camping | Bedrolls, tarps, tent, tie lines | 100 |
 | Climbing | Rope, spikes, grappling hook, chalk | 100 |
 | Healers | Bandages, splints, forceps, herbal poultices, needle, thread | 100 |
 | Illumination | Torches, lanterns, lamp oil, tinderbox | 100 |
@@ -220,12 +223,12 @@ All expeditionary kits are bulky.
 
 ### Artisan Kits
 
-All expeditionary kits are bulky.
+All artisan kits are bulky.
 
 | Kit | Notes | Coins |
 | :-- | :---- | ----: |
-| Alchemy | Flasks, retort, reagents, powdered metals, alcohol stove | 100 |
-| Crafting | Assorted tools and materials for a specific craft | 100 |
+| Alchemy | Flasks, retort, retort frame, reagents, glass stirring rod, mortar, pestle | 100 |
+| Crafting | Assorted tools and materials for a *specific* craft | 100 |
 | Disguise | Cosmetics, dyes, wigs | 100 |
 | Forgery |  Ink, quills, scrolls, seals, wax  | 100 |
 | Herbalist | Clippers, pouches, mortar, pestle, muslin, pan, alcohol | 100 |

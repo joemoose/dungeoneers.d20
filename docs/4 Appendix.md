@@ -4,20 +4,22 @@ This appendix contains the following sections:
 
 - core rules reference
 - starting gear for standard fantasy archetypes
-- alternate tactical initiative rules
-- alternate character advancement rule
+- tactical initiative
+- alternate character advancement
 - optional weapons: dragonpowder gonnes
 - sword and sorcery genre rules
 
 ## 1. Rules Reference
 
+---
+
 ### Best practices
 
-- Ask lots of questions. Make notes. Draw maps.
-- Work together. Devise schemes. Recruit allies.
-- Dice are dangerous. Clever plans don’t need to roll.
-- Play to win. Delight in losing.
-- Fight dirty. Run. Die. Roll a new adventurer.
+- **Ask lots of questions**. Gather information. Talk to NPCs. Make notes. Draw maps.
+- **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally.
+- **Work together**. Don’t split the party. Try new things. You aren’t limited by your character sheet.
+- **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away. 
+- **Play to win, savor loss**. You will leave your mark on the world.
 
 ### Attribute Checks
 
@@ -49,7 +51,7 @@ On your turn, you can move and take an action.
 **Damage**: Dealt first to HP.
 
 - Once HP is depleted, take damage to STR.
-- After taking STR damage, make a STR check. On failure, take an *Injured* burden and become incapacitated.
+- After taking STR damage, make a STR check. On failure, take a *Wounded* constraint and become incapacitated.
 - If STR is reduced to zero, you die.  
 
 **Usage**: After combat, roll d6 for each weapon, ammunition, and armor. On 5 or 6, mark usage.  
@@ -58,7 +60,7 @@ On your turn, you can move and take an action.
 
 - **Short**: Takes a turn. Restore all HP.
 - **Long**: Takes a watch. Restore 1 STR, DEX, and WIL.
-- **Full**: Takes a week. Restore all STR, DEX, and WIL. Removes *Injured* and other long-term burdens.
+- **Full**: Takes a week. Restore all STR, DEX, and WIL. Clears *Wounded* and other long-term constraints.
 
 ### Spells
 
@@ -66,7 +68,7 @@ Invest **1–3 essence** (up to the remaining uses).
 
 - Roll **d6** for each **essence** invested. Mark usage for each 5 or 6 rolled.  
 - The spell effect uses the number of dice rolled and the sum.
-- For every 6 rolled, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* burden.  
+- For every 6 rolled, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.  
 
 ### Inventory
 
@@ -76,7 +78,7 @@ Invest **1–3 essence** (up to the remaining uses).
 
 ## 2. Character Archetype Starting Gear
 
-**Attribution**: Adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
+---
 
 ### Bard 
 
@@ -101,7 +103,7 @@ Invest **1–3 essence** (up to the remaining uses).
 - shepherd’s crook (d8, *bulky*)
 - jute clothing
 - relic: *Witchwood Brooch*
-- herbal poultice (WIL check removes a burden)
+- herbal poultice (WIL check clears a constraint)
 - owl, animal companion (1 hp, talons d4)
 
 ### Fighter 
@@ -141,7 +143,7 @@ Invest **1–3 essence** (up to the remaining uses).
 - spell tablet (*random*) 
 - spell tablet (*random*) 
 - ragged clothing (hidden pockets)
-- *Leycap Mushrooms* (removes all *Drained* burdens, STR check vs. addiction)
+- *Leycap Mushrooms* (clears all *Drained* constraints, STR check vs. addiction)
 
 ### Scribe (Mage) 
 
@@ -186,16 +188,16 @@ Invest **1–3 essence** (up to the remaining uses).
 **Witchwood Brooch**
 
 - **Charges**: d6+1
-- **Usage**: You and your possessions transform into a mundane animal. Add the *Deprived* burden upon changing back to human form.
+- **Usage**: You and your possessions transform into a mundane animal. Add the *Deprived* constraint upon changing back to human form.
 
 **Yew Wand**
 
 - **Charges**: d6+1
 - **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature will not be hostile toward you.
 
-## 3. Alternate Initiative System
+## 3. Tactical Initiative System
 
-**Attribution**: Adapted from [*Errant*](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition) written by Ava Islam and published by [Kill Jester Publishing, LLP](https://www.killjester.com/). Licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+---
 
 ### Declaring Actions
 
@@ -231,13 +233,17 @@ After determining who’s turns will be quick or slow, the order of resolving ac
 2. If players and opponents both take a quick turn, the player must make a DEX *or* WIL check to go first.
 3. If players and opponents both take a slow turn, the player must make a DEX *or* WIL check to go first.
 
-## 6. Alternate Character Advancement
+## 4. Alternate Character Advancement
+
+---
 
 Rather than tracking experience points based on looting treasure and artifacts, advancement can be tied to completing adventurous campaigns and returning to civilization. You’ll need to bring something back to show for your efforts or, at the very least, a good tale for the bards.
 
 You need to return from as many successful expeditions equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one campaign. To go on to level 3, they need to complete two more campaigns.
 
 ## 5. Dragonpowder Gonnes
+
+---
 
 Dragonpowder gonnes are expensive, exotic, and very loud. Wielded by the rich or the foolhardy, these strange weapons are reputed to be of Dwarven manufacture. However, they could very well hail from the infernal planes.
 
@@ -287,49 +293,55 @@ On a critical failure when firing a dragonpowder gonne, roll **2d6** and refer t
 | 4–5 | Sparks get in your eyes. All DEX and WIL checks are disadvantaged until you take a moment and make a STR check. |
 | 6–8 | The gonne fails to fire. You must take one round of fiddling with the mechanism and make a WIL check before firing it again. |
 | 9–10 | The gonne breaks. It will need to be thoroughly cleaned and repaired before being used again. The repair cost is 30% of its price. |
-| 11 | The gonne is fine, but everyone nearby must make a LUCK Save. The shot hits the character who fails and rolls the highest. |
+| 11 | The gonne is fine, but everyone nearby must make a LUCK check. The shot hits the character who fails and rolls the highest. |
 | 12 | The gonne explodes and is destroyed, dealing d12 *blast* damage to you and everyone nearby. |
 
 ## 6. Swords and Sorcery Genre Rules
 
+---
+
 The following rules provide a grittier campaign geared more toward violent action and dark powers.
 
-### Additional Step in Character Creation
+### Character Classes
 
-Character creation remains the same as the core TYROS system with one extra step: choosing an archetype for your character. Archetypes add unique talents and specializations.
+Character creation remains the same as the core TYROS system with one extra step: choosing a class for your character. Character classes add unique talents and specializations to your character.
 
-➡️  Pick either a **Warrior**, **Thief**, or **Sorcerer** archetype for your character.
+➡️  Pick either a **Warrior**, **Thief**, or **Sorcerer** class for your character.
 
-Archetypes are described in the following sections. 
+The three classes are described in the following sections. 
 
-### WARRIOR
+---
 
-Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of fighters is to battle monsters and defend other characters.
+### <div style="width: 100%;text-align: center">WARRIOR</div>
+
+---
+
+Warriors are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of warriors is to battle monsters and defend other characters.
 
 #### Talent: Combat Maneuvers
 
-A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **GRIT**. You start with one grit. At every **even-numbered** level, you gain one additional GRIT. You may use multiple maneuvers at the same time.
+A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **grit**. You start with one grit. At every **even-numbered** level, you gain one additional grit. You may use multiple maneuvers at the same time.
 
-The GRIT you spend is restored after a long rest.
+The grit you spend is restored after a long rest.
 
 ##### Level 1 Maneuvers
 
 A new warrior starts with three combat maneuvers in their repertoire:
 
-- **FOCUS**: When making an attack, you can spend one GRIT to ignore the target’s Armor.
-- **NOT ON MY WATCH!**: You can spend one GRIT to act before your opponents when determining combat turn order.
-- **SHAKE IT OFF**: Whenever you take damage, you can spend one GRIT to reduce the damage by d6.
+- **FOCUS**: When attacking, you can spend one grit to ignore the target’s Armor.
+- **NOT ON MY WATCH!**: You can spend one grit to act before your opponents when determining combat turn order.
+- **SHAKE IT OFF**: Whenever you take damage, you can spend one grit to reduce the damage by d6.
 
 ##### Level 2, 5, & 7 Maneuvers
 
 Choose one of the following maneuvers at levels 2, 5, and 7 to add to your repertoire.
 
-- **CLEAVE**: Instead of making a normal attack, you may spend one GRIT to make a single attack with the *blast* quality to attack all opponents in the zone for half damage.
-- **COMMAND**: Instead of making an attack, you may spend one GRIT to allow an ally to make an attack that deals +d10 bonus damage.
-- **PAYBACK**: When an ally takes damage from an opponent within the range of your weapon, you may spend one GRIT to attack the opponent immediately.
-- **RAPID FIRE**: When you use a ranged weapon, you may spend one GRIT to shoot at two separate targets.
-- **SHIELD**: When an ally in your zone takes damage, you may spend a GRIT and add your armor rating to theirs for this round.
-- **TAUNT**: You may spend one GRIT to make all enemies attack you this round. 
+- **CLEAVE**: Instead of making a normal attack, you may spend one grit to make a single attack with the *blast* quality to attack all opponents in the zone for half damage.
+- **COMMAND**: Instead of making an attack, you may spend one grit to allow an ally to make an attack that deals +d10 bonus damage.
+- **PAYBACK**: When an ally takes damage from an opponent within the range of your weapon, you may spend one grit to attack the opponent immediately.
+- **RAPID FIRE**: When you use a ranged weapon, you may spend one grit to shoot at two separate targets.
+- **SHIELD**: When an ally in your zone takes damage, you may spend a grit and add your armor rating to theirs for this round.
+- **TAUNT**: You may spend one grit to make all enemies attack you this round. 
 
 #### Talent: Trophies
 
@@ -339,7 +351,7 @@ You gain the following warrior abilities at level 3.
 
 After you defeat a creature in combat, you may take a trophy from their remains. A trophy takes up one item slot.
 
-When you encounter a creature of which you carry a trophy, you may spend one GRIT to:
+When you encounter a creature of which you carry a trophy, you may spend one grit to:
 
 - Receive +d8 bonus damage when attacking it.
 - Gain an advantage on attribute checks against that creature’s abilities.
@@ -348,7 +360,11 @@ When you encounter a creature of which you carry a trophy, you may spend one GRI
 
 You can also construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed after use.
 
-### THIEF
+---
+
+### <div style="width: 100%;text-align: center">THIEF</div>
+
+---
 
 Thieves are adventurers who live by their wits and luck, with a little resourcefulness and finesse for good measure. Their range of unique talents makes them versatile companions in adventures.
 
@@ -380,7 +396,11 @@ You have a variety of unique abilities. When you first create your character, an
 
 - **Mastery**: You always act before the enemy if you’re not surprised.
 
-### SORCERER
+---
+
+### <div style="width: 100%;text-align: center">SORCERER</div>
+
+---
 
 Anyone can cast magic from spellbooks, scrolls, and relics. Sorcerers, though, possess an innate magical power. Whether it arises from an exotic bloodline, otherworldly influence, or exposure to unknown corrupting forces, no one chooses sorcery; the power chooses the sorcerer.
 
@@ -445,13 +465,15 @@ The process is not as efficient as draining essence from the sorcerer’s body; 
 
 If essence is drained from an unwilling victim, the victim must be restrained, and, assuming they are conscious, they can make an attribute check to resist the loss.
 
-### Character Advancement and Scars
+---
 
-As your character increases their level, they do not automatically increase their HP and attributes. Instead, they can select new talents or powers from their archetype.
+### Advancement
 
-To increase their HP and attributes, they need to gain **scars**.
+As your character increases their level, they do not automatically increase their HP and attributes as in the core TYROS rules. Instead, they select new talents or powers from their class.
 
-#### Scars Table
+They need to gain **scars** through combat to increase their HP and attributes.
+
+### Scars
 
 When a character’s HP is reduced to zero or less, they are uniquely scarred. Look up the result in the table below based on the damage suffered.
 
@@ -459,7 +481,7 @@ When a character’s HP is reduced to zero or less, they are uniquely scarred. L
 | :-: | :- |
 | 1 | **Lasting Scar**: Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 2d6. If the total is higher than your max HP, swap it. |
 | 2 | **Rattling Blow**: You’re disoriented and shaken. WIL checks have a disadvantage until you heal and rest. Roll 2d6. If the total is higher than your max HP, swap it. |
-| 3 | **Walloped**: You’re sent flying, landing flat on your face, winded. Add a *Fatigue* burden to your inventory. Add 1 to your max HP. |
+| 3 | **Walloped**: You’re sent flying, landing flat on your face, winded. Add a *Fatigue* constraint to your inventory. Add 1 to your max HP. |
 | 4 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. STR checks have a disadvantage until you heal and rest. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
 | 5 | **Diseased**: You have a revolting, uncomfortable infection. Attribute checks have a disadvantage until you heal and rest. When you get over the infection, roll 3d6. If the total is higher than your max HP, swap it. |
 | 6 | **Reorienting Head Wound**: Roll 1d6; 1–3: WIL, 4–6: STR. Roll 3d6. If the total is higher than your current attribute score, swap it. |
@@ -512,50 +534,50 @@ Roll **d20 +corruption level** and consult the following table.
 | 3 | Your dreams are tinged with dread but always contain hidden truths. |
 | 4 | You can sense nearby otherworldly beings and objects. |
 | 5 | You can unerringly impersonate the voice of anyone you converse with. |
-| 6 | Gain one **Chthonian Aspect**. |
-| 7 | You are subtly aware if any individual has magic or magic-adjacent ability. |
-| 8 | Gain one **Demonian Aspect**. |
+| 6 | Gain one **Chthonian Vitiation**. |
+| 7 | You are subtly aware if any individual or object has a sorcerous or corrupted ability. |
+| 8 | Gain one **Demonian Vitiation**. |
 | 9 | You can speak into the mind of someone you can see. They cannot reply. |
-| 10 | Gain one **Ophidian Aspect**. |
-| 11 | You cough up a pale fruit that, when consumed, provides a truthful vision.
-| 12 | Gain one **Chthonian Aspect**. |
+| 10 | Gain one **Ophidian Vitiation**. |
+| 11 | You cough up a pale, noxious fruit that, when consumed, provides a truthful vision.
+| 12 | Gain one **Chthonian Vitiation**. |
 | 13 | You spawn a shadow duplicate of yourself which tries to steal your identity. |
-| 14 | Gain one **Demonian Aspect**. |
-| 15 | You take direct Strength damage from silvered weapons. |
-| 16 | Gain one **Ophidian Aspect**. |
+| 14 | Gain one **Demonian Vitiation**. |
+| 15 | You take direct STR damage from silvered weapons. |
+| 16 | Gain one **Ophidian Vitiation**. |
 | 17 | You cannot enter a home uninvited or cross over running water unless carried. |
-| 18 | Gain one **Chthonian Aspect**. |
+| 18 | Gain one **Chthonian Vitiation**. |
 | 19 | A tiny famulus made of dirt (3 HP, d4 damage) follows you and whispers secrets. |
-| 20 | Gain one **Demonian Aspect**. |
-| 21 | You crave carrion and are **deprived** if you don't consume some daily. |
-| 22 | Gain one **Ophidian Aspect**. |
-| 23 | Gain one point of permanent **fatigue** as your body warps and shrivels. |
-| 24 | Gain one **Aspect** of whichever category you have the most. |
+| 20 | Gain one **Demonian Vitiation**. |
+| 21 | You crave carrion and take a *Deprived constraint if you don't consume dead flesh daily. |
+| 22 | Gain one **Ophidian Vitiation**. |
+| 23 | Permanently reduce your body inventory slots from 4 to 3 as your body warps and shrivels. |
+| 24 | Gain one **Vitiation** of whichever category you have the most. |
 | 25 | You spawn a shadow duplicate of yourself which tries to kill your peers. |
-| 26 | Gain one **Aspect** of whichever category you have the most. |
-| 27 | Everyone around you always hears a rasping whisper. |
-| 28 | Gain one **Chthonian Aspect**, one **Demonian Aspect**, and one **Ophidian Aspect**. |
+| 26 | Gain one **Vitiation** of whichever category you have the most. |
+| 27 | Everyone around you always hears an uncanny rasping whisper. |
+| 28 | Gain one **Chthonian Vitiation**, one **Demonian Vitiation**, and one **Ophidian Vitiation**. |
 | 29 | All animals loathe you, fleeing from you if they are prey and attacking you if predatory. |
 | 30+ | A portal to a dimension without light or form opens and consumes you. You are forever obliterated. Every character near you gains one corruption immediately and makes a corruption check. |
 
-#### Chthonian Aspects
+#### Chthonian Vitiation
 
 | d12 | Corruption |
 | :-: | :- |
-| 1 | You can decipher ancient or forbidden writing. |
-| 2 | You can create a mirror image of yourself for a minute. |
+| 1 | You can decipher ancient or forbidden writings. |
+| 2 | You can create a mirror image of yourself for a round. |
 | 3 | You can speak abyssal words and deal d4 WIL damage. |
 | 4 | You can squeeze through spaces as narrow as an inch. |
 | 5 | Your touch can restore d6 STR at the cost of d6 WIL. |
 | 6 | You have a third eye capable of discerning invisibility. |
 | 7 | You can mutate small animals to act as disfigured tools. |
-| 8 | You can implant unnerving thoughts into others’ minds. |
+| 8 | You can implant unnerving thoughts into another’s mind. |
 | 9 | Your blood is an intoxicating and tranquilizing substance. |
 | 10 | You can breathe underwater and are mildly magnetic. |
 | 11 | You can excrete small amounts of sticky, transparent tar. |
 | 12 | You are unaffected by insanity or mental manipulation. |
 
-#### Demonian Aspects
+#### Demonian Vitiation
 
 | d12 | Corruption |
 | :-: | :- |
@@ -572,9 +594,9 @@ Roll **d20 +corruption level** and consult the following table.
 | 11 | You can detach and re-attach your hands and feet. |
 | 12 | You gain a pair of shadowy wings and can fly. |
 
-#### Ophidian Aspects
+#### Ophidian Vitiation
 
-| d12 | Aspect |
+| d12 | Vitiation |
 | :-: | :- |
 | 1 | Your skin turns to hard scales, and you gain +1 armor. |
 | 2 | You can speak to and understand all reptiles. |
@@ -591,7 +613,7 @@ Roll **d20 +corruption level** and consult the following table.
 
 #### Transmogrification
 
-After gaining a **fifth** aspect of the same kind, you are warped into a monster, become an immediate threat to your adventuring party, and a long-term threat to the game world. The GM takes over your character. It’s time to create a new adventurer.
+After gaining a **fifth Vitiation** of the same kind, you are forever transformed into a vile monster. You become an immediate threat to your adventuring party and a long-term threat to the game world. The GM takes over your character. It’s time to create a new adventurer.
 
 - **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
 - **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the region’s leaders and beyond.

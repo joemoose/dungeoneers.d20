@@ -5,6 +5,18 @@ _scratch pad
 ## Failed Careers
 
 
+<a href="https://www.flaticon.com/free-icons/rpg" title="rpg icons">Rpg icons created by Dmitry Mamaev - Flaticon</a>
+
+https://www.flaticon.com/free-icon/knowledge_2174195
+
+https://www.flaticon.com/authors/dmitry-mamaev
+
+<a href="https://www.flaticon.com/free-icons/gaming" title="gaming icons">Gaming icons created by juicy_fish - Flaticon</a>
+
+https://www.flaticon.com/authors/juicy-fish
+
+<a href="https://www.flaticon.com/free-icons/shield" title="shield icons">Shield icons created by Freepik - Flaticon</a>
+
 ---
 
 At the beginning of a round, the GM describes the most likely actions to be taken by your opponents. You then declare your character’s intentions for the round before rolling any dice. 

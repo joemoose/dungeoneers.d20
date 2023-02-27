@@ -97,39 +97,39 @@ On your turn in a combat round, your character can move to an adjacent zone and 
 
 **Attacks always hit**. Roll your weapon’s damage die or dice (refer to the weapons list) and do that much damage to an opponent minus their armor. Remember, this is also true for your opponents; their attacks always hit you.
 
-### Bonus Damage
+#### Bonus Damage
 
 In some situations, attacks may receive an extra die, noted as +d6, +d8, etc. Roll the extra die with your weapon’s damage roll, keeping the **best** result. For example, attacks against helpless or unaware targets receive +d12 bonus damage.
 
-### Impaired Attacks
+#### Impaired Attacks
 
 When an attack is **impaired**, such as firing into cover or fighting while your hands are bound, roll **+d4** damage and keep the **worst** result.
 
-### Critical Hits
+#### Critical Hits
 
 Rolling the **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor and deals the total damage.
 
-### Dual-Wielding
+#### Dual-Wielding
 
 If attacking with two weapons, one in your main hand and one offhand, roll damage for both and choose the best result.
 
-### Multiple Attackers 
+#### Multiple Attackers 
 
 If multiple combatants attack the same target, all attackers roll their damage but keep only the best result. 
 
-### Ranged Attacks
+#### Ranged Attacks
 
 Ranged weapons can’t be used if you’re in the same zone as your target.
 
-### Aiming
+#### Aiming
 
 Not moving and using an action to aim instead of attacking allows a character to ignore the target’s armor with a ranged weapon the next round.
 
-### Blast
+#### Blast
 
 Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, and a swarm of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
 
-### Subdual
+#### Subdual
 
 Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An opponent who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
@@ -167,9 +167,9 @@ When HP is depleted, the damage is dealt to your **STR attribute**. Damage to th
 
 After taking STR damage, you must make a STR check. If the check succeeds, you’re still in action and can continue fighting. If you fail, you take **critical damage**.
 
-## Critical Damage
+### Critical Damage
 
-When you suffer critical damage, you are knocked unconscious and take an *Injured* burden. You remain unconscious until revived by an ally. Even after you’re revived, the *Injured* burden remains until it’s cleared.
+When you suffer critical damage, you are knocked unconscious and take a *Wounded* constraint. You remain unconscious until revived by an ally. Even after you’re revived, the *Wounded* constraint remains until it’s cleared.
 
 If you’re left unconscious for an hour, your character dies.
 
@@ -184,8 +184,8 @@ If your character dies, create a new one. The GM will introduce them as quickly 
 There are three ways for your character to rest and recover:
 
 - **Short Rest**: Resting for a complete turn restores all lost HP but may expose the party.
-- **Long Rest**: Resting for a watch uninterrupted restores one lost point of STR, DEX, and WIL and removes all *Dazed* and *Fatigued* burdens.
-- **Full Rest**: Resting in a safe location for a week restores all lost STR, DEX, and WIL and removes all *Injured* or other long-term burdens.
+- **Long Rest**: Resting for a watch uninterrupted restores one lost point of STR, DEX, and WIL and clears all *Dazed* and *Fatigued* constraints.
+- **Full Rest**: Resting in a safe location for a week restores all lost STR, DEX, and WIL and clears all *Wounded* or other long-term constraints.
 
 Magical healing or the care of skilled healers may shorten these recovery times.
 
@@ -213,16 +213,16 @@ The following table shows the total XP required to advance each level.
 
 When your character earns enough XP to advance to the next level, perform the following actions:
 
-- **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, WIL, and LUCK. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased, increase the lowest attribute by 1.
+- **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, WIL, and LUCK. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased after rolling for each, increase the lowest attribute by 1.
 - **Roll hit points**: Roll the dice listed for the new level’s HP. If the result exceeds the maximum HP that your character has, replace it with the rolled value. Otherwise, increase your HP by 1.
 
 The highest value that a character can attain for attributes and HP is 18.
 
 ### Stamina
 
-Starting at level 2, your character gains the **Stamina** attribute. Stamina allows your character to ignore burdens.
+Starting at level 2, your character gains the **Stamina** attribute. Stamina allows your character to ignore constraints.
 
-For each point of Stamina, you may place one burden into the Stamina space on your character sheet rather than in your inventory. After it’s put into the Stamina space, a burden is ignored but can’t be removed until cleared.
+For each point of Stamina, you may place one constraint into the Stamina space on your character sheet rather than in your inventory. After it’s put into the Stamina space, a constraint is ignored but can’t be removed until its cleared requirement is met.
 
 ## Spells
 
@@ -246,7 +246,7 @@ Once all the essence in a tablet is depleted, its spell can no longer be cast. E
 
 ### Miscasting a Spell
 
-Whenever one or more **6s** are rolled when casting a spell, the spell parasitically drains the caster’s focus and mental energies. For each 6, the caster takes **d6** damage to WIL and then makes a WIL check. If failed, the caster takes a *Dazed* burden.
+Whenever one or more **6s** are rolled when casting a spell, the spell parasitically drains the caster’s focus and mental energies. For each 6, the caster takes **d6** damage to WIL and then makes a WIL check. If failed, the caster takes a *Dazed* constraint.
 
 The spell still materializes, though at a cost to the caster.
 
@@ -288,7 +288,7 @@ If two essence are used to cast Darkness, and the result of the 2d6 roll is 7, t
 | 35 | Greed | [SUM] creatures develop an overwhelming urge to possess a visible object you choose for [DICE] turns. | Place three stolen coins in three cups of wine to be drunk by three persons unknown to you. |
 | 36 | Grow | Enlarge a creature to [DICE] + 1 times its original size for [SUM] rounds. | Tie the spell tablet with a silver wire to the highest branch of the third oak tree you see for three days and three nights. |
 | 41 | Haste | [DICE] targets can make an extra move and action. | Fasten three falcon feathers and three whiskers from a hare with silver wire to the spell tablet and gallop with it on horseback for three leagues. |
-| 42 | Heal | Heal [SUM] HP and [SUM]/2 (rounded up) attribute points *or* remove [DICE] burdens from a creature. | Cut yourself with a silvered blade for d6 STR damage and sprinkle your blood on the spell tablet. | 
+| 42 | Heal | Heal [SUM] HP and [SUM]/2 (rounded up) attribute points *or* clear [DICE] constraints from a creature. | Cut yourself with a silvered blade for d6 STR damage and sprinkle your blood on the spell tablet. | 
 | 43 | Invisibility | Make [DICE] creature invisible for [SUM] rounds. Movement and actions each reduce the duration by 1 round. | Carry a small mirror and the spell tablet upon your person and remain unseen by any person or creature for three days and three nights. |
 | 44 | Leap | For [DICE] rounds, [DICE] creatures can jump up to [DICE] x 12 feet high. | Feed a cricket you have caught in your hands to a frog you’ve captured barehanded. |
 | 45 | Light | Temporarily blind [SUM] creatures. Alternately, create a floating light as bright as a torch for [SUM] turns that moves as you command while in your line of sight. | Light three fine beeswax candles on the spell tablet under a starry night sky. Let each burn completely one at a time while focusing its light on the center of the tablet with a small lens. |

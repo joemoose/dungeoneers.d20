@@ -1,4 +1,5 @@
 site_name: Tyros RPG
+
 nav:
   - Home: README.md
   - 1 Make an Adventurer.md
@@ -9,7 +10,9 @@ nav:
 
 theme:
   name: readthedocs
-  analytics:
-    gtag: ''
-    navigation_depth: 4
-    locale: en
+  navigation_depth: 4
+  locale: en
+  logo: img/illuminated T.png
+
+extra_css: [extra.css]
+extra_javascript: [extra.js]

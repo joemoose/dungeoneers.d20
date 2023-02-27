@@ -1,49 +1,52 @@
+# Project information
 site_name: TYROS RPG
+site_url: https://joemoose.github.io/tyros
+site_author: Zachary Taylor
+
+# Navigation
 nav:
   - Home: README.md
   - 1 Make an Adventurer.md
   - 2 Equipment.md
   - 3 How to Play.md
   - 4 Appendix.md
-  
+  - 5 Credits.md
+
+# Copyright
+copyright: Copyright &copy; 2023 All rights reserved.
+
+# Theme
 theme:
   name: material
-  palette: 
-    scheme: slate
+  logo: img/RPG-game.png
+  favicon: img/favicon.ico
   features:
     - navigation.instant
-    - navigation.tabs.sticky
-    - navigation.footer
+    - navigation.tracking
+    - navigation.top
+    - header.autohide
+  font:
+    text: Merriweather
+    Code: Roboto Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: indigo
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: indigo
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Extensions
 markdown_extensions:
-
-  # Python Markdown
-  - abbr
   - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
-  - toc:
-      permalink: true
-
-  # Python Markdown Extensions
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+
+extra:
+  generator: true
