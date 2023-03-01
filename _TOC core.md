@@ -1,5 +1,3 @@
-docs/README.md
-
 docs/1 Make an Adventurer.md
 
 docs/2 Equipment.md
@@ -13,8 +11,3 @@ docs/3.2 Damage.md
 docs/3.3 Spells.md
 
 docs/3.4 Advancement.md
-
-docs/4 Attribution.md
-
-docs/5 Appendix.md
-

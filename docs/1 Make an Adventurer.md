@@ -1,6 +1,8 @@
-# Make an Adventurer
+# Your Character
 
-You’re a newly minted adventurer: a tomb-raiding, treasure-seeking ne’er-do-well who wields a spellbook just as easily as a blade. You will live a dangerous life. You will delve into strange and mysterious places. With some luck, you might retire before dying.
+## Overview
+
+You’re a newly minted adventurer: a tomb-raiding, treasure-seeking tyro who wields a spellbook just as easily as a blade. You will live a dangerous life. You will delve into strange and mysterious places. With some luck, you might retire before dying.
 
 ## Step 1: Backstory
 
@@ -8,11 +10,13 @@ Create a little backstory for your character. You chose to become an adventurer 
 
 ➡️  Choose or roll once for each column in the following table to determine your former profession, what misfortune befell you that pushed you into the life of adventuring, and a personal virtue and vice.
 
-Also, think about their relationship with the other characters in the group and how their background has influenced them to become the person they are at the start of the game.
+Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. But don’t get too attached to your character; it’s a dangerous world.
 
-You don’t have to decide all this now; developing your character as you play is okay. But don’t get too attached to your character; it’s a dangerous world.
+!!! tip "Huzzah!"
 
-> *“You used to be a [profession], but then you were [misfortune]. Now you are a [virtue] but [vice] adventurer! Huzzah!”*
+		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*virtue*) but (*vice*) adventurer!
+
+**Backstory Table**
 
 | d20 | Profession | Misfortune | Virtue | Vice |
 | :-: | :- | :- | :- | :- |
@@ -43,9 +47,9 @@ You don’t have to decide all this now; developing your character as you play i
 
 If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
 
-### Name
+**Names Table**
 
-*Roll once with d6 and d20.*
+Roll once with d6 and d20.
 
 |   | 1–2 | 3–4 | 5–6 |
 | :-: | :- | :- | :- |
@@ -70,7 +74,9 @@ If you’d like inspiration or prefer to determine your character’s name and a
 | 19 | Erasmus | Ogden | Webster |
 | 20 | Esme | Olga | Zora |
 
-*Roll once with d6 and d20.*
+**Surnames Table**
+
+Roll once with d6 and d20.
 
 |   | 1–2 | 3–4 | 5–6 |
 | :-: | :- | :- | :- |
@@ -95,9 +101,9 @@ If you’d like inspiration or prefer to determine your character’s name and a
 | 19 | Fisk | Phillifent | Wexley |
 | 20 | Gimble | Relish | Wilberforce |
 
-### Appearance
+**Appearance Table**
 
-*Roll once or twice with d6 and d20.*
+Roll once or twice with d6 and d20.
 
 |   | 1–2 | 3–4 | 5–6 |
 | :-: | :- | :- | :- |
@@ -147,7 +153,7 @@ Hit points (HP) are the amount of damage you can shrug off before suffering any 
 
 Let’s see what equipment you’ve brought to your new adventuring life.
 
-➡️ Everyone starts with a heavy cloak of their choice of color, a dagger, and **3d6** coins.
+➡️ Everyone starts with a heavy cloak of their choice of color, adventuring gear, a dagger, and **3d6** coins.
 
 Choose **three** more items from the following list. You may choose an item more than once.
 
@@ -157,34 +163,18 @@ Choose **three** more items from the following list. You may choose an item more
 - shield
 - gambeson (padded cloth armor)
 - 50 coins
-- bear trap
 - bottle of fine wine
-- crowbar
 - fancy clothes
 - musical instrument
 - healing potion
-- hunting horn
 - ink, quill, and parchment
-- lockpicks
 - pipe and pipeleaf
-- pole, 10ft
 - small but vicious dog
-- spell tablet (*spell selected randomly)*
-
-### Group Equipment 
-
-In addition to your starting equipment, your party of adventurers begins with the following expeditionary gear:
-
-- **Camping Kit** (bedrolls, tarps, tie lines)
-- **Climbing Kit** (rope, spikes, grappling hook, chalk)
-- **Healer’s Kit** (bandages, splints, forceps, herbal poultices, needle, thread)
-- **Illumination Kit** (torches, lanterns, lamp oil, tinderbox)
-- **Provisions Kit** (rations, waterskin, mess kit, pots, salt)
-
-Distribute each of these kits across all characters as equally as possible. Each kit is *bulky* (taking two inventory slots). So long as these resources aren’t depleted, the party has enough for everyone.
+- spell tablet (*selected randomly, see the [Spells](3.3 Spells.md) section for a list )*
+- thieves tools
 
 ## Step 6: Introductions
 
-Introduce your character to your adventuring group, and get ready to roll dice.
+Introduce your character to your adventuring group, and get ready to explore.
 
 Good luck, adventurer!

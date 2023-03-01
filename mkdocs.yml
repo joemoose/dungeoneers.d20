@@ -9,11 +9,12 @@ nav:
   - 1 Make an Adventurer.md
   - 2 Equipment.md
   - 3 How to Play.md
-  - 4 Appendix.md
-  - 5 Credits.md
-
-# Copyright
-# copyright: Copyright &copy; 2023. All rights reserved.
+  - 3.1 Combat.md
+  - 3.2 Damage.md
+  - 3.3 Spells.md
+  - 3.4 Advancement.md
+  - 4 Attribution.md
+  - 5 Appendix.md
 
 # Theme
 theme:
@@ -21,22 +22,28 @@ theme:
   logo: tyros_icon.png
   favicon: favicon.ico
   features:
+    - navigation.footer
     - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.tracking
     - navigation.top
     - header.autohide
+    - toc.integrate
+    - toc.follow
   font:
     text: Merriweather
-    Code: Roboto Mono
   palette:
     - media: "(prefers-color-scheme: light)"
-      primary: indigo
+      primary: black
       scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: indigo
+      primary: black
       scheme: slate
       toggle:
         icon: material/brightness-4
@@ -48,5 +55,3 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-extra:
-  generator: false

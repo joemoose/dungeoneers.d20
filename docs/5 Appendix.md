@@ -1,13 +1,16 @@
 # Appendix
 
+## Overview
+
 This appendix contains the following sections:
 
 - core rules reference
+- sundries equipment list
 - starting gear for standard fantasy archetypes
-- tactical initiative
-- alternate character advancement
+- simplified initiative
+- optional leveling system: milestones
 - optional weapons: dragonpowder gonnes
-- sword and sorcery genre rules
+- optional rules: sword and sorcery genre
 
 ## 1. Rules Reference
 
@@ -16,10 +19,13 @@ This appendix contains the following sections:
 ### Best practices
 
 - **Ask lots of questions**. Gather information. Talk to NPCs. Make notes. Draw maps.
-- **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally.
-- **Work together**. Don’t split the party. Try new things. You aren’t limited by your character sheet.
+- **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally. Always gain an advantage. Your character sheet doesn’t limit you.
 - **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away. 
-- **Play to win, savor loss**. You will leave your mark on the world.
+- **Play to win, but savor a loss**. Leave your mark on the world. Go down fighting.
+
+!!! quote
+
+		Play your character like you’re driving a stolen car.<br/>–John Harper, *Blades in the Dark*
 
 ### Attribute Checks
 
@@ -30,31 +36,43 @@ Roll **d20** equal to or less than the applicable attribute:
 - **WILLPOWER (WIL)**: Tests of charisma and determination.
 - **LUCK**: Tests of chance or fate; can burn points to modify other attribute checks.
 
-**Advantage & Disadvantage**: When making a check from a strong or weakened position, roll **two d20**. Take the best or worst result, respectively.
+**Advantage & Disadvantage**
 
-**Critical Success**: Rolling the exact attribute score, a better-than-expected outcome. LUCK +1.
+- When making a check from a strong or weakened position, roll **two d20**. Take the best or worst result, respectively.
 
-**Critical Failure**: Rolling a 20, a worse-than-expected outcome. LUCK -1.
+**Critical Success**
+
+- Rolling the exact attribute score, a better-than-expected outcome. LUCK +1.
+
+**Critical Failure**
+
+- Rolling a 20, a worse-than-expected outcome. LUCK -1.
 
 ### Combat
 
 On your turn, you can move and take an action.
 
-**Initiative**: If the enemy is surprised, you go before them. If the enemy is not surprised, make a DEX *or* WIL check to act first. Maintain the same order in subsequent rounds.
+**Initiative**
 
-**Attacks**: Attacks always hit. Roll weapon damage and deal that much damage to an enemy, minus any armor.
+Declare actions before rolling dice. A *fast* turn is a single action. A *slow* turn is an action and moving, or actions that take more time.
 
-- **Critical Hit**: Maximum damage roll ignores armor.
-- **Enhanced**: Roll extra d12 damage die, take best.
-- **Impaired**: Roll extra d4 damage die, take worst.
+1. Resolve all fast turns before slow turns.
+2. If players and opponents both take a fast turn, the player must make a DEX *or* WIL check to go first.
+3. If players and opponents both take a slow turn, the player must make a DEX *or* WIL check to go first.
+
+**Attacks**
+
+Attacks always hit. Roll weapon damage and deal that much damage to an enemy, minus any armor.
+
+- **Critical Hit**: A maximum damage roll ignores armor.
+- **Enhanced**: Roll an extra d12 damage die, take best.
+- **Impaired**: Roll an extra d4 damage die, take worst.
 
 **Damage**: Dealt first to HP.
 
 - Once HP is depleted, take damage to STR.
 - After taking STR damage, make a STR check. On failure, take a *Wounded* constraint and become incapacitated.
-- If STR is reduced to zero, you die.  
-
-**Usage**: After combat, roll d6 for each weapon, ammunition, and armor. On 5 or 6, mark usage.  
+- If STR is reduced to zero, you die.   
 
 ### Rest & Healing
 
@@ -64,19 +82,79 @@ On your turn, you can move and take an action.
 
 ### Spells
 
-Invest **1–3 essence** (up to the remaining uses).  
+Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each essence invested:
 
-- Roll **d6** for each **essence** invested. Mark usage for each 5 or 6 rolled.  
-- The spell effect uses the number of dice rolled and the sum.
-- For every 6 rolled, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.  
-
+- Mark essence usage for each **5 or 6** rolled.  
+- For every **6 rolled**, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.
+- The spell effect is determined by the number of dice rolled and the sum.
+  
 ### Inventory
 
 - Maximum of 12 inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
 - Items in the backpack require an action to retrieve during combat.
 - Most items take 1 slot, and bulky take 2.
 
-## 2. Character Archetype Starting Gear
+## 2. Sundries Equipment List
+
+| Clothing and Gifts | Coins |
+| :----------------- | ----: |
+| Poor clothes | 10 |
+| Standard clothes | 50 |
+| Noble clothes | 150 |
+| Finery | 120 |
+| Furs | 100 |
+| Leather boots | 15 |
+| Cloak | 25 |
+| Winter clothes | 50 |
+| A peasant gift | 2 |
+| A fine gift | 60 |
+| A noble gift | 400 |
+| Ring or cameo | 100 |
+| Fine tapestry | 350 |
+| A crown fit for a king | 5,000 |
+
+| Meals | Coins |
+| :---- | ----: |
+| A poor meal for one | 1 |
+| A hearty meal for one | 2 |
+| A feast | 15 |
+| A pint of beer | 2 |
+| A bottle of common wine | 5 |
+| A bottle of good wine | 15 |
+
+| Services | Coins |
+| :------- | ----: |
+| One day stay at a roadside inn | 2 |
+| One day stay at a civilized inn | 4 |
+| One day stay at the fanciest inn in town | 8 |
+| A week's unskilled mundane labor | 10 |
+| One day of stabling and fodder | 2 |
+| Contract a laborer for a day | 1 |
+| Contract a scribe for a day | 2 |
+| Contract an archer for a day | 4 |
+| Contract a mason for a day | 4 |
+| Contract a man-at-arms for a day | 8 |
+| Contract a knight for a day | 20 |
+| Healing from a chirurgeon | 5 |
+| A custom item from a blacksmith | Base Item + 50 |
+| Escort for a day through a safe place | 20 |
+| Escort for a day through a dangerous place | 60 |
+| A month's prayers for the departed | 1 |
+| Repairs to a mundane item | 25% of the item's cost |
+
+| Transport | Load | Coins |
+| :-------- | :--: | ----: |
+| Cart and Donkey, to carry your burdens | 12 | 50 |
+| Horse | 8 | 100 |
+| Warhorse | 10 | 1,000 |
+| Wagon | 20 | 150 |
+| Small boat | 15 | 50 |
+| Passage on a safe route | - | 1 |
+| Passage on a tough route | - | 10 |
+| Passage on a dangerous route | - | 100 |
+
+
+## 3. Character Archetype Starting Gear
 
 ---
 
@@ -195,61 +273,31 @@ Invest **1–3 essence** (up to the remaining uses).
 - **Charges**: d6+1
 - **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature will not be hostile toward you.
 
-## 3. Tactical Initiative System
+## 4. Simplified Initiative
 
 ---
 
-### Declaring Actions
+If you prefer a simpler and faster method to establish a turn order when combat breaks out, follow this rule.
 
-At the beginning of a round, the GM describes the actions likely taken by your opponents. You then declare your character’s intentions for the round before rolling any dice. 
+If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a DEX *or* WIL check to act before your opponents. In following combat rounds, maintain this order.
 
-### Determining Quick and Slow Turns
-
-Next, all combatants determine whether their declared intentions involve a *quick* or *slow* turn.
-
-A **quick** turn consists of taking only a **single action**, such as:
-
-- Using a relic
-- Casting a spell
-- Making an attack
-- Moving to an adjacent zone
-- Disengaging from an opponent 
-- Trying a gambit against a close opponent
-
-A **slow** turn consists of both **moving and taking an action**, or actions that take more time, such as:
-
-- Moving twice
-- Aiming a ranged weapon
-- Reviving an incapacitated ally
-- Moving before making an attack
-- Concentrating on maintaining an ongoing spell
-- Retrieving a weapon from a backpack, then attacking
-
-### Setting Turn Order and Resolving Actions
-
-After determining who’s turns will be quick or slow, the order of resolving actions is as follows:
-
-1. Resolve all quick turns before slow turns.
-2. If players and opponents both take a quick turn, the player must make a DEX *or* WIL check to go first.
-3. If players and opponents both take a slow turn, the player must make a DEX *or* WIL check to go first.
-
-## 4. Alternate Character Advancement
+## 5. Alternate Leveling
 
 ---
 
-Rather than tracking experience points based on looting treasure and artifacts, advancement can be tied to completing adventurous campaigns and returning to civilization. You’ll need to bring something back to show for your efforts or, at the very least, a good tale for the bards.
+Rather than tracking experience points and leveling up based on the value of looted treasure and artifacts, you can tie your character’s level advancement to essential milestones, such as completing an expedition and returning to civilization. You’ll need to bring something of value back to show for your efforts or, at the very least, share an adventurous tale to be sung by troubadours.
 
-You need to return from as many successful expeditions equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one campaign. To go on to level 3, they need to complete two more campaigns.
+You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more expeditions.
 
-## 5. Dragonpowder Gonnes
+## 6. Dragonpowder Gonnes
 
 ---
 
 Dragonpowder gonnes are expensive, exotic, and very loud. Wielded by the rich or the foolhardy, these strange weapons are reputed to be of Dwarven manufacture. However, they could very well hail from the infernal planes.
 
-All dragonpowder gonnes have the following qualities:
+All dragonpowder gonnes have the following characteristics:
 
-- **Ammo**: Gonnes require expensive and dangerous ammunition. Remove one shot from your ammo supply after reloading. Some gonnes require more than a single shot per reload.
+- **Ammo**: Gonnes require expensive ammunition. Remove one shot from your ammo supply after reloading. Some gonnes require more than a single shot per reload.
 - **Armor piercing**: Damage ignores 4 armor ratings.
 - **Unwieldy**: Unlike all other weapons, gonnes first require **a successful DEX *or* WIL check to do damage**. If the check fails, the attack misses its target and does no damage. In either event, the gonne must be reloaded before firing again. Rainy or windy conditions impose a disadvantage on the attribute check.
 	- On a **critical success**, the gonne ignores all the target’s armor.
@@ -257,7 +305,7 @@ All dragonpowder gonnes have the following qualities:
 - **Deadly**: On a **critical hit**, roll damage a second time rather than ignoring all armor as with other weapons. If another critical hit occurs, roll damage a third time, and so on.
 - **Long-range**: If you can see the target, you can attack it. However, you cannot attack targets in the same zone as you. The exception is the *Fire Lance*; see the following Gonnes Table.
 - **Reloading**: Gonnes require an action and a **successful DEX *or* WIL check to reload**. Reloading requires both hands, and you can’t reload a gonne while moving or if an enemy is in the same zone. Mark off one ammo usage after successfully reloading.
-	- On a **critical success**, you may attack in the same action as reloading.
+	- On a **critical success**, you can attack in the same action as reloading.
 	- On a **critical failure**, mark off one (wasted) ammo usage.
 - **Noisy**: Igniting dragonpowder has loud and explosive results. Lesser creatures make a morale check when hearing the shot. Anything more intelligent will notice and investigate.
 
@@ -269,7 +317,7 @@ Remember, if you can buy dragonpowder gonnes, so can everyone else.
 | :--- | :----: | :---- | ----: |
 | Pomegranate | 2d6 | Thrown. One inventory slot. Destroyed on use. *Blast* damage. | 300 |
 | Petronel | d10 | One inventory slot. One-handed: it is fired in the main hand but requires both hands to reload. | 600 |
-| Fire Lance | d10/(d6) | Two-hands. Bulky. Deals damage to a single target in melee range or d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Has Impaired damage at targets more than 1 zone away. Requires two Powder Shots for each reload. | 1,000 |
+| Fire Lance | d10/(d6) | Two-hands. Bulky. Deals damage to a single target in melee range or d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires two Powder Shots for each reload. | 1,000 |
 | Hand Cannon | d12 | Two-hands. Bulky. | 800 |
 | Bombard | 4d10 | Can only be moved using a pack animal and wagon. It requires two people to operate and takes one round to aim. It deals d8 damage to anyone standing directly behind it when it fires. Requires one Cannon Shot and two rounds for each attribute check to reload. | 4,000 |
 | Basilisk (Infernal Machine) | 6d10 | Requires two people to move or a pack animal and wagon. Roll blast damage for every target in front of you. Divide the damage by the number of targets or three, whichever’s higher (rounded up). Requires reloading nine Basilisk Shots. More than one person can reload to hasten the process. | 6,000 |
@@ -296,7 +344,7 @@ On a critical failure when firing a dragonpowder gonne, roll **2d6** and refer t
 | 11 | The gonne is fine, but everyone nearby must make a LUCK check. The shot hits the character who fails and rolls the highest. |
 | 12 | The gonne explodes and is destroyed, dealing d12 *blast* damage to you and everyone nearby. |
 
-## 6. Swords and Sorcery Genre Rules
+## 7. Swords and Sorcery Genre Rules
 
 ---
 
@@ -318,47 +366,49 @@ The three classes are described in the following sections.
 
 Warriors are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of warriors is to battle monsters and defend other characters.
 
-#### Talent: Combat Maneuvers
+#### Talent: COMBAT MANEUVERS
 
-A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **grit**. You start with one grit. At every **even-numbered** level, you gain one additional grit. You may use multiple maneuvers at the same time.
+A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **Grit**. You start with one grit. At every **even-numbered** level, you gain one additional grit. You can use multiple maneuvers at the same time.
 
-The grit you spend is restored after a long rest.
+Grit is restored after a long rest.
 
 ##### Level 1 Maneuvers
 
 A new warrior starts with three combat maneuvers in their repertoire:
 
-- **FOCUS**: When attacking, you can spend one grit to ignore the target’s Armor.
-- **NOT ON MY WATCH!**: You can spend one grit to act before your opponents when determining combat turn order.
-- **SHAKE IT OFF**: Whenever you take damage, you can spend one grit to reduce the damage by d6.
+- **CUNNING**: When attacking, spend one grit to ignore the target’s armor.
+- **ALERT**: Spend one grit to act before your opponents.
+- **TOUGH**: Whenever you take damage, spend one grit to reduce the damage by d6.
 
-##### Level 2, 5, & 7 Maneuvers
+##### Levels 2, 4, & 6 Maneuvers
 
-Choose one of the following maneuvers at levels 2, 5, and 7 to add to your repertoire.
+Choose one of the following combat maneuvers at even-numbered levels to add to your repertoire.
 
-- **CLEAVE**: Instead of making a normal attack, you may spend one grit to make a single attack with the *blast* quality to attack all opponents in the zone for half damage.
-- **COMMAND**: Instead of making an attack, you may spend one grit to allow an ally to make an attack that deals +d10 bonus damage.
-- **PAYBACK**: When an ally takes damage from an opponent within the range of your weapon, you may spend one grit to attack the opponent immediately.
-- **RAPID FIRE**: When you use a ranged weapon, you may spend one grit to shoot at two separate targets.
-- **SHIELD**: When an ally in your zone takes damage, you may spend a grit and add your armor rating to theirs for this round.
-- **TAUNT**: You may spend one grit to make all enemies attack you this round. 
+- **CLEAVE**: Instead of making a normal attack, spend one grit to make a single attack with the *blast* quality to attack all opponents in the zone for half damage.
+- **COMMAND**: Instead of making an attack, spend one grit to allow an ally to make an attack that deals +d12 bonus damage.
+- **JUGGERNAUT**: After you slay or deal critical damage to an opponent, spend one grit to make another attack immediately.
+- **RALLY**: Spend one grit to restore d6 HP.
+- **RAPID FIRE**: When you use a ranged weapon, spend one grit to make two attacks.
+- **RETALIATE**: When an ally takes damage from an opponent within the range of your weapon, spend one grit to attack that opponent immediately.
+- **SHIELD**: When an ally in your zone takes damage, spend a grit and add your armor rating to theirs for this round.
+- **TAUNT**: Spend one grit to make all enemies attack you this round. 
 
-#### Talent: Trophies
+#### Talent: TROPHIES
 
-You gain the following warrior abilities at level 3.
+You gain the following talents at level 3.
 
-**TROPHIES**
+**TROPHY**
 
-After you defeat a creature in combat, you may take a trophy from their remains. A trophy takes up one item slot.
+After you slay a creature in combat, you can take a trophy from their remains. A trophy takes up one inventory slot.
 
-When you encounter a creature of which you carry a trophy, you may spend one grit to:
+When you encounter a creature of which you carry a trophy, spend one grit to:
 
-- Receive +d8 bonus damage when attacking it.
+- Receive +d12 bonus damage when attacking it.
 - Gain an advantage on attribute checks against that creature’s abilities.
 
 **SPOOR**
 
-You can also construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed after use.
+You can construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed on use.
 
 ---
 
@@ -366,35 +416,35 @@ You can also construct a trophy by scouting a creature’s lair and taking somet
 
 ---
 
-Thieves are adventurers who live by their wits and luck, with a little resourcefulness and finesse for good measure. Their range of unique talents makes them versatile companions in adventures.
+Thieves are adventurers who live by their wits and luck, with a little resourcefulness for good measure. Their range of unique talents makes them versatile companions in adventures.
 
 #### Talents
 
 You have a variety of unique abilities. When you first create your character, and each time you gain a level, you can choose one talent from the following list or gain mastery of a talent you already know.
 
-**BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the Advantage you would typically gain, you double the damage rolled.
+**BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double the damage rolled.
 
-- **Mastery**: During combat, as part of your attack, you may make a DEX or WIL check against a creature aware of you to flank or confuse the target, adding +d12 damage bonus.
+- **Mastery**: During combat, as part of your attack, you can make a DEX or WIL check against a creature aware of you to flank or confuse the target, adding +d12 damage bonus.
 
-**EXPERTISE**: You may re-roll an attribute check once per session.
+**EXPERTISE**: You can re-roll an attribute check once per session.
 
-- **Mastery**: You may re-roll any dice roll.
+- **Mastery**: You can re-roll any dice roll.
 
-**MANY POCKETS**: It no longer takes an action to retrieve an item from your backpack slots during combat.
+**FAST**: You can both attack and then disengage as a *fast* initiative turn.
 
-- **Mastery**: You gain two additional backpack slots.
+- **Mastery**: You can move and attack in the same round as a *fast* initiative turn.
+
+**MANY POCKETS**: You gain an additional body inventory slot. 
+
+- **Mastery**: You no longer require an action to retrieve an item from your backpack slots during combat.
+
+**MOBILE**: You no longer trigger a free attack when disengaging.
+
+- **Mastery**: You always act before the enemy if you’re not surprised.
 
 **NETWORK**: Make a WIL check when entering a new settlement. If you succeed, note that you have a contact in the settlement. The nature of this contact is up to you and the GM and can be fleshed out whenever the need arises.
 
-- **Mastery**: You may make a WIL check once each session to see if you have a contact in an area, regardless of whether you’re new to that area.
-
-**SUPPLIES**: You may buy a *Supply* for 10 coins in a settlement. Supply is an abstract item with a single use available only to the thief that takes up one inventory slot. It can be changed into any *common or cheap* mundane item.
-
-- **Mastery**: A supply can also produce a *rare or valuable* mundane item.
-
-**SWIFT**: You no longer trigger a free attack when disengaging.
-
-- **Mastery**: You always act before the enemy if you’re not surprised.
+- **Mastery**: Make a WIL check once each session to see if you have a contact in any area, regardless of whether you’re new to it.
 
 ---
 
@@ -408,7 +458,7 @@ A sorcerer brings substantial capabilities to an adventuring party, but a sorcer
 
 #### Talent
 
-**Sorcereous Powers**: You alter the world through sheer force of will and your body’s consumption. You need no charms, runes, spellbooks, or scrolls. Reality is yours to command.
+**SORCEREOUS POWERS**: You alter the world through sheer force of will and your body’s consumption. You need no charms, runes, spellbooks, or scrolls. Reality is yours to command.
 
 Your sorcerous power requires you to expend at least one attribute point of STR, DEX, WIL, or LUCK as essence to fuel your magic. The more of your body you sacrifice, the greater the essence consumed and the greater the magnitude of the power unleashed.
 
@@ -423,7 +473,7 @@ The WIL check to invoke your power is advantageous if performed over two or more
 
 #### Powers
 
-When you create your character, pick one Power. You may select one additional Power at levels 3, 5, and 7.
+When you create your character, pick one Power. Select one additional Power at levels 3, 5, and 7.
 
 ##### ALTER
 
@@ -463,71 +513,71 @@ The essence required for sorcerous powers can be drained from another sentient c
 
 The process is not as efficient as draining essence from the sorcerer’s body; two attribute points must be sacrificed from the host for one essence. The essence drained from the host can be combined with that from the sorcerer.
 
-If essence is drained from an unwilling victim, the victim must be restrained, and, assuming they are conscious, they can make an attribute check to resist the loss.
+If essence is drained from an unwilling victim, the victim must be restrained and, assuming they are conscious, can make an attribute check to resist the loss.
 
 ---
 
 ### Advancement
 
-As your character increases their level, they do not automatically increase their HP and attributes as in the core TYROS rules. Instead, they select new talents or powers from their class.
+As your character levels, they do not automatically increase their HP and attributes as in the core TYROS rules. Instead, they select new talents or powers from their class.
 
-They need to gain **scars** through combat to increase their HP and attributes.
+Characters must gain **scars** through combat to increase their HP and attributes.
 
 ### Scars
 
-When a character’s HP is reduced to zero or less, they are uniquely scarred. Look up the result in the table below based on the damage suffered.
+When a character’s HP is reduced to **zero or less** in combat, they are uniquely scarred. Look up the result in the table below based on the damage suffered.
 
 | Damage | Scar |
 | :-: | :- |
 | 1 | **Lasting Scar**: Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 2d6. If the total is higher than your max HP, swap it. |
 | 2 | **Rattling Blow**: You’re disoriented and shaken. WIL checks have a disadvantage until you heal and rest. Roll 2d6. If the total is higher than your max HP, swap it. |
 | 3 | **Walloped**: You’re sent flying, landing flat on your face, winded. Add a *Fatigue* constraint to your inventory. Add 1 to your max HP. |
-| 4 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. STR checks have a disadvantage until you heal and rest. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
-| 5 | **Diseased**: You have a revolting, uncomfortable infection. Attribute checks have a disadvantage until you heal and rest. When you get over the infection, roll 3d6. If the total is higher than your max HP, swap it. |
-| 6 | **Reorienting Head Wound**: Roll 1d6; 1–3: WIL, 4–6: STR. Roll 3d6. If the total is higher than your current attribute score, swap it. |
-| 7 | **Hamstrung**: You can’t walk until you heal and rest. After recovery, roll 3d6. If the result is higher than your STR attribute, swap it. |
-| 8 | **Deafened**: You cannot hear anything until you heal and rest. Afterward, Roll 3d6. If the result is higher than your WIL attribute, swap it. |
-| 9 | **Re-brained**: Some remote part of your psyche is knocked loose. Roll 3d6. If the result is higher than your WIL attribute, swap it. |
-| 10 | **Sundered**: An appendage is torn off, crippled, or useless. The GM will tell you which. Roll 3d6. If the result is higher than your STR attribute, swap it. |
-| 11 | **Mortal Wound**: You are *Deprived* and out of the action. Add a *Fatigue* to your inventory. You will die shortly unless stabilized or healed. Upon recovery, roll 2d10. Take the new result as your max HP. |
-| 12+ | **Doomed**: Death seemed imminent, but somehow, luckily, you survived. If your next STR check against Critical Damage fails, you die immediately and horrifically. Otherwise, roll 3d6. If the result is higher than your LUCK attribute, swap it. |
+| 4 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. One attribute (per GM) has a disadvantage on checks until you heal and rest. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
+| 5 | **Diseased**: You have a revolting, uncomfortable infection. Add a *Diseased* constraint. Attribute checks have a disadvantage until you heal and rest. When you recover from the infection, roll 3d6. If the total is higher than your max HP, swap it. |
+| 6 | **Reorienting Head Wound**: Roll 1d6; 1–2: STR, 3–4 DEX, 5–6: WIL. Next, roll 3d6. If the total is higher than the specified max attribute score, swap it. |
+| 7 | **Hamstrung**: You can’t walk until you heal and rest. After recovery, roll 3d6. If the result is higher than your max DEX attribute, swap it. |
+| 8 | **Deafened**: You cannot hear anything until you heal and rest. Afterward, Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
+| 9 | **Re-brained**: Some remote part of your psyche is knocked loose. Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
+| 10 | **Sundered**: An appendage is torn off, crippled, or useless. The GM will tell you which. Roll 3d6. If the result is higher than your max STR attribute, swap it. |
+| 11 | **Mortal Wound**: You are *Deprived* and out of the action. Add a *Fatigue* to your inventory. You will die shortly unless revived. Upon revival, roll 2d10. Take the new result as your max HP. |
+| 12+ | **Doomed**: Death seemed imminent, but luckily, somehow, you survived. If your next STR check against critical damage fails, you die instantly and horrifically. If you pass, roll 3d6. If the result is higher than your LUCK attribute, swap it. |
 
 ### Relics
 
-Relics are arcane items imbued with a magical spell or wonderous power. They do not require WIL check or cause *Dazed* when used. However, when using relics, you can sometimes risk corruption. Most relics have a limited number of uses and possibly a recharge condition.
+Relics are arcane objects imbued with sorcerous powers. They do not require casting like spell tablets. After attuning (see the next section), you learn the command word or method to activate the object’s power. However, when using relics, you sometimes risk corruption. Relics have a limited number of uses and possibly a recharge condition.
 
 #### Attunement
 
-Relics require your character to bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for attuning, such as attuning in a temple or underground.
+Relics require your character to bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for attuning, such as attuning only in a temple or underground.
 
-Attuning to an item requires your character to spend a long rest focused on only that item while being in physical contact with it. This focus can take the form of weapon practice (for a weapon), meditation (for an object), or some other appropriate activity. At the end of an uninterrupted long rest, your character understands how to activate any magical properties of the relic, including any necessary command words.
+Attuning to an item requires your character to spend a long rest focused on only that item while in physical contact with it. This focus can take the form of weapon practice (for a weapon), meditation (for an object), or some other appropriate activity. At the end of an uninterrupted long rest, your character understands how to activate any magical properties of the relic, including any necessary command words.
 
 A relic can be attuned to only one person at a time, and a person can be attuned to no more than three relics simultaneously. 
 
-Attunement ends if you’ve been more than 100 feet away from the relic for at least a day, your character dies, or another creature attunes to the relic. You can voluntarily end attunement unless the relic is cursed.
+Attunement ends if you’re more than 100 feet away from the relic for a day and a night, your character dies, or another creature attunes to the relic. You can voluntarily end attunement unless the relic is cursed.
 
 ### Corruption
 
-Magic is volatile and warps its practitioners. Sorcerous corruption is everywhere in the Shattered Lands. 
+Sorcery is volatile and warps its practitioners. Magical corruption is everpresent in the settings of sword and sorcery. 
 
-Your corruption level can be increased by invoking sorcerous powers, attuning arcane relics, or committing heinous acts. A newly created character has a zero corruption level.
+Your corruption level can be increased manifold: by invoking sorcerous powers, attuning to forbidden relics, casting malignant spells, or committing heinous acts. A newly created character has zero corruption level.
 
-As your corruption level increases, you suffer increasingly unpleasant effects.
+As your corruption level increases, you potentially suffer increasingly unpleasant mutations.
 
 #### Corruption Checks 
 
 When directed by the GM to make a corruption check, roll **d20**.
 
 - If the result **equals or exceeds** your current **corruption level**, you hold chaos at bay (this time) and suffer no consequences.
-- If you **fail**, roll a subsequent **d20** and **add your current corruption level**, then consult the following table for an effect.
+- If you **fail**, roll a subsequent **d20** and **add your current corruption level**, then consult the following table for a mutation.
 
-Regardless of success or failure, increase your corruption level by 1.
+Regardless of success or failure, **increase** your corruption level by 1.
 
 #### Manifestations of Corruption
 
 Roll **d20 +corruption level** and consult the following table.
 
-| d20 | Effect |
+| d20 | Mutation |
 | :-: | :- |
 | 1 | You can move small nearby objects with your mind. |
 | 2 | You can create dim light from all of your fingertips. |
@@ -549,9 +599,9 @@ Roll **d20 +corruption level** and consult the following table.
 | 18 | Gain one **Chthonian Vitiation**. |
 | 19 | A tiny famulus made of dirt (3 HP, d4 damage) follows you and whispers secrets. |
 | 20 | Gain one **Demonian Vitiation**. |
-| 21 | You crave carrion and take a *Deprived constraint if you don't consume dead flesh daily. |
+| 21 | You crave carrion and take a *Deprived* constraint if you don't consume it daily. |
 | 22 | Gain one **Ophidian Vitiation**. |
-| 23 | Permanently reduce your body inventory slots from 4 to 3 as your body warps and shrivels. |
+| 23 | Permanently reduce your body inventory slots by one as your body warps and shrivels. |
 | 24 | Gain one **Vitiation** of whichever category you have the most. |
 | 25 | You spawn a shadow duplicate of yourself which tries to kill your peers. |
 | 26 | Gain one **Vitiation** of whichever category you have the most. |
@@ -562,11 +612,11 @@ Roll **d20 +corruption level** and consult the following table.
 
 #### Chthonian Vitiation
 
-| d12 | Corruption |
+| d12 | Vitiation |
 | :-: | :- |
 | 1 | You can decipher ancient or forbidden writings. |
 | 2 | You can create a mirror image of yourself for a round. |
-| 3 | You can speak abyssal words and deal d4 WIL damage. |
+| 3 | You can speak abyssal words and drain d3 WIL from the listener. |
 | 4 | You can squeeze through spaces as narrow as an inch. |
 | 5 | Your touch can restore d6 STR at the cost of d6 WIL. |
 | 6 | You have a third eye capable of discerning invisibility. |
@@ -579,20 +629,20 @@ Roll **d20 +corruption level** and consult the following table.
 
 #### Demonian Vitiation
 
-| d12 | Corruption |
+| d12 | Vitiation |
 | :-: | :- |
 | 1 | You do not have a reflection or shadow. |
 | 2 | You can wilt plants by touching them. |
-| 3 | You can wither muscle and deal d4 STR damage. |
+| 3 | You can wither muscle on touch and drain d3 STR. |
 | 4 | You can ignite and extinguish small flames at will. |
 | 5 | You no longer need to make critical damage checks on WIL damage. |
 | 6 | You know if someone breaks an agreement with you. |
 | 7 | You know someone’s location if they speak your name. |
 | 8 | You no longer need to eat, sleep, or breathe. |
 | 9 | Your eyes turn to slits, and you can see in the dark. |
-| 10 | You are unaffected by fatigue. |
+| 10 | You are unaffected by *Fatigue* constraints. |
 | 11 | You can detach and re-attach your hands and feet. |
-| 12 | You gain a pair of shadowy wings and can fly. |
+| 12 | You gain a pair of leathery wings and can fly. |
 
 #### Ophidian Vitiation
 
@@ -601,7 +651,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 1 | Your skin turns to hard scales, and you gain +1 armor. |
 | 2 | You can speak to and understand all reptiles. |
 | 3 | Your grip is ten times the strength of a normal human. |
-| 4 | Your teeth are fangs and deal d6 damage. |
+| 4 | Your teeth are fangs, and attacks deal d6 damage. |
 | 5 | Your footsteps and breathing are utterly silent. |
 | 6 | You can compel weak-willed individuals, one at a time. |
 | 7 | You can shed your skin and change your appearance. |
@@ -609,15 +659,15 @@ Roll **d20 +corruption level** and consult the following table.
 | 9 | You can sense nearby relics. |
 | 10 | You no longer need to make critical damage checks on DEX damage. |
 | 11 | You can perfectly regulate your heartbeat and temperature. |
-| 12 | You can buy and sell memories and dreams. |
+| 12 | You can extract, buy, and sell memories and dreams. |
 
 #### Transmogrification
 
-After gaining a **fifth Vitiation** of the same kind, you are forever transformed into a vile monster. You become an immediate threat to your adventuring party and a long-term threat to the game world. The GM takes over your character. It’s time to create a new adventurer.
+After gaining a **fifth vitiation** of the same type, you are forever transformed into a vile monster. You become an immediate threat to your adventuring party and a long-term threat to the game world. The GM takes over your character. It’s time to create a new adventurer.
 
 - **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
 - **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the region’s leaders and beyond.
-- **Ophidian**: Your character fully transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
+- **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
 
 
 

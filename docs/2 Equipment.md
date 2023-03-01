@@ -1,16 +1,18 @@
 # Equipment
 
-The equipment your character carries defines their role and specialty in the group.
+## Overview
+
+The equipment your character carries and your own ingenuity defines your character’s role and specialty in the group.
 
 ## Inventory slots
 
-Your character has **12** inventory slots to carry items in 2 hand slots, 4 body slots, and 6 backpack slots. 
+Your character has **12** inventory slots to carry items: 2 hand slots, 4 body slots, and 6 backpack slots. 
 
 - **Hand Slots**: Items being held, such as weapons, shields, and torches.
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action (instead of attacking) to fetch an item from your pack.
 
-Most items take up one inventory slot. Some bulky items, such as armor and group equipment kits, take up two slots. Smaller items may be bundled into a single slot at the GM’s discretion.
+Most items take up one inventory slot. Some bulky items, such as armor or two-handed weapons, take up two slots. Smaller items may be generally bundled five or so into a single slot.
 
 Your character can’t carry more items than their inventory allows. Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
 
@@ -22,7 +24,7 @@ Your character can carry up to 50 coins freely in their pockets. After that, eac
 
 Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from failed attribute checks, baleful spells, or events in the narrative.
 
-Each constraint must be placed in an inventory slot. You can have multiple copies of the same constraint. If there aren’t enough inventory slots for a new constraint, an item must be dropped to make room.
+Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. An item must be dropped to make room if there aren’t enough inventory slots for a new constraint.
 
 Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
@@ -63,52 +65,26 @@ Well-paid or loyal hirelings may make this check with an advantage.
 
 Hirelings can improve in the same way that your character does.
 
-Hirelings who receive a share of treasure gain 1 XP per coin above their daily wage. Like your character, once they earn 1000 XP, they advance to Level 2.
+Hirelings who receive a share of treasure gain 1 Experience Point (XP) per coin above their daily wage. Like your character, once they earn 1000 XP, they advance to Level 2.
 
 Not receiving a share of treasure may cause resentment amongst hirelings.
 
+!!! Note
+		See the [Leveling Up](3.4 Advancement.md) section for information about XP and gaining levels.
+
 ## Usage
 
-Most items have three **uses** as an abstract method to track resource consumption or wear and tear on adventuring gear. A healing elixer, for example, marks off one use after each quaff. 
+Consumable items have a specified number of **uses** to track resource consumption. After eating rations, for example, mark off one use. 
 
-After three uses are marked off, the item is depleted, broken, or destroyed. Usage can be repaired on items such as weapons and armor for 10% of the original cost per use removed. 
+After all the uses are marked off, the item is depleted and removed from your inventory.
 
-- **Weapons, armor, and ammunition**: After a fight, roll **d6** for each item used during the battle. On **5 or 6**, mark one usage.
-- **Other equipment**: If used in a way that could break or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **5 or 6**, mark a usage.
-
-## Weapons
-
-Some weapons have characteristics that affect their use.
-
-- **Ammo**: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
-- **Long-range**: This weapon can attack a target up to three zones away.
-- **Short-range**: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- **STR**: Using the weapon requires the minimum STR score. If STR is less than the requirement, the damage is Impaired.
-- **Thrown**: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
-- **Two-handed**: This weapon takes up both hand slots.
-- **Versatile**: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds bonus damage wielded with two (roll both, take the best).
-
-| Weapon | Damage Die | Notes | Coins |
-| :----- | :----: | :---- | ---: |
-| Unarmed | d4 | Doesn't ignore armor on a critical hit | None |
-| Cudgel | d4 | None  | 5 |
-| Staff | d4/+d4 | Versatile | 10 |
-| Dagger | d4+1 | Thrown | 15 |
-| Spear | d6/+d6 | Versatile, Thrown | 15 |
-| Axe | d8 | Thrown | 20 |
-| Mace | 2d4 | None | 20 |
-| Sword | d8/+d8 | Versatile | 30 |
-| Polearm | d10 | Two-handed<br/>Enhaced damage if mounted and charging,<br/>or set to receive a charge | 40 |
-| Maul | 2d6 | Two-handed, STR 7+ | 30 |
-| Great Sword | d12 | Two-handed, STR 11+ | 60 |
-| Sling | d4 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 5 |
-| Shortbow | d6 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 50 |
-| Crossbow | d8 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 100 |
-| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
+Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could break or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **5 or 6**, mark a usage.
+ 
+Usage can be repaired on some gear, such as weapons and armor, for 10% of the original cost per point of usage removed. 
 
 ## Armor
 
-Armor reduces the damage suffered from an attack. A player character can only have up to a 6 armor rating, even if items would increase it above this number.
+Armor reduces the damage you suffer from an attack. A player character can only have up to a **6 armor rating**, even if items would increase it above this number.
 
 | Type | Rating | Notes | Coins |
 | :--- | :----------- | :------ | ---: |
@@ -125,183 +101,69 @@ Armor reduces the damage suffered from an attack. A player character can only ha
 
 - **Items with +1 armor rating** can be combined with the base armor: cloth, light, heavy, or extreme.
 - **Helmets** provide an advantage on STR checks to avoid critical damage.
-- **Shields** have other uses:
-	- can be sundered to avoid all damage from an attack; the shield is then destroyed
-	- can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins
-- **Extreme Armor** receives the benefit of a helmet (advantage on critical damage checks) as part of the base armor
+- **Shields** have other uses besides providing a +1 armor rating:
+	- Can be sundered to avoid all damage from an attack; the shield is then destroyed.
+	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
+	- Multiply allies with shields can all take an action to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
+- **Extreme Armor** includes the benefit of a helmet (advantage on critical damage checks) as part of the base armor.
 
-## Tools & Gear
+## Weapons
 
-| Item | Coins |
-| :--- | ----: |
-| Air Bladder | 5 |
-| Bear Trap | 20 |
-| Bedroll | 10 |
-| Bellows | 10 |
-| Black Grease | 1 |
-| Block and Tackle | 30 |
-| Book (Blank) | 300 |
-| Book (Reading) | 600 |
-| Bottle/Vial | 1 |
-| Bucket | 5 |
-| Caltrops (bag) | 10 |
-| Cards with an extra Ace | 5 |
-| Chain (10 ft) | 10 |
-| Chalk (10 pieces) | 1 |
-| Chisel | 5 |
-| Cookpots | 10 |
-| Crowbar | 10 |
-| Drill | 10 |
-| Face Paint/Makeup | 10 |
-| Fake Jewels | 50 |
-| Fishing Rod/Tackle | 10 |
-| Glass Marbles (bag) | 5 |
-| Glue (bottle) | 1 |
-| Grappling Hook | 10 |
-| Hammer | 10 |
-| Holy Water | 25 |
-| Horn | 10 |
-| Hourglass | 300 |
-| Incense (packet) | 10 |
-| Iron Tongs | 10 |
-| Ladder (10 ft) | 10 |
-| Large Sponge | 5 |
-| Lens | 100 |
-| Lockpicks | 100 |
-| Manacles | 10 |
-| Metal File | 5 |
-| Mirror (small, silver) | 200 |
-| Musical Instrument | 200 |
-| Nails (12) | 5 |
-| Net | 10 |
-| Oilskin Bag | 5 |
-| Oilskin Trousers | 10 |
-| Padlock and Key | 20 |
-| Perfume | 50 |
-| Pick | 10 |
-| Pole (10ft) | 5 |
-| Quill and Ink | 1 |
-| Rope, hempen (25ft) | 10 |
-| Sack | 1 |
-| Saw | 10 |
-| Set of Loaded Dice | 5 |
-| Shovel | 10 |
-| Small Bell | 20 |
-| Soap | 1 |
-| Spike (iron) | 5 |
-| Spike (wood) | 1 |
-| Spiked boots | 5 |
-| Spyglass | 1000 |
-| Tar (Pot) | 10 |
-| Tent (3 people) | 100 |
-| Tent (personal) | 50 |
-| Twine (300 ft) | 5 |
-| Waterskin | 5 |
-| Whistle | 5 |
+Most weapons have characteristics that affect their use.
 
-### Illumination
+- *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
+- *Long-range*: This weapon can attack a target up to three zones away.
+- *Short-range*: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
+- *Reach*: Can attack enemies from behind a shield wall. Does enhanced damage if mounted and charging or set to receive a charge. 
+- *STR*: Using the weapon requires the minimum STR score. If STR is less than the requirement, the damage is Impaired.
+- *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
+- *Two-handed*: This weapon takes up both hand slots.
+- *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds bonus damage die when wielded with two (roll both, take the best).
 
-| Item | Coins |
-| :--- | ----: |
-| Candle, 4 hours | 1 |
-| Lantern | 30 |
-| Lamp Oil, 4 hours | 5 |
-| Tinderbox | 10 |
-| Torch, 1 hour | 1 |
+| Weapon | Damage Die | Notes | Coins |
+| :----- | :----: | :---- | ---: |
+| Unarmed | d4 | Doesn't ignore armor on a critical hit | None |
+| Cudgel | d4 | - | 5 |
+| Staff | d4/+d4 | Versatile | 10 |
+| Dagger | d6 | Thrown | 15 |
+| Spear | d6/+d6 | Versatile, Thrown | 15 |
+| Axe | d8 | Thrown | 20 |
+| Mace | 2d4 | - | 20 |
+| Sword | d8/+d8 | Versatile | 30 |
+| Polearm | d10 | Two-handed, Reach| 40 |
+| Maul | 2d6 | Two-handed, STR 7+ | 30 |
+| Great Sword | d12 | Two-handed, STR 11+ | 60 |
+| Sling | d4 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 5 |
+| Shortbow | d6 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 50 |
+| Crossbow | d8 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 100 |
+| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
 
-### Expeditionary Kits
+!!! Note
+		See the [Combat](3.1 Combat.md) section for information about enhanced damage, impaired damage, and critical hits.
 
-All expeditionary kits are bulky.
+##  Expedition Equipment
 
-| Kit | Notes | Coins |
-| :-- | :---- | ----: |
-| Camping | Bedrolls, tarps, tent, tie lines | 100 |
-| Climbing | Rope, spikes, grappling hook, chalk | 100 |
-| Healers | Bandages, splints, forceps, herbal poultices, needle, thread | 100 |
-| Illumination | Torches, lanterns, lamp oil, tinderbox | 100 |
-| Provisions | Rations, waterskin, mess kit, pots, salt | 100 |
+Most gear has characteristics that affect their use.
 
-### Artisan Kits
+- _Bulky_: requires two inventory slots.
+- _Heritage_: It’s only available to certain people such as Elves or Dwarves.
+- _Load_: Number of inventory slots available for storing items.
+- _Ration_: It’s edible.
+- _Slow_: It takes minutes or more to use.
+- _Small_: Up to five small items can be stored in an inventory slot.
+- _n Uses_: It can only be used _n_ times.
 
-All artisan kits are bulky.
+| Item | Description | Uses | Notes | Coins |
+| :-- | :-- | :-: | :-: | --: |
+| Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 | - | 20 |
+| Antitoxin | When you drink antitoxin, you’re cured of one *Poisoned* constraint affecting you. | 1 | small | 10 |
+| Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 | bulky | 100 |
+| Bandages and Herbal Poultices | When you take a few minutes to treat someone else’s wounds or revive an incapacitated ally, heal all their HP damage and make a WIL check to restore 1 point of attribute damage. | 3 | slow, small | 10 |
+| Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](Advancement.md) section for information on carousing. | 1 | bulky | 10 |
+| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 | small | 5 |
+| Thieves’ Tools | A black bag with assorted burglary tools:  lock picks, pliers, metal files, etc. When you need the right tools to pick a lock, disarm a trap, or similar, mark a use. | 5 | slow | 25 |
+| Travel Rations | Not tasty, but not bad either. | 3 | ration | 3 |
 
-| Kit | Notes | Coins |
-| :-- | :---- | ----: |
-| Alchemy | Flasks, retort, retort frame, reagents, glass stirring rod, mortar, pestle | 100 |
-| Crafting | Assorted tools and materials for a *specific* craft | 100 |
-| Disguise | Cosmetics, dyes, wigs | 100 |
-| Forgery |  Ink, quills, scrolls, seals, wax  | 100 |
-| Herbalist | Clippers, pouches, mortar, pestle, muslin, pan, alcohol | 100 |
-| Thieves | Lockpicks, hand drill, crowbar, file  | 100 |
-| Tinkers | Whetstone, hammer, tongs, charcoal, leather scraps, glue | 100 |
+!!! note
 
-### Clothing
-
-| Item | Coins |
-| :--- | ----: |
-| Poor | 10 |
-| Standard | 50 |
-| Noble | 1,000 |
-| Furs | 3,000 |
-| Winter | 100 |
-
-### Food
-
-| Item | Coins |
-| :--- | ----: |
-| Travel rations (1 day) | 5 |
-| Animal Feed (1 day) | 2 |
-| Bacon, side of | 10 |
-| Bread, 1 loaf | 1 |
-| Cheese, 1 lb | 2 |
-| Cider, 4 gallons | 1 |
-| Cod, whole | 20 |
-| Eggs, 24 | 1 |
-| Flour, 5 Ilb | 1 |
-| Fruit, 1 lb | 1 |
-| Garlic, bunch | 1 |
-| Grain, 1 bushel (8 gal.) | 4 |
-| Herbs, 1 bunch | 1 |
-| Lard, 5 lb | 1 |
-| Onions, 1 bushel | 8 |
-| Salt, 1 bushel | 3 |
-| Spices, 1 lb | 100 |
-| Sugar, 1 lb | 12 |
-| Wine/ale, bottle | 1 |
-
-### Animals
-
-| Item | Coins |
-| :--- | ----: |
-| Chicken | 1 |
-| Cow | 100 |
-| Dog, hunting | 50 |
-| Dog, small but vicious | 20 |
-| Donkey/Pack Horse | 300 |
-| Goat | 10 |
-| Hawk | 1,000 |
-| Horse, riding | 1,000 |
-| Horse, war | 10,000 |
-| Ox | 300 |
-| Pig | 30 |
-| Sheep | 15 |
-
-### Lodging
-
-| Item | Coins |
-| :--- | ----: |
-| Bed, per night | 1 |
-| Private room, per night | 2 |
-| Meal | 2 |
-| Hot bath | 2 |
-| Stabling and fodder | 2 |
-
-### Transportation
-
-| Item | Coins |
-| :--- | ----: |
-| Carriage | 320 |
-| Cart | 50 |
-| Wagon | 120 |
-
-
+		See the [Appendix](5 Appendix.md) for more equipment lists.
