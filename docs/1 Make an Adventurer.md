@@ -1,6 +1,6 @@
 # Your Character
 
-## Overview
+## Introduction
 
 You’re a newly minted adventurer: a tomb-raiding, treasure-seeking tyro who wields a spellbook just as easily as a blade. You will live a dangerous life. You will delve into strange and mysterious places. With some luck, you might retire before dying.
 

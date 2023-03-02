@@ -1,6 +1,6 @@
 # How to Play
 
-## Overview
+## Introduction
 
 The core of this game is a conversation between the players and the game master (GM). The GM describes the players’ current situation. Then the players ask questions and tell the GM what their characters do. The GM explains the results of their actions, and then the players react again and describe more activities, and so on.
 

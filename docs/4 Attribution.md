@@ -1,8 +1,8 @@
-# Attribution
+# Attributions
 
 I stand on the shoulders of giants.
 
-The TYROS RPG Players Guide builds upon the trailblazing creativity of Yochai Gal’s [Cairn](https://cairnrpg.com), Chris McDowall’s [Into the ODD](https://www.drivethrurpg.com/product/399483/Into-the-Odd--Remastered), Ben Milton’s [Knave](https://questingbeast.itch.io/knave), Isaac Williams’ [Mausritter](https://mausritter.com), and the resulting minimalist OSR RPG diaspora.
+Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](https://cairnrpg.com), Chris McDowall’s [Into the ODD](https://www.drivethrurpg.com/product/399483/Into-the-Odd--Remastered), Ben Milton’s [Knave](https://questingbeast.itch.io/knave), Isaac Williams’ [Mausritter](https://mausritter.com), and the resulting minimalist OSR RPG diaspora.
 
 - Archetypes starting gear adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
 
@@ -24,11 +24,11 @@ The TYROS RPG Players Guide builds upon the trailblazing creativity of Yochai Ga
 
 - Warrior and Thief classes adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com). 
 
-- TYROS RPG icon made by [Juicy Fish](https://www.flaticon.com/authors/juicy-fish) from [Flaticon](https://www.flaticon.com).
+- Dungeoneers RPG icon made by [Juicy Fish](https://www.flaticon.com/authors/juicy-fish) from [Flaticon](https://www.flaticon.com).
 
-TYROS RPG is an independent production by Zachary Taylor and is not affiliated with Losing Games. It is published under the Mausritter Third Party Licence. Mausritter is copyright Losing Games.
+Dungeoneers RPG is an independent production by Zachary Taylor and is not affiliated with Losing Games. It is published under the Mausritter Third Party Licence. Mausritter is copyright Losing Games.
 
-The Electrum Archive is copyright Emiel Boven and CULT OF THE LIZARD KING. TYROS RPG is an independent production by Zachary Taylor and is not affiliated with CULT OF THE LIZARD KING. It is published under the TEA Third Party License.
+The Electrum Archive is copyright Emiel Boven and CULT OF THE LIZARD KING. Dungeoneers RPG is an independent production by Zachary Taylor and is not affiliated with CULT OF THE LIZARD KING. It is published under the TEA Third Party License.
 
 This work includes material taken from the [System Reference Document 5.1 (“SRD 5.1”)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) available at https://creativecommons.org/licenses/by/4.0/legalcode.
 

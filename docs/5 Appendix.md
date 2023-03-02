@@ -352,7 +352,7 @@ The following rules provide a grittier campaign geared more toward violent actio
 
 ### Character Classes
 
-Character creation remains the same as the core TYROS system with one extra step: choosing a class for your character. Character classes add unique talents and specializations to your character.
+Character creation remains the same as the core Dungeoneers system with one extra step: choosing a class for your character. Character classes add unique talents and specializations to your character.
 
 ➡️  Pick either a **Warrior**, **Thief**, or **Sorcerer** class for your character.
 
@@ -519,7 +519,7 @@ If essence is drained from an unwilling victim, the victim must be restrained an
 
 ### Advancement
 
-As your character levels, they do not automatically increase their HP and attributes as in the core TYROS rules. Instead, they select new talents or powers from their class.
+As your character levels, they do not automatically increase their HP and attributes as in the core Dungeoneers rules. Instead, they select new talents or powers from their class.
 
 Characters must gain **scars** through combat to increase their HP and attributes.
 
