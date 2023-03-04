@@ -1,4 +1,4 @@
-# Attributions
+# Attribution
 
 I stand on the shoulders of giants.
 
