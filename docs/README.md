@@ -5,7 +5,7 @@ Dungeoneers RPG – Players Guide
 *Playtest Document v0.3*  
 *March 3, 2023*  
 
-DUNGEONEERS RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
+Dungeoneers RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
 
 # Preface
 
