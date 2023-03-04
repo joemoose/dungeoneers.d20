@@ -101,7 +101,7 @@ Armor reduces the damage you suffer from an attack. A player character can only 
 
 - **Items with +1 armor rating** can be combined with the base armor: cloth, light, heavy, or extreme.
 - **Helmets** provide an advantage on STR checks to avoid critical damage.
-- **Shields** have other uses besides providing a +1 armor rating:
+- **Shields** have other uses besides a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is then destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiply allies with shields can all take an action to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
@@ -118,11 +118,11 @@ Most weapons have characteristics that affect their use.
 - *STR*: Using the weapon requires the minimum STR score. If STR is less than the requirement, the damage is Impaired.
 - *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
 - *Two-handed*: This weapon takes up both hand slots.
-- *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds bonus damage die when wielded with two (roll both, take the best).
+- *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds a bonus damage die when wielded with two (roll both, take the best).
 
 | Weapon | Damage Die | Notes | Coins |
 | :----- | :----: | :---- | ---: |
-| Unarmed | d4 | Doesn't ignore armor on a critical hit | None |
+| Unarmed | d4 | Doesn't ignore armor on a critical hit | - |
 | Cudgel | d4 | - | 5 |
 | Staff | d4/+d4 | Versatile | 10 |
 | Dagger | d6 | Thrown | 15 |
@@ -146,7 +146,6 @@ Most weapons have characteristics that affect their use.
 Most gear has characteristics that affect their use.
 
 - _Bulky_: requires two inventory slots.
-- _Heritage_: It’s only available to certain people such as Elves or Dwarves.
 - _Load_: Number of inventory slots available for storing items.
 - _Ration_: It’s edible.
 - _Slow_: It takes minutes or more to use.
