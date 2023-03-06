@@ -50,7 +50,7 @@ Roll **d20** equal to or less than the applicable attribute:
 
 ### Combat
 
-On your turn, you can move and take an action.
+On your turn, you can move and take one action.
 
 **Initiative**
 
@@ -135,7 +135,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 | Contract a mason for a day | 4 |
 | Contract a man-at-arms for a day | 8 |
 | Contract a knight for a day | 20 |
-| Healing from a chirurgeon | 5 |
+| Care from a healer | 5 |
 | A custom item from a blacksmith | Base Item + 50 |
 | Escort for a day through a safe place | 20 |
 | Escort for a day through a dangerous place | 60 |
@@ -277,7 +277,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 
 ---
 
-If you prefer a simpler and faster method to establish a turn order when combat breaks out, follow this rule.
+If you prefer a more straightforward and faster method to establish a turn order when combat breaks out, follow this rule.
 
 If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a DEX *or* WIL check to act before your opponents. In following combat rounds, maintain this order.
 
@@ -287,7 +287,7 @@ If you attack unsuspecting foes, your character and any allies aware of the plan
 
 Rather than tracking experience points and leveling up based on the value of looted treasure and artifacts, you can tie your character’s level advancement to essential milestones, such as completing an expedition and returning to civilization. You’ll need to bring something of value back to show for your efforts or, at the very least, share an adventurous tale to be sung by troubadours.
 
-You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more expeditions.
+You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more journeys.
 
 ## 6. Dragonpowder Gonnes
 
@@ -297,52 +297,38 @@ Dragonpowder gonnes are expensive, exotic, and very loud. Wielded by the rich or
 
 All dragonpowder gonnes have the following characteristics:
 
-- **Ammo**: Gonnes require expensive ammunition. Remove one shot from your ammo supply after reloading. Some gonnes require more than a single shot per reload.
-- **Armor piercing**: Damage ignores 4 armor ratings.
-- **Unwieldy**: Unlike all other weapons, gonnes first require **a successful DEX *or* WIL check to do damage**. If the check fails, the attack misses its target and does no damage. In either event, the gonne must be reloaded before firing again. Rainy or windy conditions impose a disadvantage on the attribute check.
-	- On a **critical success**, the gonne ignores all the target’s armor.
-	- On a **critical failure**, the gonne misfires. Roll on the following Misfire Table to determine the results.
-- **Deadly**: On a **critical hit**, roll damage a second time rather than ignoring all armor as with other weapons. If another critical hit occurs, roll damage a third time, and so on.
-- **Long-range**: If you can see the target, you can attack it. However, you cannot attack targets in the same zone as you. The exception is the *Fire Lance*; see the following Gonnes Table.
-- **Reloading**: Gonnes require an action and a **successful DEX *or* WIL check to reload**. Reloading requires both hands, and you can’t reload a gonne while moving or if an enemy is in the same zone. Mark off one ammo usage after successfully reloading.
-	- On a **critical success**, you can attack in the same action as reloading.
-	- On a **critical failure**, mark off one (wasted) ammo usage.
+- **Armor piercing**: Damage always ignores 3 armor ratings; a critical damage roll ignores all armor.
 - **Noisy**: Igniting dragonpowder has loud and explosive results. Lesser creatures make a morale check when hearing the shot. Anything more intelligent will notice and investigate.
+- **Reloading**: Reloading requires both hands and one action per shot loaded. 
+
+### Misfires
+
+If you roll **double 1s** on the damage and bonus dice, a misfire occurs instead of damage to your target. Roll 2d6 and consult the following table for the result.
+
+| 2d6 | Result |
+| :-: | :----- |
+| 2 | The gonne explodes and is destroyed. Roll 2d6 damage to you. |
+| 3 | You catch on fire, taking d4 damage per round, ignoring armor until you put it out. |
+| 4–5 | Sparks get in your eyes. All DEX and WIL checks are disadvantaged until you take one round to remove the sparks and make a STR check. |
+| 6–8 | The gonne fails to fire. You must take one round of fiddling with the mechanism and make a WIL check before firing it again. |
+| 9–10 | The gonne breaks. It will need to be thoroughly cleaned and repaired. The repair cost is 30% of its price. |
+| 11 | The gonne is fine, but every player character nearby must make a LUCK check. The character who fails and rolls the highest takes damage rather than the target. |
+| 12 | The gonne explodes and is destroyed. Roll 2d6 *blast* damage to you and everyone nearby. |
 
 ### Gonnes
 
-Remember, if you can buy dragonpowder gonnes, so can everyone else.
-
 | Name | Damage | Notes | Coins |
 | :--- | :----: | :---- | ----: |
-| Pomegranate | 2d6 | Thrown. One inventory slot. Destroyed on use. *Blast* damage. | 300 |
-| Petronel | d10 | One inventory slot. One-handed: it is fired in the main hand but requires both hands to reload. | 600 |
-| Fire Lance | d10/(d6) | Two-hands. Bulky. Deals damage to a single target in melee range or d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires two Powder Shots for each reload. | 1,000 |
-| Hand Cannon | d12 | Two-hands. Bulky. | 800 |
-| Bombard | 4d10 | Can only be moved using a pack animal and wagon. It requires two people to operate and takes one round to aim. It deals d8 damage to anyone standing directly behind it when it fires. Requires one Cannon Shot and two rounds for each attribute check to reload. | 4,000 |
-| Basilisk (Infernal Machine) | 6d10 | Requires two people to move or a pack animal and wagon. Roll blast damage for every target in front of you. Divide the damage by the number of targets or three, whichever’s higher (rounded up). Requires reloading nine Basilisk Shots. More than one person can reload to hasten the process. | 6,000 |
+| Pomegranate | d10 | Thrown. One inventory slot. Destroyed on use. *Blast* damage. | 300 |
+| Petronel | d8 +d8 | One inventory slot. It is fired with the main hand but requires both hands to reload. | 600 |
+| Fire Lance | d10 +d10/(d6) | Two-hands. Bulky. Either deals d10 +d10 damage to a single target in melee range or d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires reloading two Powder Shots. | 1,000 |
+| Hand Cannon | d12 +d12 | Two-hands. Bulky. | 800 |
 
 ### Ammunition
 
 | Type | Uses | Coins |
 | :--- | :--: | :---: |
 | Powder Shot | 6 per bag | 180 |
-| Basilisk Shot | 9 per bag | 360 |
-| Cannon Shot | 1, bulky | 100 |
-
-### Gonne Misfires
-
-On a critical failure when firing a dragonpowder gonne, roll **2d6** and refer to the following table.
-
-| 2d6 | Result |
-| :-: | :----- |
-| 2 | The gonne explodes and is destroyed, dealing d12 damage to you. |
-| 3 | You catch on fire, taking d4 damage per round, ignoring armor until you put it out. |
-| 4–5 | Sparks get in your eyes. All DEX and WIL checks are disadvantaged until you take a moment and make a STR check. |
-| 6–8 | The gonne fails to fire. You must take one round of fiddling with the mechanism and make a WIL check before firing it again. |
-| 9–10 | The gonne breaks. It will need to be thoroughly cleaned and repaired before being used again. The repair cost is 30% of its price. |
-| 11 | The gonne is fine, but everyone nearby must make a LUCK check. The shot hits the character who fails and rolls the highest. |
-| 12 | The gonne explodes and is destroyed, dealing d12 *blast* damage to you and everyone nearby. |
 
 ## 7. Swords and Sorcery Genre Rules
 
@@ -416,7 +402,7 @@ You can construct a trophy by scouting a creature’s lair and taking something 
 
 ---
 
-Thieves are adventurers who live by their wits and luck, with a little resourcefulness for good measure. Their range of unique talents makes them versatile companions in adventures.
+Thieves are adventurers who live by their wits and luck, with a bit of resourcefulness for good measure. Their range of unique talents makes them versatile companions in adventures.
 
 #### Talents
 
@@ -424,7 +410,7 @@ You have a variety of unique abilities. When you first create your character, an
 
 **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double the damage rolled.
 
-- **Mastery**: During combat, as part of your attack, you can make a DEX or WIL check against a creature aware of you to flank or confuse the target, adding +d12 damage bonus.
+- **Mastery**: During combat, as part of your attack, you can make a DEX or WIL check against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
 
 **EXPERTISE**: You can re-roll an attribute check once per session.
 
@@ -489,7 +475,7 @@ The maximum size or weight of the creature or object to be altered is that of th
 
 Bring forth a creation. The creature or object created exists for [essence] rounds. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
 
-More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks), but these objects do not deal magic damage or provide permanent results. For example, HP restored from an invoked healing elixer lasts only for the duration of your invocation.
+More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks), but these objects do not deal magic damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
 
 > Zathar the Sorcerer invokes a flying throne, which he mounts to escape. He sacrifices six essences (the throne is about his *weight* and can *fly* for *4 rounds*).
 
@@ -501,7 +487,7 @@ Deal an [essence] number of d6 damage to one target creature or object you can s
 
 ##### SOUL SIGHT
 
-You can see an [essence] number of creatures’ souls as long as you concentrate exclusively on the observation and do not move. This sight allows you to sense the approximate location of invisible creatures. You can also immediately sense if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in some other meta-physiological state.
+You can see an [essence] number of creatures’ souls if you concentrate exclusively on the observation and do not move. Soul sight allows you to sense the approximate location of invisible creatures. You can also immediately discern if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in some other meta-physiological state.
 
 ##### WARD
 
@@ -562,7 +548,7 @@ Sorcery is volatile and warps its practitioners. Magical corruption is everprese
 
 Your corruption level can be increased manifold: by invoking sorcerous powers, attuning to forbidden relics, casting malignant spells, or committing heinous acts. A newly created character has zero corruption level.
 
-As your corruption level increases, you potentially suffer increasingly unpleasant mutations.
+As your corruption level increases, you may suffer increasingly unpleasant mutations.
 
 #### Corruption Checks 
 
@@ -595,7 +581,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 14 | Gain one **Demonian Vitiation**. |
 | 15 | You take direct STR damage from silvered weapons. |
 | 16 | Gain one **Ophidian Vitiation**. |
-| 17 | You cannot enter a home uninvited or cross over running water unless carried. |
+| 17 | You can only enter a home uninvited or cross over running water if carried. |
 | 18 | Gain one **Chthonian Vitiation**. |
 | 19 | A tiny famulus made of dirt (3 HP, d4 damage) follows you and whispers secrets. |
 | 20 | Gain one **Demonian Vitiation**. |
