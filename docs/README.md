@@ -1,13 +1,12 @@
-Players Guide
----
+# Players Guide
 
 *Dungeoneers RPG by Zachary Taylor*  
 *Playtest Document v0.3*  
-*March 6, 2023*  
+*March 7, 2023*  
 
 Dungeoneers RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
 
-# Preface
+## Preface
 
 Welcome to Dungeoneers! This guide is for players—it’s the resource I hand to new players at my table. It contains all the information you need to create your character and equip them, lock swords with enemies, cast spells, and head out on your adventures.
 
