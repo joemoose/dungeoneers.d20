@@ -8,15 +8,15 @@ site_author: Zachary Taylor
 
 nav:
   - README.md
-  - Character.md
-  - Equipment.md
-  - Play.md
-  - Combat.md
-  - Damage.md
-  - Spells.md
-  - Advancement.md
-  - Appendix.md
-  - Attribution.md
+  - character.md
+  - equipment.md
+  - play.md
+  - combat.md
+  - damage.md
+  - spells.md
+  - advancement.md
+  - appendix.md
+  - attribution.md
 
 # Theme
 
