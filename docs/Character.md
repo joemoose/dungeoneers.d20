@@ -14,7 +14,7 @@ Also, think about their relationship with the other characters in the group, but
 
 !!! tip "Huzzah!"
 
-		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*virtue*) but (*vice*) adventurer!
+		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*virtue*) and (*vice*) adventurer!
 
 **Backstory Table**
 
@@ -139,13 +139,13 @@ Four attributes describe your character’s primary characteristics:
 
 Is your character musclebound and insightful? Fortunate and charming? Nimble and hardy? Attribute scores define these qualities—a character’s assets and weaknesses.
 
-Strength is a prime attribute for warriors. Dexterity serves thieves well. Casting magical spells requires willpower.
+Strength is a prime attribute for warriors. Dexterity serves thieves well. Casting spells requires willpower.
 
 ➡️ Roll **2d6+4** four times, noting the results. Assign the lowest value to your LUCK and the other three as you prefer to STR, DEX, and WIL.
 
 ## Step 4: Hit Points
 
-Hit points (HP) are the amount of damage you can shrug off before suffering any real harm. HP is easily and quickly restored.
+Hit points (HP) represent the amount of damage you can shrug off before suffering any real harm. HP is easily and quickly restored.
 
 ➡️ Roll **d4+2** to determine your starting hit points.
 
@@ -170,6 +170,10 @@ Choose **three** more items from the following list. You may choose an item more
 - pipe and pipeleaf
 - small but vicious dog
 - spell tablet (*selected randomly, see the [Spells](3.3 Spells.md) section for a list )*
+
+!!! note
+
+		See the [Equipment](2 Equipment.md) section for more information on your gear.
 
 ## Step 6: Introductions
 

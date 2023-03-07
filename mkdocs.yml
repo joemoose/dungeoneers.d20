@@ -7,22 +7,22 @@ site_author: Zachary Taylor
 # Navigation
 
 nav:
-  - Home: README.md
-  - 1 Make an Adventurer.md
-  - 2 Equipment.md
-  - 3 How to Play.md
-  - 3.1 Combat.md
-  - 3.2 Damage.md
-  - 3.3 Spells.md
-  - 3.4 Advancement.md
-  - 5 Appendix.md
-  - 4 Attribution.md
+  - README.md
+  - Character.md
+  - Equipment.md
+  - Play.md
+  - Combat.md
+  - Damage.md
+  - Spells.md
+  - Advancement.md
+  - Appendix.md
+  - Attribution.md
 
 # Theme
 
 theme:
   name: material
-  logo: tyros_icon.png
+  logo: d20.png
   favicon: favicon.ico
   icon:
     repo: fontawesome/brands/github
