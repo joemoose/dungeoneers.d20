@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You’re a newly minted dungeoneer: a tomb-raiding, treasure-seeking adventurer who wields a spellbook just as easily as a blade. You will live a dangerous life. You will delve into strange and mysterious places. With some luck, you might retire before dying.
+You’re a newly minted adventurer: a tomb-raiding, treasure-seeking dungeoneer who wields a spellbook just as easily as a blade. You will live a dangerous life. You will delve into strange and mysterious places. With some luck, you might retire before dying.
 
 ## Step 1: Backstory
 

@@ -52,7 +52,7 @@ The game measures time in three durations:
 - **Turn** is the time scale for exploration. Each turn is around 10 minutes, enough time to explore a room and perform an Action or two.
 - **Watch** is the time scale used when traveling. Each Watch is 6 hours: morning, afternoon, evening, and night. A party can travel 6 miles in 1 watch in open terrain and clear weather.
 
-## Distances and Zones
+## Zones
 
 The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
 

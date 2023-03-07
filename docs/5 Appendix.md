@@ -1,18 +1,6 @@
-# Appendix
+# Appendices
 
-## Overview
-
-This appendix contains the following sections:
-
-- core rules reference
-- sundries equipment list
-- starting gear for standard fantasy archetypes
-- simplified initiative
-- optional leveling system: milestones
-- optional weapons: dragonpowder gonnes
-- optional rules: sword and sorcery genre
-
-## 1. Rules Reference
+## Appendix A: Rules Reference
 
 ---
 
@@ -94,7 +82,9 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - Items in the backpack require an action to retrieve during combat.
 - Most items take 1 slot, and bulky take 2.
 
-## 2. Sundries Equipment List
+## Appendix B: Sundries Equipment List
+
+---
 
 | Clothing and Gifts | Coins |
 | :----------------- | ----: |
@@ -154,11 +144,13 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 | Passage on a dangerous route | - | 100 |
 
 
-## 3. Character Archetype Starting Gear
+## Appendix C: Character Archetypes 
 
 ---
 
-### Bard 
+### Starting Gear
+
+**Bard** 
 
 - rapier (d8)
 - dandy clothing
@@ -167,7 +159,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - bagpipes (*bulky*)
 - incense
 
-### Cleric 
+**Cleric** 
 
 - maul (d10, *bulky*)
 - chainmail (3 *armor*, *bulky*) 
@@ -176,7 +168,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - relic: *Holy Ward*
 - cloak of the order
 
-### Druid 
+**Druid** 
 
 - shepherd’s crook (d8, *bulky*)
 - jute clothing
@@ -184,7 +176,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - herbal poultice (WIL check clears a constraint)
 - owl, animal companion (1 hp, talons d4)
 
-### Fighter 
+**Fighter** 
 
 - glaive (d10, *bulky*) 
 - longsword (d6/d8) 
@@ -195,7 +187,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - tobacco pouch & pipe 
 - dice set
 
-### Hunter 
+**Hunter** 
 
 - longbow (d10, *bulky*)
 - quiver of arrows 
@@ -205,7 +197,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - bloodhound, animal companion (3 hp, bite d4)
 - thundering horn
 
-### Knight 
+**Knight** 
 
 - longsword (d8) 
 - platemail (3 *armor*, *bulky*) 
@@ -214,16 +206,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - manacles 
 - silk rope, 25ft
 
-### Magic-User 
-
-- wizard’s silver skull cap (helmet, +1 *armor*)
-- dagger (d6)
-- spell tablet (*random*) 
-- spell tablet (*random*) 
-- ragged clothing (hidden pockets)
-- *Leycap Mushrooms* (clears all *Drained* constraints, STR check vs. addiction)
-
-### Scribe (Mage) 
+**Mage** 
 
 - relic: *Yew Wand*
 - scroll case & parchment
@@ -232,7 +215,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - lens
 - spell (Tongues)
 
-### Thief 
+**Thief** 
 
 - two daggers (d6)
 - hooded jerkin (1 *armor*) 
@@ -242,7 +225,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - metal file
 - hempen rope, 50ft
 
-### Warden 
+**Warden** 
 
 - silvered dagger (d6)
 - bardiche (d10, *bulky*)
@@ -250,6 +233,15 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - relic: *Sigal Ring*
 - wolfsbane
 - throwing bolas
+
+**Wizard** 
+
+- wizard’s silver skull cap (helmet, +1 *armor*)
+- dagger (d6)
+- spell tablet (*random*) 
+- spell tablet (*random*) 
+- ragged clothing (hidden pockets)
+- *Leycap Mushrooms* (clears all *Drained* constraints, STR check vs. addiction)
 
 ### Relics 
 
@@ -273,7 +265,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - **Charges**: d6+1
 - **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature will not be hostile toward you.
 
-## 4. Simplified Initiative
+## Appendix D: Simplified Initiative
 
 ---
 
@@ -281,7 +273,7 @@ If you prefer a more straightforward and faster method to establish a turn order
 
 If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a DEX *or* WIL check to act before your opponents. In following combat rounds, maintain this order.
 
-## 5. Alternate Leveling
+## Appendix E: Alternate Leveling
 
 ---
 
@@ -289,7 +281,7 @@ Rather than tracking experience points and leveling up based on the value of loo
 
 You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more journeys.
 
-## 6. Dragonpowder Gonnes
+## Appendix F: Dragonpowder Gonnes
 
 ---
 
@@ -315,7 +307,7 @@ If you roll **double 1s** on the damage and bonus dice, a misfire occurs instead
 | 11 | The gonne is fine, but every player character nearby must make a LUCK check. The character who fails and rolls the highest takes damage rather than the target. |
 | 12 | The gonne explodes and is destroyed. Roll 2d6 *blast* damage to you and everyone nearby. |
 
-### Gonnes
+### Gonnes List
 
 | Name | Damage | Notes | Coins |
 | :--- | :----: | :---- | ----: |
@@ -330,7 +322,7 @@ If you roll **double 1s** on the damage and bonus dice, a misfire occurs instead
 | :--- | :--: | :---: |
 | Powder Shot | 6 per bag | 180 |
 
-## 7. Swords and Sorcery Genre Rules
+## Appendix G: Sword & Sorcery Rules
 
 ---
 
@@ -344,21 +336,19 @@ Character creation remains the same as the core Dungeoneers system with one extr
 
 The three classes are described in the following sections. 
 
----
-
-### <div style="width: 100%;text-align: center">WARRIOR</div>
+### Warrior Class
 
 ---
 
 Warriors are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of warriors is to battle monsters and defend other characters.
 
-#### Talent: COMBAT MANEUVERS
+#### Combat Maneuvers
 
 A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **Grit**. You start with one grit. At every **even-numbered** level, you gain one additional grit. You can use multiple maneuvers at the same time.
 
 Grit is restored after a long rest.
 
-##### Level 1 Maneuvers
+##### Starting Maneuvers
 
 A new warrior starts with three combat maneuvers in their repertoire:
 
@@ -366,7 +356,7 @@ A new warrior starts with three combat maneuvers in their repertoire:
 - **ALERT**: Spend one grit to act before your opponents.
 - **TOUGH**: Whenever you take damage, spend one grit to reduce the damage by d6.
 
-##### Levels 2, 4, & 6 Maneuvers
+##### Advanced Maneuvers
 
 Choose one of the following combat maneuvers at even-numbered levels to add to your repertoire.
 
@@ -379,7 +369,7 @@ Choose one of the following combat maneuvers at even-numbered levels to add to y
 - **SHIELD**: When an ally in your zone takes damage, spend a grit and add your armor rating to theirs for this round.
 - **TAUNT**: Spend one grit to make all enemies attack you this round. 
 
-#### Talent: TROPHIES
+#### Trophies
 
 You gain the following talents at level 3.
 
@@ -396,9 +386,7 @@ When you encounter a creature of which you carry a trophy, spend one grit to:
 
 You can construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed on use.
 
----
-
-### <div style="width: 100%;text-align: center">THIEF</div>
+### Thief Class
 
 ---
 
@@ -432,9 +420,7 @@ You have a variety of unique abilities. When you first create your character, an
 
 - **Mastery**: Make a WIL check once each session to see if you have a contact in any area, regardless of whether you’re new to it.
 
----
-
-### <div style="width: 100%;text-align: center">SORCERER</div>
+### Sorcerer Class
 
 ---
 
@@ -442,13 +428,17 @@ Anyone can cast magic from spellbooks, scrolls, and relics. Sorcerers, though, p
 
 A sorcerer brings substantial capabilities to an adventuring party, but a sorcerer risks losing their souls, if not their lives, to the fell Corruptions of their art. 
 
-#### Talent
+#### Sorcerous Powers
 
-**SORCEREOUS POWERS**: You alter the world through sheer force of will and your body’s consumption. You need no charms, runes, spellbooks, or scrolls. Reality is yours to command.
+You alter the world through sheer force of will and your body’s consumption. You need no charms, runes, spellbooks, or scrolls. Reality is yours to command.
+
+##### Essence
 
 Your sorcerous power requires you to expend at least one attribute point of STR, DEX, WIL, or LUCK as essence to fuel your magic. The more of your body you sacrifice, the greater the essence consumed and the greater the magnitude of the power unleashed.
 
 Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. A critical damage check is unnecessary when losing an attribute score for essence. 
+
+##### Invoking Powers
 
 **To invoke a sorcerous power**, sacrifice abilities scores for essence and make a WIL check.
 
@@ -457,11 +447,11 @@ Attribute scores lost for invoking your powers are healed as usual—STR, DEX, a
 
 The WIL check to invoke your power is advantageous if performed over two or more rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
-#### Powers
+##### Powers
 
 When you create your character, pick one Power. Select one additional Power at levels 3, 5, and 7.
 
-##### ALTER
+**ALTER**
 
 Make a declarative statement affecting one creature or object you can see. The statement is true for [essence] combat rounds. The creation cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
 
@@ -471,7 +461,7 @@ The maximum size or weight of the creature or object to be altered is that of th
 > "The giant is now a mole.” The giant retains its abilities and HP, but it would be easier to surround a mole and attack.  
 > "The dragon is made of paper." The dragon is now made of paper. It retains its abilities and HP but will take extra damage if you set it on fire with a torch.  
 
-##### CREATE
+**CREATE**
 
 Bring forth a creation. The creature or object created exists for [essence] rounds. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
 
@@ -479,17 +469,17 @@ More essence can be sacrificed to imbue the creation with specific properties or
 
 > Zathar the Sorcerer invokes a flying throne, which he mounts to escape. He sacrifices six essences (the throne is about his *weight* and can *fly* for *4 rounds*).
 
-##### HARM
+**HARM**
 
 Deal an [essence] number of d6 damage to one target creature or object you can see. Creatures and magical objects can make an attribute check to avoid or mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
 
 > Zathar sacrifices two essence. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
 
-##### SOUL SIGHT
+**SOUL SIGHT**
 
 You can see an [essence] number of creatures’ souls if you concentrate exclusively on the observation and do not move. Soul sight allows you to sense the approximate location of invisible creatures. You can also immediately discern if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in some other meta-physiological state.
 
-##### WARD
+**WARD**
 
 Manifest a simmering, translucent shield around you or a target creature or object for [essence] rounds. The ward provides an advantage on attribute checks to avoid magical effects and a disadvantage on damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack.
 
@@ -596,7 +586,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 29 | All animals loathe you, fleeing from you if they are prey and attacking you if predatory. |
 | 30+ | A portal to a dimension without light or form opens and consumes you. You are forever obliterated. Every character near you gains one corruption immediately and makes a corruption check. |
 
-#### Chthonian Vitiation
+##### Chthonian Vitiation
 
 | d12 | Vitiation |
 | :-: | :- |
@@ -613,7 +603,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 11 | You can excrete small amounts of sticky, transparent tar. |
 | 12 | You are unaffected by insanity or mental manipulation. |
 
-#### Demonian Vitiation
+##### Demonian Vitiation
 
 | d12 | Vitiation |
 | :-: | :- |
@@ -630,7 +620,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 11 | You can detach and re-attach your hands and feet. |
 | 12 | You gain a pair of leathery wings and can fly. |
 
-#### Ophidian Vitiation
+##### Ophidian Vitiation
 
 | d12 | Vitiation |
 | :-: | :- |
