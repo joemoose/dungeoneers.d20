@@ -22,7 +22,7 @@ Your description of the action determines the applicable attribute. Consider a l
 
 Don’t think about what your character is capable of, but *how* they would approach a problem. Play to all of your character’s assets.
 
-## Critical Successes and Failures
+## Critical Success and Failure
 
 Rolling the **exact attribute score** on a check is a **critical success**, and the outcome will be better than expected. Increase your LUCK attribute score by 1.
 

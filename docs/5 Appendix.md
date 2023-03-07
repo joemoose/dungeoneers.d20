@@ -314,7 +314,7 @@ If you roll **double 1s** on the damage and bonus dice, a misfire occurs instead
 | Pomegranate | d10 | Thrown. One inventory slot. Destroyed on use. *Blast* damage. | 300 |
 | Petronel | d8 +d8 | One inventory slot. It is fired with the main hand but requires both hands to reload. | 600 |
 | Fire Lance | d10 +d10/(d6) | Two-hands. Bulky. Either deals d10 +d10 damage to a single target in melee range or d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires reloading two Powder Shots. | 1,000 |
-| Hand Cannon | d12 +d12 | Two-hands. Bulky. | 800 |
+| Arquebus | d12 +d12 | Two-hands. Bulky. | 800 |
 
 ### Ammunition
 

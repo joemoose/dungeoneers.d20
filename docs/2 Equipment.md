@@ -30,7 +30,7 @@ Some constraints have additional adverse effects besides taking up inventory slo
 
 Conditions can only be removed from your inventory by meeting their cleared requirement, usually a short, long, or full rest.
 
-### Example Constraints
+**Example Constraints**
 
 | Condition | Adverse Effect | Cleared After |
 | :- | :- | :- |
@@ -55,13 +55,13 @@ A pair of helping hands might give you the edge you’ll need to survive or, at 
 
 In addition to a daily wage, hirelings must be fed and provided lodging.
 
-### Hireling Morale
+### Morale
 
 When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or flee.
 
 Well-paid or loyal hirelings may make this check with an advantage.
 
-### Hireling Advancement
+### Advancement
 
 Hirelings can improve in the same way that your character does.
 
@@ -86,6 +86,18 @@ Usage can be repaired on some gear, such as weapons and armor, for 10% of the or
 
 Armor reduces the damage you suffer from an attack. A player character can only have up to a **6 armor rating**, even if items would increase it above this number.
 
+**Notes**:
+
+- **+1 armor rating** can be combined with the base armor: cloth, light, heavy, or extreme.
+- **Helmets** provide an advantage on STR checks to avoid critical damage.
+- **Shields** have other uses besides a +1 armor rating:
+	- Can be sundered to avoid all damage from an attack; the shield is then destroyed.
+	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
+	- Multiply allies with shields can all take an action to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
+- **Extreme Armor** includes the benefit of a helmet (advantage on critical damage checks) as part of the base armor.
+
+**Armor List**
+
 | Type | Rating | Notes | Coins |
 | :--- | :----------- | :------ | ---: |
 | Heavy cloak | +1 armor | One body slot | 20 | 
@@ -96,16 +108,6 @@ Armor reduces the damage you suffer from an attack. A player character can only 
 | Medium (Chain) | 3 armor | Two body slots | 1200 |
 | Heavy (Plate Mail) | 4 armor | Two body slots | 4,000 |
 | Extreme (Full Plate) | 5 armor | Two body slots, a helmet is integrated | 8,000 |
-
-### Additional Armor Notes
-
-- **Items with +1 armor rating** can be combined with the base armor: cloth, light, heavy, or extreme.
-- **Helmets** provide an advantage on STR checks to avoid critical damage.
-- **Shields** have other uses besides a +1 armor rating:
-	- Can be sundered to avoid all damage from an attack; the shield is then destroyed.
-	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
-	- Multiply allies with shields can all take an action to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
-- **Extreme Armor** includes the benefit of a helmet (advantage on critical damage checks) as part of the base armor.
 
 ## Weapons
 
@@ -119,6 +121,8 @@ Most weapons have characteristics that affect their use.
 - *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
 - *Two-handed*: This weapon takes up both hand slots.
 - *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds a bonus damage die when wielded with two (roll both, take the best).
+
+**Weapons List**
 
 | Weapon | Damage Die | Notes | Coins |
 | :----- | :----: | :---- | ---: |
@@ -151,6 +155,8 @@ Most gear has characteristics that affect their use.
 - _Slow_: It takes minutes or more to use.
 - _Small_: Up to five small items can be stored in an inventory slot.
 - _n Uses_: It can only be used _n_ times.
+
+**Equipment List**
 
 | Item | Description | Uses | Notes | Coins |
 | :-- | :-- | :-: | :-: | --: |

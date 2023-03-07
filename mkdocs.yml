@@ -1,9 +1,11 @@
 # Project information
+
 site_name: Dungeoneers RPG
 site_url: https://joemoose.github.io/dungeoneers
 site_author: Zachary Taylor
 
 # Navigation
+
 nav:
   - Home: README.md
   - 1 Make an Adventurer.md
@@ -16,13 +18,17 @@ nav:
   - 5 Appendix.md
   - 4 Attribution.md
 
-
 # Theme
+
 theme:
   name: material
   logo: tyros_icon.png
   favicon: favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+    edit: fontawesome/solid/pencil
   features:
+    - content.action.edit
     - navigation.footer
     - navigation.instant
 #    - navigation.sections
@@ -34,8 +40,6 @@ theme:
     - header.autohide
 #    - toc.integrate
 #    - toc.follow
-  font:
-    text: Georgia
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: black
@@ -51,6 +55,7 @@ theme:
         name: Switch to light mode
 
 # Extensions
+
 markdown_extensions:
   - toc:
       permalink: true
@@ -62,3 +67,18 @@ markdown_extensions:
 
 extra_css:
   - extra.css
+
+# Repo
+
+repo_url: https://github.com/joemoose/Dungeoneers-RPG
+edit_uri: edit/main/docs/
+
+# Plugins
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: date
+      fallback_to_build_date: true
+

@@ -26,14 +26,19 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](ht
 
 - Dungeoneers RPG icon made by [Juicy Fish](https://www.flaticon.com/authors/juicy-fish) from [Flaticon](https://www.flaticon.com).
 
+---
+
 Dungeoneers RPG is an independent production by Zachary Taylor and is not affiliated with Losing Games. It is published under the Mausritter Third Party Licence. Mausritter is copyright Losing Games.
+
+---
 
 The Electrum Archive is copyright Emiel Boven and CULT OF THE LIZARD KING. Dungeoneers RPG is an independent production by Zachary Taylor and is not affiliated with CULT OF THE LIZARD KING. It is published under the TEA Third Party License.
 
-This work includes material taken from the [System Reference Document 5.1 (“SRD 5.1”)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) available at https://creativecommons.org/licenses/by/4.0/legalcode.
+---
+
+This work includes material taken from the [System Reference Document 5.1 (“SRD 5.1”)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast LLC. The SRD 5.1 is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ---
 
 The text of this document outside the copyrighted material or trademarks of the aforementioned entities is released under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
----
