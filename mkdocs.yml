@@ -7,7 +7,7 @@ site_author: Zachary Taylor
 # Navigation
 
 nav:
-  - README.md
+  - index.md
   - character.md
   - equipment.md
   - play.md
