@@ -42,7 +42,7 @@ Conditions can only be removed from your inventory by meeting their cleared requ
 | *Wounded* | Disadvantage on STR and DEX checks | Full rest |
 
 !!! Note
-		See the [How to Play](3 How to Play.md) section for information about attribute checks and disadvantages.
+		See the [How to Play](play.md) section for information about attribute checks and disadvantages.
 
 ## Hirelings
 
@@ -70,7 +70,7 @@ Hirelings who receive a share of treasure gain 1 Experience Point (XP) per coin 
 Not receiving a share of treasure may cause resentment amongst hirelings.
 
 !!! Note
-		See the [Leveling Up](3.4 Advancement.md) section for information about XP and gaining levels.
+		See the [Leveling Up](advancement.md) section for information about XP and gaining levels.
 
 ## Usage
 
@@ -143,7 +143,7 @@ Most weapons have characteristics that affect their use.
 | Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
 
 !!! Note
-		See the [Combat](3.1 Combat.md) section for information about enhanced damage, impaired damage, and critical hits.
+		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
 
 ##  Expedition Equipment
 
@@ -164,10 +164,10 @@ Most gear has characteristics that affect their use.
 | Antitoxin | When you drink antitoxin, you’re cured of one *Poisoned* constraint affecting you. | 1 | small | 10 |
 | Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 | bulky | 100 |
 | Bandages and Herbal Poultices | When you take a few minutes to treat someone else’s wounds or revive an incapacitated ally, heal all their HP damage and make a WIL check to restore 1 point of attribute damage. | 3 | slow, small | 10 |
-| Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](3.4 Advancement.md) section for information on carousing. | 1 | bulky | 10 |
+| Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](advancement.md) section for information on carousing. | 1 | bulky | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 | small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 | ration | 3 |
 
 !!! note
 
-		See the [Appendix](5 Appendix.md) for more equipment lists.
+		See the [Appendix](appendix.md) for more equipment lists.

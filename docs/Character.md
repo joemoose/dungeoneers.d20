@@ -169,11 +169,11 @@ Choose **three** more items from the following list. You may choose an item more
 - healing potion
 - pipe and pipeleaf
 - small but vicious dog
-- spell tablet (*selected randomly, see the [Spells](3.3 Spells.md) section for a list )*
+- spell tablet (*selected randomly, see the [Spells](spells.md) section for a list )*
 
 !!! note
 
-		See the [Equipment](2 Equipment.md) section for more information on your gear.
+		See the [Equipment](equipment.md) section for more information on your gear.
 
 ## Step 6: Introductions
 
