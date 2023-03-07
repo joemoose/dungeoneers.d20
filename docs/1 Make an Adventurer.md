@@ -167,11 +167,9 @@ Choose **three** more items from the following list. You may choose an item more
 - fancy clothes
 - musical instrument
 - healing potion
-- ink, quill, and parchment
 - pipe and pipeleaf
 - small but vicious dog
 - spell tablet (*selected randomly, see the [Spells](3.3 Spells.md) section for a list )*
-- thieves tools
 
 ## Step 6: Introductions
 
