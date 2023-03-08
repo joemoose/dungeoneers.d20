@@ -96,8 +96,10 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 
 ---
 
-| Clothing and Gifts | Coins |
-| :----------------- | ----: |
+**Clothing and Gifts**
+
+| Item | Coins |
+| :--- | ----: |
 | Poor clothes | 10 |
 | Standard clothes | 50 |
 | Noble clothes | 150 |
@@ -113,8 +115,10 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 | Fine tapestry | 350 |
 | A crown fit for a king | 5,000 |
 
-| Meals | Coins |
-| :---- | ----: |
+**Meals**
+
+| Item | Coins |
+| :--- | ----: |
 | A poor meal for one | 1 |
 | A hearty meal for one | 2 |
 | A feast | 15 |
@@ -122,8 +126,10 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 | A bottle of common wine | 5 |
 | A bottle of good wine | 15 |
 
-| Services | Coins |
-| :------- | ----: |
+**Services**
+
+| Item | Coins |
+| :--- | ----: |
 | One day stay at a roadside inn | 2 |
 | One day stay at a civilized inn | 4 |
 | One day stay at the fanciest inn in town | 8 |
@@ -142,8 +148,10 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 | A month's prayers for the departed | 1 |
 | Repairs to a mundane item | 25% of the item's cost |
 
-| Transport | Load | Coins |
-| :-------- | :--: | ----: |
+**Transport**
+
+| Item | Load | Coins |
+| :--- | :--: | ----: |
 | Cart and Donkey, to carry your burdens | 12 | 50 |
 | Horse | 8 | 100 |
 | Warhorse | 10 | 1,000 |
@@ -307,6 +315,8 @@ All dragonpowder gonnes have the following characteristics:
 
 If you roll **double 1s** on the damage and bonus dice, a misfire occurs instead of damage to your target. Roll 2d6 and consult the following table for the result.
 
+**Misfires Table**
+
 | 2d6 | Result |
 | :-: | :----- |
 | 2 | The gonne explodes and is destroyed. Roll 2d6 damage to you. |
@@ -338,7 +348,7 @@ If you roll **double 1s** on the damage and bonus dice, a misfire occurs instead
 
 The following rules provide a grittier campaign geared more toward violent action and dark powers.
 
-### Character Classes
+## Character Classes
 
 Character creation remains the same as the core Dungeoneers system with one extra step: choosing a class for your character. Character classes add unique talents and specializations to your character.
 
@@ -346,19 +356,19 @@ Character creation remains the same as the core Dungeoneers system with one extr
 
 The three classes are described in the following sections. 
 
-### Warrior Class
+## Warrior Class
 
 ---
 
 Warriors are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of warriors is to battle monsters and defend other characters.
 
-#### Combat Maneuvers
+### Combat Maneuvers
 
 A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **Grit**. You start with one grit. At every **even-numbered** level, you gain one additional grit. You can use multiple maneuvers at the same time.
 
 Grit is restored after a long rest.
 
-##### Starting Maneuvers
+#### Starting Maneuvers
 
 A new warrior starts with three combat maneuvers in their repertoire:
 
@@ -366,7 +376,7 @@ A new warrior starts with three combat maneuvers in their repertoire:
 - **ALERT**: Spend one grit to act before your opponents.
 - **TOUGH**: Whenever you take damage, spend one grit to reduce the damage by d6.
 
-##### Advanced Maneuvers
+#### Advanced Maneuvers
 
 Choose one of the following combat maneuvers at even-numbered levels to add to your repertoire.
 
@@ -379,7 +389,7 @@ Choose one of the following combat maneuvers at even-numbered levels to add to y
 - **SHIELD**: When an ally in your zone takes damage, spend a grit and add your armor rating to theirs for this round.
 - **TAUNT**: Spend one grit to make all enemies attack you this round. 
 
-#### Trophies
+### Trophies
 
 You gain the following talents at level 3.
 
@@ -396,13 +406,13 @@ When you encounter a creature of which you carry a trophy, spend one grit to:
 
 You can construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed on use.
 
-### Thief Class
+## Thief Class
 
 ---
 
 Thieves are adventurers who live by their wits and luck, with a bit of resourcefulness for good measure. Their range of unique talents makes them versatile companions in adventures.
 
-#### Talents
+### Talents
 
 You have a variety of unique abilities. When you first create your character, and each time you gain a level, you can choose one talent from the following list or gain mastery of a talent you already know.
 
@@ -430,7 +440,7 @@ You have a variety of unique abilities. When you first create your character, an
 
 - **Mastery**: Make a WIL check once each session to see if you have a contact in any area, regardless of whether you’re new to it.
 
-### Sorcerer Class
+## Sorcerer Class
 
 ---
 
@@ -438,17 +448,17 @@ Anyone can cast magic from spellbooks, scrolls, and relics. Sorcerers, though, p
 
 A sorcerer brings substantial capabilities to an adventuring party, but a sorcerer risks losing their souls, if not their lives, to the fell Corruptions of their art. 
 
-#### Sorcerous Powers
+### Sorcery
 
 You alter the world through sheer force of will and your body’s consumption. You need no charms, runes, spellbooks, or scrolls. Reality is yours to command.
 
-##### Essence
+#### Essence
 
 Your sorcerous power requires you to expend at least one attribute point of STR, DEX, WIL, or LUCK as essence to fuel your magic. The more of your body you sacrifice, the greater the essence consumed and the greater the magnitude of the power unleashed.
 
 Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. A critical damage check is unnecessary when losing an attribute score for essence. 
 
-##### Invoking Powers
+#### Invoking Powers
 
 **To invoke a sorcerous power**, sacrifice abilities scores for essence and make a WIL check.
 
@@ -457,7 +467,7 @@ Attribute scores lost for invoking your powers are healed as usual—STR, DEX, a
 
 The WIL check to invoke your power is advantageous if performed over two or more rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
-##### Powers
+### Powers
 
 When you create your character, pick one Power. Select one additional Power at levels 3, 5, and 7.
 
@@ -493,7 +503,7 @@ You can see an [essence] number of creatures’ souls if you concentrate exclusi
 
 Manifest a simmering, translucent shield around you or a target creature or object for [essence] rounds. The ward provides an advantage on attribute checks to avoid magical effects and a disadvantage on damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack.
 
-#### Dark Magic
+### Dark Magic
 
 The essence required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their corruption level immediately by 1. A corruption check is required regardless of whether the invocation succeeds.
 
@@ -512,6 +522,8 @@ Characters must gain **scars** through combat to increase their HP and attribute
 ### Scars
 
 When a character’s HP is reduced to **zero or less** in an attack, they are uniquely scarred. Look up the result in the following table based on the damage sustained in the attack.
+
+**Scars Table**
 
 | Damage | Scar |
 | :-: | :- |
@@ -559,7 +571,7 @@ When directed by the GM to make a corruption check, roll **d20**.
 
 Regardless of success or failure, **increase** your corruption level by 1.
 
-#### Manifestations of Corruption
+#### Mutations
 
 Roll **d20 +corruption level** and consult the following table.
 
@@ -570,33 +582,41 @@ Roll **d20 +corruption level** and consult the following table.
 | 3 | Your dreams are tinged with dread but always contain hidden truths. |
 | 4 | You can sense nearby otherworldly beings and objects. |
 | 5 | You can unerringly impersonate the voice of anyone you converse with. |
-| 6 | Gain one **Chthonian Vitiation**. |
+| 6 | Gain one **Chthonian Vitiation**. See the following table. |
 | 7 | You are subtly aware if any individual or object has a sorcerous or corrupted ability. |
-| 8 | Gain one **Demonian Vitiation**. |
+| 8 | Gain one **Demonian Vitiation**. See the following table. |
 | 9 | You can speak into the mind of someone you can see. They cannot reply. |
-| 10 | Gain one **Ophidian Vitiation**. |
+| 10 | Gain one **Ophidian Vitiation**. See the following table. |
 | 11 | You cough up a pale, noxious fruit that, when consumed, provides a truthful vision.
-| 12 | Gain one **Chthonian Vitiation**. |
+| 12 | Gain one **Chthonian Vitiation**. See the following table. |
 | 13 | You spawn a shadow duplicate of yourself which tries to steal your identity. |
-| 14 | Gain one **Demonian Vitiation**. |
+| 14 | Gain one **Demonian Vitiation**. See the following table. |
 | 15 | You take direct STR damage from silvered weapons. |
-| 16 | Gain one **Ophidian Vitiation**. |
+| 16 | Gain one **Ophidian Vitiation**. See the following table. |
 | 17 | You can only enter a home uninvited or cross over running water if carried. |
-| 18 | Gain one **Chthonian Vitiation**. |
+| 18 | Gain one **Chthonian Vitiation**. See the following table. |
 | 19 | A tiny famulus made of dirt (3 HP, d4 damage) follows you and whispers secrets. |
-| 20 | Gain one **Demonian Vitiation**. |
+| 20 | Gain one **Demonian Vitiation**. See the following table. |
 | 21 | You crave carrion and take a *Deprived* constraint if you don't consume it daily. |
-| 22 | Gain one **Ophidian Vitiation**. |
+| 22 | Gain one **Ophidian Vitiation**. See the following table. |
 | 23 | Permanently reduce your body inventory slots by one as your body warps and shrivels. |
-| 24 | Gain one **Vitiation** of whichever category you have the most. |
+| 24 | Gain one **Vitiation** of whichever category you have the most. See the following tables. |
 | 25 | You spawn a shadow duplicate of yourself which tries to kill your peers. |
-| 26 | Gain one **Vitiation** of whichever category you have the most. |
+| 26 | Gain one **Vitiation** of whichever category you have the most. See the following tables. |
 | 27 | Everyone around you always hears an uncanny rasping whisper. |
-| 28 | Gain one **Chthonian Vitiation**, one **Demonian Vitiation**, and one **Ophidian Vitiation**. |
+| 28 | Gain one **Chthonian Vitiation**, one **Demonian Vitiation**, and one **Ophidian Vitiation**. See the following tables. |
 | 29 | All animals loathe you, fleeing from you if they are prey and attacking you if predatory. |
 | 30+ | A portal to a dimension without light or form opens and consumes you. You are forever obliterated. Every character near you gains one corruption immediately and makes a corruption check. |
 
-##### Chthonian Vitiation
+#### Vitiations
+
+After mutating with a **fifth vitiation** of the same type, you are forever transformed into a vile servant of chaos. You become an immediate threat to your adventuring party and a long-term threat to the world. The GM takes over your character. It’s time to create a new adventurer.
+
+- **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
+- **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders in the region and beyond.
+- **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
+
+##### Chthonian
 
 | d12 | Vitiation |
 | :-: | :- |
@@ -613,7 +633,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 11 | You can excrete small amounts of sticky, transparent tar. |
 | 12 | You are unaffected by insanity or mental manipulation. |
 
-##### Demonian Vitiation
+##### Demonian
 
 | d12 | Vitiation |
 | :-: | :- |
@@ -630,7 +650,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 11 | You can detach and re-attach your hands and feet. |
 | 12 | You gain a pair of leathery wings and can fly. |
 
-##### Ophidian Vitiation
+##### Ophidian
 
 | d12 | Vitiation |
 | :-: | :- |
@@ -647,13 +667,6 @@ Roll **d20 +corruption level** and consult the following table.
 | 11 | You can perfectly regulate your heartbeat and temperature. |
 | 12 | You can extract, buy, and sell memories and dreams. |
 
-#### Transmogrification
-
-After gaining a **fifth vitiation** of the same type, you are forever transformed into a vile monster. You become an immediate threat to your adventuring party and a long-term threat to the game world. The GM takes over your character. It’s time to create a new adventurer.
-
-- **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
-- **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders in the region and beyond.
-- **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
 
 
 

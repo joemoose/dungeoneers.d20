@@ -14,7 +14,7 @@ When you describe your character doing something risky, or the outcome is uncert
 
 Roll a **d20** and compare the result to the applicable attribute score. If the result is **less than or equal to** the relevant attribute score, your character **succeeds** and suffers no complications. If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
 
-## Using Attributes
+### Using Attributes
 
 Your character is a determined, resourceful adventurer, capable of almost anything. So when the outcome is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
 
@@ -22,13 +22,13 @@ Your description of the action determines the applicable attribute. Consider a l
 
 Don’t think about what your character is capable of, but *how* they would approach a problem. Play to all of your character’s assets.
 
-## Critical Success and Failure
+### Critical Success and Failure
 
 Rolling the **exact attribute score** on a check is a **critical success**, and the outcome will be better than expected. Increase your LUCK attribute score by 1.
 
 Conversely, rolling a **20** is a **critical failure**, and the outcome will be worse than expected. Decrease your LUCK by 1.
 
-## Advantage and Disadvantage
+### Advantage and Disadvantage
 
 If you roll an attribute check and are particularly well prepared or equipped for the task, the GM may allow you to roll with an **advantage**. Roll **two d20s** and take the **best** result.
 

@@ -22,14 +22,21 @@ nav:
   - damage.md
   - spells.md
   - advancement.md
-  - appendix.md
+  - Appendices:
+      - appendix-a.md
+      - appendix-b.md
+      - appendix-c.md
+      - appendix-d.md
+      - appendix-e.md
+      - appendix-f.md
+      - appendix-g.md
   - attribution.md
 
 # Theme
 
 theme:
   name: material
-  logo: d20.png
+  logo: logo.png
   favicon: favicon.ico
   icon:
     repo: fontawesome/brands/github

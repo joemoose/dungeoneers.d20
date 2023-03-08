@@ -12,6 +12,8 @@ Characters start at level 1 with zero XP.
 
 The following table shows the total XP required to advance each level.
 
+**Level and XP Table**
+
 | Level | HP | Stamina | XP |
 | :-: | :-: | :-: | --: |
 | 1 | d4+2 | 0 | 0 |
@@ -43,7 +45,9 @@ You can spend your hard-earned coins for XP rather than buying equipment, hireli
 
 Declare the number of coins you’re spending to carouse and roll **2d6** to see how your evening goes. Regardless of the evening’s outcome, you earn XP at a 5-to-1 ratio for the coins spent.
 
-| 2d6 | Carousing Results |
+**Carousing Results Table**
+
+| 2d6 | Results |
 | :-: | :-- |
 | 2–4 | You’ve all made fools of yourselves somehow. Roll on the **Carousing Mishaps** table. |
 | 5–9 | Your carousing causes no remarkable incidents. |

@@ -45,6 +45,8 @@ For example, the Darkness spell creates a [SUM] x 10-foot diameter sphere of abs
 
 If two essence are used to cast Darkness, and the result of the 2d6 roll is 6, the spell creates a sphere 60 feet wide for 2 turns. 
 
+**Spells Table**
+
 | d66 | Spell | Effect | Recharge |
 | :-: | :--- | :----- | :------- |
 | 11 | Animal Form | The target of the spell and their possessions are transformed into a beast of your choice for [SUM] turns or until they take critical damage. The transformed beast is limited to the actions and abilities natural to its animal form. | Feed, groom, and remain beside the same animal for three days and three nights. |
