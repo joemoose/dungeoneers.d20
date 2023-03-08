@@ -25,7 +25,9 @@ When your character earns enough XP to advance to the next level, perform the fo
 - **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, WIL, and LUCK. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased after rolling for each, increase the lowest attribute by 1.
 - **Roll hit points**: Roll the HP dice listed for the new level. If the result exceeds the maximum HP that your character has, swap it with the rolled value. Otherwise, increase your maximum HP by 1.
 
-The highest value that a character can attain for attributes and HP is 18.
+!!! note
+
+		The highest value that a character can attain for attributes and HP is 18.
 
 ## Stamina
 
@@ -49,9 +51,9 @@ Declare the number of coins you’re spending to carouse and roll **2d6** to see
 
 ### Mishaps and Fortunes
 
-Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roistering, the more volatile or legendary the consequences. See the Mishaps and Fortunes table to determine what happens.
+Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roistering, the more volatile or legendary the consequences. See the Mishaps and Fortunes tables to determine what happens.
 
-**Mishaps Table**
+**Carousing Mishaps Table**
 
 | d6+ | Mishaps |
 | :-: | :-- |
@@ -68,7 +70,7 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 | 11 | **Major misunderstanding** with the local watch. You are locked up for 2d6 days, and all equipment is confiscated until fines and bribes totaling 2d6 x 50 coins are paid. You all are now seen as local criminals. |
 | 12+ | **The roof! The roof! The roof is on fire!** You accidentally start a conflagration. Roll d6: (1–2) you burned down your favorite tavern, (3–5) some other establishment is reduced to ash, or (6) a big chunk of town goes up in smoke. Roll d6 again: (1–2) no one knows it was you, (3–5) one other person knows you did it, or (6) everyone knows. |
 
-**Fortunes Table**
+**Carousing Fortunes Table**
 
 | d6+ | Fortune |
 | :-: | :-- |
