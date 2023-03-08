@@ -12,7 +12,7 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](ht
 
 - Equipment adapted from [Dungeon World](https://dungeon-world.com/), by Adam Koebel and Sage LaTorra, licensed under the [Creative Commons Attribution 3.0 Unported license (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/). 
 
-- The spell system is adapted from [“The GLOG”](https://goblinpunch.blogspot.com/2016/05/the-glog.html), *Goblin Punch*, 7 May 2016, by Arnold Kemp and [“D100 - Potential Spell Recharge Conditions”](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html), *d4 Caltrops*, 19 September 2022, by Ktrey.
+- The spell system adapted from [“The GLOG”](https://goblinpunch.blogspot.com/2016/05/the-glog.html), *Goblin Punch*, 7 May 2016, by Arnold Kemp and [“D100 - Potential Spell Recharge Conditions”](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html), *d4 Caltrops*, 19 September 2022, by Ktrey.
 
 - Sundering of shields adapted from [“Shields Shall be Splintered!”](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html), *Trollsmyth*, 6 May 2008, by Trollsmyth.
 
@@ -23,8 +23,6 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](ht
 - Sorcerer class adapted from [“OSR: Class: Sorcerer”](https://coinsandscrolls.blogspot.com/2018/03/osr-class-sorcerer.html), *Coins and Scrolls*, 29 March 2018, by Skerples. 
 
 - Warrior and Thief classes adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com). 
-
-- Dungeoneers RPG icon made by [Juicy Fish](https://www.flaticon.com/authors/juicy-fish) from [Flaticon](https://www.flaticon.com).
 
 ---
 
