@@ -23,7 +23,7 @@ The following table shows the total XP required to advance each level.
 When your character earns enough XP to advance to the next level, perform the following actions:
 
 - **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, WIL, and LUCK. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased after rolling for each, increase the lowest attribute by 1.
-- **Roll hit points**: Roll the HP dice listed for the new level. If the result exceeds the maximum HP that your character has, swap it with the rolled value. Otherwise, increase your HP by 1.
+- **Roll hit points**: Roll the HP dice listed for the new level. If the result exceeds the maximum HP that your character has, swap it with the rolled value. Otherwise, increase your maximum HP by 1.
 
 The highest value that a character can attain for attributes and HP is 18.
 
