@@ -35,7 +35,7 @@ For each stamina point, you can place one constraint into the stamina space on y
 
 ## Carousing
 
-You can fritter away your hard-earned coins for XP rather than spending it on equipment, hirelings, or other useful sundries. **Carousing** earns XP by spending coins at a **5-to-one** ratio: 5 coins for 1 XP. Carousing represents your debauched revelries, gambling, excessive drinking, investments in “business opportunities,” or any recreation involving new-found wealth and rollicking fun. 
+You can spend your hard-earned coins for XP rather than buying equipment, hirelings, or other useful sundries. **Carousing** earns XP by spending coins at a **5-to-one** ratio: 5 coins for 1 XP. Carousing represents your debauched revelries, gambling, excessive drinking, investments in “business opportunities,” or any recreation involving new-found wealth and rollicking fun. 
 
 ### Carousing Check
 
