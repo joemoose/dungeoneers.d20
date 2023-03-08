@@ -2,7 +2,7 @@
 
 *Dungeoneers RPG by Zachary Taylor*  
 *Playtest Document v0.3*  
-*March 7, 2023*  
+*March 8, 2023*  
 
 Welcome to Dungeoneers! Dungeoneers RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
 
@@ -12,13 +12,13 @@ If you’re new to tabletop roleplaying games, I’d suggest you read [*Fundamen
 
 Dungeoneers grew out of a desire for a specific style of play. Call it "old school." I wanted a game that encourages *player* ingenuity over *character* abilities, a game that weaves an emergent story from conversations between the players and GM. To do something, you just need to describe it. The rules stay well out of the way until needed by the GM—perhaps to decide an uncertain or risky outcome. The GM will let you know if and when you need to roll dice. Description and observation are a player’s tools, not a set of rules.
 
-As such, Dungeoneers does not use traditional character classes. The equipment your character carries and your own resourcefulness as a plyer define your character's abilities. You won't "use" your character sheet to look up a specific power for a particular problem. To be a warrior, find the best armor and weapons you can afford. A thief needs tools. A mage needs spell. Be all three? Certainly.
+As such, Dungeoneers does not use traditional character classes. The equipment your character carries and your resourcefulness as a player define your character's abilities. You won't "use" your character sheet to look up a specific power for a particular problem. To be a warrior, find the best armor and weapons you can afford. A thief needs tools. A mage needs a spell. Be all three? Certainly.
 
 Additionally, combat is highly consequential. Every foe is deadly and can defeat you in a few rounds. There's no back-and-forth slog of dice rolling, standing toe-to-toe, and trading a series of blows that might or might not hit. Attacks always hit; you just roll damage. There's no "encounter balance." Combat is a puzzle to solve rather than a simulation of attrition. You must gain tactical advantages and defeat opponents quickly and overwhelmingly or else retreat and try a different approach.
 
 Since equipment is essential to your character's abilities, tracking their gear is part of the game. But I don't like bookkeeping, so inventory is a simple mechanic: 12 slots maximum for equipment and mark usage on consumables. That's it.
 
-This game also has a luck system to encourage a little bit of crazy risk-taking. You are a heroic adventurer, after all.
+This game also has a luck system to encourage some crazy risk-taking. You are a heroic adventurer, after all.
 
 Enjoy!
 

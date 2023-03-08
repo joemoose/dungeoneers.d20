@@ -33,4 +33,3 @@ There are three ways for your character to rest and recover:
 - **Full Rest**: Resting in a safe location for a week restores all lost STR, DEX, and WIL and clears all *Wounded* or other long-term constraints.
 
 Magical curatives or the care of skilled healers may shorten these recovery times.
-

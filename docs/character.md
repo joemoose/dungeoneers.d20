@@ -45,7 +45,7 @@ Also, think about their relationship with the other characters in the group, but
 
 ➡️ Give your character a name and describe how they look.
 
-If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
+If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
 
 **Names Table**
 
@@ -145,7 +145,7 @@ Strength is a prime attribute for warriors. Dexterity serves thieves well. Casti
 
 ## Step 4: Hit Points
 
-Hit points (HP) represent the amount of damage you can shrug off before suffering any real harm. HP is easily and quickly restored.
+Hit points (HP) represent the damage you can shrug off before suffering any real harm. HP is easily and quickly restored.
 
 ➡️ Roll **d4+2** to determine your starting hit points.
 
