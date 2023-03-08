@@ -1,6 +1,16 @@
 # Appendices
 
-## Appendix A: Rules Reference
+This section contains the following appendices:
+
+- [Appendix A: Rules Reference](#a)
+- [Appendix B: Sundries Equipment List](#b)
+- [Appendix C: Character Archetypes](#c)
+- [Appendix D: Simplified Initiative](#d)
+- [Appendix E: Alternate Leveling](#e)
+- [Appendix F: Dragonpowder Gonnes](#f)
+- [Appendix G: Sword & Sorcery Rules](#g)
+
+## <a name=a></a>Appendix A: Rules Reference
 
 ---
 
@@ -82,7 +92,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - Items in the backpack require an action to retrieve during combat.
 - Most items take 1 slot, and bulky take 2.
 
-## Appendix B: Sundries Equipment List
+## <a name=b></a>Appendix B: Sundries Equipment List
 
 ---
 
@@ -144,7 +154,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 | Passage on a dangerous route | - | 100 |
 
 
-## Appendix C: Character Archetypes 
+## <a name=c></a>Appendix C: Character Archetypes
 
 ---
 
@@ -265,7 +275,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - **Charges**: d6+1
 - **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature will not be hostile toward you.
 
-## Appendix D: Simplified Initiative
+## <a name=d></a>Appendix D: Simplified Initiative
 
 ---
 
@@ -273,7 +283,7 @@ If you prefer a more straightforward and faster method to establish a turn order
 
 If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a DEX *or* WIL check to act before your opponents. In following combat rounds, maintain this order.
 
-## Appendix E: Alternate Leveling
+## <a name=e></a>Appendix E: Alternate Leveling
 
 ---
 
@@ -281,7 +291,7 @@ Rather than tracking experience points and leveling up based on the value of loo
 
 You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more journeys.
 
-## Appendix F: Dragonpowder Gonnes
+## <a name=f></a>Appendix F: Dragonpowder Gonnes
 
 ---
 
@@ -322,7 +332,7 @@ If you roll **double 1s** on the damage and bonus dice, a misfire occurs instead
 | :--- | :--: | :---: |
 | Powder Shot | 6 per bag | 180 |
 
-## Appendix G: Sword & Sorcery Rules
+## <a name=g></a>Appendix G: Sword & Sorcery Rules
 
 ---
 
