@@ -98,11 +98,11 @@ You have a variety of unique abilities. When you first create your character, an
 
 ---
 
-A sorcerer brings substantial capabilities to an adventuring party, but a sorcerer risks losing their souls, if not their lives, to the fell Corruptions of their art. 
+A sorcerer brings substantial capabilities to an adventuring party, but a sorcerer risks losing their souls, if not their lives, to the fell corruption of their art. 
 
 ### Sorcery
 
-Anyone can cast magic from spellbooks, scrolls, and relics. Sorcerers, though, possess an innate magical power. Whether it arises from an exotic bloodline, otherworldly influence, or exposure to unknown corrupting forces, no one chooses sorcery; the power chooses the sorcerer.
+Anyone can cast magic from spell tablets, scrolls, and relics. Sorcerers, however, possess an innate magical power. Whether it arises from exotic bloodlines, otherworldly influence, or exposure to unknown corrupting forces, no one chooses sorcery; the power chooses the sorcerer.
 
 You can alter the world through sheer force of will and your body’s consumption. Reality is yours to command.
 

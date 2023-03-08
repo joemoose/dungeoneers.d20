@@ -9,7 +9,7 @@ site_dir: dungeoneers
 # Repo
 
 repo_url: https://github.com/joemoose/Dungeoneers-RPG
-edit_uri: edit/main/docs/
+edit_uri: blob/main/docs/
 
 # Navigation
 
@@ -39,7 +39,7 @@ theme:
   logo: logo.png
   favicon: favicon.ico
   icon:
-    repo: fontawesome/brands/github
+#    repo: fontawesome/brands/github
     edit: octicons/pencil-24
   features:
     - header.autohide
