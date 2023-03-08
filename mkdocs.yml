@@ -3,6 +3,8 @@
 site_name: Dungeoneers RPG
 site_url: https://joemoose.github.io/dungeoneers/
 site_author: Zachary Taylor
+site_description: Dungeoneers RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
+site_dir: dungeoneers
 
 # Repo
 
