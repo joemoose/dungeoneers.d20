@@ -23,7 +23,7 @@ The following table shows the total XP required to advance each level.
 When your character earns enough XP to advance to the next level, perform the following actions:
 
 - **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, WIL, and LUCK. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased after rolling for each, increase the lowest attribute by 1.
-- **Roll hit points**: Roll the HP dice listed for the new level. If the result exceeds the maximum HP that your character has, swap it with the rolled value. Otherwise, increase your HP by 1.
+- **Roll hit points**: Roll the HP dice listed for the new level. If the result exceeds the maximum HP that your character has, swap it with the rolled value. Otherwise, increase your maximum HP by 1.
 
 The highest value that a character can attain for attributes and HP is 18.
 
@@ -35,7 +35,7 @@ For each stamina point, you can place one constraint into the stamina space on y
 
 ## Carousing
 
-You can fritter away your hard-earned coins for XP rather than spending it on equipment, hirelings, or other useful sundries. **Carousing** earns XP by spending coins at a **5-to-one** ratio: 5 coins for 1 XP. Carousing represents your debauched revelries, gambling, excessive drinking, investments in “business opportunities,” or any recreation involving new-found wealth and rollicking fun. 
+You can spend your hard-earned coins for XP rather than buying equipment, hirelings, or other useful sundries. **Carousing** earns XP by spending coins at a **5-to-one** ratio: 5 coins for 1 XP. Carousing represents your debauched revelries, gambling, excessive drinking, investments in “business opportunities,” or any recreation involving new-found wealth and rollicking fun. 
 
 ### Carousing Check
 
