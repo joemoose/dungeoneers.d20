@@ -2,7 +2,7 @@
 
 ---
 
-## Clothing and Gifts
+### Clothing and Gifts
 
 | Item | Coins |
 | :--- | ----: |
@@ -21,7 +21,7 @@
 | Fine tapestry | 350 |
 | A crown fit for a king | 5,000 |
 
-## Meals
+### Meals
 
 | Item | Coins |
 | :--- | ----: |
@@ -32,7 +32,7 @@
 | A bottle of common wine | 5 |
 | A bottle of good wine | 15 |
 
-## Services
+### Services
 
 | Item | Coins |
 | :--- | ----: |
@@ -54,7 +54,7 @@
 | A month's prayers for the departed | 1 |
 | Repairs to a mundane item | 25% of the item's cost |
 
-## Transport
+### Transport
 
 | Item | Load | Coins |
 | :--- | :--: | ----: |

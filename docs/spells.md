@@ -32,20 +32,20 @@ The spell still manifests, though at a cost to the caster.
 
 A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a large settlement. A depleted tablet is, at most, a fourth of its value.
 
-## Spell List
+## Spells List
 
 In the following spell descriptions:
 
 - [DICE] is the number of dice rolled equal to the essence used to cast the spell.
 - [SUM] is the sum of the dice rolled.
 
-The spell’s effect is based on the [DICE] and [SUM] values.
+A spell’s effect is based on the [DICE] and [SUM] values.
 
-For example, the Darkness spell creates a [SUM] x 10-foot diameter sphere of absolute darkness for [DICE] turns.
+!!! info "Example"
 
-If two essence are used to cast Darkness, and the result of the 2d6 roll is 6, the spell creates a sphere 60 feet wide for 2 turns. 
+	The Darkness spell creates a [SUM] x 10-foot diameter sphere of absolute darkness for [DICE] turns.
 
-**Spells Table**
+	If two essence are used to cast Darkness, and the result of the 2d6 roll is 6, the spell creates a sphere 60 feet wide for 2 turns. 
 
 | d66 | Spell | Effect | Recharge |
 | :-: | :--- | :----- | :------- |

@@ -9,7 +9,7 @@
 - **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away. 
 - **Play to win, but savor a loss**. Leave your mark on the world. Go down fighting.
 
-!!! quote
+	!!! quote
 
 		Play your character like you’re driving a stolen car.<br/>–John Harper, *Blades in the Dark*
 

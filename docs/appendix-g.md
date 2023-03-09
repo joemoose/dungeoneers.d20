@@ -131,23 +131,29 @@ When you create your character, pick one of the following powers. Select one add
 
 	The maximum size or weight of the creature or object to be altered is that of the sorcerer. You can double the size or weight altered for each additional essence. 
 
-	> ”This door does not exist." You can walk through the space the door formerly occupied.  
-	> "The giant is now a mole.” The giant retains its abilities and HP, but it would be easier to surround a mole and attack.  
-	> "The dragon is made of paper." The dragon is now made of paper. It retains its abilities and HP but will take extra damage if you set it on fire with a torch.  
+	!!! info "Examples"
+
+		"This door does not exist." You can walk through the space the door formerly occupied. 
+		 		
+		"The ogre is made of paper." The ogre is now made of paper. It retains its abilities and HP but will burn readily if you set it alight with a torch.  
 
 - **CREATE**
 
 	Bring forth a creation. The creature or object created exists for [essence] rounds. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
 
 	More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks), but these objects do not deal magic damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
-
-	> Zathar the Sorcerer invokes a flying throne, which he mounts to escape. He sacrifices six essences (the throne is about his *weight* and can *fly* for *4 rounds*).
+	
+	!!! info "Example"
+	
+		Zathar the Sorcerer invokes a flying throne, which he mounts to escape. He sacrifices six essences (the throne is about his *weight* and can *fly* for *4 rounds*).
 
 - **HARM**
 
 	Deal an [essence] number of d6 damage to one target creature or object you can see. Creatures and magical objects can make an attribute check to avoid or mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
-
-	> Zathar sacrifices two essence. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
+	
+	!!! info "Example"
+		
+		Zathar sacrifices two essence. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
 
 - **SOUL SIGHT**
 
