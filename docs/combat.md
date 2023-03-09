@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Combat is dangerous, and wise adventurers seek to avoid it.
+Combat is dangerous, and wise adventurers, or at least those with long careers, seek to avoid it.
 
 ## Initiative
 
@@ -61,11 +61,25 @@ When an attack is **impaired**, such as firing at an opponent behind cover or fi
 
 ### Critical Hits
 
-Rolling the **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor rating and deals the total damage.
+Rolling **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor rating and deals the total amount of damage.
 
 ### Dual-Wielding
 
-If attacking with two weapons, one in your main hand and one offhand, the offhand weapon functions as a bonus damage die. Roll damage for both and choose the best result.
+If attacking with two weapons, one in your main hand and one offhand, the offhand weapon functions as bonus damage. Roll damage for both and choose the best result.
+
+### Gambits
+
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They’re resolved with an attribute check. Gambits can’t cause damage directly but may do so indirectly (for example, pushing an enemy off a ledge). 
+
+## Advantage in Combat
+
+Characters can gain an advantage in combat by attacking a target who’s on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
+
+When a character has an advantage against an opponent, you can apply their advantage to either their damage roll or a gambit attempt against the opponent. Alternatively, you can make both an attack and a gambit attempt against the same opponent without an advantage in the same round.
+
+!!! note
+
+	If you apply a combat advantage to your damage roll, roll only your primary weapon’s damage die twice, taking the best result. If you have any bonus damage dice on your attack, bonus dice are not rolled twice. Bonus damage dice rolls are only rolled once and not modified by combat advantage.
 
 ### Multiple Attackers 
 
@@ -77,33 +91,23 @@ Ranged weapons can’t be used if you’re in the same zone as your target.
 
 ### Aiming
 
-Not moving and using an action to aim instead of attacking allows a character to ignore the target’s armor with a ranged weapon the next round.
-
-### Blast
-
-Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, and swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
+Not moving and using an action to aim instead of attacking allows a character to ignore the target’s armor with a ranged weapon the next round. If you’re attacked in the same round as aiming, your aim is disrupted and the next attack does not ignore the target’s armor.
 
 ### Subdual
 
 Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An opponent who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
-### Gambits
+### Blast
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They’re resolved with an attribute check. Gambits can’t cause damage directly but may do so indirectly (for example, pushing an enemy off a ledge). 
-
-## Advantage in Combat
-
-Characters can gain an advantage in combat by attacking a target who’s on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
-
-When a character has an advantage against an opponent, they can apply advantage to either their damage roll or a gambit attempt against that opponent. Alternatively, you can make both an attack and a gambit attempt against that opponent without an advantage in the same round.
-
-If you apply the advantage to your damage roll, roll only your weapon’s damage die twice, taking the best result. If you have any bonus damage dice, such as a +d12 for attacking an unaware opponent, bonus dice are not rolled twice. Bonus damage dice rolls are only ever rolled once and not modified by advantage.
+Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, and swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
 
 ## Morale
 
 When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated.
 
 Lone foes must pass a WIL check when reduced to 0 HP.
+
+Some fanatical or mindless opponents might not be required to check morale.
 
 !!! note
 
