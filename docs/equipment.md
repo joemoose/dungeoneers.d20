@@ -88,7 +88,7 @@ Armor reduces the damage you suffer from an attack. A player character can only 
 
 **Notes**:
 
-- **+1 armor rating** items can be equipped with the base armor: cloth, light, medium, heavy, or extreme.
+- **+1 armor rating** items can be equipped with the base armor: cloth, light, medium, heavy, or massive.
 - **Helmets** provide an advantage on STR checks to avoid critical damage.
 - **Shields** have other uses besides a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
@@ -107,7 +107,7 @@ Armor reduces the damage you suffer from an attack. A player character can only 
 | Light (Brigandine) | 2 armor | Two body slots | 500 |
 | Medium (Chainmail) | 3 armor | Two body slots | 1200 |
 | Heavy (Plate Mail) | 4 armor | Two body slots | 4,000 |
-| Extreme (Full Plate) | 5 armor | Two body slots, a helmet is integrated | 8,000 |
+| Massive (Full Plate) | 5 armor | Two body slots, a helmet is integrated | 8,000 |
 
 ## Weapons
 
