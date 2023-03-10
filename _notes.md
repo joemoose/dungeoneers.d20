@@ -1,20 +1,20 @@
 _notes
 
-take 2 actions
+~~take 2 actions~~
 
 ---
 
-CLOSE
+~~CLOSE~~
 
-NEARBY
+~~NEARBY~~
 
-FAR AWAY
+~~FAR AWAY~~
 
-0 - 5ft
+~~0 - 5ft~~
 
-5 - 60ft
+~~5 - 60ft~~
 
-60 - 120ft
+~~60 - 120ft~~
 
 ---
 
@@ -55,6 +55,8 @@ The Doom die returns to its maximum (a d6) after the character takes a long rest
 Players can choose to "invite" doom: roll Doom and subtract the result from one of your character's attribute checks or add it to a damage roll. The Doom die automatically degrades.
 
 Once the Doom die is depleted, the character is considered Doomed. All their attribute tests and damage rolls are made with Disadvantage until the character can take a long rest.
+
+---
 
 | Barbarian | Civilized | Decadent |
 | --------- | --------- | -------- |

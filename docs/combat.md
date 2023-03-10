@@ -14,11 +14,11 @@ When combat breaks out, a turn order must first be established for all the comba
 
 ### Declaring Actions
 
-At the beginning of every round, the GM describes the actions likely taken by your opponents. All the players then declare their character’s intentions for the round before rolling any dice. 
+At the beginning of every round, the GM describes the actions likely taken by your opponents. All players then declare their character’s intentions for the round before rolling any dice. 
 
 ### Determining Fast and Slow Turns
 
-Next, all combatants determine whether their declared actions involve a *fast* or *slow* round.
+Next, determine whether the declared actions involve a *fast* or *slow* round.
 
 A **fast** round consists of taking only a **single action**, such as:
 
@@ -48,8 +48,8 @@ A **slow** round consists of taking **two actions**:
 After determining who’s rounds will be fast or slow, the order for resolving actions is as follows:
 
 1. Resolve all fast rounds before slow rounds.
-2. If players and opponents both take a fast round, the player must make a DEX *or* WIL check to go first.
-3. If players and opponents both take a slow round, the player must make a DEX *or* WIL check to go first.
+2. If players and opponents both have a fast round, the player must make a DEX *or* WIL check to act before the opponents. Otherwise, they act after the opponents.
+3. If players and opponents both have a slow round, the player must make a DEX *or* WIL check to act before the opponents. Otherwise, they act after the opponents.
 
 !!! note
 
@@ -83,9 +83,13 @@ When an attack is **impaired**, such as firing at an opponent behind cover or fi
 
 If attacking with two weapons, one in your main hand and one offhand, the offhand weapon functions as bonus damage. Roll damage for both and choose the best result.
 
+### Multiple Attackers.
+
+If multiple combatants attack the same target, roll damage for each attacker, but use only the best result.
+
 ### Blast
 
-Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, or swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
+Attacks with the *blast* quality affect all targets in a zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, or swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
 
 ## Defending
 
