@@ -2,34 +2,42 @@
 
 ## Introduction
 
-Combat is dangerous, and wise adventurers, or at least those with long careers, seek to avoid it.
+Combat is dangerous, and wise adventurers, or those with long careers, seek to avoid it.
+
+## Actions
+
+In a single round of combat, your character can make up to **two** actions. Actions can range from attacking, moving to an adjacent zone, casting a spell, or anything within reason based on your character’s assets and situation.
 
 ## Initiative
 
-When combat breaks out, a turn order must be established for the combatants.
+When combat breaks out, a turn order must first be established for all the combatants. Turns allow every player to participate (no hogging the limelight) and provide tactical opportunities during combat.
 
 ### Declaring Actions
 
-At the beginning of a round, the GM describes the actions likely taken by your opponents. You then declare your character’s intentions for the round before rolling any dice. 
+At the beginning of every round, the GM describes the actions likely taken by your opponents. All the players then declare their character’s intentions for the round before rolling any dice. 
 
 ### Determining Fast and Slow Turns
 
-Next, all combatants determine whether their declared intentions involve a *fast* or *slow* turn.
+Next, all combatants determine whether their declared actions involve a *fast* or *slow* round.
 
-A **fast** turn consists of taking only a **single action**, such as:
+A **fast** round consists of taking only a **single action**, such as:
 
+- Defending
 - Using a relic
 - Casting a spell
 - Making an attack
+- Quaffing a potion
 - Moving to an adjacent zone
 - Disengaging from an opponent 
-- Trying a gambit against a close opponent
+- Trying a gambit against an opponent
 
-A **slow** turn consists of both **moving and taking an action**, or actions that take more time, such as:
+A **slow** round consists of taking **two actions**:
 
 - Moving twice
+- Attacking twice
 - Aiming a ranged weapon
 - Forming up a shield wall
+- Attacking then disengaging
 - Reviving an incapacitated ally
 - Moving before making an attack
 - Concentrating on maintaining an ongoing spell
@@ -37,77 +45,93 @@ A **slow** turn consists of both **moving and taking an action**, or actions tha
 
 ### Setting Turn Order and Resolving Actions
 
-After determining who’s turns will be fast or slow, the order of resolving actions is as follows:
+After determining who’s rounds will be fast or slow, the order for resolving actions is as follows:
 
-1. Resolve all fast turns before slow turns.
-2. If players and opponents both take a fast turn, the player must make a DEX *or* WIL check to go first.
-3. If players and opponents both take a slow turn, the player must make a DEX *or* WIL check to go first.
+1. Resolve all fast rounds before slow rounds.
+2. If players and opponents both take a fast round, the player must make a DEX *or* WIL check to go first.
+3. If players and opponents both take a slow round, the player must make a DEX *or* WIL check to go first.
 
-## Actions
+!!! note
 
-On your turn in a combat round, your character can move to an adjacent zone and take an action. Actions can range from attacking, moving again, tripping or disarming an opponent, negotiating, or anything else within reason.
+	A new initiative order is determined at the beginning of every round of combat. If you'd like to use a more straightforward initiative system, see the [Appendix](appendix-d.md)
 
 ## Attacks
 
-**Attacks always hit**. Roll your weapon’s damage dice and do that much damage to an opponent minus their armor rating. Remember, this is also true for your opponents; their attacks always hit you.
+**Attacks always hit**. Roll your weapon’s damage dice and do that much damage to an opponent minus their armor rating. 
+
+!!! tip
+
+	Remember, this is also true for your opponents; their attacks always hit you.
+
+### Critical Hits
+
+Rolling **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor rating and does full damage.
 
 ### Bonus Damage
 
 In some situations, attacks may receive an extra die, noted as +d6, +d8, etc. Roll the extra die with your weapon’s damage roll, keeping the **best** result. For example, wielding a sword with both hands adds +d8 bonus damage. 
 
+### Enhanced Attacks
+
+When an attack is **enhanced**, such as attacking an unaware opponent, add **+d12** bonus damage. Roll both and choose the best result.
+
 ### Impaired Attacks
 
-When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** damage and keep the **worst** result.
-
-### Critical Hits
-
-Rolling **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor rating and deals the total amount of damage.
+When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** bonus damage and keep the **worst** result.
 
 ### Dual-Wielding
 
 If attacking with two weapons, one in your main hand and one offhand, the offhand weapon functions as bonus damage. Roll damage for both and choose the best result.
 
-### Gambits
+### Blast
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They’re resolved with an attribute check. Gambits can’t cause damage directly but may do so indirectly (for example, pushing an enemy off a ledge). 
+Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, or swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
+
+## Defending
+
+If you take an action to focus solely on defending yourself, you can make a DEX check to parry or dodge subsequent melee attacks and avoid any damage. You can’t defend against ranged attacks or spells.
+
+A critical success on your defense check also allows you to make an immediate riposte attack on your opponent.
+
+Your focus on defense ends once you take some other action.
+
+## Gambits
+
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They’re resolved with a relevant attribute check. Gambits can’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). 
+
+!!! tip
+
+	A clever gambit might end a battle before it even begins. Combat isn't a sport. Fight dirty!
 
 ## Advantage in Combat
 
 Characters can gain an advantage in combat by attacking a target who’s on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
 
-When a character has an advantage against an opponent, you can apply their advantage to either their damage roll or a gambit attempt against the opponent. Alternatively, you can make both an attack and a gambit attempt against the same opponent without an advantage in the same round.
+When a character has an advantage against an opponent, you can apply your advantage to a damage roll, gambit attempt, or an attribute check against that opponent, such as when defending. 
 
 !!! note
 
 	If you apply a combat advantage to your damage roll, roll only your primary weapon’s damage die twice, taking the best result. If you have any bonus damage dice on your attack, bonus dice are not rolled twice. Bonus damage dice rolls are only rolled once and not modified by combat advantage.
 
-### Multiple Attackers 
-
-If multiple combatants attack the same target, all attackers roll their damage but keep only the best result. 
-
-### Ranged Attacks
+## Ranged Attacks
 
 Ranged weapons can’t be used if you’re in the same zone as your target.
 
 ### Aiming
 
-Not moving and using an action to aim instead of attacking allows a character to ignore the target’s armor with a ranged weapon the next round. If you’re attacked in the same round as aiming, your aim is disrupted and the next attack does not ignore the target’s armor.
+Taking two actions to aim allows a character to ignore the target’s armor with a ranged weapon the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
 
-### Subdual
+## Subdual
 
 Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An opponent who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
-### Blast
-
-Attacks with the *blast* quality affect all targets in the zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, and swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
-
 ## Morale
 
-When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated.
+When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail their morale check immediately surrender or attempt to flee. 
 
-Lone foes must pass a WIL check when reduced to 0 HP.
+Lone foes must pass a morale check when reduced to 0 HP.
 
-Some fanatical or mindless opponents might not be required to check morale.
+Some fanatical or mindless opponents might not be required to check morale—they’ll fight to the bitter end.
 
 !!! note
 
@@ -116,3 +140,11 @@ Some fanatical or mindless opponents might not be required to check morale.
 ## Disengaging
 
 If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX check to disengage from the fight. If you fail, the enemy makes a free attack against you as you retreat from the zone.
+
+## Warbands
+
+When you battle a group of identical opponents, such as a gang of brigands, each with the same attributes and weapons, the GM may combine the opponents into a single abstract unit or **warband**. A warband has the same attributes, HP, armor rating, and damage dice as a single unit member.
+
+Attacks by individuals against a warband are **impaired** unless they have the *blast* quality. Attacks by a warband against an individual are **enhanced** and deal *blast* damage. Attacks by a warband can not be dodged or parried while defending.
+
+When a warband takes critical damage, it immediately fails morale and routs. If a warband is reduced to zero STR, it’s destroyed.

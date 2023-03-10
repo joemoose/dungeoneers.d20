@@ -169,4 +169,4 @@ Most gear has characteristics that affect their use.
 
 !!! note
 
-		See the [Appendix](appendix-c.md) for more equipment lists.
+		See the [Appendix](appendix-b.md) for more equipment lists.

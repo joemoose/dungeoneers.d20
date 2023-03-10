@@ -17,9 +17,9 @@
 
 Roll **d20** equal to or less than the applicable attribute:
 
-- **STRENGTH (STR)**: Tests of brawn and endurance.
-- **DEXTERITY (DEX)**: Tests of agility and finesse.
-- **WILLPOWER (WIL)**: Tests of charisma and determination.
+- **STRENGTH (STR)**: Tests of brawn and endurance. Resisting physical harm that can’t be dodged.
+- **DEXTERITY (DEX)**: Tests of agility and finesse. Resisting physical harm that can be dodged.
+- **WILLPOWER (WIL)**: Tests of charisma and determination. Resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn points to modify other attribute checks.
 
 **Advantage & Disadvantage**
