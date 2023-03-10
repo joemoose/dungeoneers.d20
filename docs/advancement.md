@@ -37,13 +37,19 @@ Starting at level 2, your character gains the **Stamina** attribute. Stamina all
 
 For each stamina point, you can place one constraint into the stamina space on your character sheet rather than in your inventory. After it’s put into the stamina space, a constraint is ignored but isn’t removed until its cleared requirement is met.
 
+## New Skills
+
+Learning new skills to gain an advantage on related attribute checks does not happen automatically when characters gain new levels. Your character starts with the training and knowledge suggested by their former career, such as gambler or mercenary, that you chose during character creation. 
+
+Acquiring new skills and knowledge afterward happens as part of your adventuring. Your character could hire mentors or experts to teach them new skills. Joining specialized groups, such as trade guilds, universities, or mercenary companies, could provide training. Your GM may award skills from quests, patrons, or other in-game opportunities. Your character’s training does not happen as part of level advancement but rather as experiences in the narrative.
+
 ## Carousing
 
-You can spend your hard-earned coins for XP rather than buying equipment, hirelings, or other useful sundries. **Carousing** earns XP by spending coins at a **5-to-one** ratio: 5 coins for 1 XP. Carousing represents your debauched revelries, gambling, excessive drinking, investments in “business opportunities,” or any recreation involving new-found wealth and rollicking fun. 
+You can spend your hard-earned coins for XP rather than buying equipment, hirelings, or other useful sundries. **Carousing** earns XP by spending coins at a **5-to-one** ratio: 5 coins for 1 XP. Carousing represents your debauched revelries, gambling, investments in “business opportunities,” or any other recreation involving new-found wealth and rollicking fun. 
 
 ### Carousing Check
 
-Declare the number of coins you’re spending to carouse and roll **2d6** to see how your evening goes. Regardless of the evening’s outcome, you earn XP at a 5-to-1 ratio for the coins spent.
+Declare the number of coins you’re spending to carouse and roll **2d6** to see how your evening goes. Regardless of the evening’s outcome, you earn your XP.
 
 **Carousing Results Table**
 
@@ -55,7 +61,7 @@ Declare the number of coins you’re spending to carouse and roll **2d6** to see
 
 ### Mishaps and Fortunes
 
-Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roistering, the more volatile or legendary the consequences. See the Mishaps and Fortunes tables to determine what happens.
+Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roistering, the more volatile or legendary the consequences. See the following Mishaps and Fortunes tables to determine what happens.
 
 **Carousing Mishaps Table**
 

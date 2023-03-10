@@ -34,6 +34,16 @@ If you roll an attribute check and are particularly well prepared or equipped fo
 
 If you are in a dire position or ill-prepared for your task, the GM may ask you to roll with a **disadvantage**. Roll **two d20s** and take the **worst** result.
 
+### Trained Rolls
+
+Roll an attribute check with advantage if your character has a former vocation or special training applicable to the task. 
+
+!!! example "Examples"
+
+	A character who was an alchemist in their former career would have an advantage when brewing a potion or handling dangerous reagents. 
+	
+	A former mariner would have an advantage in navigating at sea, attending to sails, or other ship-related tasks.
+
 ## Luck
 
 You can decrease (burn) your LUCK attribute score to change the dice rolls for other attribute checks. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other woeful effects. LUCK can’t be less than zero.

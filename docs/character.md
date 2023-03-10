@@ -21,25 +21,25 @@ Also, think about their relationship with the other characters in the group, but
 | d20 | Profession | Misfortune | Virtue | Vice |
 | :-: | :- | :- | :- | :- |
 | 1 | Alchemist | Abandoned | Ambitious | Aggressive |
-| 2 | Beggar | Addicted | Cautious | Arrogant |
-| 3 | Butcher | Blackmailed | Courageous | Bitter |
-| 4 | Burglar | Condemned | Courteous | Cowardly |
+| 2 | Blacksmith | Addicted | Cautious | Arrogant |
+| 3 | Burglar | Blackmailed | Courageous | Bitter |
+| 4 | Carpenter | Condemned | Courteous | Cowardly |
 | 5 | Charlatan | Cursed | Curious | Cruel |
 | 6 | Cleric | Defrauded | Disciplined | Deceitful |
 | 7 | Cook | Demoted | Focused | Flippant |
 | 8 | Cultist | Discredited | Generous | Gluttonous |
 | 9 | Gambler | Disowned | Gregarious | Greedy |
 | 10 | Herbalist | Exiled | Honest | Irascible |
-| 11 | Magician | Framed | Honorable | Lazy |
+| 11 | Hunter | Framed | Honorable | Lazy |
 | 12 | Mariner | Haunted | Humble | Nervous |
 | 13 | Mercenary | Kidnapped | Idealistic | Prejudiced |
 | 14 | Merchant | Mutilated | Just | Reckless |
-| 15 | Outlaw | Poor | Loyal | Rude |
+| 15 | Miner | Poor | Loyal | Rude |
 | 16 | Performer | Pursued | Merciful | Suspicious |
 | 17 | Pickpocket | Rejected | Righteous | Vain |
-| 18 | Smuggler | Replaced | Serene | Vengeful |
-| 19 | Student | Robbed | Stoic | Wasteful |
-| 20 | Tracker | Suspected | Tolerant | Whiny |
+| 18 | Scholar | Replaced | Serene | Vengeful |
+| 19 | Servant | Robbed | Stoic | Wasteful |
+| 20 | Smuggler | Suspected | Tolerant | Whiny |
 
 ## Step 2: Name and Appearance
 

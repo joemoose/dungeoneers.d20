@@ -2,27 +2,29 @@
 
 I stand on the shoulders of giants.
 
-Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](https://cairnrpg.com), Chris McDowall’s [Into the ODD](https://www.drivethrurpg.com/product/399483/Into-the-Odd--Remastered), Ben Milton’s [Knave](https://questingbeast.itch.io/knave), Isaac Williams’ [Mausritter](https://mausritter.com), and the resulting minimalist OSR RPG diaspora.
+Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](https://cairnrpg.com), Chris McDowall’s [Into the ODD](https://www.drivethrurpg.com/product/399483/Into-the-Odd--Remastered), Ben Milton’s [Knave](https://questingbeast.itch.io/knave), Isaac Williams’ [Mausritter](https://mausritter.com), and the resulting minimalist OSR and NSR diaspora.
 
 - Archetypes starting gear adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
 
 - Carousing adapted from [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley and [“Party like it's 999”](http://jrients.blogspot.com/2008/12/party-like-its-999.html?m=1), *Jeff’s Gameblog*, 19 December 2008, by Jeff Rients.
 
-- Corruption tables adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin. 
+- Corruption adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin. 
 
 - Equipment adapted from [Dungeon World](https://dungeon-world.com/), by Adam Koebel and Sage LaTorra, licensed under the [Creative Commons Attribution 3.0 Unported license (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/). 
 
-- The spell system adapted from [“The GLOG”](https://goblinpunch.blogspot.com/2016/05/the-glog.html), *Goblin Punch*, 7 May 2016, by Arnold Kemp and [“D100 - Potential Spell Recharge Conditions”](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html), *d4 Caltrops*, 19 September 2022, by Ktrey.
-
-- Sundering of shields adapted from [“Shields Shall be Splintered!”](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html), *Trollsmyth*, 6 May 2008, by Trollsmyth.
-
-- Tactical initiative adapted from [*Errant*](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition) written by Ava Islam and published by [Kill Jester Publishing, LLP](https://www.killjester.com/). 
-
-- Zones adapted from [Fate System Toolkit](http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by Robert Donoghue, Brian Engard, Brennan Taylor, Mike Olson, Mark Diaz Truman, Fred Hicks, and Matthew Gandy, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+- “Roll high, under” and “trained rolls” mechanics adapted from [“Whitehack”](https://whitehackrpg.wordpress.com) by Christian Mehrstam.
 
 - Sorcerer class adapted from [“OSR: Class: Sorcerer”](https://coinsandscrolls.blogspot.com/2018/03/osr-class-sorcerer.html), *Coins and Scrolls*, 29 March 2018, by Skerples. 
 
-- Warrior and Thief classes adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com). 
+- Spell system adapted from [“The GLOG”](https://goblinpunch.blogspot.com/2016/05/the-glog.html), *Goblin Punch*, 7 May 2016, by Arnold Kemp and [“D100 - Potential Spell Recharge Conditions”](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html), *d4 Caltrops*, 19 September 2022, by Ktrey.
+
+- Sundering of shields adapted from [“Shields Shall be Splintered!”](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html), *Trollsmyth*, 6 May 2008, by Trollsmyth.
+
+- Tactical initiative adapted from [*Errant*](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition) written by Ava Islam and published by [Kill Jester Publishing, LLP](https://www.killjester.com/).
+
+- Warrior and Thief classes adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com).
+
+- Zones adapted from [Fate System Toolkit](http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by Robert Donoghue, Brian Engard, Brennan Taylor, Mike Olson, Mark Diaz Truman, Fred Hicks, and Matthew Gandy, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
 
 ---
 

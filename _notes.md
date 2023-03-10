@@ -1,4 +1,9 @@
-_notes
+# NOTES
+
+
+roll high under 
+
+---
 
 ~~take 2 actions~~
 
