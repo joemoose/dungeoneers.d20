@@ -89,7 +89,7 @@ Attacks with the *blast* quality affect all targets in the zone, rolling damage 
 
 ## Defending
 
-If you take an action to focus solely on defending yourself, you can make a DEX check to parry or dodge subsequent melee attacks and avoid any damage. You can’t defend against ranged attacks or spells.
+If you take an action to focus only on defending yourself, you can make a DEX check to parry or dodge subsequent melee attacks and avoid any damage. You can’t defend against ranged attacks or spells.
 
 A critical success on your defense check also allows you to make an immediate riposte attack on your opponent.
 
@@ -105,7 +105,7 @@ Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or 
 
 ## Advantage in Combat
 
-Characters can gain an advantage in combat by attacking a target who’s on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
+Characters can gain an advantage in combat by attacking an opponent who’s on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
 
 When a character has an advantage against an opponent, you can apply your advantage to a damage roll, gambit attempt, or an attribute check against that opponent, such as when defending. 
 

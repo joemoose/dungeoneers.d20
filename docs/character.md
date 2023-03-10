@@ -145,7 +145,7 @@ Strength is a prime attribute for warriors. Dexterity serves thieves well. Casti
 
 ## Step 4: Hit Points
 
-Hit points (HP) represent the damage you can shrug off before suffering any real harm. HP is easily and quickly restored.
+Hit points (HP) represent the damage you can shrug off before suffering any actual harm. HP is easily and quickly restored.
 
 ➡️ Roll **d4+2** to determine your starting hit points.
 
@@ -165,8 +165,8 @@ Choose **three** more items from the following list. You may choose an item more
 - 50 coins
 - bottle of fine wine
 - fancy clothes
+- healer’s kit
 - musical instrument
-- healing potion
 - pipe and pipeleaf
 - small but vicious dog
 - spell tablet (*selected randomly, see the [Spells](spells.md) section for a list )*

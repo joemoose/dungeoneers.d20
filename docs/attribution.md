@@ -38,5 +38,5 @@ This work includes material taken from the [System Reference Document 5.1 (“SR
 
 ---
 
-The text of this document outside the copyrighted material or trademarks of the aforementioned entities is released under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+The text of this document outside the copyrighted material or trademarks of the entities above is released under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 

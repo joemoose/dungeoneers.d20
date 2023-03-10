@@ -36,7 +36,7 @@ If you are in a dire position or ill-prepared for your task, the GM may ask you 
 
 ## Luck
 
-You can decrease (burn) your LUCK attribute score to change the dice rolls for other attribute checks. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other calamitous effects. LUCK can’t be less than zero.
+You can decrease (burn) your LUCK attribute score to change the dice rolls for other attribute checks. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other woeful effects. LUCK can’t be less than zero.
 
 The GM may sometimes call for a LUCK check if an outcome is random and your other attributes don’t apply.
 
