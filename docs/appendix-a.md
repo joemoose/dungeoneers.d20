@@ -36,7 +36,7 @@ Roll **d20** equal to or less than the applicable attribute:
 
 ## Combat
 
-On your turn, you can move and take one action.
+On your turn, you can take two actions, such as move, attack, etc.
 
 **Initiative**
 

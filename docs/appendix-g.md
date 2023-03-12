@@ -32,24 +32,24 @@ A new warrior starts with three combat maneuvers in their repertoire:
 
 #### Advanced Maneuvers
 
-Choose one of the following combat maneuvers to add to your repertoire each time you gain a new even-numbered level.
+Choose one of the following combat maneuvers to add to your repertoire each time you gain a new odd-numbered level.
 
-- **CLEAVE**: Instead of making a normal attack, spend one grit to make a single attack with the *blast* quality to attack all opponents in the zone for half damage.
+- **CLEAVE**: Instead of making a normal attack, spend one grit to make an attack with the *blast* quality to attack all opponents in the zone (friend and foe) for half damage.
 - **COMMAND**: Instead of making an attack, spend one grit to allow an ally to make an attack that deals +d12 bonus damage.
 - **JUGGERNAUT**: After you slay or deal critical damage to an opponent, spend one grit to make another attack immediately.
-- **RALLY**: Spend one grit to restore d6 HP.
-- **RAPID FIRE**: When you use a ranged weapon, spend one grit to make two attacks.
+- **RALLY**: Spend one grit to restore d6 +level HP.
+- **RAPID FIRE**: When you use a ranged weapon, spend one grit to make two attacks in one action against the same target.
 - **RETALIATE**: When an ally takes damage from an opponent within the range of your weapon, spend one grit to attack that opponent immediately.
-- **SHIELD**: When an ally in your zone takes damage, spend a grit and add your armor rating to theirs for this round.
+- **SHIELD**: When an ally in your zone is attacked, spend one grit to add your armor rating to theirs for this round.
 - **TAUNT**: Spend one grit to make all enemies attack you this round. 
 
 ### Trophies
 
-You gain the following warrior abilities at level 3.
+You gain the following warrior abilities at level 2.
 
 **TROPHY**
 
-After you slay a creature in combat, you can take a trophy from their remains. A trophy takes up one inventory slot.
+After you defeat a creature in combat by delivering the final blow, you can take a trophy from their remains. A trophy takes up one inventory slot.
 
 When you encounter a creature of which you carry a trophy, spend one grit to:
 
@@ -58,7 +58,7 @@ When you encounter a creature of which you carry a trophy, spend one grit to:
 
 **SPOOR**
 
-You can construct a trophy by scouting a creature’s lair and taking something from it or spending at least a week researching the creature using adequate resources. This spoor trophy is destroyed on use.
+You can construct a trophy by scouting a creature’s lair and taking something from it or spending d6 days researching the creature using adequate resources. This spoor trophy is destroyed on use.
 
 ## Thief Class
 
@@ -66,11 +66,15 @@ You can construct a trophy by scouting a creature’s lair and taking something 
 
 Thieves are adventurers who live by their wits and luck, with a bit of resourcefulness for good measure. Their range of unique talents makes them versatile companions in adventures.
 
+### Lucky
+
+At the beginning of each game session, add +1 to your LUCK.
+
 ### Talents
 
 You have a variety of unique abilities. When you first create your character, and every time you gain a new level, choose one talent from the following list or gain mastery of a talent you already know.
 
-- **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double the damage rolled.
+- **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double your damage after first reducing it by the armor rating if any.
 
 	**Mastery**: During combat, as part of your attack, you can make a DEX or WIL check against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
 
@@ -78,7 +82,7 @@ You have a variety of unique abilities. When you first create your character, an
 
 	**Mastery**: You can re-roll any dice roll.
 
-- **FAST**: You can both attack and then disengage as a *fast* initiative turn.
+- **FAST**: You can make an attack and then disengage as a *fast* initiative round.
 
 	**Mastery**: You can move and attack in the same round as a *fast* initiative turn.
 
@@ -88,7 +92,7 @@ You have a variety of unique abilities. When you first create your character, an
 
 - **MOBILE**: You no longer trigger a free attack when disengaging.
 
-	**Mastery**: You always act before the enemy if you’re not surprised.
+	**Mastery**: You always act before opponents if you’re not surprised.
 
 - **NETWORK**: Make a WIL check when entering a new settlement. If you succeed, note that you have a contact in the settlement. The nature of this contact is up to you and the GM and can be fleshed out whenever the need arises.
 
@@ -114,12 +118,12 @@ Attribute scores lost for invoking your powers are healed as usual—STR, DEX, a
 
 #### Invoking Powers
 
-**To invoke a sorcerous power**, sacrifice abilities scores for essence and make a WIL check.
+**To invoke a sorcerous power**, sacrifice at least one ability score for essence and make a WIL check.
 
 - If the check succeeds, the power manifests as you intended.
-- The power does not materialize on a failure; you must make a corruption check to avoid the sorcerous backlash.
+- The power does not materialize on a failure; you must make a corruption check to avoid the resulting sorcerous chaos in you.
 
-The WIL check to invoke your power is advantageous if performed over two or more rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
+The WIL check to invoke your power has an advantage if your invocation is performed over two rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
 ### Powers
 
@@ -127,29 +131,29 @@ When you create your character, pick one of the following powers. Select one add
 
 - **ALTER**
 
-	Make a declarative statement affecting one creature or object you can see. The statement is true for [essence] combat rounds. The creation cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
+	Make a declarative statement affecting one creature or object you can see. The statement is true for as many combat rounds as essence spent. The alteration cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
 
-	The maximum size or weight of the creature or object to be altered is that of the sorcerer. You can double the size or weight altered for each additional essence. 
+	The maximum size or weight of the creature or object to be altered is that of the sorcerer. For each additional essence, you can double the size or weight altered.  
 
 	!!! info "Examples"
 
 		"This door does not exist." You can walk through the space the door formerly occupied. 
 		 		
-		"The ogre is made of paper." The ogre is now made of paper. It retains its abilities and HP but will burn readily if you set it alight with a torch.  
+		"The ogre is made of paper." The ogre is now made of paper. It retains its abilities and HP but will burn readily if you set it alight with a torch.
 
 - **CREATE**
 
-	Bring forth a creation. The creature or object created exists for [essence] rounds. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
+	Bring forth a creation. The creature or object created exists for as many combat rounds equal to *twice* the essence spent. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
 
-	More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks), but these objects do not deal magic damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
+	More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks, etc.), but these objects do not deal magical damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
 	
 	!!! info "Example"
 	
-		Zathar the Sorcerer invokes a flying throne, which he mounts to escape. He sacrifices six essences (the throne is about his *weight* and can *fly* for *4 rounds*).
+		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three essences (the rug is about his size and can *magically fly* for *2 rounds*).
 
 - **HARM**
 
-	Deal an [essence] number of d6 damage to one target creature or object you can see. Creatures and magical objects can make an attribute check to avoid or mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
+	Deal d6 damage per essence spent to one target that you can see. Creatures and magical objects can make an attribute check to avoid or mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
 	
 	!!! info "Example"
 		
@@ -157,11 +161,11 @@ When you create your character, pick one of the following powers. Select one add
 
 - **SOUL SIGHT**
 
-	You can see an [essence] number of creatures’ souls if you concentrate exclusively on the observation and do not move. Soul sight allows you to sense the approximate location of invisible creatures. You can also immediately discern if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in some other meta-physiological state.
+	You can see as many creatures’ souls as essence spent if you concentrate exclusively on observing and do not move. Soul sight allows you to sense the location of invisible creatures. You can also immediately discern if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in any other meta-physiological state.
 
 - **WARD**
 
-	Manifest a simmering, translucent shield around you or a target creature or object for [essence] rounds. The ward provides an advantage on attribute checks to avoid magical effects and a disadvantage on damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack.
+	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as essence spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack.
 
 ### Dark Magic
 
@@ -206,11 +210,11 @@ Relics are arcane objects imbued with sorcerous powers. They do not require cast
 
 ### Attunement
 
-Relics require your character to bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for attuning, such as attuning only in a temple or underground.
+Relics require your character to bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for attuning, such as attuning only in a temple or while underground.
 
 Attuning to an item requires your character to spend a long rest focused on only that item while in physical contact with it. This focus can take the form of weapon practice (for a weapon), meditation (for an object), or some other appropriate activity. At the end of an uninterrupted long rest, your character understands how to activate any magical properties of the relic, including any necessary command words.
 
-A relic can be attuned to only one person at a time, and a person can be attuned to no more than three relics simultaneously. 
+A relic can be attuned to only one person at a time, and a person can be attuned to no more than three relics. 
 
 Attunement ends if you’re more than 100 feet away from the relic for a day and a night, your character dies, or another creature attunes to the relic. You can voluntarily end attunement unless the relic is cursed.
 
@@ -218,22 +222,27 @@ Attunement ends if you’re more than 100 feet away from the relic for a day and
 
 Sorcery is volatile and warps its practitioners. Magical corruption is everpresent in the settings of sword and sorcery. 
 
-Your corruption level can be increased manifold: by invoking sorcerous powers, attuning to forbidden relics, casting malignant spells, or committing heinous acts. A newly created character has zero corruption level.
+Your corruption level can be increased manifold while adventuring: using sorcerous powers, attuning to forbidden relics, committing heinous acts, interacting with maleficent areas, creatures, and objects, etc. A newly created character has zero corruption level.
 
-As your corruption level increases, you may suffer increasingly unpleasant mutations.
+As your corruption level increases, you may undergo increasingly unpleasant mutations.
 
 ### Corruption Checks 
 
-When directed by the GM to make a corruption check, roll **d20**.
+When directed by the GM to make a corruption check, roll either a STR or WIL check and **add your current corruption level** to the roll.
 
-- If the result **equals or exceeds** your current **corruption level**, you hold chaos at bay (this time) and suffer no consequences.
-- If you **fail**, roll a subsequent **d20** and **add your current corruption level**, then consult the following table for a mutation.
+- If your attribute check succeeds, you hold chaos at bay (this time) and suffer no consequences.
+- 
+- If you fail, consult the following table for a mutation.
 
-Regardless of success or failure, **increase** your corruption level by 1.
+	On a **critical success** (rolling your exact attribute score), your check succeeds regardless of your corruption level. Also, **decrease** your corruption level by one.
+
+	Conversely, on a **critical failure** (rolling a 20), the check always fails, and you **increase** your corruption level by one.
+
+Regardless of success or failure on your check, **increase** your corruption level by 1.
 
 ### Mutations
 
-Roll **d20 +corruption level** and consult the following table.
+Roll **d20 +your corruption level** and consult the following table.
 
 | d20 | Mutation |
 | :-: | :- |

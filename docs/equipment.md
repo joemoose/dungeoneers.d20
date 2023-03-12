@@ -137,10 +137,10 @@ Most weapons have characteristics that affect their use.
 | Polearm | d10 | Two-handed, Reach| 40 |
 | Maul | 2d6 | Two-handed, STR 7+ | 30 |
 | Great Sword | d12 | Two-handed, STR 11+ | 60 |
-| Sling | d4 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 5 |
-| Shortbow | d6 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 50 |
-| Crossbow | d8 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 100 |
-| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
+| Sling | d6 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 5 |
+| Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 50 |
+| Crossbow | d10 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 100 |
+| Longbow | d12 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
 
 !!! Note
 		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.

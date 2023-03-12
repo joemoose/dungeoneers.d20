@@ -2,100 +2,100 @@
 
 ## Starting Gear
 
-Each archetype starts with the following equipment.
+Each archetype starts adventuring gear, rations, 3d6 coins, and the following equipment:
 
 ### Bard 
 
-- rapier (d8)
+- bagpipes (*two-handed*)
+- bag of books (*bulky*)
 - dandy clothing
-- bag of caltrops (*bulky*)
-- book of lore
-- bagpipes (*bulky*)
 - incense
+- rapier (d8)
+- scroll (*random spell*)
 
 ### Cleric 
 
-- maul (d10, *bulky*)
 - chainmail (3 *armor*, *bulky*) 
-- gauntlets (+1 *armor*)
-- curved blade (d8)
-- relic: *Holy Ward*
 - cloak of the order
+- mace (2d4)
+- gauntlets (+1 *armor*)
+- maul (2d6, *two-handed*)
+- relic: *Holy Ward*
 
 ### Druid 
 
-- shepherd’s crook (d8, *bulky*)
+- druidic poultice (WIL check clears a constraint)
 - jute clothing
-- relic: *Witchwood Brooch*
-- herbal poultice (WIL check clears a constraint)
 - owl, animal companion (1 hp, talons d4)
+- relic: *Witchwood Brooch*
+- shepherd’s crook (d4/+d4)
 
 ### Fighter 
 
-- glaive (d10, *bulky*) 
-- longsword (d6/d8) 
-- shortbow (d6) 
-- quiver of arrows
-- splint mail (2 *armor*, *bulky*)
-- shield (+1 *armor*) 
-- tobacco pouch & pipe 
 - dice set
+- glaive (d10, *two handed*, *reach*) 
+- longsword (d8/+d8) 
+- quiver of arrows
+- shield (+1 *armor*) 
+- shortbow (d6) 
+- splint mail (2 *armor*, *bulky*)
+- tobacco pouch & pipe 
 
 ### Hunter 
 
-- longbow (d10, *bulky*)
-- quiver of arrows 
-- axe (d6) 
-- gambeson (1 *armor*) 
-- large trap 
+- axe (d8) 
 - bloodhound, animal companion (3 hp, bite d4)
-- thundering horn
+- gambeson (+1 *armor*) 
+- hunting horn
+- large trap 
+- longbow (d12, *bulky*)
+- quiver of arrows 
 
 ### Knight 
 
-- longsword (d8) 
-- platemail (3 *armor*, *bulky*) 
-- helmet (+1 *armor*)
+- helm (+1 *armor*)
 - heraldic cape 
+- longsword (d8) 
 - manacles 
+- platemail (4 *armor*, *bulky*) 
 - silk rope, 25ft
 
 ### Mage 
 
+- hourglass
+- lens (*small*)
+- quill & ink (*small*)
 - relic: *Yew Wand*
 - scroll case & parchment
-- quill & ink
-- hourglass
-- lens
-- spell (Tongues)
+- spell tablet (Tongues)
 
 ### Thief 
 
-- two daggers (d6)
-- hooded jerkin (1 *armor*) 
-- lockpicks
 - bag of caltrops (*bulky*)
 - grappling hook
-- metal file
 - hempen rope, 50ft
+- hooded jerkin (1 *armor*) 
+- lockpicks
+- metal file
+- two daggers (d6)
 
 ### Warden 
 
-- silvered dagger (d6)
-- bardiche (d10, *bulky*)
+- bardiche (d10, *two-handed*, *reach*))
 - black hooded cloak (1 *armor*)
 - relic: *Sigal Ring*
+- silvered dagger (d6)
+- throwing bolas (*entangles*)
 - wolfsbane
-- throwing bolas
 
 ### Wizard 
 
-- wizard’s silver skull cap (helmet, +1 *armor*)
-- dagger (d6)
-- spell tablet (*random*) 
-- spell tablet (*random*) 
-- ragged clothing (hidden pockets)
 - *Leycap Mushrooms* (clears all *Drained* constraints, STR check vs. addiction)
+- dagger (d6)
+- ragged clothing (hidden pockets)
+- spell tablet (*random*) 
+- spell tablet (*random*) 
+- wizard’s silver skull cap (helmet, +1 *armor*)
 
 ## Relics 
 
@@ -112,7 +112,7 @@ Each archetype starts with the following equipment.
 ### Witchwood Brooch
 
 - **Charges**: d6+1
-- **Usage**: You and your possessions transform into a mundane animal. Add the *Deprived* constraint upon changing back to human form.
+- **Usage**: You and your possessions transform into a mundane animal.
 
 ### Yew Wand
 
