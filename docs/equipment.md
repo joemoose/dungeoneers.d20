@@ -18,7 +18,7 @@ Your character can’t carry more items than their inventory allows. Carts, hors
 
 ## Coins
 
-Your character can carry up to 50 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
+Your character can carry up to 50 coins freely in their pockets. After that, each additional 200 coins occupy one inventory slot.
 
 ## Constraints
 
