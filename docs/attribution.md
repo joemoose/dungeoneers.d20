@@ -10,7 +10,7 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](ht
 
 - Corruption adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin. 
 
-- Equipment adapted from [Dungeon World](https://dungeon-world.com/), by Adam Koebel and Sage LaTorra, licensed under the [Creative Commons Attribution 3.0 Unported license (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/). 
+- Equipment adapted from [Dungeon World](https://dungeon-world.com/), by Adam Koebel and Sage LaTorra and “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)” by Joseph Manola. *Against the Wicked City*, 4 February 2018. 
 
 - “Roll high, under” and “trained rolls” mechanics adapted from [“Whitehack”](https://whitehackrpg.wordpress.com) by Christian Mehrstam.
 
