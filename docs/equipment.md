@@ -180,7 +180,7 @@ Crates are heavy, taking up six inventory slots, and are typically carried on pa
 
 ### Contents
 
-Crates contain a specific type of equipment as follows:
+Crates contain a specific type of expedition equipment as follows:
 
 - **Beer Barrel** contains refills for a Keg of Stout.
 - **Books Crate** contains a new Bag of Books.
@@ -193,7 +193,7 @@ Crates contain a specific type of equipment as follows:
 
 ### Cost
 
-A new crate costs eight times that of the item it contains. For example, a *gear crate* costs 160 coins (8 x 20 coins for one Adventuring Gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 100 coins.
+A new crate costs nine times that of the item it contains. For example, a *gear crate* costs 180 coins (9 x 20 coins for one Adventuring Gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 200 coins.
 
 ### Uses
 
@@ -201,12 +201,14 @@ Each crate is assigned a *Usage Die* to track its consumption. A full crate star
 
 Roll the usage die each time an item is removed from a crate. On a roll **1 or 2**, the usage die drops in size to the next lowest in the dice chain as follows: 
 
- d10 > d8 > d6 > d4 > empty
+**d10** > **d8** > **d6** > **d4** > **empty**
 
-When a 1 or 2 is rolled on a d4 usage die, the crate is emptied. On average, each crate can produce 14 units of supplies.
+When a 1 or 2 is rolled on a d4 usage die, the crate is emptied.
 
-For example, a player takes two healer’s kits from a new healing supply crate. The usage die is d10. The player rolls an eight after taking out the first kit. The supply crate’s usage die remains at d10. After removing the second kit, the player rolls a 1. The crate’s usage die drops to d8.
+!!! info "Example"
+
+	A player takes two healer’s kits from a new healing supply crate. The usage die is d10. The player rolls an eight after taking out the first kit. The supply crate’s usage die remains at d10. After removing the second kit, the player rolls a one. The crate’s usage die drops to d8.
 
 ### Other Crates
 
-Any equipment crate could be purchased in larger settlements. For example, a party planning to equip many hirelings could buy a crate of helmets for 240 coins. After each helmet is handed out, roll the helmet crate’s usage die. 
+Other types of equipment crates could be purchased in larger settlements. For instance, a party planning to equip many soldiers could buy a crate of helmets for 300 coins. After each helmet is handed out, roll the helmet crate’s usage die. 
