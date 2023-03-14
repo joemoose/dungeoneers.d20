@@ -20,6 +20,8 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](ht
 
 - Sundering of shields adapted from [“Shields Shall be Splintered!”](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html), *Trollsmyth*, 6 May 2008, by Trollsmyth.
 
+- Supply chests adapted from [“Sack Packs”](https://shoalmontgames.com/2018/11/28/sack-pack/), *Shoalmont Games*, 28 November 2018, by ATXRedBeard.
+
 - Tactical initiative adapted from [*Errant*](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition) written by Ava Islam and published by [Kill Jester Publishing, LLP](https://www.killjester.com/).
 
 - Warrior and Thief classes adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com).
