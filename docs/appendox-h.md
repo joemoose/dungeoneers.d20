@@ -1,7 +1,9 @@
-# Appendix H: Odd Items for Creative Problem Solving
+# Appendix H: Odd Items 
+
+100 odd items for creative problem-solving:
 
 | d100 | Item | d100 | Item |
-| :--: | :--- | ---- | ---- |
+| :--: | :--- | :--: | :--- |
 | 1 | A spool of fine copper wire. Useful for setting trip wires, rigging up pulleys, etc. Worth ten coins to a jeweler or mechanic. | 51 | Several tubes of brightly-colored oil paint. Worth 20 coins to an artist. |
 | 2 | Bag of small, extremely bouncy rubber balls. Worth ten coins to an entertainer or parent. | 52 | A box containing hundreds of tiny silver bells. It can be tied to strings, tripwires, etc., as an alarm system. Worth 20 coins to a dancer or musician. |
 | 3 | Antique but functional fishing rod, complete with a box of tackle and line, suitable for hooking all kinds of different things. Worth ten coins to an antiquarian (or someone who needs a fishing rod). | 53 | Vial of glowing liquid: briefly emits light equivalent to a candle when shaken vigorously but otherwise emits a dull green glow. It can be painted over things to make them glow with an unearthly greenish light. Worth 20 coins to an alchemist. |

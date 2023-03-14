@@ -18,7 +18,7 @@ Your character can’t carry more items than their inventory allows. Carts, hors
 
 ## Coins
 
-Your character can carry up to 50 coins freely in their pockets. After that, each additional 200 coins occupy one inventory slot.
+Your character can carry up to 50 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
 
 ## Constraints
 
@@ -169,3 +169,44 @@ Most gear has characteristics that affect their use.
 !!! note
 
 		See the [Appendix](appendix-b.md) for more equipment lists.
+
+## Supply Crates
+
+Equipment supply crates and barrels (hereafter referred to as simply “crates”) can replenish the party’s gear used on long expeditions when away from settlements and unable to restock.
+
+### Weight
+
+Crates are heavy, taking up six inventory slots, and are typically carried on pack animals or in wagons.
+
+### Contents
+
+Crates contain a specific type of equipment as follows:
+
+- **Beer Barrel** contains refills for a Keg of Stout.
+- **Books Crate** contains a new Bag of Books.
+- **Food Crate** contains Rations.
+- **Gear Crate** contains new Adventuring Gear.
+- **Healing Supplies Crate** contains new Healer’s Kits.
+- **Survival Crate**: contains gear and clothing for surviving the extremes in the wilderness. Specified on purchase as either hot- or cold-weather survival crates.
+- **Tools Crate** contains repair tools and crafting materials.
+- **Water Barrel** contains refills for a Waterskin.
+
+### Cost
+
+A new crate costs eight times that of the item it contains. For example, a *gear crate* costs 160 coins (8 x 20 coins for one Adventuring Gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 100 coins.
+
+### Uses
+
+Each crate is assigned a *Usage Die* to track its consumption. A full crate starts with a **d10** usage die.
+
+Roll the usage die each time an item is removed from a crate. On a roll **1 or 2**, the usage die drops in size to the next lowest in the dice chain as follows: 
+
+ d10 > d8 > d6 > d4 > empty
+
+When a 1 or 2 is rolled on a d4 usage die, the crate is emptied. On average, each crate can produce 14 units of supplies.
+
+For example, a player takes two healer’s kits from a new healing supply crate. The usage die is d10. The player rolls an eight after taking out the first kit. The supply crate’s usage die remains at d10. After removing the second kit, the player rolls a 1. The crate’s usage die drops to d8.
+
+### Other Crates
+
+Any equipment crate could be purchased in larger settlements. For example, a party planning to equip many hirelings could buy a crate of helmets for 240 coins. After each helmet is handed out, roll the helmet crate’s usage die. 
