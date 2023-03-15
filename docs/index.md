@@ -2,7 +2,7 @@
 
 *Dungeoneers RPG by Zachary Taylor*  
 *Playtest Document v0.3*  
-*March 8, 2023*  
+*March 14, 2023*  
 
 Welcome to Dungeoneers! Dungeoneers RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
 

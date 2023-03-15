@@ -93,7 +93,7 @@ Attacks with the *blast* quality affect all targets in a zone, rolling damage se
 
 ## Defending
 
-If you take an action to focus only on defending yourself, you can make a DEX check to parry or dodge subsequent mêlée attacks and avoid any damage. You can’t defend against ranged attacks or spells.
+If you take an action to focus only on defending yourself, you can make a DEX check to parry or dodge subsequent melee attacks and avoid any damage. You can’t defend against ranged attacks or spells.
 
 A critical success on your defense check also allows you to make an immediate riposte attack on your opponent.
 
@@ -127,7 +127,7 @@ Taking two actions to aim allows a character to ignore the target’s armor with
 
 ## Subdual
 
-Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a mêlée weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An opponent who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
+Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An opponent who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
 ## Morale
 

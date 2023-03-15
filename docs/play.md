@@ -83,7 +83,7 @@ The distance within and between zones is relative:
 - You can touch it.
 - Most actions affect things in your zone.
 - You can speak softly and be heard.
-- In range of *mêlée* weapons. 
+- In range of *melee* weapons. 
 
 **Near**: One zone away.
 

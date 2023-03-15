@@ -35,7 +35,7 @@ If you roll double 1s on a gonne’s damage and bonus dice, a misfire occurs ins
 | :--- | :----: | :---- | ----: |
 | Pomegranate | d8 +d8 | Thrown. One inventory slot. Destroyed on use. *Blast* damage. | 300 |
 | Petronel | d8 +d8 | It is fired with one hand but requires both hands to reload. | 600 |
-| Fire Lance | d10 +d10/(d6 +d6) | Two-hands. Bulky. Either deals d10 +d10 damage to a single target in mêlée range or d6 +d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires reloading two Powder Shots. | 1,000 |
+| Fire Lance | d10 +d10/(d6 +d6) | Two-hands. Bulky. Either deals d10 +d10 damage to a single target in melee range or d6 +d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires reloading two Powder Shots. | 1,000 |
 | Arquebus | d12 +d12 | Two-hands. Bulky. | 800 |
 
 ## Ammunition List
