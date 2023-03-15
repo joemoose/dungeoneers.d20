@@ -8,11 +8,19 @@ The GM answers your questions and always respects your freedom of choice. The GM
 
 Suppose the outcome of your character’s actions is not immediately apparent, or the activity is inherently risky. In that case, the GM might ask you to roll dice to determine the results.
 
+## Safety
+
+It is important that everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, will never be in the game, and might be in the game but only in passing. 
+
+Everyone at the table should feel comfortable saying “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. 
+
+On to the mechanics!
+
 ## Attribute Checks
 
-When you describe your character doing something risky, or the outcome is uncertain, the GM may ask you to make an **attribute check**.
+When you describe your character doing something risky with an interesting but uncertain outcome, the GM may ask you to make an **attribute check**. The GM will describe possible complications to help in your decision-making.
 
-Roll a **d20** and compare the result to the applicable attribute score. If the result is **less than or equal to** the relevant attribute score, your character **succeeds** and suffers no complications. If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
+Roll a **d20** and compare the result to the applicable attribute score. If the result is **less than or equal to** the attribute score, your character **succeeds** and suffers no complications. If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
 
 ### Using Attributes
 
@@ -36,13 +44,13 @@ If you are in a dire position or ill-prepared for your task, the GM may ask you 
 
 ### Trained Rolls
 
-Roll an attribute check with advantage if your character has a former vocation or special training applicable to the task. 
+Roll an attribute check with advantage if your character’s former vocation or specialization could apply to the task. 
 
 !!! example "Examples"
 
-	A character who was an alchemist in their former career would have an advantage when brewing a potion or handling dangerous reagents. 
+	A character who was an alchemist in their former career would have an advantage when brewing potions or handling dangerous reagents. 
 	
-	A former mariner would have an advantage in navigating at sea, attending to sails, or other ship-related tasks.
+	A former mariner would have an advantage when navigating at sea, attending to sails, or other ship-related tasks.
 
 ## Luck
 
@@ -59,14 +67,14 @@ The GM may sometimes call for a LUCK check if an outcome is random and your othe
 The game measures time in three durations:
 
 - **Round** is the time scale for combat. Each round is around 10 seconds.
-- **Turn** is the time scale for exploration. Each turn is around 10 minutes, enough time to explore a room and perform an Action or two.
+- **Turn** is the time scale for exploration. Each turn is 10 minutes, enough time to explore a room and perform an action or two.
 - **Watch** is the time scale used when traveling. Each Watch is 6 hours: morning, afternoon, evening, and night. A party can travel 6 miles in 1 watch in open terrain and clear weather.
 
 ## Zones
 
 The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
 
-For example, at the start of combat, the GM divides the battlefield into at least three zones; one where the party starts, one where the enemies start, and the area between them.
+For example, at the start of combat, the GM divides the battlefield into at least three zones; one where the party starts, one where the opponents start, and the area between them.
 
 The distance within and between zones is relative:
 
@@ -75,7 +83,7 @@ The distance within and between zones is relative:
 - You can touch it.
 - Most actions affect things in your zone.
 - You can speak softly and be heard.
-- In range of *melee* weapons. 
+- In range of *mêlée* weapons. 
 
 **Near**: One zone away.
 
