@@ -27,7 +27,7 @@ Also, think about their relationship with the other characters in the group, but
 | 9 | Gambler | Disowned | 19 | Servant | Robbed |
 | 10 | Herbalist | Exiled | 20 | Smuggler | Suspected |
 
-Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life and motivation. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
+Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life and their motivation. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
 
 Is your character more:
 
