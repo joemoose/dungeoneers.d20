@@ -18,9 +18,13 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/), published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71.
 
-- Equipment adapted from *[Dungeon World](https://dungeon-world.com/)*, by Adam Koebel and Sage LaTorra, “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)”, *Against the Wicked City*, 4 February 2018, by Joseph Manola.
+- Equipment adapted from *[Dungeon World](https://dungeon-world.com/)*, by Adam Koebel and Sage LaTorra.
 
 - Luck mechanism adapted from *[Spellburn and Battlescars](https://xenio-in-a-bottle.itch.io/sab)* by Luís Fernando Anizello and Matheus Henrique Morais.
+
+- Mementos adapted from “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)”, *Against the Wicked City*, 4 February 2018, by Joseph Manola.
+
+- Physical mutations adapted from [Vaults of Vaarn #1](https://graculusdroog.itch.io/vaults-of-vaarn) by Leo Hunt.
 
 - “Roll high, under” and “trained rolls” mechanics adapted from *[Whitehack](https://whitehackrpg.wordpress.com)* by Christian Mehrstam.
 

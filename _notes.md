@@ -1,8 +1,8 @@
 # NOTES
 
-In all tabletop roleplaying games, it is important to make everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that may fall outside the everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, what will never be, and what might be in the game but only in passing. 
+~~In all tabletop roleplaying games, it is important to make everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that may fall outside the everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, what will never be, and what might be in the game but only in passing.~~ 
 
-It is also important that everyone at the table feels comfortable saying “pause” to take a break, “rewind” to revisit a previous situation or decision, and “stop” without fear of judgment if something in the conversation or gameplay makes them uncomfortable.
+~~It is also important that everyone at the table feels comfortable saying “pause” to take a break, “rewind” to revisit a previous situation or decision, and “stop” without fear of judgment if something in the conversation or gameplay makes them uncomfortable.~~
 
 ---
 
@@ -24,13 +24,9 @@ look at 1000 mutations as possible alternate mutaiton effects
 
 
 
-roll high under 
-
----
+~~roll high under~~ 
 
 ~~take 2 actions~~
-
----
 
 ~~CLOSE~~
 
@@ -64,9 +60,9 @@ TURNS
 
 To make sure everyone at the table has a chance to speak, the game uses Turns. At the table, a Turn is needed for a character to move and act. A Turn may represent a few moments (during combat), a few minutes, a few hours, or even a few days. The game is always played in Turns.
 
-ONE TURN, TWO ACTIONS
+~~ONE TURN, TWO ACTIONS~~
 
-A character can make up to two actions during their turn to ensure no player hogs the spotlight. The action complexity (and the distance covered with a move action) depends on the length of the Turn established by the GM (moments, minutes, hours...). There's a catch, though, if you take the same action twice, you must make a Doom roll (see below).
+~~A character can make up to two actions during their turn to ensure no player hogs the spotlight. The action complexity (and the distance covered with a move action) depends on the length of the Turn established by the GM (moments, minutes, hours...). There's a catch, though, if you take the same action twice, you must make a Doom roll (see below).~~
 
 DOOM
 
