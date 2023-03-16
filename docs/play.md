@@ -20,11 +20,11 @@ On to the mechanics!
 
 When you describe your character doing something risky with an interesting but uncertain outcome, the GM may ask you to make an **attribute check**. The GM will describe possible complications to help in your decision-making.
 
-Roll a **d20** and compare the result to the applicable attribute score. If the result is **less than or equal to** the attribute score, your character **succeeds** and suffers no complications. If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
+Roll a **d20** and compare the result to the applicable attribute score. If the result is **less than or equal to** the attribute score, your character **succeeds** at their action and suffers no complications. If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer, capable of almost anything. So when the outcome is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
+Your character is a determined, resourceful adventurer, capable of trying almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
 
 Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to force it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
@@ -34,21 +34,29 @@ Don’t think about what your character is capable of, but *how* they would appr
 
 Rolling the **exact attribute score** on a check is a **critical success**, and the outcome will be better than expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a **20** is a **critical failure**, and the outcome will be worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a **20** is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
 
-### Advantage and Disadvantage
+### Vantages
 
-If you roll an attribute check and are particularly well prepared or equipped for the task, the GM may allow you to roll with an **advantage**. Roll **two d20s** and take the **best** result.
+The primary way to modify your attribute checks is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. 
 
-If you are in a dire position or ill-prepared for your task, the GM may ask you to roll with a **disadvantage**. Roll **two d20s** and take the **worst** result.
+- For instance, if you are exceptionally well prepared or equipped for a task, the GM may allow you to roll your attribute check with an **advantage**. Roll **two d20s** and take the **best** result.
+
+- Conversely, if you are in a dire position or ill-prepared for your task, lacking the proper tools, etc., the GM may require you to roll with a **disadvantage**. Roll **two d20s** and take the **worst** result.
+- 
+!!! note
+
+		If you have multiple advantages or disadvantages, you take only one—they do not stack. 
+		
+		If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one 2d0 as normal.
 
 ### Trained Rolls
 
-Roll an attribute check with advantage if your character’s former vocation or specialization could apply to the task. 
+If your character’s former vocation or specialization could apply to your action, you gain an advantage on the attribute check. 
 
 !!! example "Examples"
 
-	A character who was an alchemist in their former career would have an advantage when brewing potions or handling dangerous reagents. 
+	A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
 	
 	A former mariner would have an advantage when navigating at sea, attending to sails, or other ship-related tasks.
 
