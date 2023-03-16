@@ -155,7 +155,7 @@ Let’s see what equipment you’ve brought to your new adventuring life.
 
 ➡️ Everyone starts with a heavy cloak of their choice of color, adventuring gear, a dagger, and **3d6** coins.
 
-Choose **three** more items from the following list. You may choose an item more than once.
+Choose **two** more items from the following list. You may choose an item more than once.
 
 - spear
 - shortbow and a quiver of arrows
@@ -174,6 +174,10 @@ Choose **three** more items from the following list. You may choose an item more
 !!! note
 
 		See the [Equipment](equipment.md) section for more information on your gear.
+		
+Finally, roll once or twice (your call) on the following table to select an odd memento or two that you keep with you. Who knows, they might come in handy one day.
+
+||
 
 ## Step 6: Introductions
 
