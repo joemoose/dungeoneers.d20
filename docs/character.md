@@ -234,7 +234,7 @@ Finally, roll d100 once or twice (your call) and consult the following table to 
 
 ## Step 6: Introductions
 
-Introduce your character to your adventuring group, and get ready for adventure.
+Introduce your character to the other players in your group, and get ready for adventure.
 
 Good luck, dungeoneer!
  
