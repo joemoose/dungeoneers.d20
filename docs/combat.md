@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Combat is dangerous, and wise adventurers, or those with long careers, seek to avoid it.
+Combat is dangerous, and wise adventurers, or those who’d like a long career, seek to avoid it.
 
 ## Actions
 
-In a single round of combat, your character can make up to **two** actions. Actions include attacking, moving to an adjacent zone, casting a spell, quaffing a potion, or anything within reason based on your character’s assets and situation.
+In a single round of combat, your character can take up to **two** actions. Actions include attacking, moving to an adjacent zone, casting a spell, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
 
 ## Initiative
 
@@ -16,7 +16,7 @@ When combat breaks out, a turn order must first be established for all the comba
 
 At the beginning of every round, the GM describes the actions likely taken by your opponents. All players then declare their character’s intentions for the round before rolling any dice. 
 
-### Determining Fast and Slow Turns
+### Determining Fast and Slow Rounds
 
 Next, determine whether the declared actions involve a *fast* or *slow* round.
 
@@ -53,7 +53,7 @@ After determining who’s rounds will be fast or slow, the order for resolving a
 
 !!! note
 
-	A new initiative order is determined at the beginning of every round of combat. If you'd like to use a more straightforward initiative system, see the [Appendix](appendix-d.md)
+	A new initiative order is determined at the beginning of every round of combat. If you'd like to use a simpler initiative system, see the [Appendix](appendix-d.md).
 
 ## Attacks
 
@@ -69,7 +69,7 @@ Rolling **maximum damage** on a weapon’s die roll is a **critical hit**. A cri
 
 ### Bonus Damage
 
-In some situations, attacks may receive an extra die, noted as +d6, +d8, etc. Roll the extra die with your weapon’s damage roll, keeping the **best** result. For example, wielding a sword with both hands adds +d8 bonus damage. 
+In some situations, attacks may receive an extra die, noted as +d6, +d8, etc. Roll the extra die with your weapon’s damage roll, keeping only the **best** result. For example, wielding a sword with both hands adds +d8 bonus damage. 
 
 ### Enhanced Attacks
 
@@ -89,19 +89,19 @@ If multiple combatants attack the same target, roll damage for each attacker, bu
 
 ### Blast
 
-Attacks with the *blast* quality affect all targets in a zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, massive sweeping onslaughts, or swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
+Attacks with the *blast* quality affect all targets in a zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, and massive sweeping onslaughts, to swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
 
 ## Defending
 
-If you take an action to focus only on defending yourself, you can make a DEX check to parry or dodge subsequent melee attacks and avoid any damage. You can’t defend against ranged attacks or spells.
+If you take an action to focus exclusively on defending yourself, you can make a DEX check to parry or dodge subsequent melee attacks and avoid any damage. You can’t defend against ranged attacks or spells.
 
 A critical success on your defense check also allows you to make an immediate riposte attack on your opponent.
 
-Your focus on defense ends once you take some other action.
+Defense ends once you take some other action.
 
 ## Gambits
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They’re resolved with a relevant attribute check. Gambits can’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). 
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with a relevant attribute check. 
 
 !!! tip
 
@@ -131,7 +131,7 @@ Rather than inflicting grievous harm, you can attempt to **subdue** an opponent 
 
 ## Morale
 
-When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail their morale check immediately surrender or attempt to flee. 
+When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail morale immediately surrender or attempt to flee. 
 
 Lone foes must pass a morale check when reduced to 0 HP.
 

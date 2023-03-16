@@ -6,7 +6,7 @@ Spells are living, sentient spirits bound within rune-etched obsidian or lead ta
 
 ## Essence
 
-A spell tablet has three units of arcane energy or **essence** to power the spell it contains. Essence is volatile and can be depleted from a tablet by casting its spell. The more essence you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s essence. Once three essence are depleted from a tablet, the spell can no longer be cast.
+A spell tablet has three units of arcane energy or **essence** to power the spell it contains. Essence is volatile and can be depleted from a tablet by casting its spell. The more essence you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s essence. Once all three essence are depleted from a tablet, the spell can no longer be cast.
 
 ## Casting a Spell
 
@@ -20,7 +20,7 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 ## Recharging a Spell
 
-Once all three essence in a tablet is depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three essence. 
+Once all three essence in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three essence. 
 
 ## Miscasting a Spell
 

@@ -11,7 +11,7 @@
 
 	!!! quote
 
-		Play your character like you’re driving a stolen car.<br/>–John Harper, *Blades in the Dark*
+		Play your character like you’re driving a stolen car.<br/>–John Harper, *[Blades in the Dark](https://bladesinthedark.com/basics)*
 
 ## Attribute Checks
 

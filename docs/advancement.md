@@ -35,13 +35,15 @@ When your character earns enough XP to advance to the next level, perform the fo
 
 Starting at level 2, your character gains the **Stamina** attribute. Stamina allows your character to ignore constraints.
 
-For each stamina point, you can place one constraint into the stamina space on your character sheet rather than in your inventory. After it’s put into the stamina space, a constraint is ignored but isn’t removed until its cleared requirement is met.
+For each stamina point, you can place one constraint into the stamina space on your character sheet rather than in your inventory. After it’s put into the stamina space, the constraint is ignored but isn’t removed until its cleared requirement is met.
 
 ## New Skills
 
-Learning new skills to gain an advantage on related attribute checks does not happen automatically when characters gain new levels. Your character starts with the training and knowledge suggested by their former career, such as gambler or mercenary, that you chose during character creation. 
+Learning new skills to gain an advantage on related attribute checks does not happen automatically when characters gain new levels. Your character starts with the training and knowledge suggested by the former career you selected during character creation, such as gambler or mercenary. 
 
-Acquiring new skills and knowledge afterward happens as part of your adventuring. Your character could hire mentors or experts to teach them new skills. Joining specialized groups, such as trade guilds, universities, or mercenary companies, could provide training. Your GM may award skills from quests, patrons, or other in-game opportunities. Your character’s training does not happen as part of level advancement but rather as experiences in the narrative.
+Acquiring new skills and knowledge afterward happens as part of your adventuring. Your character could hire mentors or experts to teach them new skills. Joining specialized groups, such as trade guilds, universities, or mercenary companies, could provide training. Your GM may award skills from quests, patrons, or other in-game opportunities.
+
+New skills and specialized knowledge are acquired as events in the narrative, not due to leveling up.
 
 ## Carousing
 
@@ -55,9 +57,9 @@ Declare the number of coins you’re spending to carouse and roll **2d6** to see
 
 | 2d6 | Results |
 | :-: | :-- |
-| 2–4 | You’ve all made fools of yourselves somehow. Roll on the **Carousing Mishaps** table. |
+| 2–4 | You’ve made a fool of yourself somehow. Roll on the following **Mishaps** table. |
 | 5–9 | Your carousing causes no remarkable incidents. |
-| 10–12 | You’ve had a stroke of good fortune! Roll on the **Carousing Fortunes** table. |
+| 10–12 | You’ve had a stroke of good fortune! Roll on the following **Fortunes** table. |
 
 ### Mishaps and Fortunes
 

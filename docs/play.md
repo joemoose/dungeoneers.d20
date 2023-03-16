@@ -4,9 +4,9 @@
 
 The core of this game is a conversation between the players and the game master (GM). The GM describes the players’ current situation. Then the players ask questions and tell the GM what their characters do. The GM explains the results of their actions, and then the players react again and describe more activities, and so on.
 
-The GM answers your questions and always respects your freedom of choice. The GM provides challenges, obstacles, and situations to solve and overcome. Still, the game is more than just a story narrated by the GM—it’s an interactive fiction built on your and your fellow players’ decisions. Consider it as both creating and acting in an adventure story simultaneously.
+The GM answers your questions and always respects your freedom of choice. The GM provides challenges, obstacles, and situations to solve and overcome. Still, the game is more than just a story narrated by the GM—it’s an interactive narrative built on your and your fellow players’ decisions. Consider it as both creating and acting in an adventure story simultaneously.
 
-Suppose the outcome of your character’s actions is not immediately apparent, or the activity is inherently risky. In that case, the GM might ask you to roll dice to determine the results.
+Suppose the outcome of your character’s actions is not immediately apparent, or the activity is inherently risky. In that case, the GM might ask you to roll dice to determine the outcome.
 
 ## Safety
 
@@ -18,17 +18,20 @@ On to the mechanics!
 
 ## Attribute Checks
 
-When you describe your character doing something risky with an interesting but uncertain outcome, the GM may ask you to make an **attribute check**. The GM will describe possible complications to help in your decision-making.
+When you describe your character doing something risky with an interesting but uncertain outcome, the GM may ask you to make an **attribute check**. The GM will describe possible complications or outcomes to help in your decision-making.
 
-Roll a **d20** and compare the result to the applicable attribute score. If the result is **less than or equal to** the attribute score, your character **succeeds** at their action and suffers no complications. If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
+To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
+
+- If the result is **less than or equal to** your attribute score, your character **succeeds** at their action and suffers no complications.
+- If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer, capable of trying almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
 
-Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to force it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
+Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
-Don’t think about what your character is capable of, but *how* they would approach a problem. Play to all of your character’s assets.
+Don’t think about what your character is capable of, but rather *how* they would approach a problem. Play to all of your character’s available resources.
 
 ### Critical Success and Failure
 
@@ -41,28 +44,26 @@ Conversely, rolling a **20** is a **critical failure**, and the outcome is worse
 The primary way to modify your attribute checks is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. 
 
 - For instance, if you are exceptionally well prepared or equipped for a task, the GM may allow you to roll your attribute check with an **advantage**. Roll **two d20s** and take the **best** result.
+- Conversely, if you are in a dire position or ill-prepared for your task, lacking proper tools, etc., the GM may require you to roll with a **disadvantage**. Roll **two d20s** and take the **worst** result.
 
-- Conversely, if you are in a dire position or ill-prepared for your task, lacking the proper tools, etc., the GM may require you to roll with a **disadvantage**. Roll **two d20s** and take the **worst** result.
-- 
-!!! note
+!!! note "Notes"
 
-		If you have multiple advantages or disadvantages, you take only one—they do not stack. 
-		
-		If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one 2d0 as normal.
+	- If you have multiple advantages or disadvantages, you take only one—they do not stack.
+	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one d20 as normal.
 
 ### Trained Rolls
 
-If your character’s former vocation or specialization could apply to your action, you gain an advantage on the attribute check. 
+If your character’s former vocation or specialization could apply to your current action, you gain an advantage on the attribute check. 
 
-!!! example "Examples"
+!!! info "Examples"
 
 	A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
 	
-	A former mariner would have an advantage when navigating at sea, attending to sails, or other ship-related tasks.
+	A former mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
 
 ## Luck
 
-You can decrease (burn) your LUCK attribute score to change the dice rolls for other attribute checks. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other woeful effects. LUCK can’t be less than zero.
+You can decrease (burn) your LUCK attribute score to change the dice roll results for other attribute checks. Add or remove the amount of LUCK you want to burn from the result. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other woeful effects. LUCK can’t be less than zero.
 
 The GM may sometimes call for a LUCK check if an outcome is random and your other attributes don’t apply.
 

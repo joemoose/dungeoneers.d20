@@ -27,7 +27,7 @@ Also, think about their relationship with the other characters in the group, but
 | 9 | Gambler | Disowned | 19 | Servant | Robbed |
 | 10 | Herbalist | Exiled | 20 | Smuggler | Suspected |
 
-Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life and their motivation. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
+Next, pick one trait from each of the following three pairs that best describes your character’s **drive**, their outlook on life, personality, or motivation. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
 
 Is your character more:
 
@@ -35,11 +35,11 @@ Is your character more:
 2. **Honest** or **Calculating**?
 3. **Altruistic** or **Entitled**?
 
-Your choices will set a tone for role-playing your character and let others know what to expect.
+Your traits will set a tone for role-playing your character and let others know what to expect.
 
 !!! tip "Huzzah!"
 
-		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*choice 1*), (*choice 2*),  and (*choice 3*) adventurer!
+		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*choice 1*), (*choice 2*), and (*choice 3*) adventurer!
 
 ## Step 2: Name and Appearance
 

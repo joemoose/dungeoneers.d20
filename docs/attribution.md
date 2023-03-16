@@ -2,19 +2,27 @@
 
 I stand on the shoulders of giants.
 
-Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](https://cairnrpg.com), Chris McDowall’s [Into the ODD](https://www.drivethrurpg.com/product/399483/Into-the-Odd--Remastered), Ben Milton’s [Knave](https://questingbeast.itch.io/knave), Isaac Williams’ [Mausritter](https://mausritter.com), and the resulting minimalist OSR and NSR diaspora.
+---
+
+Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](https://cairnrpg.com)*, Chris McDowall’s *[Into the ODD](https://freeleaguepublishing.com/en/games/into-the-odd/)*, Ben Milton’s *[Knave](https://questingbeast.itch.io/knave)*, Isaac Williams’ *[Mausritter](https://mausritter.com)*, and the resulting minimalist OSR and NSR diaspora.
+
+---
 
 - Archetypes starting gear adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
 
-- Carousing adapted from [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley and [“Party like it's 999”](http://jrients.blogspot.com/2008/12/party-like-its-999.html?m=1), *Jeff’s Gameblog*, 19 December 2008, by Jeff Rients.
+- Best practices adapted from *[Blades in the Dark](https://bladesinthedark.com/basics)* by John Harper.
 
-- Corruption adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin.
+- Carousing adapted from *[Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide)* by Adam Hensley and [“Party like it's 999”](http://jrients.blogspot.com/2008/12/party-like-its-999.html?m=1), *Jeff’s Gameblog*, 19 December 2008, by Jeff Rients.
 
-- Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/) published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71.
+- Corruption adapted from *[Weird North](https://classless-kobolds.itch.io/weird-north)* by Jim Parkin.
 
-- Equipment adapted from [Dungeon World](https://dungeon-world.com/), by Adam Koebel and Sage LaTorra and “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)” by Joseph Manola. *Against the Wicked City*, 4 February 2018. 
+- Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/), published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71.
 
-- “Roll high, under” and “trained rolls” mechanics adapted from [“Whitehack”](https://whitehackrpg.wordpress.com) by Christian Mehrstam.
+- Equipment adapted from *[Dungeon World](https://dungeon-world.com/)*, by Adam Koebel and Sage LaTorra, “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)”, *Against the Wicked City*, 4 February 2018, by Joseph Manola.
+
+- Luck mechanism adapted from *[Spellburn and Battlescars](https://xenio-in-a-bottle.itch.io/sab)* by Luís Fernando Anizello and Matheus Henrique Morais.
+
+- “Roll high, under” and “trained rolls” mechanics adapted from *[Whitehack](https://whitehackrpg.wordpress.com)* by Christian Mehrstam.
 
 - Sorcerer class adapted from [“OSR: Class: Sorcerer”](https://coinsandscrolls.blogspot.com/2018/03/osr-class-sorcerer.html), *Coins and Scrolls*, 29 March 2018, by Skerples. 
 
@@ -24,11 +32,13 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](ht
 
 - Supply chests adapted from [“Sack Packs”](https://shoalmontgames.com/2018/11/28/sack-pack/), *Shoalmont Games*, 28 November 2018, by ATXRedBeard.
 
-- Tactical initiative adapted from [*Errant*](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition) written by Ava Islam and published by [Kill Jester Publishing, LLP](https://www.killjester.com/).
+- Tactical initiative adapted from *[Errant](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition)* written by Ava Islam, published by [Kill Jester Publishing, LLP](https://www.killjester.com/).
 
-- Warrior and Thief classes adapted from [The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01) by [Emiel Boen](https://www.electrumarchive.com).
+- Usage dice mechanic adapted from *[The Black Hack SRD](https://the-black-hack.jehaisleprintemps.net)* by Jack Black.  
 
-- Zones adapted from [Fate System Toolkit](http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by Robert Donoghue, Brian Engard, Brennan Taylor, Mike Olson, Mark Diaz Truman, Fred Hicks, and Matthew Gandy, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+- Warrior and Thief classes adapted from *[The Electrum Archive, Issue #01](https://emielboven.itch.io/tea-01)* by [Emiel Boen](https://www.electrumarchive.com).
+
+- Zones adapted from the *[Fate System Toolkit](http://www.faterpg.com/)*, a product of Evil Hat Productions, LLC, developed, authored, and edited by Robert Donoghue, Brian Engard, Brennan Taylor, Mike Olson, Mark Diaz Truman, Fred Hicks, and Matthew Gandy, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
 
 ---
 
@@ -43,6 +53,8 @@ The Electrum Archive is copyright Emiel Boven and CULT OF THE LIZARD KING. Dunge
 This work includes material taken from the [System Reference Document 5.1 (“SRD 5.1”)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast LLC. The SRD 5.1 is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ---
+
+## License
 
 The text of this document outside the copyrighted material or trademarks of the entities above is released under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 

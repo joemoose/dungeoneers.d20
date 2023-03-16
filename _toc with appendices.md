@@ -31,7 +31,5 @@ docs/appendix-f.md
 
 docs/appendix-g.md
 
-docs/appendix-h.md
-
 docs/attribution.md
 
