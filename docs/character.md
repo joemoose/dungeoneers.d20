@@ -139,7 +139,7 @@ Four attributes describe your character’s primary characteristics:
 
 Is your character musclebound and insightful? Fortunate and charming? Nimble and hardy? Attribute scores define these qualities—your character’s assets and weaknesses.
 
-Strength is a prime attribute for warriors. Dexterity serves thieves well. Casting spells requires willpower.
+Strength is a prime attribute for warriors. Dexterity serves stealth and thievery well. Casting spells requires willpower.
 
 Roll **2d6+4** four times, noting the results. Assign the lowest value to your LUCK and the other three as you prefer to STR, DEX, and WIL.
 
