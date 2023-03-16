@@ -28,7 +28,7 @@ Each constraint must be placed in an **inventory slot**. You can have multiple c
 
 Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
-Conditions can only be removed from your inventory by meeting their cleared requirement, usually a short, long, or full rest.
+Constraints can only be removed from your inventory by meeting their cleared requirement, usually a short, long, or full rest.
 
 **Example Constraints**
 
@@ -78,29 +78,29 @@ Consumable items have a specified number of **uses** to track resource consumpti
 
 After all the uses are marked off, the item is depleted and removed from your inventory.
 
-Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could break or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **5 or 6**, mark a usage.
+Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could break or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **1 or 2**, mark a use.
  
-Usage can be repaired on some gear, such as weapons and armor, for 10% of the original cost per point of usage removed. 
+Usage can be repaired on some gear, such as weapons and armor, for 10% of the original cost per point of use removed. 
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. A player character can only have up to a **6 armor rating**, even if items would increase it above this number. Anyone can strap the best they can afford to enjoy its protective qualities.
+Armor reduces the damage you suffer from an attack. A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. Anyone can strap on the best armor they can afford to enjoy its protective qualities.
 
 **Notes**:
 
-- **+1 armor rating** items can be equipped with the base armor: cloth, light, medium, heavy, or massive.
+- **+1 armor rating** items can be equipped along with a base armor: cloth, light, medium, heavy, or massive.
 - **Helmets** provide an advantage on STR checks to avoid critical damage.
 - **Shields** have other uses besides a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
-	- Multiply allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
-- **Extreme Armor** includes the benefit of a helmet (advantage on critical damage checks) as part of the base armor.
+	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
+- **Extreme Armor** includes the benefit of a helmet (advantage on STR checks to avoid ritical damage) as part of the base armor.
 
 **Armor List**
 
 | Type | Rating | Notes | Coins |
 | :--- | :----------- | :------ | ---: |
-| Heavy cloak | +1 armor | One body slot | 20 | 
+| Heavy hooded cloak | +1 armor | One body slot | 20 | 
 | Helmet | +1 armor | One body slot | 20 |
 | Shield | +1 armor | Offhand | 30 |
 | Cloth (Gambeson) | 1 armor | One body slot | 60 |
@@ -111,7 +111,7 @@ Armor reduces the damage you suffer from an attack. A player character can only 
 
 ## Weapons
 
-Most weapons have characteristics that affect their use. You can use any weapon you see fit.
+Most weapons have characteristics that affect their use. You can use any weapon effectively you see fit.
 
 - *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
 - *Long-range*: This weapon can attack a target up to three zones away.
@@ -126,7 +126,7 @@ Most weapons have characteristics that affect their use. You can use any weapon 
 
 | Weapon | Damage | Notes | Coins |
 | :----- | :----: | :---- | ---: |
-| Unarmed | d4 | Doesn't ignore armor on a critical hit | - |
+| Unarmed | d4 | Doesn't ignore armor on critical hits | - |
 | Cudgel | d4 | - | 5 |
 | Staff | d4/+d4 | Versatile | 10 |
 | Dagger | d6 | Thrown | 15 |
