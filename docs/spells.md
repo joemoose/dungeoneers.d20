@@ -14,7 +14,7 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 1. Declare how much essence you’ll use when casting the spell, up to the maximum number remaining in the tablet.
 
-2. Roll as many **d6** equal to the number of essence used. Use up one essence in the tablet for each **5 or 6** rolled. 
+2. Roll as many **d6** equal to the number of essence used. Use up one essence in the tablet for each **1 or 2** rolled. 
 
 3. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
 
@@ -24,13 +24,13 @@ Once all three essence in a tablet is depleted, its spell can no longer be cast.
 
 ## Miscasting a Spell
 
-Whenever one or more **6s** are rolled when casting a spell, the spell parasitically drains the caster’s focus and mental energies. For each 6 rolled, the caster takes **d6** damage to WIL and must roll a WIL check. If failed, the caster takes a *Dazed* constraint.
+Whenever one or more **1s** are rolled when casting a spell, the spell parasitically drains the caster’s focus and mental energies. For each 1 rolled, the caster takes **d6** damage to WIL and must roll a WIL check. If failed, the caster takes a *Dazed* constraint.
 
 The spell still manifests, though at a cost to the caster.
 
 ## Selling a Spell
 
-A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a large settlement. A depleted tablet is, at most, a fourth of its value.
+A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a large settlement. A depleted tablet is, at most, a third of its value.
 
 ## Spells List
 

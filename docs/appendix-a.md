@@ -40,17 +40,17 @@ On your turn, you can take **two** actions: move, attack, cast a spell, etc.
 
 **Initiative**
 
-Declare actions before rolling dice. A *fast* turn is a single action. A *slow* turn is an action and moving, or actions that take more time.
+Declare actions before rolling dice. A *fast* round is a single action. A *slow* round is two actions.
 
-1. Resolve all fast turns before slow turns.
-2. If players and opponents both take a fast turn, the player must make a DEX *or* WIL check to go first.
-3. If players and opponents both take a slow turn, the player must make a DEX *or* WIL check to go first.
+1. Resolve all fast rounds before slow rounds.
+2. If players and opponents both take fast rounds, the player must make a DEX *or* WIL check to go first.
+3. If players and opponents both take slow rounds, the player must make a DEX *or* WIL check to go first.
 
 **Attacks**
 
-Attacks always hit. Roll weapon damage and deal that much damage to an enemy, minus any armor.
+Attacks always hit. Roll weapon damage and deal that much damage to an enemy, minus armor rating.
 
-- **Critical Hit**: A maximum damage roll ignores armor.
+- **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
 - **Impaired**: Roll an extra d4 damage die, take worst.
 
@@ -70,13 +70,13 @@ Attacks always hit. Roll weapon damage and deal that much damage to an enemy, mi
 
 Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each essence invested:
 
-- Mark essence usage for each **5 or 6** rolled.  
-- For every **6 rolled**, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.
+- Mark essence usage for each **1 or 2** rolled.  
+- For every **1 rolled**, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.
 - The spell effect is determined by the number of dice rolled and the sum.
   
 ## Inventory
 
 - Maximum of 12 inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
 - Items in the backpack require an action to retrieve during combat.
-- Most items take 1 slot, and bulky take 2.
+- Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 5 in a slot.
 

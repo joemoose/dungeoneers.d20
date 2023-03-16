@@ -6,7 +6,7 @@ Combat is dangerous, and wise adventurers, or those with long careers, seek to a
 
 ## Actions
 
-In a single round of combat, your character can make up to **two** actions. Actions can range from attacking, moving to an adjacent zone, casting a spell, or anything within reason based on your character’s assets and situation.
+In a single round of combat, your character can make up to **two** actions. Actions include attacking, moving to an adjacent zone, casting a spell, quaffing a potion, or anything within reason based on your character’s assets and situation.
 
 ## Initiative
 

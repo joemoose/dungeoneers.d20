@@ -1,6 +1,6 @@
 # Appendix H: Odd Items 
 
-100 odd items for creative problem-solving:
+Odd items for creative problem-solving:
 
 | d100 | Item | d100 | Item |
 | :--: | :--- | :--: | :--- |

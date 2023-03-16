@@ -8,7 +8,9 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s [Cairn](ht
 
 - Carousing adapted from [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) by Adam Hensley and [“Party like it's 999”](http://jrients.blogspot.com/2008/12/party-like-its-999.html?m=1), *Jeff’s Gameblog*, 19 December 2008, by Jeff Rients.
 
-- Corruption adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin. 
+- Corruption adapted from [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin.
+
+- Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/) published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71.
 
 - Equipment adapted from [Dungeon World](https://dungeon-world.com/), by Adam Koebel and Sage LaTorra and “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)” by Joseph Manola. *Against the Wicked City*, 4 February 2018. 
 

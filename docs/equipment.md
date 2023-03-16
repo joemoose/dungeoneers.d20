@@ -1,6 +1,6 @@
 # Equipment
 
-## Overview
+## Introduction
 
 The equipment your character carries and your ingenuity defines your character’s role and specialty in the group.
 
@@ -84,7 +84,7 @@ Usage can be repaired on some gear, such as weapons and armor, for 10% of the or
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. A player character can only have up to a **6 armor rating**, even if items would increase it above this number.
+Armor reduces the damage you suffer from an attack. A player character can only have up to a **6 armor rating**, even if items would increase it above this number. Anyone can strap the best they can afford to enjoy its protective qualities.
 
 **Notes**:
 
@@ -111,7 +111,7 @@ Armor reduces the damage you suffer from an attack. A player character can only 
 
 ## Weapons
 
-Most weapons have characteristics that affect their use.
+Most weapons have characteristics that affect their use. You can use any weapon you see fit.
 
 - *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
 - *Long-range*: This weapon can attack a target up to three zones away.
@@ -147,7 +147,7 @@ Most weapons have characteristics that affect their use.
 
 ##  Expedition Equipment
 
-Most gear has characteristics that affect their use.
+Most gear has characteristics that affect their use. Use your gear to solve challenges creatively and keep your character adventuring.
 
 - _Bulky_: requires two inventory slots.
 - _Load_: Number of inventory slots available for storing items.
@@ -160,10 +160,10 @@ Most gear has characteristics that affect their use.
 | Item | Description | Notes | Coins |
 | :-- | :-- | :-- | --: |
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, poles, spikes, ropes, lockpicks, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
-| Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 Uses, Bulky | 100 |
-| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds, mark off a use, restore all HP, and make a WIL check to restore **d3** point of attribute damage. | 5 Uses, Slow | 10 |
+| Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 Uses, Slow, Bulky | 100 |
+| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds, mark off a use, restore all HP, and make a WIL check to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
 | Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](advancement.md) section for information on carousing. | 1 Use, Bulky | 10 |
-| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Small | 5 |
+| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 3 |
 
 !!! note
@@ -172,7 +172,7 @@ Most gear has characteristics that affect their use.
 
 ## Supply Crates
 
-Equipment supply crates and barrels (hereafter referred to as simply “crates”) can replenish the party’s gear used on long expeditions when away from settlements and unable to restock.
+Equipment supply crates and barrels (hereafter referred to as simply “crates”) can replenish the party’s gear on long expeditions when away from settlements and unable to restock.
 
 ### Weight
 
@@ -182,12 +182,11 @@ Crates are heavy, taking up six inventory slots, and are typically carried on pa
 
 Crates contain a specific type of expedition equipment as follows:
 
-- **Beer Barrel** contains refills for a Keg of Stout.
-- **Books Crate** contains a new Bag of Books.
+- **Books Crate** contains new Bags of Books.
 - **Food Crate** contains Rations.
 - **Gear Crate** contains new Adventuring Gear.
 - **Healing Supplies Crate** contains new Healer’s Kits.
-- **Survival Crate**: contains gear and clothing for surviving the extremes in the wilderness. Specified on purchase as either hot- or cold-weather survival crates.
+- **Survival Crate**: contains gear and clothing for surviving the extremes in wilderness travel. Specified on purchase as either hot- or cold-weather survival crates.
 - **Tools Crate** contains repair tools and crafting materials.
 - **Water Barrel** contains refills for a Waterskin.
 
@@ -199,7 +198,7 @@ A new crate costs nine times that of the item it contains. For example, a *gear 
 
 Each crate is assigned a *Usage Die* to track its consumption. A full crate starts with a **d10** usage die.
 
-Roll the usage die each time an item is removed from a crate. On a roll **1 or 2**, the usage die drops in size to the next lowest in the dice chain as follows: 
+Roll the usage die each time an item is removed from a crate. On a roll **1 or 2**, the usage die drops in size to the next lowest value in the dice chain as follows: 
 
 **d10** > **d8** > **d6** > **d4** > **empty**
 
