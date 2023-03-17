@@ -43,10 +43,6 @@ Is your character more:
 | 2 | Protective | or | Manipulative |
 | 3 | Selfless | or | Self-Entitled |
 
-1. **Empathetic** or **Callous**?
-2. **Protective** or **Manipulative**?
-3. **Selfless** or **Self-Entitled**?
-
 These traits will set a tone for role-playing your character and let others know what to expect.
 
 ### Descriptions
