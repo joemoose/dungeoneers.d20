@@ -1,4 +1,4 @@
-# Combat
+# Conflict
 
 ## Introduction
 
@@ -31,7 +31,7 @@ A **fast** round consists of taking only a **single action**, such as:
 - Disengaging from an opponent 
 - Trying a gambit against an opponent
 
-A **slow** round consists of taking **two actions**:
+A **slow** round consists of taking **two actions**, such as:
 
 - Moving twice
 - Attacking twice
@@ -79,11 +79,11 @@ When an attack is **enhanced**, such as attacking an unaware opponent, add **+d1
 
 When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** bonus damage and keep the **worst** result.
 
-### Dual-Wielding
+### Dual Wielder
 
-If attacking with two weapons, one in your main hand and one offhand, the offhand weapon functions as bonus damage. Roll damage for both and choose the best result.
+When attacking with two weapons, one in your main hand and one offhand, the offhand weapon functions as bonus damage. Roll damage for both and choose the best result.
 
-### Multiple Attackers.
+### Multiple Attackers
 
 If multiple combatants attack the same target, roll damage for each attacker, but use only the best result.
 
