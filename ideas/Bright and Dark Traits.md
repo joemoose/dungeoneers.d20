@@ -4,6 +4,7 @@
 
 Is your character more:
 
+| | | |
 | :-: | :-: | :-: | :-: |
 | **Bright** | Empathetic? | Protective? | Selfless? |
 | | *or* | *or* | *or* |
