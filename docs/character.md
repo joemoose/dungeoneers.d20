@@ -37,6 +37,12 @@ For example, a character with all bright traits would be the traditional hero. C
 
 Is your character more:
 
+| | *Bright* | | *Dark* |
+| :-: | :-: | :-: | :-: |
+| 1 | Empathetic | or | Callous |
+| 2 | Protective | or | Manipulative |
+| 3 | Selfless | or | Self-Entitled |
+
 1. **Empathetic** or **Callous**?
 2. **Protective** or **Manipulative**?
 3. **Selfless** or **Self-Entitled**?
