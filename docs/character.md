@@ -29,7 +29,7 @@ Also, think about their relationship with the other characters in the group, but
 
 ## Step 2: Drive
 
-Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life, personality, motivation--collectively referred to as your **drive**. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
+Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life, personality, motivation—collectively referred to as your **drive**. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
 
 These traits form triads of *Bright* (empathy, protection, selflessness) and *Dark* (callousness, manipulation, self-entitlement) sides to a character’s personality.
 
@@ -39,9 +39,9 @@ Is your character more:
 
 | | *Bright* | | *Dark* |
 | :-: | :-: | :-: | :-: |
-| 1 | Empathetic | or | Callous |
-| 2 | Protective | or | Manipulative |
-| 3 | Selfless | or | Self-Entitled |
+| 1 | Empathetic | *or* | Callous |
+| 2 | Protective | *or* | Manipulative |
+| 3 | Selfless | *or* | Self-Entitled |
 
 These traits will set a tone for role-playing your character and let others know what to expect.
 
