@@ -27,21 +27,29 @@ Also, think about their relationship with the other characters in the group, but
 | 9 | Gambler | Disowned | 19 | Servant | Robbed |
 | 10 | Herbalist | Exiled | 20 | Smuggler | Suspected |
 
-Next, pick one trait from each of the following three pairs that best describes your character’s **drive**, their outlook on life, personality, or motivation. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
+## Step 2: Drive
+
+Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life, personality, motivation, or **drive**. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
+
+These traits form triads of *Bright* (empathy, protection, selflessness) and *Dark* (callousness, manipulation, self-entitlement) sides to a character’s personality.
+
+For example, a character with all bright traits would be the traditional hero. Conversely, a character with all dark traits is quite the villain. A mix is somewhere between those extremes.
 
 Is your character more:
 
-1. **Empathetic** or **Merciless**?
-2. **Honest** or **Calculating**?
-3. **Altruistic** or **Entitled**?
+1. **Empathetic** or **Callous**?
+2. **Protective** or **Manipulative**?
+3. **Selfless** or **Self-Entitled**?
 
-Your traits will set a tone for role-playing your character and let others know what to expect.
+These traits will set a tone for role-playing your character and let others know what to expect.
+
+As you adventure and further develop your character, these starting traits may well change.
 
 !!! tip "Huzzah!"
 
-		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*choice 1*), (*choice 2*), and (*choice 3*) adventurer!
+		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*choice 1*), (*choice 2*), and (*choice 3*) adventurer.
 
-## Step 2: Name and Appearance
+## Step 3: Name and Appearance
 
 Give your character a name and describe how they look. Choose one or two notable characteristics that people first notice.
 
@@ -128,7 +136,7 @@ Roll once or twice with d6 and d20.
 | 19 | Groomed | Pointed Chin | White Hair |
 | 20 | Hairless | Rosy Cheeks | Wild Hair |
 
-## Step 3: Attribute Scores
+## Step 4: Attribute Scores
 
 Four attributes describe your character’s primary characteristics:
 
@@ -143,19 +151,19 @@ Strength is a prime attribute for warriors. Dexterity serves stealth and thiever
 
 Roll **2d6+4** four times, noting the results. Assign the lowest value to your LUCK and the other three as you prefer to STR, DEX, and WIL.
 
-## Step 4: Hit Points
+## Step 5: Hit Points
 
 Hit points (HP) represent the damage you can shrug off before suffering any actual harm. HP is easily and quickly restored.
 
 Roll **d4+2** to determine your starting hit points.
 
-## Step 5: Starting Equipment
+## Step 6: Starting Equipment
 
 Let’s see what equipment you’ve brought to your new adventuring life.
 
 Everyone starts with a heavy hooded cloak of their choice of color, adventuring gear, a dagger, and 3d6 coins.
 
-Choose **two** more items from the following list. You may choose an item more than once.
+Choose **three** more items from the following list. You may choose an item more than once.
 
 - spear
 - shortbow and a quiver of arrows
@@ -175,7 +183,7 @@ Choose **two** more items from the following list. You may choose an item more t
 
 		See the [Equipment](equipment.md) section for more information on your gear.
 		
-Finally, roll d100 once or twice (your call) and consult the following table to select an odd memento or two you always carry with you. Who knows, they might come in handy one day.
+Finally, roll d100 once or twice (your call) and consult the following table to select an odd memento or two you always carry with you. Who knows, they might come in handy one day, or you sell it for a few coins.
 
 **Odd Items for Creative Problem-Solving**
 
@@ -232,9 +240,9 @@ Finally, roll d100 once or twice (your call) and consult the following table to 
 | 49 | A deck of marked cards and a pair of loaded dice, both skilfully made. Worth 20 coins to a gambler. | 99 | A flask of alchemical coolant. Drop it into a bowl of liquid to freeze it into ice, or put it into a crate to create a crude refrigerator. Worth 50 coins to a chef, noble, or alchemist. |
 | 50 | A sheet of strong, stretchy tarpaulin. It can be used as a tent or waterproof covering for valuable objects; it can be stretched between two people and used as an improvised trampoline. Worth 20 coins to a sailor or traveler. | 100 | Fop's clothes: powdered wig, extravagant cravat, scented gloves, ultratight trousers, the works. Great if you want people to simultaneously regard you as highly important and yet not worth taking seriously, which can be an advantageous combination. Worth 100 coins to an actual fop. |
 
-## Step 6: Introductions
+## Step 7: Introductions
 
-Introduce your character to the other players in your group, and get ready for adventure.
+Introduce your character to the other players, and prepare for adventure!
 
-Good luck, dungeoneer!
+Good luck, dungeoneer.
  
