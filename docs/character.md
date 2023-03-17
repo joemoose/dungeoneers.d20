@@ -43,7 +43,7 @@ Is your character more:
 
 These traits will set a tone for role-playing your character and let others know what to expect.
 
-## Description
+### Descriptions
 
 **BBB: The Saint**. An everyday hero. Someone who is loved by all and who, in turn, spends their life in pursuit of making the world better for everyone else, no matter the stakes or the personal reward.
 
