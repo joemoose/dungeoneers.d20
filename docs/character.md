@@ -29,7 +29,7 @@ Also, think about their relationship with the other characters in the group, but
 
 ## Step 2: Drive
 
-Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life, personality, motivation, or **drive**. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
+Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life, personality, motivation--collectively referred to as your **drive**. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
 
 These traits form triads of *Bright* (empathy, protection, selflessness) and *Dark* (callousness, manipulation, self-entitlement) sides to a character’s personality.
 
@@ -42,6 +42,24 @@ Is your character more:
 3. **Selfless** or **Self-Entitled**?
 
 These traits will set a tone for role-playing your character and let others know what to expect.
+
+## Description
+
+**BBB: The Saint**. An everyday hero. Someone who is loved by all and who, in turn, spends their life in pursuit of making the world better for everyone else, no matter the stakes or the personal reward.
+
+**BBD: The Mercenary**. A fairly good-hearted person who will fight to protect the weak as long as they get something in return.
+
+**BDB: The Parent**. Someone who genuinely cares about and feels deeply for others, but is okay with deceiving and manipulating them, as long as it’s for their own well-being.
+
+**DBB: The Reluctant Hero**. A gritty, down-to-earth type who may appear gruff and cold, even rude on the outside, but who deep down, truly cares for their friends.
+
+**DDB: The Politician**. Someone who cares for their people, but has little regard for outsiders and is willing to do anything to make their country great, no matter the cost.
+
+**DBD: The Prison Guard**. A cold protector of the status quo, who cares only for the pay they receive, but who won’t tolerate fighting or exploitation amongst those under their charge.
+
+**BDD: The Spymaster**. An expert manipulator who can find and exploit people’s strengths and weaknesses, connecting with them emotionally only to use and abuse them.
+
+**DDD: The Villain**. An antisocial, cruel, and greedy person who only cares for their own personal gain and will betray, deceive, and steal to get what they want.
 
 As you adventure and further develop your character, these starting traits may well change.
 
