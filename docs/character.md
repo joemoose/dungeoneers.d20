@@ -37,6 +37,8 @@ For example, a character with all bright traits would be the traditional hero. C
 
 Is your character more:
 
+**Traits Table**
+
 | | *Bright* | | *Dark* |
 | :-: | :-: | :-: | :-: |
 | 1 | Empathetic | *or* | Callous |
