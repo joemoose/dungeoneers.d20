@@ -2,7 +2,7 @@
 
 ## Starting Gear
 
-Each archetype starts with adventuring gear, dungeons rations, 3d6 coins, and the following equipment:
+Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the following equipment:
 
 ### Bard 
 
