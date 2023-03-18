@@ -32,7 +32,7 @@ A new warrior starts with three combat maneuvers in their repertoire:
 
 #### Advanced Maneuvers
 
-Choose one of the following combat maneuvers to add to your repertoire each time you gain a new odd-numbered level.
+Choose one of the following combat maneuvers to add to your repertoire each time you gain a new **odd-numbered level**.
 
 - **CLEAVE**: Instead of making a normal attack, spend one grit to attack with the *blast* quality to attack all opponents in the zone (friend and foe) for half damage.
 - **COMMAND**: Instead of making an attack, spend one grit to allow an ally to make an attack that deals +d12 bonus damage.
@@ -72,19 +72,19 @@ At the beginning of each game session, add +1 to your LUCK.
 
 ### Talents
 
-You have a variety of unique abilities. When you first create your character, and every time you gain a new level, choose one talent from the following list or gain mastery of a talent you already know.
+You have a variety of unique abilities. When you first create your character and **every time you gain a new level**, choose one talent from the following list or gain **mastery** of a talent you already know.
 
 - **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double your damage after first reducing it by the armor rating if any.
 
-	**Mastery**: During combat, as part of your attack, you can make a DEX or WIL check against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
+	**Mastery**: During combat, as part of your attack, you can make a DEX *or* WIL check against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
 
 - **EXPERTISE**: You can re-roll an attribute check once per session.
 
-	**Mastery**: You can re-roll any dice roll.
+	**Mastery**: You can re-roll any dice roll check once per session.
 
 - **FAST**: You can make an attack and then disengage as a *fast* initiative round.
 
-	**Mastery**: You can move and attack in the same round as a *fast* initiative turn.
+	**Mastery**: You can move and attack in the same round as a *fast* initiative round.
 
 - **MANY POCKETS**: You gain an additional body inventory slot. 
 
@@ -121,13 +121,17 @@ Attribute scores lost for invoking your powers are healed as usual—STR, DEX, a
 **To invoke a sorcerous power**, sacrifice at least one ability score for essence and make a WIL check.
 
 - If the check succeeds, the power manifests as you intended.
-- The power does not materialize on a failure; you must make a corruption check to avoid the resulting sorcerous chaos in you.
+- The power does not materialize on a failure; you must then make a **corruption check** to avoid the resulting sorcerous chaos in you.
 
 The WIL check to invoke your power has an advantage if your invocation is performed over two rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
+!!! note
+
+	See the following **Corruption** section for details on making a corruption check.
+
 ### Powers
 
-When you create your character, pick one of the following powers. Select one additional power each time you gain a new odd-numbered level.
+When you create your character, pick one of the following powers. Select one additional power each time you gain a new **odd-numbered level**.
 
 - **ALTER**
 
@@ -228,7 +232,7 @@ As your corruption level increases, you may undergo increasingly unpleasant muta
 
 ### Corruption Checks 
 
-When directed by the GM to make a corruption check, roll either a STR or WIL check and **add your current corruption level** to the result:
+When directed by the GM to make a corruption check, roll either a STR *or* WIL check and **add your current corruption level** to the result:
 
 - If your attribute check succeeds, you hold chaos at bay (this time) and suffer no consequences.
 
@@ -255,22 +259,20 @@ Roll **d20 +your corruption level** and consult the following table.
 | 16 | Manifest one **Demonian Vitiation**. See the following table. |
 | 17 | Manifest one **Ophidian Vitiation**. See the following table. |
 | 18 | You can only enter a home when invited or cross running water if carried. |
-| 19 | A tiny famulus made of dirt (3 HP, d4 damage) follows you and whispers nonsense. |
+| 19 | A tiny famulus made of dirt (3 HP, d4 damage) follows you and whispers nonsense incessantly. |
 | 20 | Manifest one **Chthonian Vitiation**. See the following table. |
 | 21 | Manifest one **Demonian Vitiation**. See the following table. |
 | 22 | Manifest one **Ophidian Vitiation**. See the following table. |
 | 23 | You crave decayed flesh. Take a *Deprived* constraint if you don't consume carrion daily. |
 | 24 | Permanently reduce your body inventory slots by one as your body warps and shrivels. |
 | 25 | You spawn a doppelgänger of yourself that tries to kill you and your group. |
-| 26 | Manifest one **Vitiation** of whichever category you have the most. See the following tables. |
+| 26 | Manifest one **Vitiation** of whichever category you have the least. See the following tables. |
 | 27 | Manifest one **Vitiation** of whichever category you have the most. See the following tables. |
 | 28 | Manifest one **Chthonian Vitiation**, one **Demonian Vitiation**, and one **Ophidian Vitiation**. See the following tables. |
-| 29 | All animals loathe you, fleeing from you if they are prey and attacking you if predatory. |
+| 29 | All animals loathe you, fleeing from you if they’re prey and attacking you if predatory. |
 | 30+ | A portal to a non-Euclydian dimension devoid of light opens and consumes you. You are forever obliterated. Create a new character. Everyone near you immediately adds one to their corruption level and makes a corruption check. |
 
 #### Cacogenic Mutations
-
-temp
 
 | d100 | Mutation | Description | d100 | Mutation | Description |
 | :-: | :-- | :-- | :-: | :-- | :-- |
@@ -327,15 +329,7 @@ temp
 
 ### Vitiations
 
-As you become more corrupted, supernatural beings of primal chaos begin to notice and take an interest in you. When you manifest a vitiation as a corruption mutation, refer to the following tables for the effect.
-
-#### Transmogrification
-
-After suffering a **fifth vitiation** of the same type, you are forever transformed into a vile servant of chaos. You become an immediate threat to your adventuring party and a long-term threat to the world. The GM takes over your character—a new monster is born. It’s time to create a new adventurer.
-
-- **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
-- **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders in the region and beyond. Horns erupt from your forehead.
-- **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
+As you suffer increasingly more corruption, supernatural beings of primal chaos begin to notice and take an interest in you. When manifesting a “vitiation,” refer to the following tables for the effect.
 
 #### Chthonian
 
@@ -387,3 +381,11 @@ After suffering a **fifth vitiation** of the same type, you are forever transfor
 | 10 | You no longer need to make critical damage checks on DEX damage. |
 | 11 | You can perfectly regulate your heartbeat and temperature. |
 | 12 | You can extract, buy, and sell memories and dreams. |
+
+#### Transmogrification
+
+After suffering a **fifth vitiation** of the same category, you are forever transformed into a vile servant of chaos. You become an immediate threat to your adventuring party and a long-term threat to the world. The GM takes over your character—a monster is born. It’s time to create a new adventurer.
+
+- **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
+- **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders in the region and beyond.
+- **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
