@@ -16,7 +16,7 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Corruption adapted from *[Weird North](https://classless-kobolds.itch.io/weird-north)* by Jim Parkin.
 
-- Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/), published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71.
+- Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/), published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71. Used with permission.
 
 - Equipment adapted from *[Dungeon World](https://dungeon-world.com/)*, by Adam Koebel and Sage LaTorra.
 
@@ -24,7 +24,7 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Mementos adapted from “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)”, *Against the Wicked City*, 4 February 2018, by Joseph Manola.
 
-- Physical mutations adapted from [Vaults of Vaarn #1](https://graculusdroog.itch.io/vaults-of-vaarn) by Leo Hunt.
+- Physical mutations adapted from *[Vaults of Vaarn #1](https://graculusdroog.itch.io/vaults-of-vaarn)* by Leo Hunt.
 
 - “Roll high, under” and “trained rolls” mechanics adapted from *[Whitehack](https://whitehackrpg.wordpress.com)* by Christian Mehrstam.
 
