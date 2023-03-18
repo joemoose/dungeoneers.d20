@@ -43,7 +43,7 @@ For example, a character with all bright traits would be the traditional hero. C
 | 2 | Protective | *or* | Manipulative |
 | 3 | Selfless | *or* | Self-Entitled |
 
-These traits will set a tone for role-playing your character and let others know what to expect.
+These traits set a tone for role-playing your character and let others know what to expect.
 
 ### Trait Combination Descriptions
 
