@@ -35,8 +35,6 @@ These pairs form triads of *Bright* (empathy, protection, selflessness) and *Dar
 
 For example, a character with all bright traits would be the traditional hero. Conversely, a character with all dark traits is quite the villain. A mix is somewhere between those extremes.
 
-Is your character more:
-
 **Traits Table**
 
 | | *Bright* | | *Dark* |
