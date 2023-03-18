@@ -47,11 +47,11 @@ These traits set a tone for role-playing your character and let others know what
 
 ### Trait Combination Descriptions
 
-**BBB: The Hero**. An everyday saint. Someone who is loved by all and who, in turn, spends their life pursuing making the world better for everyone else, no matter the stakes or the personal reward.
+**BBB: The Hero**. An everyday saint. Someone who is loved by all and who, in turn, spends their life trying to make the world better for everyone, no matter the stakes or the personal reward.
 
 **BBD: The Mercenary**. A fairly good-hearted person who will fight to protect the weak as long as they get something in return.
 
-**BDB: The Judge**. Someone who genuinely cares about and feels deeply for others but is fine with deceiving and manipulating them, as long as it’s for their well-being.
+**BDB: The Parent**. Someone who genuinely cares about and feels deeply for others but is fine with deceiving and manipulating them, as long as it’s for the other’s well-being.
 
 **DBB: The Reluctant Hero**. A gritty, down-to-earth type who may appear gruff and cold, even rude on the outside, but who, deep down, truly cares for their friends.
 
@@ -61,7 +61,7 @@ These traits set a tone for role-playing your character and let others know what
 
 **BDD: The Intelligencer**. An expert manipulator who can find and exploit people’s strengths and weaknesses, connecting with them emotionally only to use them.
 
-**DDD: The Villain**. An antisocial, cruel, greedy person who only cares for personal gain and will betray, deceive, or steal to get what they want.
+**DDD: The Villain**. An antisocial, cruel, greedy person who cares only for personal gain and will betray, deceive, or steal to get what they want.
 
 As you adventure and further develop your character, these starting traits may well change.
 
