@@ -27,4 +27,3 @@ This game also has a luck system to encourage some crazy risk-taking. You are a 
 Enjoy!
 
 Zachary Taylor  
-@dice.camp@joemoose
