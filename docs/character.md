@@ -73,7 +73,7 @@ As you adventure and further develop your character, these starting traits may w
 
 ## Step 3: Name and Appearance
 
-Give your character a name and describe how they look. Choose one or two notable characteristics that people first notice.
+Give your character a name and describe how they look. Choose one or two physical characteristics that people first notice.
 
 If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
 
@@ -171,7 +171,7 @@ Is your character musclebound and insightful? Fortunate and charming? Nimble and
 
 Strength is a prime attribute for warriors. Dexterity serves stealth and thievery well. Casting spells requires willpower.
 
-Roll **2d6+4** four times, noting the results. Assign the lowest value to your LUCK and the other three as you prefer to STR, DEX, and WIL.
+Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to our STR, DEX, and WIL.
 
 ## Step 5: Hit Points
 
@@ -183,7 +183,7 @@ Roll **d4+2** to determine your starting hit points.
 
 Let’s see what equipment you’ve brought to your new adventuring life.
 
-Everyone starts with a heavy hooded cloak of their choice of color, adventuring gear, a dagger, and 3d6 coins.
+Everyone starts with a heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
 
 Choose **three** more items from the following list. You may choose an item more than once.
 
@@ -205,7 +205,7 @@ Choose **three** more items from the following list. You may choose an item more
 
 		See the [Equipment](equipment.md) section for more information on your gear.
 		
-Finally, roll d100 once or twice (your call) and consult the following table to select an odd memento or two you always carry with you. Who knows, they might come in handy one day, or you sell it for a few coins.
+Finally, roll d100 once or twice (your call) and consult the following table to select an odd memento or two you always carry with you. Who knows, they might come in handy one day, or you can sell it for a few coins.
 
 **Odd Items for Creative Problem-Solving**
 
