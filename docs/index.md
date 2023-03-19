@@ -1,8 +1,8 @@
 # Preface
 
 *Dungeoneers RPG by Zachary Taylor*  
-*Playtest Document v0.3*  
-*March 18, 2023*  
+*Playtest Document v0.4*  
+*March 19, 2023*  
 
 ---
 
