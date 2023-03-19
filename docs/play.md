@@ -10,7 +10,7 @@ Suppose the outcome of your character’s actions is not immediately apparent, o
 
 ## Safety
 
-It is important that everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, will never be in the game, and might be in the game but only in passing. 
+It is essential that everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, will never be in the game, and might be in the game but only in passing. 
 
 Everyone at the table should feel comfortable saying “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. 
 
@@ -46,7 +46,7 @@ The primary way to modify your attribute checks is through vantages: favorable s
 !!! note "Notes"
 
 	- If you have multiple advantages or disadvantages, you take only one—they do not stack.
-	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one d20 as normal.
+	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
 
 ### Trained Rolls
 

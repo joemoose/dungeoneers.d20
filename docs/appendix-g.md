@@ -135,7 +135,7 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **ALTER**
 
-	Make a declarative statement affecting one creature or object you can see. The statement is true for as many rounds as essence spent. The alteration cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
+	Make a declarative statement affecting one creature or object you can see. The statement is valid for as many rounds as essence spent. The alteration cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
 
 	The maximum size or weight of the creature or object to be altered is that of the sorcerer. For each additional essence, you can double the size or weight altered.  
 
@@ -153,7 +153,7 @@ When you create your character, pick **one** of the following powers. Select one
 	
 	!!! info "Example"
 	
-		Zathar the Sorcerer invokes a flying carpet, which he uses to make an escape. He sacrifices three essences (the rug is about his size and can *magically fly* for *2 rounds*).
+		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three essences (the rug is about his size and can *magically fly* for *2 rounds*).
 
 - **HARM**
 
@@ -169,7 +169,7 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **WARD**
 
-	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as essence spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack. The maximum size of the target warded is that of the sorcerer. For each additional essence expend the size can be doubled,
+	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as essence spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack. The maximum size of the target warded is that of the sorcerer. For each additional essence expended, the size can be doubled,
 
 ### Dark Magic
 

@@ -33,7 +33,7 @@ Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the 
 ### Fighter 
 
 - dice set
-- glaive (d10, *two handed*, *reach*) 
+- glaive (d10, *two-handed*, *reach*) 
 - longsword (d8/+d8) 
 - quiver of arrows
 - shield (+1 *armor*) 

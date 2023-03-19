@@ -14,7 +14,7 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Corruption adapted from *[Weird North](https://classless-kobolds.itch.io/weird-north)* by Jim Parkin.
 
-- Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/), published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71. Used with permission.
+- Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/), published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71, and used with permission.
 
 - Equipment adapted from *[Dungeon World](https://dungeon-world.com/)*, by Adam Koebel and Sage LaTorra.
 

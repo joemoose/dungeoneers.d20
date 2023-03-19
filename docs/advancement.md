@@ -73,7 +73,7 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 | 2 | **Minor misunderstanding** with the local watch that you can’t smooth over. You spend the next d6 days locked up. You are all now seen as local troublemakers. |
 | 3 | One of you **insulted a local person of rank**. They will hold a grudge unless you all publicly apologize and humiliate yourself before them. |
 | 4 | **Hangover from hell**. Take a *Hungover* constraint. All checks have a disadvantage until a long rest. |
-| 5 | **Gambling binge**. Your party owes a collective debt equal half the amount spent carousing to someone you'd rather not own money to. |
+| 5 | **Gambling binge**. Your party owes a collective debt equal to half the amount spent carousing to someone you'd rather not own money to. |
 | 6 | **You've ruined the local economy!** Your excess spending means that all prices double until the next session. |
 | 7 | While in a **drunken stupor** and a spot of trouble, you sought refuge in a temple. The acolytes cared for you but have begun hounding you to perform a charitable act as repayment. |
 | 8 | Due to **a lost game of axe throwing** and a few inflammatory remarks at the tavern, you make bitter enemies with a local rival adventuring party. |

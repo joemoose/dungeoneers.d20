@@ -53,7 +53,7 @@ After determining who’s rounds will be fast or slow, the order for resolving a
 
 !!! note
 
-	A new initiative order is determined at the beginning of every round of combat. If you'd like to use a simpler initiative system, see the [Appendix](appendix-d.md).
+	A new initiative order is determined at the beginning of every round of combat. If you'd like to use a more straightforward initiative system, see the [Appendix](appendix-d.md).
 
 ## Attacks
 
@@ -81,7 +81,7 @@ When an attack is **impaired**, such as firing at an opponent behind cover or fi
 
 ### Dual Wielder
 
-When attacking with two weapons, one in your main hand and one offhand, the offhand weapon functions as bonus damage. Roll damage for both and choose the best result.
+The offhand weapon functions as bonus damage when attacking with two weapons, one in your main hand and one offhand. Roll damage for both and choose the best result.
 
 ### Multiple Attackers
 

@@ -112,7 +112,7 @@ Armor reduces the damage you suffer from an attack. A player character can have 
 
 ## Weapons
 
-Most weapons have characteristics that affect their use. You can use any weapon effectively you see fit.
+Most weapons have characteristics that affect their use. You can use any weapon effectively as you see fit.
 
 - *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
 - *Long-range*: This weapon can attack a target up to three zones away.
