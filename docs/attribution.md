@@ -10,8 +10,6 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Archetypes starting gear adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
 
-- Best practices adapted from *[Blades in the Dark](https://bladesinthedark.com/basics)* by John Harper.
-
 - Carousing adapted from *[Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide)* by Adam Hensley and [“Party like it's 999”](http://jrients.blogspot.com/2008/12/party-like-its-999.html?m=1), *Jeff’s Gameblog*, 19 December 2008, by Jeff Rients.
 
 - Corruption adapted from *[Weird North](https://classless-kobolds.itch.io/weird-north)* by Jim Parkin.
