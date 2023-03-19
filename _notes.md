@@ -6,20 +6,18 @@
 
 ---
 
-switch corruption to roll under
+~~switch corruption to roll under~~
 
-attribute check STR or WIL + corruption level
+~~attribute check STR or WIL + corruption level~~
 
-critical success (always succeeds, -1 corruption)
-critical failure (always fails, +1 corruption)
+~~critical success (always succeeds, -1 corruption)~~
+~~critical failure (always fails, +1 corruption)~~
 
-add difference to mutation roll
+~~add difference to mutation roll~~
 
-add some blanks to bottom of mutation table
+~~add some blanks to bottom of mutation table~~
 
-look at 1000 mutations as possible alternate mutaiton effects
-
-==check for plagirism: gonnes--find the original source idea==
+~~look at 1000 mutations as possible alternate mutaiton effect~~
 
 
 

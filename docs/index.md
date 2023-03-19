@@ -1,12 +1,19 @@
 # Preface
 
-*Dungeoneers RPG by Zachary Taylor*  
+<center>
+*DUNGEONEERS*  
+<br/>
+*An Adventure Game for Errant Rogues*  
+*by Zachary Taylor*  
+<br/>
+*–Player’s Guide–*  
+<br/>
 *Playtest Document v0.4*  
 *March 19, 2023*  
-
+</center>
 ---
 
-Dungeoneers RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
+DUNGEONEERS is a minimalist rules system for playing old-school tabletop fantasy roleplaying games.
 
 ---
 
