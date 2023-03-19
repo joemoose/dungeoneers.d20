@@ -32,6 +32,15 @@
 | A bottle of common wine | 5 |
 | A bottle of good wine | 15 |
 
+### Poisons
+
+| Item | Notes | Coins |
+| :--- | :---- | ----: |
+| Bloodweed | touch, afflicted has *disadvantage* on their damage rolls | 24 |
+| Goldenroot | consumed, afflicted treats next creature they see as a trusted ally, until proven otherwise | 40 |
+| Oil of Tagit | consumed, afflicted falls into a light sleep | 30 |
+| Serpent's Venom | touch, afflicted has *advantage* on damage suffered | 30 |
+
 ### Services
 
 | Item | Coins |
@@ -48,17 +57,17 @@
 | Contract a man-at-arms for a day | 8 |
 | Contract a knight for a day | 20 |
 | Care from a healer | 5 |
-| A custom item from a blacksmith | Base Item + 50 |
+| A custom item from a blacksmith | Base Item + 30% |
 | Escort for a day through a safe place | 20 |
 | Escort for a day through a dangerous place | 60 |
 | A month's prayers for the departed | 1 |
-| Repairs to a mundane item | 25% of the item's cost |
+| Repairs to a mundane item | 30% of the item's cost |
 
 ### Transport
 
 | Item | Load | Coins |
 | :--- | :--: | ----: |
-| Cart and Donkey, to carry your burdens | 12 | 50 |
+| Cart and donkey | 12 | 50 |
 | Horse | 8 | 100 |
 | Warhorse | 10 | 1,000 |
 | Wagon | 20 | 150 |

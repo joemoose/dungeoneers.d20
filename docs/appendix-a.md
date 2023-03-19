@@ -7,7 +7,7 @@
 - **Ask lots of questions**. Gather information. Talk to NPCs. Make notes. Draw maps.
 - **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally. Always gain an advantage. Your character sheet doesn’t limit you.
 - **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away. 
-- **Play to win, but savor a loss**. Leave your mark on the world. Go down fighting.
+- **Play to win, but savor a loss**. Leave your mark on the world. Create a memorable story.
 
 	!!! quote
 
@@ -17,22 +17,22 @@
 
 Roll **d20** equal to or less than the applicable attribute:
 
-- **STRENGTH (STR)**: Tests of brawn and endurance. Resisting physical harm that can’t be dodged.
-- **DEXTERITY (DEX)**: Tests of agility and finesse. Resisting physical harm that can be dodged.
-- **WILLPOWER (WIL)**: Tests of charisma and determination. Resisting mental harm, illusions, or charming effects.
+- **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
+- **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
+- **WILLPOWER (WIL)**: Tests of charisma and determination; esisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn points to modify other attribute checks.
 
 **Advantage & Disadvantage**
 
-- When making a check from a strong or weakened position, roll **two d20**. Take the best or worst result, respectively.
+- When making a check from a strong or weakened position, roll **two d20**. Take the **best** or **worst** result, respectively.
 
 **Critical Success**
 
-- Rolling the exact attribute score, a better-than-expected outcome. LUCK +1.
+- Rolling the **exact** attribute score, a better-than-expected outcome. LUCK +1.
 
 **Critical Failure**
 
-- Rolling a 20, a worse-than-expected outcome. LUCK -1.
+- Rolling a **20**, a worse-than-expected outcome. LUCK -1.
 
 ## Combat
 
@@ -40,7 +40,7 @@ On your turn, you can take **two** actions: move, attack, cast a spell, etc.
 
 **Initiative**
 
-Declare actions before rolling dice. A *fast* round is a single action. A *slow* round is two actions.
+Declare actions before rolling dice. A **fast** round is a single action. A **slow** round is two actions.
 
 1. Resolve all fast rounds before slow rounds.
 2. If players and opponents both take fast rounds, the player must make a DEX *or* WIL check to go first.
@@ -48,7 +48,7 @@ Declare actions before rolling dice. A *fast* round is a single action. A *slow*
 
 **Attacks**
 
-Attacks always hit. Roll weapon damage and deal that much damage to an enemy, minus armor rating.
+**Attacks always hit**. Roll weapon damage and deal that much damage to an enemy, minus armor rating.
 
 - **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
@@ -76,7 +76,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
   
 ## Inventory
 
-- Maximum of 12 inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
+- Maximum of **12** inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
 - Items in the backpack require an action to retrieve during combat.
 - Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 5 in a slot.
 
