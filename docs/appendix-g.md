@@ -80,7 +80,7 @@ You have a variety of unique abilities. When you first create your character and
 
 - **EXPERTISE**: You can re-roll an attribute check once per session.
 
-	**Mastery**: You can re-roll any dice roll check once per session.
+	**Mastery**: You can re-roll any dice roll once per session.
 
 - **FAST**: You can make an attack and then disengage as a *fast* initiative round.
 
@@ -106,7 +106,7 @@ A sorcerer brings substantial capabilities to an adventuring party, but a sorcer
 
 ### Sorcery
 
-Anyone can cast magic from spell tablets, scrolls, and relics. Sorcerers, however, possess an innate magical power. Whether it arises from exotic bloodlines, otherworldly influence, or exposure to unknown corrupting forces, no one chooses sorcery; the power chooses the sorcerer.
+Anyone can cast magic from spell tablets and relics. Sorcerers, however, possess an innate magical power. Whether it arises from exotic bloodlines, otherworldly influence, or exposure to unknown corrupting forces, no one chooses sorcery; the power chooses the sorcerer.
 
 You can alter the world through sheer force of will and your body’s consumption. Reality is yours to command.
 
@@ -118,10 +118,10 @@ Attribute scores lost for invoking your powers are healed as usual—STR, DEX, a
 
 #### Invoking Powers
 
-**To invoke a sorcerous power**, sacrifice at least one ability score for essence and make a WIL check.
+**To invoke a sorcerous power**, take two actions, sacrifice at least one point of an attribute score for essence, and make a WIL check.
 
 - If the check succeeds, the power manifests as you intended.
-- The power does not materialize on a failure; you must then make a **corruption check** to avoid the resulting sorcerous chaos in you.
+- The power does not materialize on a failure; you must then make a **corruption check** to avoid the resulting sorcerous backlash within you.
 
 The WIL check to invoke your power has an advantage if your invocation is performed over two rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
@@ -131,11 +131,11 @@ The WIL check to invoke your power has an advantage if your invocation is perfor
 
 ### Powers
 
-When you create your character, pick one of the following powers. Select one additional power each time you gain a new **odd-numbered level**.
+When you create your character, pick **one** of the following powers. Select one additional power each time you gain a new **odd-numbered level**.
 
 - **ALTER**
 
-	Make a declarative statement affecting one creature or object you can see. The statement is true for as many combat rounds as essence spent. The alteration cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
+	Make a declarative statement affecting one creature or object you can see. The statement is true for as many rounds as essence spent. The alteration cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
 
 	The maximum size or weight of the creature or object to be altered is that of the sorcerer. For each additional essence, you can double the size or weight altered.  
 
@@ -147,17 +147,17 @@ When you create your character, pick one of the following powers. Select one add
 
 - **CREATE**
 
-	Bring forth a creation. The creature or object created exists for as many combat rounds equal to *twice* the essence spent. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
+	Bring forth a creation. The creature or object created exists for as many rounds equal to *twice* the essence spent. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
 
 	More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks, etc.), but these objects do not deal magical damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
 	
 	!!! info "Example"
 	
-		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three essences (the rug is about his size and can *magically fly* for *2 rounds*).
+		Zathar the Sorcerer invokes a flying carpet, which he uses to make an escape. He sacrifices three essences (the rug is about his size and can *magically fly* for *2 rounds*).
 
 - **HARM**
 
-	Deal d6 damage per essence spent to one target that you can see. Creatures and magical objects can make an attribute check to avoid or mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
+	Deal d6 damage per essence spent to one target that you can see. Creatures and magical objects can make an attribute check to mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
 	
 	!!! info "Example"
 		
@@ -165,17 +165,17 @@ When you create your character, pick one of the following powers. Select one add
 
 - **SOUL SIGHT**
 
-	You can see as many creatures’ souls as essence spent if you concentrate exclusively on observing and do not move. Soul sight allows you to sense the location of invisible creatures. You can also immediately discern if a person is possessed, undead, protected by the gods, lying, a spellcaster, or in any other meta-physiological state.
+	You can see as many creatures’ souls as essence spent if you concentrate exclusively on observing and do not move. Soul sight allows you to sense the location of invisible creatures. You can also immediately discern whether a person is possessed, undead, protected by the gods, lying, a spellcaster, or in any other meta-physiological state.
 
 - **WARD**
 
-	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as essence spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack.
+	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as essence spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack. The maximum size of the target warded is that of the sorcerer. For each additional essence expend the size can be doubled,
 
 ### Dark Magic
 
 The essence required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their corruption level immediately by 1. A corruption check is required regardless of whether the invocation succeeds.
 
-The process is not as efficient as draining essence from the sorcerer’s body; two attribute points must be sacrificed from the host for one essence. The essence drained from the host can be combined with that from the sorcerer.
+Dark magic is not as efficient as draining essence from the sorcerer’s own body; two attribute points must be sacrificed from the host for one essence. The essence drained from the host can be combined with that from the sorcerer.
 
 If essence is drained from an unwilling victim, the victim must be restrained and, assuming they are conscious, can make an attribute check to resist the loss.
 
