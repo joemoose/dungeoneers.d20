@@ -41,10 +41,7 @@ Conversely, rolling a **20** is a **critical failure**, and the outcome is worse
 
 ### Vantages
 
-The primary way to modify your attribute checks is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. 
-
-- For instance, if you are exceptionally well prepared or equipped for a task, the GM may allow you to roll your attribute check with an **advantage**. Roll **two d20s** and take the **best** result.
-- Conversely, if you are in a dire position or ill-prepared for your task, lacking proper tools, etc., the GM may require you to roll with a **disadvantage**. Roll **two d20s** and take the **worst** result.
+The primary way to modify your attribute checks is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **two d20s** and take the **best** or **worst** result, respectively.
 
 !!! note "Notes"
 
