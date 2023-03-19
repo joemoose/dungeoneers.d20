@@ -78,9 +78,9 @@ Consumable items have a specified number of **uses** to track resource consumpti
 
 After all the uses are marked off, the item is depleted and removed from your inventory.
 
-Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could break or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **1 or 2**, mark a use.
+Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could damage or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **1 or 2**, mark a use.
  
-Usage can be repaired on some gear, such as weapons and armor, for 10% of the original cost per point of use removed. 
+Usage can be repaired on most gear, such as weapons and armor, for 10% of the original cost per point of use removed. 
 
 ## Armor
 
@@ -88,13 +88,14 @@ Armor reduces the damage you suffer from an attack. A player character can have 
 
 **Notes**:
 
-- **+1 armor rating** items can be equipped along with a base armor: cloth, light, medium, heavy, or massive.
+- ***n* armor rating** items are base armor. Only a single type of base armor can be equipped.
+- **+1 armor rating** items can be equipped along with base armor.
 - **Helmets** provide an advantage on STR checks to avoid critical damage.
-- **Shields** have other uses besides a +1 armor rating:
+- **Shields** have other uses besides their +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
-- **Extreme Armor** includes the benefit of a helmet (advantage on STR checks to avoid ritical damage) as part of the base armor.
+- **Extreme Armor** includes the benefit of a helmet (advantage on STR checks to avoid critical damage) as part of the base armor.
 
 **Armor List**
 
@@ -116,8 +117,8 @@ Most weapons have characteristics that affect their use. You can use any weapon 
 - *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
 - *Long-range*: This weapon can attack a target up to three zones away.
 - *Short-range*: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- *Reach*: Can attack enemies from behind a shield wall. Does enhanced damage if mounted and charging or set to receive a charge. 
-- *STR*: Using the weapon requires the minimum STR score. If STR is less than the requirement, the damage is Impaired.
+- *Reach*: Can attack opponent several feet away from a second rank or while behind a protective shield wall. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent. 
+- *STR*: Using the weapon requires the minimum STR score. If your STR is less than the requirement, the damage is Impaired.
 - *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
 - *Two-handed*: This weapon takes up both hand slots.
 - *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both, take the best).
@@ -159,12 +160,13 @@ Most gear has characteristics that affect their use. Use your gear to solve chal
 
 | Item | Description | Notes | Coins |
 | :-- | :-- | :-- | --: |
-| Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, poles, spikes, ropes, lockpicks, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
+| Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
 | Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 Uses, Slow, Bulky | 100 |
-| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds, mark off a use, restore all HP, and make a WIL check to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
+| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL check to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
 | Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](advancement.md) section for information on carousing. | 1 Use, Bulky | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 3 |
+| Waterskin | If traveling in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s included with your rations. | 3 Uses | 3 |
 
 !!! note
 
@@ -192,7 +194,7 @@ Crates contain a specific type of expedition equipment as follows:
 
 ### Cost
 
-A new crate costs nine times that of the item it contains. For example, a *gear crate* costs 180 coins (9 x 20 coins for one Adventuring Gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 200 coins.
+A new crate costs ten times that of the item it contains. For example, a *gear crate* costs 200 coins (10 x 20 coins for one Adventuring Gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 200 coins.
 
 ### Uses
 

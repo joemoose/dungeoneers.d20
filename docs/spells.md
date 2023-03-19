@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Spells are living, sentient spirits bound within rune-etched obsidian or lead tablets. Spells are rare and found in forgotten places, such as dungeons, ancient tombs, or dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
+Spells are living, sentient spirits bound within rune-etched obsidian or metal tablets. Spell tablets are rare and found in forgotten places, such as dungeons, ancient tombs, or dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
 
 ## Essence
 
-A spell tablet has three units of arcane energy or **essence** to power the spell it contains. Essence is volatile and can be depleted from a tablet by casting its spell. The more essence you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s essence. Once all three essence are depleted from a tablet, the spell can no longer be cast.
+A tablet has three units of arcane energy or **essence** to power the spell it contains. Essence is volatile and can be depleted from a tablet by casting its spell. The more essence you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s essence. Once all three essence are depleted from a tablet, the spell can no longer be cast.
 
 ## Casting a Spell
 
@@ -14,7 +14,7 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 1. Declare how much essence you’ll use when casting the spell, up to the maximum number remaining in the tablet.
 
-2. Roll as many **d6** equal to the number of essence used. Use up one essence in the tablet for each **1 or 2** rolled. 
+2. Roll as many **d6** equal to the number of essence used. Mark off one essence from the tablet for each **1 or 2** rolled. 
 
 3. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
 
@@ -24,7 +24,7 @@ Once all three essence in a tablet are depleted, its spell can no longer be cast
 
 ## Miscasting a Spell
 
-Whenever one or more **1s** are rolled when casting a spell, the spell parasitically drains the caster’s focus and mental energies. For each 1 rolled, the caster takes **d6** damage to WIL and must roll a WIL check. If failed, the caster takes a *Dazed* constraint.
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your caster’s focus and mental energies. For each 1 rolled, in addition to using up an essence, the caster takes **d6** damage to their WIL and must roll a WIL check. If failed, the caster takes a *Dazed* constraint.
 
 The spell still manifests, though at a cost to the caster.
 
