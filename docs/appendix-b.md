@@ -75,3 +75,7 @@
 | Passage on a safe route | - | 1 |
 | Passage on a tough route | - | 10 |
 | Passage on a dangerous route | - | 100 |
+
+!!! note
+
+	See the [Appendix](appendix-h) for details on mounts.
