@@ -13,14 +13,11 @@
 ~~critical success (always succeeds, -1 corruption)~~
 ~~critical failure (always fails, +1 corruption)~~
 
-~~add difference to mutation roll~~
+~~add the difference to mutation roll~~
 
-~~add some blanks to bottom of mutation table~~
+~~add some blanks to the bottom of the mutation table~~
 
-~~look at 1000 mutations as possible alternate mutaiton effect~~
-
-
-
+~~look at 1000 mutations as possible alternate mutation effect~~
 
 ~~roll high under~~ 
 
@@ -46,13 +43,13 @@ When your character is actively looking for something, they find it. If time is 
 GROUP TEST
 If half the characters succeed at their attribute check in a group effort, the whole group does.
 
-During their turn, characters can take two actions.
+~~During their turn, characters can take two actions.~~
 
-Attacking 
+~~Attacking~~ 
 
-Defending
+~~Defending~~
 
-Moving
+~~Moving~~
 
 TURNS
 
@@ -92,14 +89,14 @@ Once the Doom die is depleted, the character is considered Doomed. All their att
 
 ---
 
-Example Gambits
+~~Example Gambits~~
 
-Break a weapon
+~~Break a weapon~~
 
-Disarm an opponent
+~~Disarm an opponent~~
 
-Entangle
+~~Entangle~~
 
-Pin down
+~~Pin down~~
 
-Push 
+~~Push~~ 
