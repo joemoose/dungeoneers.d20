@@ -1,23 +1,45 @@
 Mounts
 -
 
-horse, control = attribute check
+Morale
 
-war horse, advantage on control attribute checks
+horse spooked, control = attribute check
 
-goat
+- when 1st encountering ferocious beats, anytime takes damage, the rider is slain or crit damage
+- war horse: only when 0 HP
 
-small - halfling 4
+- no rider: horse’s morale check (WIL)
+- rider: rider’s attribute check
+- war horse, advantage on control attribute checks
 
-medium - dwarf 6
+Loads
 
-large - human 10
+- small - halfling 4
+- medium - dwarf 6
+- large - human 10
+- huge 18
+- double load is no rider
 
-huge 18
+Conflict
 
-double load is no rider
+- rider, combat advantge vs afoot
+- no disengage check required vs. non-mounted opponents
+- charge: double-damage (appear reducing for armor)
 
-combat advantge vs afoot
+Examples
+
+Stats, cost
+
+- horse
+- warhorse
+- wargoat
+- elephant
+- mule
+- pony
+
+carts, wagons
+
+Speed
 
 
 
