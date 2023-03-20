@@ -1,10 +1,24 @@
-# Dungeoneers-RPG
+<center>
+*DUNGEONEERS*  
+<br/>
+*An Adventure Game for Errant Rogues*  
+*by Zachary Taylor*  
+<br/>
+*–Player’s Guide–*  
+<br/>
+*Playtest Document v0.4*  
+*March 19, 2023*  
+</center>
 
-Dungeoneers RPG is a minimalist rules system for playing old-school tabletop roleplaying games.
+---
 
-## Rule Summary
+Dungeoneers RPG is a minimalist rules system for playing old-school tabletop fantasy roleplaying games.
 
-### Attribute Checks
+---
+
+# Rule Summary
+
+## Attribute Checks
 
 Roll **d20** equal to or less than the applicable attribute:
 
@@ -25,7 +39,7 @@ Roll **d20** equal to or less than the applicable attribute:
 
 - Rolling a 20, a worse-than-expected outcome. LUCK -1.
 
-### Combat
+## Combat
 
 On your turn, you can take **two** actions: move, attack, cast a spell, etc.
 
@@ -51,13 +65,13 @@ Attacks always hit. Roll weapon damage and deal that much damage to an enemy, mi
 - After taking STR damage, make a STR check. On failure, take a *Wounded* constraint and become incapacitated.
 - If STR is reduced to zero, you die.   
 
-### Rest & Healing
+## Rest & Healing
 
 - **Short**: Takes a turn. Restore all HP.
 - **Long**: Takes a watch. Restore 1 STR, DEX, and WIL.
 - **Full**: Takes a week. Restore all STR, DEX, and WIL. Clears *Wounded* and other long-term constraints.
 
-### Spells
+## Spells
 
 Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each essence invested:
 
@@ -65,7 +79,7 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 - For every **1 rolled**, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.
 - The spell effect is determined by the number of dice rolled and the sum.
   
-### Inventory
+## Inventory
 
 - Maximum of 12 inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
 - Items in the backpack require an action to retrieve during combat.
