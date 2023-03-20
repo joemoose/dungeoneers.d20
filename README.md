@@ -16,7 +16,7 @@ Dungeoneers RPG is a minimalist rules system for playing old-school tabletop fan
 
 ---
 
-# Rule Summary
+# Rules Summary
 
 ## Attribute Checks
 
