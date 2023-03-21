@@ -2,6 +2,14 @@ GM Guide Outline
 
 # Braindump
 
+telegraphing danger and consequence
+
+narrative, rather than reducing sets of numbers
+
+a number (HP for example)is just a tool to ratchet up tension and consequence
+
+clocks, foreshadowing
+
 assumption of experienced GM
 
 new skill as OSR GM:
