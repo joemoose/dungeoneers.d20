@@ -94,7 +94,7 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 | 6 | The **local blacksmith**, due to your influx of coins, has been able to fashion an exquisite weapon that he's willing to sell for the normal price.
 | 7 | The **local temple acolytes** see you as protectors of the settlement. They offer you a *blessing* before your next adventure. |
 | 8 | **Impressed by your ability to drink** for days and keep standing, a local hireling of high repute will join you on your next adventure if you wish. |
-| 9 | **Outstanding Investment!** Invest all your spare cash in some smooth-tongued merchant's scheme. It turns out it's real! It returns 2d4 x 10% returns for the next next d3+1 sessions. |
+| 9 | **Outstanding Investment!** Invest all your spare cash in some smooth-tongued merchant's scheme. It turns out it's real! It returns 3d4 x 10% coins for the next next d3+1 sessions. |
 | 10 | **Local celebrity**. Your ability to revel with the common folk has led them to see you as one of their own, and they are thankful to have you around. You receive free room and board in this settlement. |
 | 11 | **Hot Gossip**. Your time spent carousing let you in on some juicy rumors. You learn one major secret about a person of note. |
 | 12+ | **Heroic Carousing!** It was a night of truly epic debauchery. Roll d6 to see how your legend grew. (1) Re-roll HP for your current level; swap the new result if higher, or increase by 1 if lower. (2) Gain 1 STR. (3) Gain 1 DEX. (4) Gain 1 WIL. (5) Gain 1 LUCK. (6) Gain a random spell tablet. |
