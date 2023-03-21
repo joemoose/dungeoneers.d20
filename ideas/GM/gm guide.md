@@ -2,13 +2,28 @@ GM Guide Outline
 
 # Braindump
 
+assumption of experienced GM
+
+new skill as OSR GM:
+
+- how OSR GM is different
+- best practices
+- links to existing “How to GM” resources
+
+- narrative first, play to find out
+- minimal prep
+- DW fronts
+- tables
+- improv
+- rulings
+- complications/hard moves/soft moves
+- when to roll, when not
+
 converting OSR monsters
 
-when to roll, when not
 
-complications/hard moves/soft moves
 
-overloaded
+overloaded tables
 
 - encounters table
 - reactions table
