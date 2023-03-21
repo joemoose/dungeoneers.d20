@@ -240,7 +240,7 @@ When directed by the GM to make a corruption check, roll either a STR *or* WIL c
 
 - If you fail, consult the following table for a mutation.
 
-	On a **critical failure** (rolling a 20), immediately **increase** your corruption level by one.
+	On a **critical failure** (rolling a 20), immediately **increase** your corruption level by one before consulting the mutations table. 
 
 Regardless of success or failure on your check, **increase** your corruption level by one afterward.
 
