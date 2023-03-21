@@ -49,7 +49,7 @@ You gain the following warrior abilities at level 2.
 
 **TROPHY**
 
-After you defeat a creature in combat by delivering the final blow, you can take a trophy from their remains. A trophy takes up one inventory slot.
+After you defeat a creature in combat by personally delivering the final blow, you can take a trophy from their remains. A trophy takes up one inventory slot.
 
 When you encounter a creature of which you carry a trophy, spend one grit to:
 
@@ -240,7 +240,7 @@ When directed by the GM to make a corruption check, roll either a STR *or* WIL c
 
 - If you fail, consult the following table for a mutation.
 
-	On a **critical failure** (rolling a 20), immediately **increase** your corruption level by one.
+	On a **critical failure** (rolling a 20), immediately **increase** your corruption level by one before consulting the mutations table. 
 
 Regardless of success or failure on your check, **increase** your corruption level by one afterward.
 

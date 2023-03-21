@@ -39,7 +39,7 @@
 | Bloodweed | touch, afflicted has *disadvantage* on their damage rolls | 24 |
 | Goldenroot | consumed, afflicted treats next creature they see as a trusted ally—until proven otherwise | 40 |
 | Oil of Tagit | consumed, afflicted falls into a light sleep | 30 |
-| Serpent's Venom | touch, afflicted has *advantage* on damage suffered | 30 |
+| Serpent's Venom | touch, afflicted takes *advantage* on any damage suffered | 30 |
 
 ### Services
 
@@ -78,4 +78,4 @@
 
 !!! note
 
-	See the [Appendix](appendix-h) for details on mounts.
+	See the [Appendix](appendix-h.md) for details on mounts.
