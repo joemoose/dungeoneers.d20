@@ -49,7 +49,7 @@ You gain the following warrior abilities at level 2.
 
 **TROPHY**
 
-After you defeat a creature in combat by delivering the final blow, you can take a trophy from their remains. A trophy takes up one inventory slot.
+After you defeat a creature in combat by personally delivering the final blow, you can take a trophy from their remains. A trophy takes up one inventory slot.
 
 When you encounter a creature of which you carry a trophy, spend one grit to:
 
