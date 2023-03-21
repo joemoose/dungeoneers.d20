@@ -1,28 +1,24 @@
-# Creating Complications
-
-Adapted from *[Danger Cards](https://www.drivethrurpg.com/product/152383/Danger-Cards)* by Levi Kornelsen; used with permission.
-
-## Introduction
+## Creating Complications
 
 When a character describes an action that is dangerous with an uncertain outcome, you, as GM, describe the possible complications that could arise before the dice are rolled. Your complications increase the stakes and add interesting twists to the narrative.
 
 The character may rethink their approach, and that’s certainly okay, even encouraged if their action is fraught with disadvantages or deadly complications. Their new descriptions and actions will likely change the number and content of your complications.
 
-## Assigning Complications
+### Assigning Complications
 
 Assign **two to four** complications for any action requiring a dice roll. The more dramatic, epic, or just plain dangerous the situation, the more complications you should add.
 
 Two complications can often be avoided, while four complications generally result in at least one repercussion the party will have to deal with.
 
-### Doubling Up
+#### Doubling Up
 
 A complication can undoubtedly be assigned more than once. Trying to trip an elephant presents multiple opportunities to be trampled.
 
-### Outcomes 
+#### Outcomes 
 
 Damage isn’t the only possible outcome of your complications. Many complications could result in a *constraint* added to a player’s inventory, like *fatigue* or *fear*. Using up their equipment is also a go-to. Introduce yet more and different ongoing complications. Split the party. The possibilities are many. Make your complications varied, dramatic, and engaging. Details and examples are in the following sections. 
 
-## Avoiding Complications
+### Avoiding Complications
 
 After the character declares their action, accepts your possible complications, and rolls their attribute check, the closer they roll to their attribute score, without going over, the more of your complications they avoid. This approach is called the “**roll under, high**” dice mechanic.
 
@@ -34,23 +30,21 @@ In any outcome, the **player** who rolls the check chooses which complications a
 - If they **fail** their check, they still avoid **one** of the complications.
 - However, if they **roll a 20**, a critical failure, they **suffer all** the complications.
 
-!!! note “Example”
+> For example, let’s assume a player is making a check against a 14 attribute score, and you’ve presented four complications to make their life interesting.
+> 	
+> - If they roll a 14, they avoid all four complications. Huzzah!
+> - They can avoid three complications if they roll a 12 or a 13.
+> - Rolling 11 or less removes two of the four.
+> - Conversely, if they fail the roll with a 15 or higher, they remove only one complication and suffer the remaining three.
+> - Of course, if they roll a 20, they suffer all four. Zounds!
 
-	For example, let’s assume a player is making a check against a 14 attribute score, and you’ve presented four complications to make their life interesting.
-	
-	- If they roll a 14, they avoid all four complications. Huzzah!
-	- They can avoid three complications if they roll a 12 or a 13.
-	- Rolling 11 or less removes two of the four.
-	- Conversely, if they fail the roll with a 15 or higher, they remove only one complication and suffer the remaining three.
-	- Of course, if they roll a 20, they suffer all four. Zounds!
-
-## Complications
+### Complications
 
 The following table lists and describes possible complications you can use in describing outcomes for your player’s actions. The list starts with the most basic complication—failure (they don’t achieve their result)—and increasingly layers on more danger or harmful consequences. The descriptions are written from the point of view of the player.
 
 When presenting the possible complications, use the keywords: “you might forfeit something, break something, or be injured.” Elaborate only if the players ask questions.
 
-###  Basic 
+#### Basic 
 
 | Complication | Description |
 | :-- | :-- | 
@@ -59,7 +53,7 @@ When presenting the possible complications, use the keywords: “you might forfe
 | Expense | You use up resources, such as ammunition, supplies, materials, or any other consumable asset. |
 | Forfeit | You miss an opportunity or fail to notice something besides your main goal. |
 
-### More Dangerous
+#### More Dangerous
 
 | Complication | Description |
 | :-- | :-- | 
@@ -72,7 +66,7 @@ When presenting the possible complications, use the keywords: “you might forfe
 | Relocation | You end up somewhere different than you intended, which could be a problem.
 | Snares | You become entangled in something you must deal with, and your options are limited until you do. |
 
-### Ongoing
+#### Ongoing
 
 | Complication | Description |
 | :-- | :-- | 
@@ -85,11 +79,11 @@ When presenting the possible complications, use the keywords: “you might forfe
 | Injury | You significantly damage your body, mind, or reputation. |
 | Weariness | You grow tired enough to require rest before taking other actions. |
 
-## Examples
+### Examples
 
 Here are several examples of assigning complications to spark your creativity.
 
-### Swing from a Chandelier
+#### Swing from a Chandelier
 
 **Character**: “I swing from a chandelier over the heads of the tavern brawl.”
 
@@ -99,7 +93,7 @@ Here are several examples of assigning complications to spark your creativity.
 - **Forfeit**: “Aww, you didn’t notice that coin purse on the table.“
 - **Weariness**: “That was tougher than you expected. Take a round to catch your breath.”
 
-### Truce Negotiations
+#### Truce Negotiations
 
 **Character**: “As an upstanding hero of this settlement, I’ll negotiate a peace treaty with the neighboring hostile village.”
 
@@ -109,7 +103,7 @@ Here are several examples of assigning complications to spark your creativity.
 - **Burdens**: “You have to duel their champion.”
 - **Delay**: “The negotiations take several days, and you miss your boat to The Swordfish Islands.”
 
-### Fae Maze
+#### Fae Maze
 
 **Character**: “Okay, we can find a way out. We hug the left wall until we find an exit.”
 
@@ -120,8 +114,7 @@ Here are several examples of assigning complications to spark your creativity.
 - **Ensorcelment**: “That rose thorn pricked you, and you begin to... *Change*.”
 - **Fear**: “You exit the maze after a long, bewildering slog. Add a *Frightened* constraint to your inventories—you will have nothing to do with the fae again.”
 
-
-### Cliff Dive:
+#### Cliff Dive:
 
 **Character**: “I leap from the castle wall onto the back of the beast and pierce its head with my spear.”
 
@@ -129,7 +122,7 @@ Here are several examples of assigning complications to spark your creativity.
 - **Defeat**: “The monster looks up and steps aside. You smash into the rocky ground and break bones. Make a *critical damage* check.”
 - **Affliction**: “The horrific, palpable stench of the creature coats you and your gear.”
 
-### Staff of Fire
+#### Staff of Fire
 
 **Character**: “I cast a firewall between us and the encroaching horde!”
 
@@ -139,8 +132,7 @@ Here are several examples of assigning complications to spark your creativity.
 - **Peril**: “The wind blows the flame back towards the party.”
 - **Mishap**: “You smell smoke—your robes are on fire!”
 
-
-### Gambit Examples
+#### Gambit Examples
 
 If your players use gambits in combat, rather than just standing toe-to-toe trading blows, you’ll assign complications to attribute checks on their actions towards opponents.
 
