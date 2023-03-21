@@ -31,7 +31,7 @@ Your character is a determined, resourceful adventurer capable of doing almost a
 
 Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
-Don’t think about what your character is capable of, but rather *how* they would approach a problem. Play to all of your character’s available resources.
+Don’t think about what your character is capable of, but rather *how* they would approach a problem. Play to all of your character’s and the adventuring parrty's available resources.
 
 ### Critical Success and Failure
 
