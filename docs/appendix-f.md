@@ -15,7 +15,7 @@ All dragonpowder gonnes have the following characteristics:
 
 ## Misfires
 
-If you roll double 1s on a gonne’s damage and bonus dice, a misfire occurs instead of damage to your target. Roll 2d6 and consult the following table for the result.
+If you roll double 1s on a gonne’s damage and inherent bonus dice, a misfire occurs instead of damage to your target. Roll 2d6 and consult the following table for the result.
 
 **Misfires Table**
 
