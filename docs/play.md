@@ -6,13 +6,13 @@ The core of this game is a conversation between the players and the game master 
 
 The GM answers your questions and always respects your freedom of choice. The GM provides challenges, obstacles, and situations to solve and overcome. Still, the game is more than just a story narrated by the GM—it’s an interactive narrative built on your and your fellow players’ decisions. Consider it as both creating and acting in an adventure story simultaneously.
 
-Suppose the outcome of your character’s actions is not immediately apparent, or the activity is inherently risky. In that case, the GM might ask you to roll dice to determine the outcome.
+Suppose the outcome of your character’s actions is not immediately apparent, or the activity is  risky. In that case, the GM might ask you to roll dice to determine an outcome.
 
 ## Safety
 
-It is essential that everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, will never be in the game, and might be in the game but only in passing. 
+It is essential that everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, will never be in the game, and what might be in the game but only in passing. 
 
-Everyone at the table should feel comfortable saying “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. 
+Everyone at the table must feel comfortable saying, and allowing others to say, “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a "stop" is called, drop that topic from the game; don't debate its merits.
 
 On to the mechanics!
 
