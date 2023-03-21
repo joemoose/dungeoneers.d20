@@ -22,12 +22,12 @@ When you describe your character doing something risky with an interesting but u
 
 To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
 
-- If the result is **less than or equal to** your attribute score, your character **succeeds** at their action and suffers no complications.
-- If the result **exceeds the score**, your character **fails** and suffers the outcome described by the GM.
+- If the result is **less than or equal to** your attribute score, your character **succeeds** at their action.
+- If the result **exceeds the score**, your character **fails**.
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer capable of doing almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check, how do we determine which attribute to roll against?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check to determine an outcome, how do we determine which attribute to roll against?
 
 Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
