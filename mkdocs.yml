@@ -116,8 +116,8 @@ extra_css:
 
 plugins:
   - search
-  - git-revision-date-localized:
-      enable_creation_date: false
-      type: date
-      fallback_to_build_date: true
+#  - git-revision-date-localized:
+#      enable_creation_date: false
+#      type: date
+#      fallback_to_build_date: true
 
