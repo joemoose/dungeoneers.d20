@@ -6,7 +6,7 @@ You might simply walk into the wilderness, but trekking is far more impressive m
 
 ## Loads
 
-The maximum size of the mounted rider and the extra load carried in saddlebags depends on the mount’s size.
+The maximum size of the rider and the extra load carried in saddlebags depends on the mount’s size.
 
 | Size | Example | Rider | Load |
 | :-- | :-- | :-- | :-- |
