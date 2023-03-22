@@ -47,7 +47,7 @@ A *fearless* mount, or one explicitly trained for war, checks morale only when i
 
 **Elephant**
 
-10 HP, 1 Armor, 18 STR, 6 DEX, 14 WIL (*huge*, *fearless*)
+10 HP, 1 Armor, 20 STR, 6 DEX, 14 WIL (*huge*, *fearless*)
 
 **Mountain Goat**
 
