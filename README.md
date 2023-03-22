@@ -1,5 +1,5 @@
 <center>
-DUNGEONEERS_   
+DUNGEONEERS   
 <br/>
 An Adventure Game for Errant Rogues  
 by Zachary Taylor  
@@ -11,7 +11,7 @@ Playtest Document v0.4
 
 ---
 
-Dungeoneers RPG is a minimalist rules system for playing old-school tabletop fantasy roleplaying games.
+Dungeoneers is a minimalist rules system for playing old-school tabletop fantasy roleplaying games.
 
 ---
 
