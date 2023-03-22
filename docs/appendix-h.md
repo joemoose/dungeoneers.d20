@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You might simply walk into the wilds, but trekking is far more impressive mounted on a war horse.
+You might simply walk into the wilderness, but trekking is far more impressive mounted on a war horse.
 
 ## Loads
 
