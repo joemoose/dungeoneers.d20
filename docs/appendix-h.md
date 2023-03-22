@@ -37,7 +37,7 @@ If charging to attack while mounted, your damage is doubled after first reducing
 A typical mount must check morale when it first encounters a ferocious creature and whenever it or its rider is attacked.
 
 - If the mount has no rider, it checks morale against its WIL attribute score.
-- If the mount has a rider, the rider describes how they attempt to control their mount and makes the appropriate attribute check using the rider’s attribute scores rather than the mounts.
+- If the mount has a rider, the rider describes how they attempt to control their mount and makes a relevant attribute check using the rider’s attribute scores rather than the mounts.
 
 A *fearless* mount, or one explicitly trained for war, checks morale only when its HP is reduced to zero or when its rider is slain or suffers critical damage while in the saddle. 
 
