@@ -1,13 +1,12 @@
 <center>
-_DUNGEONEERS_   
+DUNGEONEERS_   
 <br/>
-*An Adventure Game for Errant Rogues*  
-*by Zachary Taylor*  
+An Adventure Game for Errant Rogues  
+by Zachary Taylor  
 <br/>
-*–Player’s Guide–*  
+–Player’s Guide–  
 <br/>
-*Playtest Document v0.4*  
-*March 19, 2023*  
+Playtest Document v0.4  
 </center>
 
 ---
