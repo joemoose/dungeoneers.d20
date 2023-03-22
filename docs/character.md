@@ -43,7 +43,7 @@ For example, a character with all bright traits would be the traditional hero. C
 | 2 | Protective | *or* | Manipulative |
 | 3 | Selfless | *or* | Self-Entitled |
 
-These traits set a tone for role-playing your character and let others know what to expect.
+These traits set a tone for role-playing your character, letting others know what to expect.
 
 **Trait Combination Descriptions**
 
@@ -203,7 +203,7 @@ Choose **three** more items from the following list. You may choose an item more
 
 		See the [Equipment](equipment.md) section for more information on your gear.
 		
-Finally, roll d100 once or twice (your call) and consult the following table to select an odd souvenir you always carry. They might come in handy one day, or you can sell them for a few coins.
+Finally, roll d66 once or twice (your call) and consult the following table to select an odd souvenir or two you own. They might come in handy one day, or you can sell them for a few coins.
 
 **Odd Items for Creative Problem-Solving**
 
@@ -221,7 +221,7 @@ Finally, roll d100 once or twice (your call) and consult the following table to 
 | 24 | Vial of strong-smelling perfume. Handy for leaving scent trails or masking your smell. Worth 20 coins to anyone vain or of high status. |
 | 25 | Box of perfumed candles with different scents and sizes. It can be lit in different combinations to create combinations of light and scent. It can also be squashed down into wax if you need to take an impression of something. Worth 10 coins in any large settlement. |
 | 26 | Lodestone (magnet) on a stick. Worth 20 coins to an alchemist or engineer. |
-| 31 | Fashionable chopines (platform shoes) with eight-inch wooden platforms. Handy if the floor is six inches deep in something you don't want to walk in. Worth 20 coins to any dedicated follower of fashion. |
+| 31 | Fashionable chopines (platform shoes) with eight-inch wooden platforms. Handy if the floor is six inches deep in something you want to avoid walking in. Worth 20 coins to any dedicated follower of fashion. |
 | 32 | Several bars of high-quality scented soap. Extremely slippery when wet. Worth 10 coins to any member of the middle or upper classes. |
 | 33 | A deck of marked cards and a pair of loaded dice |
 | 34 | Bag of strong spice. Stir it into food for a murderously hot meal |
