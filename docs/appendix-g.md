@@ -135,7 +135,7 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **ALTER**
 
-	Make a declarative statement affecting one creature or object you can see. The statement is valid for as many rounds as essence spent. The alteration cannot cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
+	Make a declarative statement affecting one creature or object you can see. The statement is valid for as many rounds as essence spent. The alteration can not cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
 
 	The maximum size or weight of the creature or object to be altered is that of the sorcerer. For each additional essence, you can double the size or weight altered.  
 
@@ -149,7 +149,7 @@ When you create your character, pick **one** of the following powers. Select one
 
 	Bring forth a creation. The creature or object created exists for as many rounds equal to *twice* the essence spent. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
 
-	More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations cannot deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks, etc.), but these objects do not deal magical damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
+	More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations can not deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks, etc.), but these objects do not deal magical damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
 	
 	!!! info "Example"
 	
@@ -202,7 +202,7 @@ When a character’s HP is reduced to **zero or less** in an attack, they are un
 | 5 | **Diseased**: You have a revolting, uncomfortable infection. Add a *Diseased* constraint. Attribute checks have a disadvantage until you heal and rest. When you recover from the infection, roll 3d6. If the total is higher than your max HP, swap it. |
 | 6 | **Reorienting Head Wound**: Roll 1d6; 1–2: STR, 3–4 DEX, 5–6: WIL. Next, roll 3d6. If the total is higher than the specified max attribute score, swap it. |
 | 7 | **Hamstrung**: You can’t walk until you heal and rest. After recovery, roll 3d6. If the result is higher than your max DEX attribute, swap it. |
-| 8 | **Deafened**: You cannot hear anything until you heal and rest. Afterward, Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
+| 8 | **Deafened**: You can’t hear anything until you heal and rest. Afterward, Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
 | 9 | **Re-brained**: Some remote part of your psyche is knocked loose. Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
 | 10 | **Sundered**: An appendage is torn off, crippled, or useless. The GM will tell you which. Roll 3d6. If the result is higher than your max STR attribute, swap it. |
 | 11 | **Mortal Wound**: You are *Deprived* and out of the action. Add a *Fatigue* to your inventory. You will die shortly unless revived. Upon revival, roll 2d10. Take the new result as your max HP. |

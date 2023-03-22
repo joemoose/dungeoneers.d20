@@ -6,13 +6,13 @@ The core of this game is a conversation between the players and the game master 
 
 The GM answers your questions and always respects your freedom of choice. The GM provides challenges, obstacles, and situations to solve and overcome. Still, the game is more than just a story narrated by the GM—it’s an interactive narrative built on your and your fellow players’ decisions. Consider it as both creating and acting in an adventure story simultaneously.
 
-Suppose the outcome of your character’s actions is not immediately apparent, or the activity is  risky. In that case, the GM might ask you to roll dice to determine an outcome.
+Suppose the outcome of your character’s actions isn’t immediately apparent, or the activity is risky. In that case, the GM might ask you to roll dice to determine an outcome.
 
 ## Safety
 
 Everyone at the table, players and GM, should feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, won't ever be in the game, and might be in the game but only in passing. 
 
-Everyone at the table must feel comfortable saying, and allowing others to say, “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a "stop" is called, drop that topic from the game; don't debate its merits.
+Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. Drop that topic from the game if a “stop” is called; don't debate its merits.
 
 On to the mechanics!
 
@@ -31,7 +31,7 @@ Your character is a determined, resourceful adventurer capable of doing almost a
 
 Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
-Don’t think about what your character is capable of, but rather *how* they would approach a problem. Play to all of your character’s and the adventuring parrty's available resources.
+Don’t think about what your character is capable of, but rather *how* they would approach a problem. Play to all of your character’s and the adventuring party’s available resources.
 
 ### Critical Success and Failure
 
@@ -45,7 +45,7 @@ The primary way to modify your attribute checks is through vantages: favorable s
 
 !!! note "Notes"
 
-	- If you have multiple advantages or disadvantages, you take only one—they do not stack.
+	- If you have multiple advantages or disadvantages, you take only one—they don't stack.
 	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
 
 ### Trained Rolls

@@ -71,7 +71,7 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 | :-: | :-- |
 | 1 | **Start a brawl**. You all are involved in a brawl that gets out of control. Wake up the next day with a *Fatigued* constraint and **d3** damage to an attribute (no critical damage check required.) Roll d3: (1) bleeding: STR damage, (2) bruised: DEX damage, or (3) concussed: WIL damage. The local tavern keeper is far less amicable. |
 | 2 | **Minor misunderstanding** with the local watch that you can’t smooth over. You spend the next d6 days locked up. You are all now seen as local troublemakers. |
-| 3 | One of you **insulted a local person of rank**. They will hold a grudge unless you all publicly apologize and humiliate yourself before them. |
+| 3 | One of you **insulted a local person of rank**. They’ll hold a grudge unless you all publicly apologize and humiliate yourself before them. |
 | 4 | **Hangover from hell**. Take a *Hungover* constraint. All checks have a disadvantage until a long rest. |
 | 5 | **Gambling binge**. Your party owes a collective debt equal to half the amount spent carousing to someone you'd rather not own money to. |
 | 6 | **You've ruined the local economy!** Your excess spending means that all prices double until the next session. |
@@ -94,8 +94,8 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 | 6 | The **local blacksmith**, due to your influx of coins, has been able to fashion an exquisite weapon that he's willing to sell for the normal price.
 | 7 | The **local temple acolytes** see you as protectors of the settlement. They offer you a *blessing* before your next adventure. |
 | 8 | **Impressed by your ability to drink** for days and keep standing, a local hireling of high repute will join you on your next adventure if you wish. |
-| 9 | **Outstanding Investment!** Invest all your spare cash in some smooth-tongued merchant's scheme. It turns out it's real! It returns 3d4 x 10% coins for the next next d3+1 sessions. |
-| 10 | **Local celebrity**. Your ability to revel with the common folk has led them to see you as one of their own, and they are thankful to have you around. You receive free room and board in this settlement. |
+| 9 | **Outstanding Investment!** Invest all your spare cash in some smooth-tongued merchant's scheme. It turns out it's real! It returns 3d4 x 10% coins for the next d3+1 sessions. |
+| 10 | **Local celebrity**. Your ability to revel with the common folk has led them to see you as one of their own, and they’re thankful to have you around. You receive free room and board in this settlement. |
 | 11 | **Hot Gossip**. Your time spent carousing let you in on some juicy rumors. You learn one major secret about a person of note. |
 | 12+ | **Heroic Carousing!** It was a night of truly epic debauchery. Roll d6 to see how your legend grew. (1) Re-roll HP for your current level; swap the new result if higher, or increase by 1 if lower. (2) Gain 1 STR. (3) Gain 1 DEX. (4) Gain 1 WIL. (5) Gain 1 LUCK. (6) Gain a random spell tablet. |
 

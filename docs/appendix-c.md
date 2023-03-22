@@ -102,7 +102,7 @@ Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the 
 ### Holy Ward
 
 - **Charges**: d6+1
-- **Usage**: A thin silver circle 50ft across appears on the ground around you. Specify the type of creature that cannot cross. Any such creatures within the circle as it is cast are forcibly tossed outwards for d6 damage.
+- **Usage**: A thin silver circle 50ft across appears on the ground around you. Specify the type of creature that can not cross. Any such creatures within the circle as it’s cast are forcibly tossed outwards for d6 damage.
 
 ### Sigil Ring 
 
@@ -117,4 +117,4 @@ Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the 
 ### Yew Wand
 
 - **Charges**: d6+1
-- **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature will not be hostile toward you.
+- **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature won’t be hostile toward you.

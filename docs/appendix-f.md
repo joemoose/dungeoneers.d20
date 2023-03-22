@@ -48,5 +48,5 @@ If you roll double 1s on a gonne’s damage and inherent bonus dice, a misfire o
 | Name | Damage | Notes | Coins |
 | :--- | :----: | :---- | ----: |
 | Pomegranate | d8 | Thrown. Destroyed on use. *Blast* damage. | 120 |
-| Petard | 3d10 | Must be placed on the intended target and its fuse lit as two actions. The amount of time before detonation is determined by the fuse length: 1 to 6 rounds. There is a 1 in 6 chance the fuse will detonate either one round earlier or later. Bulky. Destroyed on use. *Blast* damage. | 250 |
+| Petard | 3d10 | Must be placed on the intended target and its fuse lit as two actions. The amount of time before detonation is determined by the fuse length: 1 to 6 rounds. There’s a 1 in 6 chance the fuse will detonate either one round earlier or later. Bulky. Destroyed on use. *Blast* damage. | 250 |
 

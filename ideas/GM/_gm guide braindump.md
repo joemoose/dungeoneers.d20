@@ -114,4 +114,17 @@ Sometimes, you’ll have to say “no” or otherwise not accept an offer. For e
 “Gaming Like an Actor” by Filamena Young, pg. 26 *Unframed*.
 
 
-Your players will give you clues about how they want their story to proceed, and this information may provide hints as to why they deviated from your planned plotline and the kind of story they want to be creating with you. Listen, react, and pay attention to their responses. By creating an ongoing communication loop between yourself and the players, you will find a plethora of creative ideas for improv storytelling that not only ease a lot of the pressure of coming up with new material off of your shoulders but which are also tailor-made to interest your players—because they came up with them.
+Your players will give you clues about how they want their story to proceed, and this information may provide hints as to why they deviated from your planned plotline and the kind of story they want to create with you. Listen, react, and pay attention to their responses. By creating an ongoing communication loop between yourself and the players, you will find a plethora of creative ideas for improv storytelling that not only ease a lot of the pressure of coming up with new material off of your shoulders but which are also tailor-made to interest your players—because they came up with them.
+
+
+
+
+“But here’s the thing: it’s only difficult because most RPG advice for GMs is the opposite of improvisation.
+
+Let’s break that down.
+
+The two most common methods of GM prep are either: “Make a map and fill it with encounters and puzzles” or “Make a set of events/scenes, either a linear set or a branching path set, and have the PCs ‘go through it.’”.
+
+Notice that both of these methods require you to “make” something ahead of time, guessing what will be fun, challenging, and appropriate. “
+
+https://bankuei.wordpress.com/2013/12/31/gm-improvisation-101/
