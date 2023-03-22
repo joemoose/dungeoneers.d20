@@ -2,11 +2,12 @@
 
 ---
 
-## Best practices
+## Best Practices
 
+- **Engage and collaborate** with your GM and other players. Be kind. Be positive. Be authentic.
 - **Ask lots of questions**. Gather information. Talk to NPCs. Make notes. Draw maps.
 - **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally. Always gain an advantage. Your character sheet doesn’t limit you.
-- **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away. 
+- **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away.
 - **Play to win, but savor a loss**. Leave your mark on the world. Create a memorable story.
 
 	!!! quote
@@ -60,7 +61,7 @@ Declare actions before rolling dice. A **fast** round is a single action. A **sl
 - After taking STR damage, make a STR check. On failure, take a *Wounded* constraint and become incapacitated.
 - If STR is reduced to zero, you die.   
 
-## Rest & Healing
+## Healing
 
 - **Short**: Takes a turn. Restore all HP.
 - **Long**: Takes a watch. Restore 1 STR, DEX, and WIL.
