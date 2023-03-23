@@ -20,7 +20,7 @@ Roll **d20** equal to or less than the applicable attribute:
 
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
-- **WILLPOWER (WIL)**: Tests of charisma and determination; esisting mental harm, illusions, or charming effects.
+- **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn points to modify other attribute checks.
 
 **Advantage & Disadvantage**
@@ -49,7 +49,7 @@ Declare actions before rolling dice. A **fast** round is a single action. A **sl
 
 **Attacks**
 
-**Attacks always hit**. Roll weapon damage and deal that much damage to an enemy, minus armor rating.
+**Attacks always hit**. Roll weapon damage and deal that much damage to an opponent, minus armor rating.
 
 - **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
