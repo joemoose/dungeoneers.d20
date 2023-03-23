@@ -198,15 +198,15 @@ When a character’s HP is reduced to **zero or less** in an attack, they are un
 | 1 | **Lasting Scar**: Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 2d6. If the total is higher than your max HP, swap it. |
 | 2 | **Rattling Blow**: You’re disoriented and shaken. Take a *Dazed* constraint. WIL checks have a disadvantage until you heal and rest. Roll 2d6. If the total is higher than your max HP, swap it. |
 | 3 | **Walloped**: You’re sent flying, landing flat on your face, winded. Add a *Fatigue* constraint to your inventory. Add 1 to your max HP. |
-| 4 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. One attribute (per the GM) has a disadvantage on checks until you heal and rest. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
+| 4 | **Fractured Bones**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. One attribute (per the GM) has a disadvantage on checks until you heal and rest. Add a *Fractured Bone* constraint. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
 | 5 | **Diseased**: You have a revolting, uncomfortable infection. Add a *Diseased* constraint. Attribute checks have a disadvantage until you heal and rest. When you recover from the infection, roll 3d6. If the total is higher than your max HP, swap it. |
 | 6 | **Reorienting Head Wound**: Roll 1d6; 1–2: STR, 3–4 DEX, 5–6: WIL. Next, roll 3d6. If the total is higher than the specified max attribute score, swap it. |
 | 7 | **Hamstrung**: You can’t walk until you heal and rest. After recovery, roll 3d6. If the result is higher than your max DEX attribute, swap it. |
 | 8 | **Deafened**: You can’t hear anything until you heal and rest. Afterward, Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
-| 9 | **Re-brained**: Some remote part of your psyche is knocked loose. Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
+| 9 | **Re-brained**: Some remote part of your psyche is knocked loose. take a *Dazed* constraint. Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
 | 10 | **Sundered**: An appendage is torn off, crippled, or useless. The GM will tell you which. Roll 3d6. If the result is higher than your max STR attribute, swap it. |
 | 11 | **Mortal Wound**: You are *Deprived* and out of the action. Add a *Fatigue* to your inventory. You will die shortly unless revived. Upon revival, roll 2d10. Take the new result as your max HP. |
-| 12+ | **Doomed**: Death seemed imminent, but luckily, somehow, you survived. If your next STR check against critical damage fails, you die instantly and horrifically. If you pass, roll 3d6. If the result is higher than your LUCK attribute, swap it. |
+| 12+ | **Doomed**: Death seemed imminent, but somehow, you survived. If your next STR check against critical damage fails, you die instantly and horrifically. If you pass, roll 3d6. If the result is higher than your LUCK attribute, swap it. |
 
 ## Relics
 
