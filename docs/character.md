@@ -169,7 +169,7 @@ Is your character musclebound and insightful? Fortunate and charming? Nimble and
 
 Strength is a prime attribute for warriors. Dexterity serves stealth and thievery well. Casting spells requires willpower.
 
-Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to our STR, DEX, and WIL.
+Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to your STR, DEX, and WIL.
 
 ## Step 5: Hit Points
 
@@ -183,7 +183,7 @@ Let’s see what equipment you’ve brought to your new adventuring life.
 
 Everyone starts with a heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
 
-Choose **three** more items from the following list. You may choose an item more than once.
+Choose **two** more items from the following list. You may choose an item more than once.
 
 - spear
 - shortbow and a quiver of arrows
