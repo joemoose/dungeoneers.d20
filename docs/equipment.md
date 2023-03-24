@@ -28,7 +28,7 @@ Each constraint must be placed in an **inventory slot**. You can have multiple c
 
 Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
-Constraints can only be removed from your inventory by meeting their cleared requirement, usually a short, long, or full rest.
+Constraints can only be removed from your inventory by satisfying their cleared requirement, usually a short, long, or full rest.
 
 **Example Constraints**
 
@@ -42,7 +42,7 @@ Constraints can only be removed from your inventory by meeting their cleared req
 | *Wounded* | Disadvantage on STR and DEX checks | Full rest |
 
 !!! Note
-		See the [How to Play](play.md) section for information about attribute checks and disadvantages.
+		See the [How to Play](play.md) section for information about attribute checks and disadvantages and the [Damage](damage.md) section for information about rests.
 
 ## Hirelings
 
