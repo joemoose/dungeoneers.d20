@@ -186,7 +186,7 @@ Crates contain a specific type of expedition equipment as follows:
 
 - **Food Crate** contains rations.
 - **Gear Crate** contains new adventuring gear.
-- **Healing Supplies Crate** contains new healer’s kits.
+- **Medicine Crate** contains new healer’s kits.
 - **Survival Crate**: contains gear and clothing for surviving the extremes in wilderness travel. Specified on purchase as either hot- or cold-weather survival crates.
 - **Tools Crate** contains repair tools and crafting materials.
 - **Water Barrel** contains refills for a waterskin.
@@ -207,7 +207,7 @@ When a 1 or 2 is rolled on a d4 usage die, the crate is emptied.
 
 !!! info "Example"
 
-	A player takes two healer’s kits from a new healing supply crate. The usage die is d10. The player rolls an eight after taking out the first kit. The supply crate’s usage die remains at d10. After removing the second kit, the player rolls a one. The crate’s usage die drops to d8.
+	A player takes two healer’s kits from a new medicine crate. The usage die is d10. After taking out the first kit, the player rolls an eight on the usage check. The medicine crate’s usage die remains at d10. After taking out the second kit, the player rolls a one. The crate’s usage die now drops to d8.
 
 ### Other Crates
 
