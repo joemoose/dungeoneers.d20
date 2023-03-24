@@ -9,7 +9,7 @@
 *–Player’s Guide–*  
 <br/>
 *Playtest Document v0.4*  
-*March 21, 2023*  
+*March 22, 2023*  
 </center>
 ---
 
@@ -34,3 +34,4 @@ This game also has a luck system to encourage some crazy risk-taking. You are a 
 Enjoy!
 
 Zachary Taylor  
+March 2023 
