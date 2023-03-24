@@ -51,13 +51,13 @@ A pair of helping hands might give you the edge you’ll need to survive or, at 
 - **Torchbearer** (1 coin/day): 2 HP, 9 STR, 9 DEX, 9 WIL. Torch.
 - **Guard** (3 coins/day): 4 HP, 10 STR, 10 DEX, 10 WIL. Spear, Shield.
 - **Sellsword** (6 coins/day): 6 HP, 12 STR, 10 DEX, 10 WIL. Sword, Light Armor, Shield.
-- **Expert** (10 coins/day): 3 HP, 10 STR, 10 DEX, 12 WIL. Crossbow, Helmet, Specific Expertise.
+- **Expert** (10 coins/day): 3 HP, 10 STR, 10 DEX, 12 WIL. Crossbow, Helmet, a *Specific Expertise*, or *Skill*.
 
 In addition to a daily wage, hirelings must be fed and provided lodging.
 
 ### Morale
 
-When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or flee.
+When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or desert their employment.
 
 Well-paid or loyal hirelings may make this check with an advantage.
 
@@ -65,7 +65,7 @@ Well-paid or loyal hirelings may make this check with an advantage.
 
 Hirelings can improve in the same way that your character does.
 
-Hirelings who receive a share of treasure gain 1 Experience Point (XP) per coin above their daily wage. Like your character, once they earn 1000 XP, they advance to Level 2.
+Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, once they earn 1000 XP, they advance to Level 2.
 
 Not receiving a share of treasure may cause resentment amongst hirelings.
 
@@ -80,22 +80,22 @@ After all the uses are marked off, the item is depleted and removed from your in
 
 Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could damage or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **1 or 2**, mark a use.
  
-Usage can be repaired on most gear, such as weapons and armor, for 10% of the original cost per point of use removed. 
+Usage can be repaired on most damaged gear, such as weapons and armor, for 10% of the original cost per point of usage removed. 
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. Anyone can strap on the best armor they can afford to enjoy its protective qualities.
+Armor reduces the damage you suffer from an attack. A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. Anyone can strap on the best armor they can afford and enjoy its protective qualities.
 
 **Notes**:
 
 - ***n* armor rating** items are base armor. Only a single type of base armor can be equipped.
-- **+1 armor rating** items can be equipped along with base armor.
-- **Helmets** provide an advantage on STR checks to avoid critical damage.
+- **+1 armor rating** items can be equipped along with the base armor. Each then equipped improves the base armor rating by one.
+- **Helmets** provide an advantage on STR checks to avoid critical damage in addition to their +1 armor rating.
 - **Shields** have other uses besides their +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
-- **Extreme Armor** includes the benefit of a helmet (advantage on STR checks to avoid critical damage) as part of the base armor.
+- **Extreme Armor** includes the benefit of a helmet (advantage on STR checks to avoid critical damage) as part of the base armor. An additional helmet cannot be equipped.
 
 **Armor List**
 
@@ -104,7 +104,7 @@ Armor reduces the damage you suffer from an attack. A player character can have 
 | Heavy hooded cloak | +1 armor | One body slot | 20 | 
 | Helmet | +1 armor | One body slot | 20 |
 | Shield | +1 armor | Offhand | 30 |
-| Cloth (Gambeson) | 1 armor | One body slot | 60 |
+| Cloth (Gambeson) | 1 armor | One body slots | 60 |
 | Light (Brigandine) | 2 armor | Two body slots | 500 |
 | Medium (Chainmail) | 3 armor | Two body slots | 1200 |
 | Heavy (Plate Mail) | 4 armor | Two body slots | 4,000 |
@@ -112,24 +112,24 @@ Armor reduces the damage you suffer from an attack. A player character can have 
 
 ## Weapons
 
-Most weapons have characteristics that affect their use. You can use any weapon effectively as you see fit.
+You can use any weapon as you see fit. Most weapons have characteristics that affect their use. 
 
 - *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
 - *Long-range*: This weapon can attack a target up to three zones away.
 - *Short-range*: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- *Reach*: Can attack opponent several feet away from a second rank or while behind a protective shield wall. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent. 
-- *STR*: Using the weapon requires the minimum STR score. If your STR is less than the requirement, the damage is Impaired.
+- *Reach*: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent. 
+- *STR*: Using the weapon requires the minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
 - *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
-- *Two-handed*: This weapon takes up both hand slots.
-- *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both, take the best).
+- *Two-handed*: This weapon requires two hand slots.
+- *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both dice, take the best).
 
 **Weapons List**
 
 | Weapon | Damage | Notes | Coins |
 | :----- | :----: | :---- | ---: |
 | Unarmed | d4 | Doesn't ignore armor on critical hits | - |
-| Cudgel | d4 | - | 5 |
-| Staff | d4/+d4 | Versatile | 10 |
+| Cudgel | 2d3 | - | 5 |
+| Staff | 2d3/+d6 | Versatile | 10 |
 | Dagger | d6 | Thrown | 15 |
 | Spear | d6/+d6 | Versatile, Thrown | 15 |
 | Axe | d8 | Thrown | 20 |
@@ -138,7 +138,7 @@ Most weapons have characteristics that affect their use. You can use any weapon 
 | Polearm | d10 | Two-handed, Reach| 40 |
 | Maul | 2d6 | Two-handed, STR 7+ | 30 |
 | Great Sword | d12 | Two-handed, STR 11+ | 60 |
-| Sling | d6 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 5 |
+| Sling | 2d3 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 5 |
 | Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 50 |
 | Crossbow | d10 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 100 |
 | Longbow | d12 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
@@ -148,7 +148,7 @@ Most weapons have characteristics that affect their use. You can use any weapon 
 
 ##  Expedition Equipment
 
-Most gear has characteristics that affect their use. Use your gear to solve challenges creatively and keep your character adventuring.
+Use your gear to solve challenges creatively and keep your character adventuring. Most gear has characteristics that affect their use. 
 
 - _Bulky_: requires two inventory slots.
 - _Load_: Number of inventory slots available for storing items.
@@ -166,7 +166,7 @@ Most gear has characteristics that affect their use. Use your gear to solve chal
 | Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](advancement.md) section for information on carousing. | 1 Use, Bulky | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 3 |
-| Waterskin | If traveling in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s included with your rations. | 3 Uses | 3 |
+| Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
 !!! note
 
@@ -174,7 +174,7 @@ Most gear has characteristics that affect their use. Use your gear to solve chal
 
 ## Supply Crates
 
-Equipment supply crates and barrels (hereafter referred to as simply “crates”) can replenish the party’s gear on long expeditions when away from settlements and unable to restock.
+Equipment supply crates and barrels (hereafter referred to as simply “crates”) can replenish the party’s gear on long expeditions when they’re away from settlements and unable to restock.
 
 ### Weight
 
@@ -184,17 +184,16 @@ Crates are heavy, taking up six inventory slots, and are typically carried on pa
 
 Crates contain a specific type of expedition equipment as follows:
 
-- **Books Crate** contains new Bags of Books.
-- **Food Crate** contains Rations.
-- **Gear Crate** contains new Adventuring Gear.
-- **Healing Supplies Crate** contains new Healer’s Kits.
+- **Food Crate** contains rations.
+- **Gear Crate** contains new adventuring gear.
+- **Healing Supplies Crate** contains new healer’s kits.
 - **Survival Crate**: contains gear and clothing for surviving the extremes in wilderness travel. Specified on purchase as either hot- or cold-weather survival crates.
 - **Tools Crate** contains repair tools and crafting materials.
-- **Water Barrel** contains refills for a Waterskin.
+- **Water Barrel** contains refills for a waterskin.
 
 ### Cost
 
-A new crate costs ten times that of the item it contains. For example, a *gear crate* costs 200 coins (10 x 20 coins for one Adventuring Gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 200 coins.
+A new crate costs ten times that of the item it contains. For example, a *gear crate* costs 200 coins (10 x 20 coins for one adventuring gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 200 coins.
 
 ### Uses
 
