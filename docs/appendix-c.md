@@ -1,120 +1,71 @@
-# Appendix C: Character Archetypes
+# Appendix C: Mounts
 
-## Starting Gear
+## Introduction
 
-Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the following equipment:
+One might simply walk into the wilderness, but trekking is far more impressive astride a war horse.
 
-### Bard 
+## Loads
 
-- bagpipes (*two-handed*)
-- bag of books (*bulky*)
-- dandy clothing
-- incense
-- rapier (d8)
-- scroll (*random spell*)
+The maximum size of the rider and the extra load carried in saddlebags depends on the mount’s size.
 
-### Cleric 
+| Size | Example | Rider | Load |
+| :-- | :-- | :-- | :-- |
+| small | goat | halfling | 2 |
+| medium | pony | dwarf or elf | 4 |
+| large | horse | human | 8 |
+| huge | elephant | any | 18 |
 
-- chainmail (3 *armor*, *bulky*) 
-- cloak of the order
-- mace (2d4)
-- gauntlets (+1 *armor*)
-- maul (2d6, *two-handed*)
-- relic: *Holy Ward*
+!!! note "Notes"
 
-### Druid 
+	- If a mount has no rider, its maximum load is doubled.
+	- A mount bred and trained specifically for war has a +2 load.
+	
+## Traveling
 
-- druidic poultice (WIL check clears a constraint)
-- jute clothing
-- owl, animal companion (1 hp, talons d4)
-- relic: *Witchwood Brooch*
-- shepherd’s crook (d4/+d4)
+While mounted and traveling on roads or easy, flat terrain, such as grasslands, you can travel twice as fast as walking. If on any other terrain, mounted travel is the same speed as on foot. 
 
-### Fighter 
+In some terrain, such as trackless mountainsides or dark, underground tunnels, it may be impossible for mounts to traverse it unless specifically bred or trained for the environment.
 
-- dice set
-- glaive (d10, *two-handed*, *reach*) 
-- longsword (d8/+d8) 
-- quiver of arrows
-- shield (+1 *armor*) 
-- shortbow (d6) 
-- splint mail (2 *armor*, *bulky*)
-- tobacco pouch & pipe 
+## Conflict
 
-### Hunter 
+While mounted, a rider has a combat advantage over opponents on foot. No disengage check is required when retreating on a mount if your zone contains only opponents on foot.
 
-- axe (d8) 
-- bloodhound, animal companion (3 hp, bite d4)
-- gambeson (+1 *armor*) 
-- hunting horn
-- large trap 
-- longbow (d12, *bulky*)
-- quiver of arrows 
+If charging to attack while mounted, your damage is doubled after first reducing it by the opponent’s armor rating.
 
-### Knight 
+## Morale
 
-- helm (+1 *armor*)
-- heraldic cape 
-- longsword (d8) 
-- manacles 
-- platemail (4 *armor*, *bulky*) 
-- silk rope, 25ft
+A typical mount must check morale when it first encounters a ferocious creature and whenever it or its rider is attacked.
 
-### Mage 
+- If the mount has no rider, it checks morale against its WIL attribute score.
+- If the mount has a rider, the rider describes how they attempt to control their mount and makes a relevant attribute check using the rider's attribute scores rather than the mount's.
 
-- hourglass
-- lens (*small*)
-- quill & ink (*small*)
-- relic: *Yew Wand*
-- scroll case & parchment
-- spell tablet (Tongues)
+A *fearless* mount, or one explicitly trained for war, checks morale only when its HP is reduced to zero or when its rider is slain or suffers critical damage while in the saddle. 
 
-### Thief 
+- A war-trained mount also has an advantage on all control and morale checks.
 
-- bag of caltrops (*bulky*)
-- grappling hook
-- hempen rope, 50ft
-- hooded jerkin (1 *armor*) 
-- lockpicks
-- metal file
-- two daggers (d6)
+## Example Mounts
 
-### Warden 
+**Elephant**
 
-- bardiche (d10, *two-handed*, *reach*))
-- black hooded cloak (1 *armor*)
-- relic: *Sigal Ring*
-- silvered dagger (d6)
-- throwing bolas (*entangles*)
-- wolfsbane
+10 HP, 1 Armor, 20 STR, 6 DEX, 14 WIL (*huge*, *fearless*)
 
-### Wizard 
+**Mountain Goat**
 
-- *Leycap Mushrooms* (clears all *Drained* constraints, STR check vs. addiction)
-- dagger (d6)
-- ragged clothing (hidden pockets)
-- spell tablet (*random*) 
-- spell tablet (*random*) 
-- wizard’s silver skull cap (helmet, +1 *armor*)
+2 HP, 0 Armor, 8 STR, 12 DEX, 8 WIL (*small*, *surefooted*, unless traveling in a blasted hellscape, does not require feeding)
 
-## Relics 
+**Mule**
 
-### Holy Ward
+As pony, (*fearless*, *surefooted*, can travel underground)
 
-- **Charges**: d6+1
-- **Usage**: A thin silver circle 50ft across appears on the ground around you. Specify the type of creature that can not cross. Any such creatures within the circle as it’s cast are forcibly tossed outwards for d6 damage.
+**Pony**
 
-### Sigil Ring 
+3 HP, 0 Armor, 8 STR, 10 DEX, 8 WIL (*medium*)
 
-- **Charges**: d6+1
-- **Usage**: Shoots a stream of paint visible only to you. You can always see the color on whatever you have applied it to, even through solid objects.
+**Riding Horse**
 
-### Witchwood Brooch
+4 HP, 0 Armor, 10 STR, 10 DEX, 10 WIL (*large*)
 
-- **Charges**: d6+1
-- **Usage**: You and your possessions transform into a mundane animal.
+**Warhorse**
 
-### Yew Wand
+6 HP, 0 Armor, 14 STR, 10 DEX, 12 WIL (*large*, *war-trained*)
 
-- **Charges**: d6+1
-- **Usage**: Pacifies a creature when smacked on its knuckles. The pacified creature won’t be hostile toward you.

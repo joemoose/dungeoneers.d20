@@ -1,56 +1,56 @@
-# Appendix G: Sword & Sorcery
-
-The following rules provide a grittier campaign geared more toward violent action and dark powers.
-
-## Character Classes
-
-Character creation remains the same as the core Dungeoneers system with one extra step: choosing a class for your character. Character classes add unique talents and specializations to your character.
-
-➡️  Pick either a **Warrior**, **Thief**, or **Sorcerer** class for your character.
-
-The three classes are described in the following sections. 
-
-## Warrior Class
+# Appendix G: Dragonpowder Gonnes
 
 ---
 
-Warriors are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of warriors is to battle monsters and defend other characters.
+## Introduction
 
-### Combat Maneuvers
+Dragonpowder gonnes are expensive, exotic, and very loud. Wielded by the rich or the foolhardy, these strange weapons are reputed to be of Dwarven manufacture. However, they could very well hail from the infernal planes.
 
-A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **Grit**. You start with one grit. At every **even-numbered** level, you gain one additional grit. You can use multiple maneuvers at the same time.
+All dragonpowder gonnes have the following characteristics:
 
-Grit is restored after a long rest.
+- **Armor piercing**: Damage ignores three armor ratings; as with other weapons, a critical damage roll ignores all armor.
+- **Dangerous**: Gonnes always includes a bonus damage die. If you roll **double 1s** on a gonne’s damage and bonus damage dice roll, a misfire occurs, and your target suffers no harm. Consult the following Misfire Table for the result.
+- **Noisy**: Igniting dragonpowder has loud and explosive results. Animals flee when hearing the shot. Intelligent creatures will notice and investigate.
+- **Slow**: After attacking with a gonne, it must be reloaded. Reloading requires both hands and two actions per shot loaded. 
 
-#### Starting Maneuvers
+## Misfires
 
-A new warrior starts with three combat maneuvers in their repertoire:
+If you roll double 1s on a gonne’s damage and inherent bonus dice, a misfire occurs instead of damage to your target. Roll 2d6 and consult the following table for the result.
 
-- **CUNNING**: When attacking, spend one grit to ignore the target’s armor.
-- **ALERT**: Spend one grit to act before your opponents.
-- **TOUGH**: Whenever you take damage, spend one grit to reduce the damage by d6.
+**Misfires Table**
 
-#### Advanced Maneuvers
+| 2d6 | Result |
+| :-: | :----- |
+| 2 | The gonne explodes and is destroyed. Roll 2d6 damage to you. |
+| 3 | You catch on fire, taking d4 damage per round, ignoring armor until you put it out. |
+| 4–5 | Sparks get in your eyes. All DEX and WIL checks are disadvantaged until you take one round to remove the sparks and make a STR check. |
+| 6–8 | The gonne fails to fire. You must take one round of fiddling with the mechanism and make a WIL check before firing it again. |
+| 9–10 | The gonne breaks. It will need to be thoroughly cleaned and repaired. The repair cost is 30% of its price. |
+| 11 | The gonne is fine, but every player character must make a LUCK check. The character who fails and rolls the highest takes damage rather than the intended target. |
+| 12 | The gonne explodes and is destroyed. Roll 2d6 *blast* damage to you and everyone nearby. |
 
-Choose one of the following combat maneuvers to add to your repertoire each time you gain a new **odd-numbered level**.
+## Gonnes List
 
-- **CLEAVE**: Instead of making a normal attack, spend one grit to attack with the *blast* quality to attack all opponents in the zone (friend and foe) for half damage.
-- **COMMAND**: Instead of making an attack, spend one grit to allow an ally to make an attack that deals +d12 bonus damage.
-- **JUGGERNAUT**: After you slay or deal critical damage to an opponent, spend one grit to make another attack immediately.
-- **RALLY**: Spend one grit to restore d6 +level HP.
-- **RAPID FIRE**: When you use a ranged weapon, spend one grit to make two attacks in one action against the same target.
-- **RETALIATE**: When an ally takes damage from an opponent within the range of your weapon, spend one grit to attack that opponent immediately.
-- **SHIELD**: When an ally in your zone is attacked, spend one grit to add your armor rating to theirs for this round.
-- **TAUNT**: Spend one grit to make all enemies attack you this round. 
+| Name | Damage | Notes | Coins |
+| :--- | :----: | :---- | ----: |
+| Petronel | d8 +d8 | It’s fired with one hand but requires both hands to reload. | 800 |
+| Fire Lance | d10 +d10/(d6 +d6) | Two-hands. Deals either d10 +d10 damage to a single target in melee range or d6 +d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires reloading two Powder Shots. | 1,200 |
+| Arquebus | d12 +d12 | Two-hands. | 1,000 |
 
-### Trophies
+## Ammunition List
 
-You gain the following warrior abilities at level 2.
+| Type | Uses | Coins |
+| :--- | :--: | --: |
+| Waterproof Bag of Powder Shot | 12 | 300 |
 
-**TROPHY**
+## Grenades
 
-After you defeat a creature in combat by personally delivering the final blow, you can take a trophy from their remains. A trophy takes up one inventory slot.
+| Name | Damage | Notes | Coins |
+| :--- | :----: | :---- | ----: |
+| Pomegranate | d8 | Thrown. Destroyed on use. *Blast* damage. | 120 |
+| Petard | 3d10 | Must be placed on the intended target and its fuse lit as two actions. The amount of time before detonation is determined by the fuse length: 1 to 6 rounds. There’s a 1 in 6 chance the fuse will detonate either one round earlier or later. Bulky. Destroyed on use. *Blast* damage. | 300 |
 
+<<<<<<< Updated upstream
 When you encounter a creature of which you carry a trophy, spend one grit to:
 
 - Receive +d12 bonus damage when attacking it.
@@ -389,3 +389,5 @@ After suffering a **fifth vitiation** of the same category, you are forever tran
 - **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
 - **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders in the region and beyond.
 - **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
+=======
+>>>>>>> Stashed changes
