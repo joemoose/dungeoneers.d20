@@ -10,15 +10,15 @@ The maximum size of the rider and the extra load carried in saddlebags depends o
 
 | Size | Example | Rider | Load |
 | :-- | :-- | :-- | :-- |
-| small | goat | halfling | 2 |
-| medium | pony | dwarf or elf | 4 |
-| large | horse | human | 8 |
-| huge | elephant | any | 18 |
+| small | goat | halfling | 4 |
+| medium | pony | dwarf or elf | 6 |
+| large | horse | human | 10 |
+| huge | elephant | any | 20 |
 
 !!! note "Notes"
 
 	- If a mount has no rider, its maximum load is doubled.
-	- A mount bred and trained specifically for war has a +2 load.
+	- A mount bred and trained specifically for war or as a draft animal has a +2 load.
 	
 ## Traveling
 
@@ -47,25 +47,29 @@ A *fearless* mount, or one explicitly trained for war, checks morale only when i
 
 **Elephant**
 
-10 HP, 1 Armor, 20 STR, 6 DEX, 14 WIL (*huge*, *fearless*)
+10 HP, 1 Armor, 20 STR, 6 DEX, 16 WIL, Load 20 (*huge*, *fearless*)
 
 **Mountain Goat**
 
-2 HP, 0 Armor, 8 STR, 12 DEX, 8 WIL (*small*, *surefooted*, unless traveling in a blasted hellscape, does not require feeding)
+2 HP, 0 Armor, 8 STR, 14 DEX, 6 WIL, Load 4 (*small*, *surefooted*, unless traveling in a blasted hellscape, does not require feeding)
 
 **Mule**
 
-As pony, (*fearless*, *surefooted*, can travel underground)
+As pony, Load 8 (*fearless*, *surefooted*, can travel underground)
 
 **Pony**
 
-3 HP, 0 Armor, 8 STR, 10 DEX, 8 WIL (*medium*)
+3 HP, 0 Armor, 8 STR, 12 DEX, 8 WIL, Load 6 (*medium*)
+
+**Draft Horse**
+
+5 HP, 0 Armor, 12 STR, 8 DEX, 10 WIL, Load 12 (*large*)
 
 **Riding Horse**
 
-4 HP, 0 Armor, 10 STR, 10 DEX, 10 WIL (*large*)
+4 HP, 0 Armor, 10 STR, 10 DEX, 8 WIL, Load 10(*large*)
 
 **Warhorse**
 
-6 HP, 0 Armor, 14 STR, 10 DEX, 12 WIL (*large*, *war-trained*)
+6 HP, 0 Armor, 14 STR, 10 DEX, 12 WIL, 12 Load (*large*)
 
