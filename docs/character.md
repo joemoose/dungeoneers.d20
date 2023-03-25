@@ -73,7 +73,7 @@ These starting traits may change as you adventure and further develop your chara
 
 Give your character a name and describe how they look. Choose one or two physical characteristics that people first notice.
 
-If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
+If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
 
 **Names Table**
 
@@ -248,7 +248,6 @@ Finally, roll d66 once or twice (your call) and consult the following table to s
 
 ## Step 7: Introductions
 
-Introduce your character to the other players, and prepare for adventure!
+Finally, create a short description of your character, preferably a sentence or so, and introduce your character to the other players in your party.
 
-Good luck, dungeoneer.
- 
+Good luck, dungeoneer!
