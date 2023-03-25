@@ -18,7 +18,7 @@ On to the mechanics!
 
 ## Attribute Checks
 
-When you describe your character doing something risky with an interesting but uncertain outcome, the GM may ask you to make an **attribute check**. The GM will describe possible complications or outcomes to help in your decision-making.
+When you describe your character doing something risky with an interesting but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
 To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
 
@@ -27,15 +27,15 @@ To make an attribute check, roll a **d20** and compare the result to the applica
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer capable of doing almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check to determine an outcome, how do we determine which attribute to roll against?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check to determine an outcome, how do we decide which attribute to roll against?
 
-Your description of the action determines the applicable attribute. Consider a locked castle door—how do you pass through it? If you break out a crowbar and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
+Your description of your character’s actions determines the applicable attribute. Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
-Don’t think about what your character is capable of, but rather *how* they would approach a problem. Play to all of your character’s and the adventuring party’s available resources.
+Don’t think about what your character is capable of, but rather *how* they would approach a problem. Use all of your character’s resources.
 
 ### Critical Success and Failure
 
-Rolling the **exact attribute score** on a check is a **critical success**, and the outcome will be better than expected. Increase your LUCK attribute score by 1.
+Rolling the **exact attribute score** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
 Conversely, rolling a **20** is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
 
@@ -46,7 +46,12 @@ The primary way to modify your attribute checks is through vantages: favorable s
 !!! note "Notes"
 
 	- If you have multiple advantages or disadvantages, you take only one—they don't stack.
+	- However, if an action has multiple advantages without any disadvantages, it may no longer be risky and succeed automatically, per the GM.
 	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
+	
+!!! Tip
+
+	Always look to gain an advantage over opponents and situations!
 
 ### Trained Rolls
 
@@ -54,9 +59,9 @@ If your character’s former vocation or specialization could apply to your curr
 
 !!! info "Examples"
 
-	A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
+	- A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
 	
-	A former mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
+	- A former mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
 
 ## Luck
 
@@ -67,6 +72,10 @@ The GM may sometimes call for a LUCK check if an outcome is random and your othe
 !!! note
 
 		Luck applies only to player characters, not hirelings, monsters, or any other non-player characters controlled by the GM.
+		
+!!! tip
+
+	Burn your LUCK in dire situations; don't hoard it. A dead player character with remaining luck was not a well-played character.
 
 ## Time
 

@@ -59,7 +59,7 @@ Declare actions before rolling dice. A **fast** round is a single action. A **sl
 
 - Once HP is depleted, take damage to STR.
 - After taking STR damage, make a STR check. On failure, take a *Wounded* constraint and become incapacitated.
-- If STR is reduced to zero, you die.   
+- If any attribute besides LUCK is reduced to zero, you die.   
 
 ## Healing
 
@@ -69,9 +69,9 @@ Declare actions before rolling dice. A **fast** round is a single action. A **sl
 
 ## Spells
 
-Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each essence invested:
+Invest **1–3 anima** (up to the remaining uses) and roll **d6** for each anima invested:
 
-- Mark essence usage for each **1 or 2** rolled.  
+- Mark anima usage for each **1 or 2** rolled.  
 - For every **1 rolled**, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.
 - The spell effect is determined by the number of dice rolled and the sum.
   
@@ -79,5 +79,5 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
 
 - Maximum of **12** inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
 - Items in the backpack require an action to retrieve during combat.
-- Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 5 in a slot.
+- Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 3 in a slot.
 

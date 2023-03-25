@@ -12,13 +12,13 @@ Your character has **12** inventory slots to carry items: 2 hand slots, 4 body s
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
 
-Most items take up one inventory slot. Some bulky items, such as armor or two-handed weapons, take up two slots. Smaller items may be generally bundled five or so into a single slot.
+Most items take up one inventory slot. Some bulky items, such as armor or two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
 
 Your character can’t carry more items than their inventory allows. Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
 
 ## Coins
 
-Your character can carry up to 50 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
+Your character can carry up to 100 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
 
 ## Constraints
 

@@ -53,7 +53,14 @@ After determining who’s rounds will be fast or slow, the order for resolving a
 
 !!! note
 
-	A new initiative order is determined at the beginning of every round of combat. If you'd like to use a more straightforward initiative system, see the [Appendix](appendix-d.md).
+	A new initiative order is determined at the beginning of every round of combat.
+
+!!! tip "Tips"
+
+	Use fast rounds tactically.
+	
+	- If the GM indicates your opponent will take a slow round, you can act first with a single decisive action as a fast round.
+	- Beware: intelligent opponents will be doing this to you as well.
 
 ## Attacks
 
@@ -106,6 +113,10 @@ Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or 
 !!! tip
 
 	A clever gambit might end a battle before it even begins. Combat isn't a sport. Fight dirty!
+	
+### Suffering a Gamit
+
+Clever opponents will try and use gambits on you. If so, the GM gives you a choice: either suffer the effect of the gambit or take damage from the attack.
 
 ## Advantage in Combat
 
@@ -116,14 +127,26 @@ When a character has an advantage against an opponent, you can apply your advant
 !!! note
 
 	If you apply a combat advantage to your damage roll, roll only your primary weapon’s damage die twice, taking the best result. If you have any bonus damage dice on your attack, bonus dice are not rolled twice. Bonus damage dice rolls are only rolled once and not modified by combat advantage.
+	
+!!! tip
+	
+	If you find yourself at a disadvantage in combat, your opponents will exploit their advantage to the fullest. Consider a withdrawal or try new tactics.
 
 ## Ranged Attacks
 
 Ranged weapons can’t be used if you’re in the same zone as your target.
 
+!!! Tip
+
+	Always carry a backup melee weapon in a body inventory slot.
+
 ### Aiming
 
 Taking two actions to aim allows a character to ignore the target’s armor with a ranged weapon the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
+
+!!! Tip
+
+	Ask an ally to defend you while you aim.
 
 ## Subdual
 

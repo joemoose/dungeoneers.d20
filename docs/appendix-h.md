@@ -110,15 +110,15 @@ Anyone can cast magic from spell tablets and relics. Sorcerers, however, possess
 
 You can alter the world through sheer force of will and your body’s consumption. Reality is yours to command.
 
-#### Essence
+#### Anima
 
-Your sorcerous power requires you to expend at least one attribute point of STR, DEX, WIL, or LUCK as essence to fuel your powers. The more of your body you sacrifice, the greater the essence consumed and the greater the magnitude of the power unleashed.
+Your sorcerous power requires you to expend at least one attribute point of STR, DEX, WIL, or LUCK as anima to fuel your powers. The more of your body you sacrifice, the greater the anima consumed and the greater the magnitude of the power unleashed.
 
-Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. A critical damage check is unnecessary when losing an attribute score for essence. 
+Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. A critical damage check is unnecessary when losing an attribute score for anima. 
 
 #### Invoking Powers
 
-**To invoke a sorcerous power**, take two actions, sacrifice at least one point of an attribute score for essence, and make a WIL check.
+**To invoke a sorcerous power**, take two actions, sacrifice at least one point of an attribute score for anima, and make a WIL check.
 
 - If the check succeeds, the power manifests as you intended.
 - The power does not materialize on a failure; you must then make a **corruption check** to avoid the resulting sorcerous backlash within you.
@@ -135,9 +135,9 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **ALTER**
 
-	Make a declarative statement affecting one creature or object you can see. The statement is valid for as many rounds as essence spent. The alteration can not cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
+	Make a declarative statement affecting one creature or object you can see. The statement is valid for as many rounds as anima spent. The alteration can not cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
 
-	The maximum size or weight of the creature or object to be altered is that of the sorcerer. For each additional essence, you can double the size or weight altered.  
+	The maximum size or weight of the creature or object to be altered is that of the sorcerer. For each additional anima, you can double the size or weight altered.  
 
 	!!! info "Examples"
 
@@ -147,37 +147,37 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **CREATE**
 
-	Bring forth a creation. The creature or object created exists for as many rounds equal to *twice* the essence spent. The creation is, at most, the size or weight of the sorcerer. For each additional essence, you can double the size or weight of your creation. 
+	Bring forth a creation. The creature or object created exists for as many rounds equal to *twice* the anima spent. The creation is, at most, the size or weight of the sorcerer. For each additional anima, you can double the size or weight of your creation. 
 
-	More essence can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations can not deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks, etc.), but these objects do not deal magical damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
+	More anima can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations can not deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks, etc.), but these objects do not deal magical damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
 	
 	!!! info "Example"
 	
-		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three essences (the rug is about his size and can *magically fly* for *2 rounds*).
+		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three animas (the rug is about his size and can *magically fly* for *2 rounds*).
 
 - **HARM**
 
-	Deal d6 damage per essence spent to one target that you can see. Creatures and magical objects can make an attribute check to mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another essence for each additional target affected.
+	Deal d6 damage per anima spent to one target that you can see. Creatures and magical objects can make an attribute check to mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another anima for each additional target affected.
 	
 	!!! info "Example"
 		
-		Zathar sacrifices two essence. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
+		Zathar sacrifices two anima. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
 
 - **SOUL SIGHT**
 
-	You can see as many creatures’ souls as essence spent if you concentrate exclusively on observing and do not move. Soul sight allows you to sense the location of invisible creatures. You can also immediately discern whether a person is possessed, undead, protected by the gods, lying, a spellcaster, or in any other meta-physiological state.
+	You can see as many creatures’ souls as anima spent if you concentrate exclusively on observing and do not move. Soul sight allows you to sense the location of invisible creatures. You can also immediately discern whether a person is possessed, undead, protected by the gods, lying, a spellcaster, or in any other meta-physiological state.
 
 - **WARD**
 
-	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as essence spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack. The maximum size of the target warded is that of the sorcerer. For each additional essence expended, the size can be doubled,
+	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as anima spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack. The maximum size of the target warded is that of the sorcerer. For each additional anima expended, the size can be doubled,
 
 ### Dark Magic
 
-The essence required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their corruption level immediately by 1. A corruption check is required regardless of whether the invocation succeeds.
+The anima required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their corruption level immediately by 1. A corruption check is required regardless of whether the invocation succeeds.
 
-Dark magic is not as efficient as draining essence from the sorcerer’s own body; two attribute points must be sacrificed from the host for one essence. The essence drained from the host can be combined with that from the sorcerer.
+Dark magic is not as efficient as draining anima from the sorcerer’s own body; two attribute points must be sacrificed from the host for one anima. The anima drained from the host can be combined with that from the sorcerer.
 
-If essence is drained from an unwilling victim, the victim must be restrained and, assuming they are conscious, can make an attribute check to resist the loss.
+If anima is drained from an unwilling victim, the victim must be restrained and, assuming they are conscious, can make an attribute check to resist the loss.
 
 ---
 

@@ -4,25 +4,25 @@
 
 Damage is first dealt to your **Hit Points** (HP). HP represents your ability to avoid or shrug off harm.
 
-Once your HP is depleted, damage is dealt to your **STR attribute**. Damage to STR is potentially grievous harm.
+Once your HP is depleted, all damage is dealt to your **Strength attribute**. Damage to STR is potentially grievous harm.
 
 After taking STR damage, you must make a STR check. If the check succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
+!!! Note
+
+		Attacks from some unique creatures or spells might damage other attributes besides STR. A critical damage roll is still required but against the damaged attribute rather than STR.
+
 ## Critical Damage
 
-When you suffer critical damage, you’re knocked unconscious, incapacitated, and take a *Wounded* constraint. You remain incapacitated until revived by an ally. Even after you’re revived, the *Wounded* constraint remains until it’s cleared.
+When you suffer critical damage, you’re knocked out and take a *Wounded* constraint. You remain incapacitated until revived by an ally. Even after you’re revived, your HP remains at zero (unless you received healing), and the *Wounded* constraint remains until it’s cleared.
 
 If you’re left incapacitated for an hour, your character dies.
 
 ## Attribute Loss and Death
 
-If your STR is reduced to zero, your character is dead. If your DEX is reduced to zero, you’re paralyzed. If your WIL is reduced to zero, you fall into an unresponsive stupor. All attribute checks have a disadvantage if your LUCK is reduced to zero.
+If any attribute score is reduced to **zero**, you **die**. LUCK is an exception: all attribute checks are disadvantaged if your LUCK is reduced to zero.
 
 If your character dies, create a new one. The GM will bring them into the game as quickly as possible. Alternatively, you can take over playing one of your hirelings. You can still create a new character later if you choose.
-
-!!! Note
-
-		Attacks from some creatures or spells may damage other attributes besides STR. A critical damage roll is required but against the damaged attribute rather than STR.
 
 ## Healing
 

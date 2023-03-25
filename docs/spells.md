@@ -4,29 +4,33 @@
 
 Spells are living, sentient spirits bound within rune-etched obsidian or metal tablets. Spell tablets are rare and found in forgotten places, such as dungeons, ancient tombs, or dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
 
-## Essence
+## Anima
 
-A tablet has three units of arcane energy or **essence** to power the spell it contains. Essence is volatile and can be depleted from a tablet by casting its spell. The more essence you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s essence. Once all three essence are depleted from a tablet, the spell can no longer be cast.
+A tablet has three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted from a tablet by casting its spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three anima are depleted from a tablet, the spell can no longer be cast.
 
 ## Casting a Spell
 
 To cast a spell, your character must hold the tablet in one hand and recite the inscribed incantations aloud.
 
-1. Declare how much essence you’ll use when casting the spell, up to the maximum number remaining in the tablet.
+1. Declare how much anima you’ll use when casting the spell, up to the maximum number remaining in the tablet.
 
-2. Roll as many **d6** equal to the number of essence used. Mark off one essence from the tablet for each **1 or 2** rolled. 
+2. Roll as many **d6** equal to the number of anima used. Mark off one anima from the tablet for each **1 or 2** rolled. 
 
 3. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
 
 ## Recharging a Spell
 
-Once all three essence in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three essence. 
+Once all three anima in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three anima. 
 
 ## Miscasting a Spell
 
-Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your caster’s focus and mental energies. For each 1 rolled, in addition to using up an essence, the caster takes **d6** damage to their WIL and must roll a WIL check. If failed, the caster takes a *Dazed* constraint.
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima, the caster takes **d6** damage to their WIL and must roll a WIL check. If failed, the caster takes a *Dazed* constraint.
 
 The spell still manifests, though at a cost to the caster.
+
+!!! Tip
+
+	Use great care when casting spells with a damaged Willpower attribute. Your character dies if STR, DEX, *or WIL* is reduced to zero.
 
 ## Selling a Spell
 
@@ -36,7 +40,7 @@ A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a larg
 
 In the following spell descriptions:
 
-- [DICE] is the number of dice rolled equal to the essence used to cast the spell.
+- [DICE] is the number of dice rolled equal to the anima used to cast the spell.
 - [SUM] is the sum of the dice rolled.
 
 A spell’s effect is based on the [DICE] and [SUM] values.
@@ -45,7 +49,7 @@ A spell’s effect is based on the [DICE] and [SUM] values.
 
 	The Darkness spell creates a [SUM] x 10-foot diameter sphere of absolute darkness for [DICE] turns.
 
-	If two essence are used to cast Darkness, and the result of the 2d6 roll is 6, the spell creates a sphere 60 feet wide for 2 turns. 
+	If two anima are used to cast Darkness, and the result of the 2d6 roll is 6, the spell creates a sphere 60 feet wide for 2 turns. 
 
 | d66 | Spell | Effect | Recharge |
 | :-: | :--- | :----- | :------- |
