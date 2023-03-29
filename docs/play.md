@@ -18,7 +18,7 @@ On to the mechanics!
 
 ## Attribute Checks
 
-When you describe your character doing something risky with an interesting but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
+When you describe your character doing something risky with an exciting but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
 To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
 
@@ -47,7 +47,7 @@ The primary way to modify your attribute checks is through vantages: favorable s
 
 	- If you have multiple advantages or disadvantages, you take only one—they don't stack.
 	- However, if an action has multiple advantages without any disadvantages, it may no longer be risky and succeed automatically, per the GM.
-	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
+	- If you are in a situation with advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
 	
 !!! Tip
 
@@ -65,13 +65,16 @@ If your character’s former vocation or specialization could apply to your curr
 
 ## Luck
 
-You can decrease (burn) your LUCK attribute score to change the dice roll results for other attribute checks. Add or remove the amount of LUCK you want to burn from the result of an attribute check. Be warned: running out of LUCK (the score becoming zero) will cause all your dice rolls to have a disadvantage and possibly other woeful effects. LUCK can’t be less than zero.
+You can decrease (burn) your LUCK attribute score to change the results of dice rolls. Remove one point of LUCK for each point you want to add or remove from the results of any dice roll. Your LUCK score can’t be decreased to less than zero.
 
-The GM may sometimes call for a LUCK check if an outcome is random and your other attributes don’t apply.
+Be warned: running out of LUCK (the score becoming zero) will cause your dice rolls to have a disadvantage and possibly other woeful effects, per the GM.
 
-!!! note
+The LUCK attribute applies only to player characters, not hirelings, monsters, or other non-player characters controlled by the GM.
 
-		Luck applies only to player characters, not hirelings, monsters, or any other non-player characters controlled by the GM.
+!!! note 
+
+		- If burning your LUCK changes the results of an attribute check to the score required for a critical success or failure, the roll *does not* become a critical result. Critical successes and failures occur only on natural dice rolls—before applying any LUCK modifiers.
+		- The same holds for critical damage. If burning your LUCK changes the damage to a weapon's maximum, the attack *is not* considered a critical hit. Critical hits occur only on natural rolls of a weapon's maximum damage.
 		
 !!! tip
 

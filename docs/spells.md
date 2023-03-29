@@ -30,7 +30,7 @@ The spell still manifests, though at a cost to the caster.
 
 !!! Tip
 
-	Use great care when casting spells with a damaged Willpower attribute. Your character dies if STR, DEX, *or WIL* is reduced to zero.
+	Use great care when casting spells with a damaged Willpower attribute. Your character dies if STR, DEX, or *WIL* is reduced to zero.
 
 ## Selling a Spell
 

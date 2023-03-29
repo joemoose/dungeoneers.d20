@@ -74,7 +74,7 @@ At the beginning of each game session, add +1 to your LUCK.
 
 You have a variety of unique abilities. When you first create your character and **every time you gain a new level**, choose one talent from the following list or gain **mastery** of a talent you already know.
 
-- **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double your damage after first reducing it by the armor rating if any.
+- **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double your damage after first reducing it by the armor rating, if any.
 
 	**Mastery**: During combat, as part of your attack, you can make a DEX *or* WIL check against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
 
@@ -147,7 +147,7 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **CREATE**
 
-	Bring forth a creation. The creature or object created exists for as many rounds equal to *twice* the anima spent. The creation is, at most, the size or weight of the sorcerer. For each additional anima, you can double the size or weight of your creation. 
+	Bring forth a creation. The creature or object created exists for as many rounds equal to *twice* the anima spent. The creation is, at most, the size or weight of the sorcerer. You can double the size or weight of your creation for each additional anima. 
 
 	More anima can be sacrificed to imbue the creation with specific properties or powers beyond its basic form. Creations can not deal damage directly (use Harm), nor are they sentient. You can create objects with magical effects (flying carpets, invisibility cloaks, etc.), but these objects do not deal magical damage or provide permanent results. For example, HP restored from an invoked healing potion lasts only for the duration of your invocation.
 	
@@ -274,44 +274,44 @@ Roll **d20 +your corruption level** and consult the following table.
 
 #### Cacogenic Mutation
 
-| d66 | Mutation | Description 
-| :-: | :-- | :--
-11 | Acid Blood | Your blood is caustic. 
-12 | Adhesive Touch | Your hands and feet stick to sheer surfaces. 
-13 | Antlers | You have antlers like an elk or moose. 
-14 | Armor | Your body is protected by natural armor. Add +1 armor rating. 
-15 | Beak | You have a bird-like beak for a mouth. 
-16 | Bioluminescence | Your body can produce a faint glow. 
-21 | Chameleon Skin | Your skin matches its surroundings. 
-22 | Claws, Crab | One or both hands are crab-like claws. 
-23 | Clubfoot | One foot is larger and heavier than the other. 
-24 | Crest, Feathers | You have a crest of feathers on your head. 
-25 | Echolocation | You can “see” in darkness using echoes. 
-26 | Extra arms | You have more arms than normal. 
-31 | Fangs, Venomous | You have a poisonous bite. 
-32 | Frog Tongue | You have a long sticky tongue that can grab small objects. 
-33 | Fur | You are covered in fur. 
-34 | Gills | You have gills and can breathe in water. 
-35 | Heat Vision | You can see heat signatures. 
-36 | Heightened Eyesight | You have extremely sharp eyesight. 
-41 | Heightened Hearing | You have extremely sharp hearing. 
-42 | Heightened Smell | You have sensitive smell receptors. 
-43 | Hook, Climbing | You have hook-like protrusions on your limbs. 
-44 | Horns, Ram | You have ram-like horns. 
-45 | Huge Beard | You have a gigantic, fast-growing beard. 
-46 | Humpback | You have a hump like a camel, which stores water. 
-51 | Ink Ducts | You can spray ink like a squid. 
-52 | Malleable Body | Your body is rubbery and malleable; you can fit into tight gaps.
-53 | Pleasant Fragrance | Your scent is pleasing to all. 
-54 | Poison Injector | You have a poison injector in your body. 
-55 | Powerful Jaws | You could bite through metal. 
-56 | Prehensile Feet | Your feet can grip objects like your hands. 
-61 | Scaly Skin | Your skin is thick and scaly; add +1 to your armor. 
-62 | Tail, Prehensile | You have a long, thin tail that can grip objects. 
-63 | Toxic Flesh | Your flesh is toxic when eaten. 
-64 | Vocal Mimic | You can mimic other voices or sounds perfectly. 
-65 | Warty Skin | Your skin is thick and warty. Add +1 to your armor rating. 
-66 | Whiskers | You have sensitive whiskers like a cat. 
+| d66 | Mutation | Description |
+| :-: | :-- | :-- |
+| 11 | Acid Blood | Your blood is caustic. |
+| 12 | Adhesive Touch | Your hands and feet stick to sheer surfaces. |
+| 13 | Antlers | You have antlers like an elk or moose. |
+| 14 | Armor | Your body is protected by natural armor. Add +1 armor rating. |
+| 15 | Beak | You have a bird-like beak for a mouth. |
+| 16 | Bioluminescence | Your body can produce a faint glow. |
+| 21 | Chameleon Skin | Your skin matches its surroundings. |
+| 22 | Claws, Crab | One or both hands are crab-like claws. |
+| 23 | Clubfoot | One foot is larger and heavier than the other. |
+| 24 | Crest, Feathers | You have a crest of feathers on your head. |
+| 25 | Echolocation | You can “see” in darkness using echoes. |
+| 26 | Extra arms | You have more arms than normal. |
+| 31 | Fangs, Venomous | You have a poisonous bite. |
+| 32 | Frog Tongue | You have a long sticky tongue that can grab small objects. |
+| 33 | Fur | You are covered in fur. |
+| 34 | Gills | You have gills and can breathe in water. |
+| 35 | Heat Vision | You can see heat signatures. |
+| 36 | Heightened Eyesight | You have extremely sharp eyesight. |
+| 41 | Heightened Hearing | You have extremely sharp hearing. |
+| 42 | Heightened Smell | You have sensitive smell receptors. |
+| 43 | Hook, Climbing | You have hook-like protrusions on your limbs. |
+| 44 | Horns, Ram | You have ram-like horns. |
+| 45 | Huge Beard | You have a gigantic, fast-growing beard. |
+| 46 | Humpback | You have a hump like a camel, which stores water. |
+| 51 | Ink Ducts | You can spray ink like a squid. |
+| 52 | Malleable Body | Your body is rubbery and malleable; you can fit into tight gaps. |
+| 53 | Pleasant Fragrance | Your scent is pleasing to all. |
+| 54 | Poison Injector | You have a poison injector in your body. |
+| 55 | Powerful Jaws | You could bite through metal. |
+| 56 | Prehensile Feet | Your feet can grip objects like your hands. |
+| 61 | Scaly Skin | Your skin is thick and scaly; add +1 to your armor. |
+| 62 | Tail, Prehensile | You have a long, thin tail that can grip objects. | 
+| 63 | Toxic Flesh | Your flesh is toxic when eaten. |
+| 64 | Vocal Mimic | You can mimic other voices or sounds perfectly. |
+| 65 | Warty Skin | Your skin is thick and warty. Add +1 to your armor rating. |
+| 66 | Whiskers | You have sensitive whiskers like a cat. |
 
 #### Vitiations
 

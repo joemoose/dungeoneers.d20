@@ -9,7 +9,7 @@ Dragonpowder gonnes are expensive, exotic, and very loud. Wielded by the rich or
 All dragonpowder gonnes have the following characteristics:
 
 - **Armor piercing**: Damage ignores three armor ratings; as with other weapons, a critical damage roll ignores all armor.
-- **Dangerous**: Gonnes always includes a bonus damage die. If you roll **double 1s** on a gonne’s damage and bonus damage dice roll, a misfire occurs, and your target suffers no harm. Consult the following Misfire Table for the result.
+- **Dangerous**: Gonnes always includes a bonus damage die. If you roll **double 1s** on a one’s damage and bonus damage dice roll, a misfire occurs, and your target suffers no harm. Consult the following Misfire Table for the result.
 - **Noisy**: Igniting dragonpowder has loud and explosive results. Animals flee when hearing the shot. Intelligent creatures will notice and investigate.
 - **Slow**: After attacking with a gonne, it must be reloaded. Reloading requires both hands and two actions per shot loaded. 
 
