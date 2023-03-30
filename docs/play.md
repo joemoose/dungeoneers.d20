@@ -12,7 +12,7 @@ Suppose the outcome of your character’s actions isn’t immediately apparent, 
 
 Everyone at the table, players and GM, should feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, won't ever be in the game, and might be in the game but only in passing. 
 
-Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. Drop that topic from the game if a “stop” is called; don't debate its merits.
+Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a “stop” is called, drop that topic from the game and steer the narrative to a different situation; don't debate its merits.
 
 On to the mechanics!
 
