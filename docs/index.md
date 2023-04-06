@@ -3,7 +3,7 @@
 <center>
 *DUNGEONEERS*  
 <br/>
-*A Picaresque Adventure Game for Errant Rogues*  
+*A Retro Roleplaying Game for Errant Rogues*  
 *by Zachary Taylor*  
 <br/>
 *–Player’s Guide–*  
@@ -17,7 +17,7 @@ DUNGEONEERS is a minimalist rules system for playing old-school tabletop fantasy
 
 ---
 
-Welcome to Dungeoneers! This guide is for players—it’s the resource I hand to new players at my table. It contains all the information you need to create your character, equip them, and head out on adventures.
+Welcome to Dungeoneers! This guide is for players. It’s the resource I hand to new players at my table. It contains all the information you need to create your character, equip them, and head out on adventures.
 
 If you’re new to tabletop roleplaying games, I’d suggest you read [*Fundamentals of Tabletop Roleplaying*](https://levikornelsen.itch.io/fundamentals-of-tabletop-roleplaying) by Levi Kornelsen. Kornelsen provides a clear introduction to all aspects of this type of game, and his book is a good resource for anyone starting the hobby.
 
