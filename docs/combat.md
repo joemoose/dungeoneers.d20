@@ -6,7 +6,7 @@ Combat is dangerous, and wise adventurers, or those who’d like a long career, 
 
 ## Actions
 
-In a single round of combat, your character can take up to **two** actions. Actions include attacking, moving to an adjacent zone, casting a spell, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
+In a single round of combat, your character can take up to **two** actions. Actions include attacking, moving to an adjacent zone, casting a spell, swinging from a chandelier, or anything within reason based on your character’s resources and situation. However, an attack can occur only once in any given round.
 
 ## Initiative
 
@@ -33,9 +33,9 @@ A **fast** round consists of taking only a **single action**, such as:
 
 A **slow** round consists of taking **two actions**, such as:
 
+- Called shot
 - Moving twice
-- Attacking twice
-- Aiming a ranged weapon
+- Making a precise attack
 - Forming up a shield wall
 - Attacking then disengaging
 - Reviving an incapacitated ally
@@ -135,10 +135,14 @@ When a character has an advantage against an opponent, you can apply your advant
 !!! tip
 	
 	If you find yourself at a disadvantage in combat, your opponents will exploit their advantage to the fullest. Consider a withdrawal or try new tactics.
+	
+### Precise Attacks
 
-## Aiming
+Spending two actions on a single attack gives you an advantage on your damage rolls.
 
-Taking two actions to aim allows a character to ignore the target’s armor with a ranged weapon the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
+## Called Shots
+
+Taking two actions to aim a ranged weapon allows a character to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
 
 !!! Tip
 
