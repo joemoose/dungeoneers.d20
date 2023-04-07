@@ -207,7 +207,7 @@ When a 1 or 2 is rolled on a d4 usage die, the crate is emptied.
 
 !!! info "Example"
 
-	A player takes two healer’s kits from a new medicine crate. The usage die is d10. After taking out the first kit, the player rolls an eight on the usage check. The medicine crate’s usage die remains at d10. After taking out the second kit, the player rolls a one. The crate’s usage die now drops to d8.
+	A player takes two healer’s kits from a new medicine crate. The usage die is d10. After removing the first kit, the player rolls an eight on the usage check. The medicine crate’s usage die remains at d10. After taking out the second kit, the player rolls a one. The crate’s usage die now drops to d8.
 
 ### Other Crates
 
