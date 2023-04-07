@@ -48,8 +48,12 @@ A **slow** round consists of taking **two actions**, such as:
 After determining who’s rounds will be fast or slow, the order for resolving actions is as follows:
 
 1. Resolve all fast rounds before slow rounds.
-2. If players and opponents both have a fast round, the player must make a DEX *or* WIL check to act before the opponents. Otherwise, they act after the opponents.
-3. If players and opponents both have a slow round, the player must make a DEX *or* WIL check to act before the opponents. Otherwise, they act after the opponents.
+2. Melee attacks act before ranged attacks for opponents targetting each other in the same round.
+3. If players and opponents both act in the same *fast* or *slow* round, the player must make a DEX *or* WIL check to act before the opponents. Otherwise, they act after the opponents.
+
+!!! example
+
+	For example, a player and their opponent attack each other using a fast round (single action) with swords (melee). The player must make a DEX or WIL check to attack first. The player would have gone first automatically if the opponent had used a crossbow (ranged) or taken two actions (slow round).
 
 !!! note
 
@@ -132,15 +136,7 @@ When a character has an advantage against an opponent, you can apply your advant
 	
 	If you find yourself at a disadvantage in combat, your opponents will exploit their advantage to the fullest. Consider a withdrawal or try new tactics.
 
-## Ranged Attacks
-
-Ranged weapons can’t be used if you’re in the same zone as your target.
-
-!!! Tip
-
-	Always carry a backup melee weapon in a body inventory slot.
-
-### Aiming
+## Aiming
 
 Taking two actions to aim allows a character to ignore the target’s armor with a ranged weapon the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
 
