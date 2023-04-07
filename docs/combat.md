@@ -12,11 +12,11 @@ In a single round of combat, your character can take up to **two** actions. Acti
 
 When combat breaks out, a turn order must first be established for all the combatants. Turns allow every player to participate (no hogging the limelight) and provide tactical opportunities during combat.
 
-### Declaring Actions
+### Step 1: Declaring Actions
 
 At the beginning of every round, the GM describes the actions likely taken by your opponents. All players then declare their character’s intentions for the round before rolling any dice. 
 
-### Determining Fast and Slow Rounds
+### Step 2: Determining Fast and Slow Rounds
 
 Next, determine whether the declared actions involve a *fast* or *slow* round.
 
@@ -43,7 +43,7 @@ A **slow** round consists of taking **two actions**, such as:
 - Concentrating on maintaining an ongoing spell
 - Retrieving a weapon from a backpack, then attacking
 
-### Setting Turn Order and Resolving Actions
+### Step 3: Setting Turn Order and Resolving Actions
 
 After determining who’s rounds will be fast or slow, the order for resolving actions is as follows:
 
@@ -51,9 +51,9 @@ After determining who’s rounds will be fast or slow, the order for resolving a
 2. Melee attacks act before ranged attacks for opponents targetting each other in the same round.
 3. If players and opponents both act in the same *fast* or *slow* round, the player must make a DEX *or* WIL check to act before the opponents. Otherwise, they act after the opponents.
 
-!!! example
+!!! info "Example"
 
-	For example, a player and their opponent attack each other using a fast round (single action) with swords (melee). The player must make a DEX or WIL check to attack first. The player would have gone first automatically if the opponent had used a crossbow (ranged) or taken two actions (slow round).
+	A player and their opponent attack each other using a fast round (single action) with swords (melee). The player must make a DEX or WIL check to attack first. The player would have gone first automatically if the opponent had used a crossbow (ranged) or taken two actions (slow round).
 
 !!! note
 
@@ -146,11 +146,11 @@ Taking two actions to aim allows a character to ignore the target’s armor with
 
 ## Subdual
 
-Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An opponent who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
+Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An enemy who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
 ## Morale
 
-When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail morale immediately surrender or attempt to flee. 
+When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail morale immediately surrender or rout and attempt to flee. 
 
 Lone foes must pass a morale check when reduced to 0 HP.
 
