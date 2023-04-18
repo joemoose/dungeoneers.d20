@@ -65,7 +65,7 @@ Well-paid or loyal hirelings may make this check with an advantage.
 
 Hirelings can improve in the same way that your character does.
 
-Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, once they earn 1000 XP, they advance to Level 2.
+Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, after they earn 1000 XP, they advance to Level 2.
 
 Not receiving a share of treasure may cause resentment amongst hirelings.
 
