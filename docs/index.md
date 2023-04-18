@@ -9,7 +9,7 @@
 *–Player’s Guide–*  
 <br/>
 *Playtest Document v0.4*  
-*April 1, 2023*  
+*April 18, 2023*  
 </center>
 ---
 
