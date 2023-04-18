@@ -43,7 +43,7 @@ Learning new skills to gain an advantage on related attribute checks does not ha
 
 Acquiring new skills and knowledge afterward happens as part of your adventuring. Your character could hire mentors or experts to teach them new skills. Joining specialized groups, such as trade guilds, universities, or mercenary companies, could provide training. Your GM may award skills from quests, patrons, or other in-game opportunities.
 
-New skills and specialized knowledge are acquired as events in the narrative, not due to leveling up.
+New skills and specialized knowledge are acquired as events in the narrative, not from leveling up.
 
 ## Carousing
 

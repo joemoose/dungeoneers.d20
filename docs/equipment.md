@@ -95,7 +95,7 @@ Armor reduces the damage you suffer from an attack. A player character can have 
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
-- **Extreme Armor** includes the benefit of a helmet (advantage on STR checks to avoid critical damage) as part of the base armor. An additional helmet cannot be equipped.
+- **Massive Armor** includes the benefit of a helmet (advantage on STR checks to avoid critical damage) as part of the base armor. An additional helmet cannot be equipped.
 
 **Armor List**
 
@@ -153,7 +153,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 - _Bulky_: requires two inventory slots.
 - _Load_: Number of inventory slots available for storing items.
 - _Slow_: It takes minutes or more to use.
-- _Small_: Up to five small items can be stored in an inventory slot.
+- _Small_: Up to three small items can be stored in an inventory slot.
 - _n Uses_: It can only be used _n_ times.
 
 **Equipment List**

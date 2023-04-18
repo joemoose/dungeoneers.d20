@@ -52,20 +52,19 @@ After determining who’s rounds will be fast or slow, the order of phases for r
 
 **Note**: If players and opponents both act in the same phase of a fast or slow round, the player must make either a **DEX** or **WIL** check to act before the opponents. Otherwise, they act after the opponents.
 
-!!! info "Example”
+!!! info "Example"
 
 	A player and an opponent attack each other using fast actions (single AP) with swords (melee). The player must make a DEX or WIL check to attack first. The player would have gone first automatically if the opponent had cast a spell (magic) or taken a slow round, such as spending two AP to ready a weapon and then attack.
 
 !!! note
 
-	A new turn order is determined at the beginning of every round of combat.
+	A new turn order is established at the beginning of every round.
 
-!!! tip "Tips"
+!!! tip
 
 	Use fast rounds tactically.
 	
-	- If the GM indicates your opponent will likely take a slow round, you can act first with a single decisive action as a fast round.
-	- Beware: intelligent opponents will be doing this to you as well.
+	- If the GM indicates your opponent will take a slow round, you can act first with a single decisive action as a fast round.
 
 ## Attacks
 

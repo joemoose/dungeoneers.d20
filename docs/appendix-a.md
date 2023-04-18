@@ -57,9 +57,9 @@ Declare actions before rolling dice. A **fast** round is a single action. A **sl
 
 **Damage**: Dealt first to HP.
 
-- Once HP is depleted, take damage to STR.
-- After taking STR damage, make a STR check. On failure, take a *Wounded* constraint and become incapacitated.
-- If any attribute besides LUCK is reduced to zero, you die.   
+- Once HP is depleted, take damage to STR or DEX.
+- After taking STR or DEX damage, make the respective attribute check. On failure, take a *Wounded* constraint and become incapacitated.
+- If two attributes besides LUCK are reduced to zero, you die.   
 
 ## Healing
 

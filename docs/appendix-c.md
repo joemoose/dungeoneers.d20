@@ -18,7 +18,7 @@ The maximum size of the rider and the extra load carried in saddlebags depends o
 !!! note "Notes"
 
 	- If a mount has no rider, its maximum load is doubled.
-	- A mount bred and trained specifically for war or as a draft animal has a +2 load.
+	- A mount bred and trained specifically for war has a +2 load.
 	
 ## Traveling
 
