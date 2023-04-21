@@ -116,9 +116,10 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 - *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
 - *Long-range*: This weapon can attack a target up to three zones away.
+- *Offhand*: This weapon can be used as a dual weapon in the offhand.
 - *Short-range*: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
 - *Reach*: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent. 
-- *STR*: Using the weapon requires the minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
+- *STR*: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
 - *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
 - *Two-handed*: This weapon requires two hand slots.
 - *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both dice, take the best).
@@ -128,12 +129,12 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Weapon | Damage | Notes | Coins |
 | :----- | :----: | :---- | ---: |
 | Unarmed | d4 | Doesn't ignore armor on critical hits | - |
-| Cudgel | 2d3 | - | 5 |
+| Dagger | d4 | Offhand, Thrown | 15 |
+| Cudgel | 2d3 | Offhand | 5 |
 | Staff | 2d3/+d6 | Versatile | 10 |
-| Dagger | d6 | Thrown | 15 |
-| Spear | d6/+d6 | Versatile, Thrown | 15 |
-| Axe | d8 | Thrown | 20 |
-| Mace | 2d4 | - | 20 |
+| Spear | d6/+d6 | Thrown, Versatile | 15 |
+| Axe | d8/+d8 | Thrown, Versatile | 20 |
+| Mace | 2d4/+d8 | Versatile | 20 |
 | Sword | d8/+d8 | Versatile | 30 |
 | Polearm | d10 | Two-handed, Reach| 40 |
 | Maul | 2d6 | Two-handed, STR 7+ | 30 |

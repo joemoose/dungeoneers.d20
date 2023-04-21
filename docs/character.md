@@ -8,7 +8,7 @@ You’re a newly minted adventurer: a tomb-raiding, treasure-seeking, door-kicki
 
 Create a little backstory for your character. You chose to become an adventurer for a reason—what is it?
 
-Choose or roll d20 in the following Backstory table to determine your former (failed) profession, and what misfortune befell you that pushed you into the life of adventuring.
+Choose or roll d20 in the following Backstory table to determine your former (failed) profession and what misfortune befell you that pushed you into the life of adventuring.
 
 Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. Don’t get too attached to your character; it’s a dangerous and uncertain world.
 
@@ -73,7 +73,7 @@ These starting traits may change as you adventure and further develop your chara
 
 Give your character a name and describe how they look. Choose one or two physical characteristics that people first notice.
 
-If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
+If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
 
 **Names Table**
 
@@ -183,7 +183,7 @@ Let’s see what equipment you’ve brought to your new adventuring life.
 
 Everyone starts with a heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
 
-Choose **two** more items from the following list. You may choose an item more than once.
+Choose **three** more items from the following list. You may choose an item more than once.
 
 - spear
 - shortbow and a quiver of arrows
@@ -203,7 +203,7 @@ Choose **two** more items from the following list. You may choose an item more t
 
 		See the [Equipment](equipment.md) section for more information on your gear.
 		
-Finally, roll d66 once or twice (your call) and consult the following table to select an odd souvenir or two you own. They may come in handy one day, or you can sell them for a few coins.
+Finally, roll d66 once and consult the following table to select an odd souvenir you own. It may come in handy one day, or you can sell it for a few coins.
 
 **Odd Items for Creative Problem-Solving**
 

@@ -12,13 +12,13 @@ Suppose the outcome of your character’s actions isn’t immediately apparent, 
 
 Everyone at the table, players and GM, should feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, won't ever be in the game, and might be in the game but only in passing. 
 
-Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a “stop” is called, drop that topic from the game and steer the narrative to a different situation; don't debate its merits.
+Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a “stop” is called, immediately drop that topic from the game and steer the narrative in a differetn direction; don't debate its merits.
 
 On to the mechanics!
 
 ## Attribute Checks
 
-When you describe your character doing something risky with an exciting but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
+When you describe your character doing something risky with an important but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
 To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
 
@@ -35,7 +35,7 @@ Don’t think about what your character is capable of, but rather *how* they wou
 
 ### Critical Success and Failure
 
-Rolling the **exact attribute score** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
+Rolling your **exact attribute score** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
 Conversely, rolling a **20** is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
 
@@ -47,7 +47,7 @@ The primary way to modify your attribute checks is through vantages: favorable s
 
 	- If you have multiple advantages or disadvantages, you take only one—they don't stack.
 	- However, if an action has multiple advantages without any disadvantages, it may no longer be risky and succeed automatically, per the GM.
-	- If you are in a situation with advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
+	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
 	
 !!! Tip
 
@@ -65,16 +65,11 @@ If your character’s former vocation or specialization could apply to your curr
 
 ## Luck
 
-You can decrease (burn) your LUCK attribute score to change the results of dice rolls. Remove one point of LUCK for each point you want to add or remove from the results of any dice roll. Your LUCK score can’t be decreased to less than zero.
+You can expend LUCK during play to change outcomes. Decrease (burn) your LUCK attribute score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. Your LUCK score can’t be decreased to less than zero.
 
-Be warned: running out of LUCK (the score becoming zero) will cause your dice rolls to have a disadvantage and possibly other woeful effects, per the GM.
+Be warned: if you run out of LUCK (the score becomes zero), all your attribute checks suffer a disadvantage. 
 
 The LUCK attribute applies only to player characters, not hirelings, monsters, or other non-player characters controlled by the GM.
-
-!!! note 
-
-		- If burning your LUCK changes the results of an attribute check to the score required for a critical success or failure, the roll *does not* become a critical result. Critical successes and failures occur only on natural dice rolls—before applying any LUCK modifiers.
-		- The same holds for critical damage. If burning your LUCK changes the damage to a weapon's maximum, the attack *is not* considered a critical hit. Critical hits occur only on natural rolls of a weapon's maximum damage.
 		
 !!! tip
 
@@ -120,3 +115,8 @@ The distance within and between zones is relative:
 - You can see it.
 - Too far away for verbal communication.
 - In range for *long-range* weapons.
+
+**Extreme**: Four zones away.
+
+- You might see it, but that’s about it.
+- It’s out of range for anything else.

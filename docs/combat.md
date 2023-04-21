@@ -2,69 +2,23 @@
 
 ## Introduction
 
-Combat is dangerous, and wise adventurers, or those who’d like a long career, seek to avoid it.
+Combat is dangerous, and wise adventurers, or at least those who’d like a long career, seek to avoid it.
 
 ## Actions
 
-At the beginning of each round of combat, your character can spend up to **two Action Points (AP)**. Action points represent the maximum number of actions you can take during a single round of combat. You can spend your AP on various actions (such as movement and attacks) in any order you choose (such as move, then attack; attack, then move; move or attack twice). After you use your AP, you’re done taking further action in the current round of combat.
+On your turn in a combat round, you can *move* and *take one action*. You decide whether you’ll move before you act or vice versa or forgo either. 
 
-The following list includes examples of actions you can perform using AP. Most actions require one AP; some require two, such as aiming a ranged weapon or focusing on an ongoing spell.
+Actions can include attacking, moving a second time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
 
-- climb, disengage, jump, go prone, move, or stand 
-- charge, defend, make a melee, ranged, or subdual attack, or ready a weapon
-- activate a relic, cast a spell, or focus on maintaining an ongoing spell
-- attempt to disarm or trip an opponent, interact with an object, retrieve an item from your pack, revive an incapacitated ally, or use a piece of equipment
+Minor actions, such as drawing a weapon from a body inventory slot, dropping to the ground, or shouting a command, are free actions that do not count as your single action for the round.
 
-Any action within reason based on your character’s resources and situation is possible.
+## Inititative
 
-## Turn Order
+When combat breaks out, a turn order must first be established for all the combatants. Turns allow every player to participate (no hogging the limelight) and provide tactical opportunities during combat.
 
-When combat breaks out, a turn order is established for all the combatants, both the players and their opponents. Turns allow every player to participate (no hogging the limelight) and provide tactical opportunities during combat. Actions are resolved one at a time in the turn order. Follow these steps to establish the turn order.
+If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a **DEX** or a **WIL** check to act before your opponents. Your opponents will all act on the same turn.
 
-### Step 1: Declare Actions
-
-The GM describes the opponents’ actions at the beginning of every combat round. All players then react and declare their character’s actions for the round before rolling any dice. 
-
-### Step 2: Determine Fast and Slow Rounds
-
-The declared actions are either ***fast*** or ***slow***.
-
-- **Fast** rounds consists of spending only **one** action point.
-- **Slow** rounds consists of spending **two** actions points.
-
-### Step 3: Set Turn Order and Resolve Actions
-
-After determining who’s rounds will be fast or slow, the order of phases for resolving actions is as follows:
-
-1. Resolve all **fast** rounds as follows:
-	1. ranged attacks
-	2. movement
-	3. melee attacks
-	4. magic attacks
-	5. remaining non-combat actions
-2. Resolve all **slow** rounds as follows:
-	1. ranged attacks
-	2. movement
-	3. melee attacks
-	4. magic attacks
-	5. remaining non-combat actions
-3. Resolve any **end-of-round** effects, typically conditions such as bleeding, burning, or spells with an area effect.
-
-**Note**: If players and opponents both act in the same phase of a fast or slow round, the player must make either a **DEX** or **WIL** check to act before the opponents. Otherwise, they act after the opponents.
-
-!!! info "Example"
-
-	A player and an opponent attack each other using fast actions (single AP) with swords (melee). The player must make a DEX or WIL check to attack first. The player would have gone first automatically if the opponent had cast a spell (magic) or taken a slow round, such as spending two AP to ready a weapon and then attack.
-
-!!! note
-
-	A new turn order is established at the beginning of every round.
-
-!!! tip
-
-	Use fast rounds tactically.
-	
-	- If the GM indicates your opponent will take a slow round, you can act first with a single decisive action as a fast round.
+At the beginning of each subsequent round of combat, make another DEX or WIL check to act before your opponents.
 
 ## Attacks
 
@@ -104,11 +58,13 @@ Attacks with the *blast* quality affect all targets in a zone, rolling damage se
 
 ## Defending
 
-If you take an action to focus exclusively on defending, you can make a DEX check to parry, block, or dodge subsequent melee attacks and avoid damage. You can’t defend against ranged attacks, spells, or attacks with the *blast* quality.
+If you take an action to focus exclusively on defending, you can make a DEX check to parry, block, or dodge subsequent a melee attack once per round and avoid damage. To defend against ranged attacks, you must have a shield equipped.
 
-A critical success on your defense check also allows you to make an immediate riposte attack on your opponent.
+You can’t defend against attacks with the *blast* quality. 
 
-You can also declare that you are defending another ally and attempt to defend against all attacks against them.
+A critical success on your defense check against a melee attack also allows you to make an immediate riposte attack on your opponent.
+
+You can also declare that you are defending another ally and attempt to defend against an attack against them.
 
 Defense ends if you take some other action.
 
@@ -122,7 +78,7 @@ Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or 
 	
 ### Suffering a Gamit
 
-Clever opponents will try and use gambits on you. If so, the GM gives you a choice: either suffer the effect of the gambit or take damage from the attack.
+Clever opponents will try and use gambits on you. If so, the GM gives you a choice: if you fail an attribute check to avoid the gambit, either suffer the effect of the gambit or take damage from the attack.
 
 ## Advantage in Combat
 
@@ -149,7 +105,7 @@ You cannot attack opponents in the same zone as you with a ranged weapon.
 
 ### Aimed Shots
 
-Spending two AP to aim a ranged weapon allows a character to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
+Taking an action to aim a ranged weapon allows a character to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
 
 !!! Tip
 

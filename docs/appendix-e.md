@@ -1,9 +1,9 @@
-# Appendix E: Simplified Initiative
+# Appendix E: Alternate Leveling
 
-If you prefer a more straightforward and faster method to establish a turn order when combat breaks out, follow this rule:
+---
 
-!!! info "Initiative"
+Rather than tracking experience points and leveling up based on the value of looted treasure and artifacts, you can tie your character’s level advancement to **essential milestones**, such as completing an expedition and returning to a settlement.
 
-	If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a DEX *or* WIL check to act before your opponents.  
-	
-	In following combat rounds, maintain this order.
+You’ll need to bring something of value back to show for your efforts or, at the very least, share an adventurous tale to be sung by bards.
+
+You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more milestones.
