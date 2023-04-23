@@ -21,7 +21,7 @@ Roll **d20** equal to or less than the applicable attribute:
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
-- **LUCK**: Tests of chance or fate; can burn points to modify other attribute checks.
+- **LUCK**: Tests of chance or fate; can burn a point to re-roll a check
 
 **Advantage & Disadvantage**
 
@@ -29,7 +29,7 @@ Roll **d20** equal to or less than the applicable attribute:
 
 **Critical Success**
 
-- Rolling the **exact** attribute score, a better-than-expected outcome. LUCK +1.
+- Rolling a **1** is better-than-expected outcome. LUCK +1.
 
 **Critical Failure**
 

@@ -12,13 +12,13 @@ Suppose the outcome of your character’s actions isn’t immediately apparent, 
 
 Everyone at the table, players and GM, should feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, won't ever be in the game, and might be in the game but only in passing. 
 
-Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a “stop” is called, immediately drop that topic from the game and steer the narrative in a differetn direction; don't debate its merits.
+Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a “stop” is called, immediately drop that topic from the game and steer the narrative differently; don't debate its merits.
 
 On to the mechanics!
 
 ## Attribute Checks
 
-When you describe your character doing something risky with an important but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
+When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
 To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
 
@@ -35,7 +35,7 @@ Don’t think about what your character is capable of, but rather *how* they wou
 
 ### Critical Success and Failure
 
-Rolling your **exact attribute score** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
+Rolling a **1** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
 Conversely, rolling a **20** is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
 
@@ -62,10 +62,22 @@ If your character’s former vocation or specialization could apply to your curr
 	- A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
 	
 	- A former mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
+	
+### Assistance
+
+Per the GM, allies can assist another player in an attribute check whenever feasible. The player making the check and all those coming to their aid make individual attribute checks; if a majority succeeds, the check is a success. Note that everyone involved suffers the potential consequences if the check fails.
+
+## Saving Throws
+
+Unlike many traditional roleplaying games, saving throws have no separate values. Instead, you’ll make a relevant attribute check if you are surprised by a harmful situation and must avoid or resist the threat.
+
+- **STR**: physical harm that *can’t* be dodged
+- **DEX**: physical harm that *can* be dodged
+- **WIL**: mental harm or distress, illusions, and mind-control effects
 
 ## Luck
 
-You can expend LUCK during play to change outcomes. Decrease (burn) your LUCK attribute score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. Your LUCK score can’t be decreased to less than zero.
+You can expend your LUCK attribute during play to change outcomes. Decrease (burn) your LUCK score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. Your LUCK score can’t be decreased to less than zero.
 
 Be warned: if you run out of LUCK (the score becomes zero), all your attribute checks suffer a disadvantage. 
 
@@ -74,6 +86,36 @@ The LUCK attribute applies only to player characters, not hirelings, monsters, o
 !!! tip
 
 	Burn your LUCK in dire situations; don't hoard it. A dead player character with remaining luck was not a well-played character.
+	
+### Restoring Your Luck
+
+Anytime you roll a critical success on an attribute check, your LUCK increases. Conversely, rolling a critical failure decreases your luck.
+
+Your LUCK score can also be increased when gaining new levels. See the [Levelling Up](advancement.md) section for details.
+
+## Reputation
+
+Your character’s reputation is measured on a scale of -6 to 6. Your character starts at zero. A zero value represents an ordinary person with no fame or notoriety who might do good or bad things. Whenever you do a virtuous or selfless deed, your reputation increases by 1. Whenever you do something vicious or selfish, your reputation decreases by 1. The GM decides when an action modifies your reputation. For example, rescuing a notable person would increase your reputation, whereas killing innocents would decrease your reputation.
+
+Your reputation will generally increase or decrease by 1 or 2 points by the end of a game session, depending on your character’s actions and accomplishments during the game.
+
+### Heros and Villians
+
+If your reputation reaches 6, your character is considered **heroic**. Heroic characters are no longer anonymous and are generally known throughout the land. Heroes are expected to solve social problems and do great deeds.
+
+However, if your reputation drops to -6, you are considered **villainous**. Like heroes, you are no longer anonymous, but authorities actively persecute villains and hold them accountable for all wrongdoings.
+
+Your status may also provide advantages or disadvantages on certain social actions, such as employing and commanding hirelings or the initial reactions from NPCs. New missions and quests may become available based on your status. Followers may also seek you out.
+
+### Boon Tokens
+
+Once you achieve the reputation of heroic or villainous, anytime you would modify your reputation further (greater than six for heroes or less than -6 for villains), you instead receive a **boon token**. You can hold up to two boon tokens.
+
+Spend your boon tokens with the GM anytime during play to gain unique benefits relevant to your status. A heroic boon could, for example, be used to enjoy free lodging and food in a town or receive an exotic gift or a vital piece of information from a friendly NPC. A villainous boon could enlist the services of an assassin’s guild, gain entry to a cult, or instill compliant fear in an NPC. Tokens could also be used for more practical matters, such as avoiding damage from an attack or increasing your LUCK. Both you and the GM can come up with ideas on how to spend your tokens.
+
+### Loss of Status
+
+Once you become a hero or a villain, you maintain that status and any boon tokens until your reputation returns to zero.
 
 ## Time
 
