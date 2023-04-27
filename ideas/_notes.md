@@ -100,3 +100,5 @@ Once the Doom die is depleted, the character is considered Doomed. All their att
 ~~Pin down~~
 
 ~~Push~~ 
+
+- “Roll high, under” and “trained rolls” mechanics adapted from *[Whitehack](https://whitehackrpg.wordpress.com)* by Christian Mehrstam.

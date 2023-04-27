@@ -18,7 +18,7 @@ When combat breaks out, a turn order must first be established for all the comba
 
 If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a **DEX** or a **WIL** check to act before your opponents. Your opponents will all act on the same turn.
 
-At the beginning of each subsequent round of combat, make another DEX or WIL check to act before your opponents.
+At the beginning of each subsequent round of combat, make a DEX or a WIL check to act before your opponents.
 
 ## Attacks
 
@@ -105,7 +105,7 @@ You cannot attack opponents in the same zone as you with a ranged weapon.
 
 ### Aimed Shots
 
-Taking an action to aim a ranged weapon allows a character to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
+Taking your action to aim a ranged weapon allows you to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
 
 !!! Tip
 

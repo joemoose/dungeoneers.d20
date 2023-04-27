@@ -171,6 +171,13 @@ Strength is a prime attribute for warriors. Dexterity serves stealth and thiever
 
 Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to your STR, DEX, and WIL.
 
+### Alternate Method of Assigning Scores
+
+If you prefer not to roll for your attribute scores, spend 44 points across STR, DEX, WIL, and LUCK as you see fit with the following provisions:
+
+- The maximum starting attribute score is 16.
+- LUCK can’t be higher than the other three attribute scores.
+
 ## Step 5: Hit Points
 
 Hit points (HP) represent the damage you can shrug off before suffering any actual harm. HP is easily and quickly restored.
@@ -191,12 +198,13 @@ Choose **three** more items from the following list. You may choose an item more
 - shield
 - gambeson (padded cloth armor)
 - 50 coins
+- bag of books
 - bottle of fine wine
 - fancy clothes
 - healer’s kit
+- a loyal animal companion (describe it)
 - musical instrument
 - pipe and pipeleaf
-- small but vicious dog
 - spell tablet (*selected randomly, see the [Spells](spells.md) section for a list )*
 
 !!! note
@@ -215,20 +223,20 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 | 14 | Vial of glowing liquid: briefly emits light equivalent to a candle when shaken vigorously but otherwise emits a dull green glow. It can be painted over things to make them glow with an unearthly greenish light. Worth 20 coins to an alchemist. |
 | 15 | Vial of strong, fast-drying glue. Capable of bonding just about anything, wood, stone, cloth, skin, etc. Worth 20 coins to a craftsman or alchemist. |
 | 16 | Box of shiny silver pins. It can pin things together or be scattered over the floor as improvised caltrops. Worth 20 coins to a tailor. |
-| 21 | A sturdy spyglass. It makes far-off things look closer. Worth 50 coins to a sailor. |
-| 22 | bag of marbles made from semi-precious stones to entertain some long-dead aristocratic child. Handy if you want to make something roll or make someone trip over. Worth 20 coins to wealthy people with small kids. |
+| 21 | Sturdy spyglass. It makes far-off things look closer. Worth 50 coins to a sailor. |
+| 22 | Bag of marbles made from semi-precious stones to entertain some long-dead aristocratic child. Handy if you want to make something roll or make someone trip over. Worth 20 coins to wealthy people with small kids. |
 | 23 | Wind-up clockwork music box. When cranked, it plays the same tune repeatedly until it winds down. Worth 20 coins 
 | 24 | Vial of strong-smelling perfume. Handy for leaving scent trails or masking your smell. Worth 20 coins to anyone vain or of high status. |
 | 25 | Box of perfumed candles with different scents and sizes. It can be lit in different combinations to create combinations of light and scent. It can also be squashed down into wax if you need to take an impression of something. Worth 20 coins in any large settlement. |
 | 26 | Lodestone (magnet) on a stick. Worth 20 coins to an alchemist or engineer. |
 | 31 | Fashionable chopines (platform shoes) with eight-inch wooden platforms. Handy if the floor is six inches deep in something you want to avoid walking in. Worth 20 coins to any dedicated follower of fashion. |
 | 32 | Several bars of high-quality scented soap. Extremely slippery when wet. Worth 20 coins to any member of the middle or upper classes. |
-| 33 | A deck of marked cards and a pair of loaded dice |
+| 33 | Deck of marked cards and a pair of loaded dice |
 | 34 | Bag of strong spice. Stir it into food for a murderously hot meal, or blow it into people's eyes and noses as an irritant. Worth 20 coins to a chef. |
 | 35 | Bag of fast-drying mortar that sets when mixed with water. There's enough here to make a couple of cubic feet. Worth 20 coins to builders in a hurry. |
 | 36 | Vial of strong acid. Handy for etching or ruining locks. Worth 20 coins to an alchemist. |
 | 41 | Tube of itching powder that causes intense irritation on contact with skin. Pour one into someone's clothes; they'll be itching for days. Worth 20 coins to a practical joker. |
-| 42 | A fiery political tract, full of stirring revolutionary rhetoric, cataloging the crimes of the ruling classes and calling upon the people to rise. Handy if you want to rile up a mob in a hurry. Worth 30 coins to an agitator. |
+| 42 | Political tract, full of stirring revolutionary rhetoric, cataloging the crimes of the ruling classes and calling upon the people to rise. Handy if you want to rile up a mob in a hurry. Worth 30 coins to an agitator. |
 | 43 | Pair of long pincers, ornately molded so that their nippers resemble the jaws of a dragon. Useful for pulling nails out of things and picking up objects you'd rather not touch. Worth 20 coins to a smith. |
 | 44 | Box of high-quality costume jewelry: fake on close inspection, but from a distance, it'll look like you're wearing a king's ransom. Handy if you're baiting a trap or if you want to pretend to be richer than you are. Worth 20 coins to the actors. |
 | 45 | Bag of smoke bombs. If thrown against a hard surface, they explode into a huge cloud of choking smoke on impact. Worth 30 coins to thieves or entertainers. |
@@ -245,6 +253,21 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 | 64 | Bottle of alchemical sleeping pills. Taking one will tire you; a whole handful will knock you out for hours. Worth 40 coins to a doctor or insomniac. |
 | 65 | Jeweled ring, with a hidden panel concealed beneath the jewel, is painted as the reigning monarch's coat of arms. Handy if you want to pretend to be a spy. Worth 50 coins to a jeweler. |
 | 66 | Long wooden box and two silvered glass mirrors fitted together to form a simple periscope. If you pulled out the mirrors, they'd be worth 20 coins each. |
+
+### Archetypes
+
+If you would prefer to pick from a standard starting equipment set, select from the following:
+
+- **Figher**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, gambeson, helmet, spear, and 10 coins
+- **Healer**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 60 coins
+- **Magic-User**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
+- **Ranger**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, gambeson, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
+- **Rogue**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, two daggers, gambeson, and 60 coins
+- **Scholar**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
+
+!!! note
+
+	See the [Appendox](appendix-c.md) for more character archetypes and their starting equipment.
 
 ## Step 7: Introductions
 

@@ -24,8 +24,6 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Physical mutations adapted from *[Vaults of Vaarn #1](https://graculusdroog.itch.io/vaults-of-vaarn)* by Leo Hunt.
 
-- “Roll high, under” and “trained rolls” mechanics adapted from *[Whitehack](https://whitehackrpg.wordpress.com)* by Christian Mehrstam.
-
 - Sorcerer class adapted from [“OSR: Class: Sorcerer”](https://coinsandscrolls.blogspot.com/2018/03/osr-class-sorcerer.html), *Coins and Scrolls*, 29 March 2018, by Skerples. 
 
 - Spell system adapted from [“The GLOG”](https://goblinpunch.blogspot.com/2016/05/the-glog.html), *Goblin Punch*, 7 May 2016, by Arnold Kemp and [“D100 - Potential Spell Recharge Conditions”](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html), *d4 Caltrops*, 19 September 2022, by Ktrey.
