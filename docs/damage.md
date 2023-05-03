@@ -4,7 +4,7 @@
 
 Damage is first dealt to your **Hit Points** (HP). HP represents your ability to avoid or shrug off harm.
 
-After your HP is depleted, all damage is dealt to your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
+After your HP is depleted, all damage is dealt to either your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
 
 Damage cannot be split between the two attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one is reduced to zero, apply any remaining damage to the other attribute.
 
@@ -24,7 +24,7 @@ If either STR or DEX is reduced to zero, you suffer a potentially debilitating *
 | 7 | **Permanent Scar**: Roll 1d6 for a location; 1: Arm, 2: Chest, 3: Hand, 4: Head, 5: Leg, 6: Neck. |
 | 8 | **Rattling Blow**: You’re stunned, disoriented, and unable to act. Attempt a STR or WIL check before each subsequent round to shake it off and return to action. |
 | 9 | **Walloped**: You’re sent flying, landing flat on your face, winded. Make a STR or DEX check to hold on to anything in your hands and add a *Fatigue* constraint. |
-| 10 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Add a *Wounded* constraint. After you heal and clear your wounds, make a STR check. If you fail, reduce your maximum HP by one. |
+| 10 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Add a *Wounded* constraint. After you heal, make a STR check. If you fail, reduce your maximum HP by one. |
 | 11 | **Infected**: You have a revolting, uncomfortable, oozing wound. Add a *Wounded* constraint. After you heal and clear your wounds, make a STR check. If you fail, reduce your maximum HP by one. |
 | 12 | **Grievous Wound**: Add a *Wounded* constraint. After you heal and clear your wounds, roll 1d6; 1–3: STR, 4–6: DEX. Make the corresponding attribute check. If you fail, reduce your maximum attribute score by one. |
 | 13 | **Hamstrung**: You can’t walk until you heal and rest. Add a *Wounded* constraint. After you heal and clear your wounds, make a DEX check. If you fail, reduce your maximum DEX score by one. |

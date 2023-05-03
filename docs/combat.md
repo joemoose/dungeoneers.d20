@@ -6,9 +6,9 @@ Combat is dangerous, and wise adventurers, or at least those who’d like a long
 
 ## Actions
 
-On your turn in a combat round, you can *move* and *take one action*. You decide whether you’ll move before you act or vice versa or forgo either. 
+On your turn in a combat round, you can *move* once and *take one action*. You decide whether you’ll move before you act or vice versa or forgo either. 
 
-Actions can include attacking, moving a second time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
+Actions can include attacking, moving for a second time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
 
 Minor actions, such as drawing a weapon from a body inventory slot, dropping to the ground, or shouting a command, are free actions that do not count as your single action for the round.
 
@@ -62,15 +62,15 @@ If you take an action to focus exclusively on defending, you can make a DEX chec
 
 You can’t defend against attacks with the *blast* quality. 
 
-A critical success on your defense check against a melee attack also allows you to make an immediate riposte attack on your opponent.
+A critical success on your defense check against a melee attack also allows you to make an immediate counterattack on your opponent.
 
-You can also declare that you are defending another ally and attempt to defend against an attack against them.
+You can also declare that you are defending another ally, area, or object and attempt to defend against an attack against them.
 
-Defense ends if you take some other action.
+Defense ends if you take another action, besides a single move.
 
 ## Gambits
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with a relevant attribute check. 
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with a relevant attribute check.  
 
 !!! tip
 
