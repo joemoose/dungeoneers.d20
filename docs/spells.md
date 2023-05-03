@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Spells are living, sentient spirits bound within rune-etched obsidian or metal tablets. Spell tablets are rare and found in forgotten places, such as dungeons, ancient tombs, or dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
+Spells are living, sentient spirits bound within rune-etched obsidian or metal tablets. Spell tablets are rare and found in forgotten places, such as dungeons, ancient tombs, and dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
 
 ## Anima
 
-A tablet has three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted from a tablet by casting its spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three anima are depleted from a tablet, the spell can no longer be cast.
+A tablet has three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted from a tablet by casting its spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three animae are depleted from a tablet, the spell can no longer be cast.
 
 ## Casting a Spell
 
@@ -14,13 +14,13 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 1. Declare how much anima you’ll use when casting the spell, up to the maximum number remaining in the tablet.
 
-2. Roll as many **d6** equal to the number of anima used. Mark off one anima from the tablet for each **1 or 2** rolled. 
+2. Roll as many **d6** equal to the number of animae used. Mark off one anima from the tablet for each **1 or 2** rolled. 
 
 3. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
 
 ## Recharging a Spell
 
-Once all three anima in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three anima. 
+Once all three animae in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three animae. 
 
 ## Miscasting a Spell
 
@@ -40,7 +40,7 @@ A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a larg
 
 In the following spell descriptions:
 
-- [DICE] is the number of dice rolled equal to the anima used to cast the spell.
+- [DICE] is the number of dice rolled equal to the number of animae used to cast the spell.
 - [SUM] is the sum of the dice rolled.
 
 A spell’s effect is based on the [DICE] and [SUM] values.
@@ -49,11 +49,11 @@ A spell’s effect is based on the [DICE] and [SUM] values.
 
 	*Nightcrawler’s Boon* creates a sphere of absolute darkness [SUM] x 10 feet in diameter for [DICE] turns.
 
-	If two anima are used to cast Darkness, and the result of the 2d6 roll is 6, the spell creates a sphere 60 feet wide for 2 turns. 
+	If two animae are used to cast Darkness, and the result of the 2d6 roll is 6, the spell creates a sphere 60 feet wide for 2 turns. 
 
 | d66 | Spell | Effect | Recharge |
 | :-: | :-- | :-- | :-- |
-| 11 | Arcance Orb | You create a hovering magical eye that moves at your command for [DICE] turns. You can see through the eye, which has low-light vision and can look in every direction. | With the tablet on your person, grind a precious gemstone into a fine powder and consume it in hot fennel tea. |
+| 11 | Arcane Orb | You create a hovering magical eye that moves at your command for [DICE] turns. You can see through the eye, which has low-light vision and can look in every direction. | With the tablet on your person, grind a precious gemstone into a fine powder and consume it in hot fennel tea. |
 | 12 | Arcane Aegis | A creature is protected from all damage for [DICE] rounds. | Enclose the tablet between two shields for three days and three nights. Afterward, burn the shields upon a body of deep water. |
 | 13 | Arcane Behest | A creature that understands your language obeys a command of [DICE] words or less that does not harm it. | With the tablet on your person, bend a sword used in battle and cast it into deep water. |
 | 14 | Arcane Glamer | Make [DICE] creature invisible for [SUM] rounds. Movement and actions each reduce the duration by 1 round. | Carry a small mirror and the tablet upon your person and remain unseen by any person or creature for three days and three nights. |
