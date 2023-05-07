@@ -255,7 +255,7 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 | 65 | Jeweled ring, with a hidden panel concealed beneath the jewel, is painted as the reigning monarch's coat of arms. Handy if you want to pretend to be a spy. Worth 50 coins to a jeweler. |
 | 66 | Long wooden box and two silvered glass mirrors fitted together to form a simple periscope. If you pulled out the mirrors, they'd be worth 20 coins each. |
 
-### Archetypes
+**Archetypes**
 
 If you would prefer to pick from a standard starting equipment set, select from the following:
 
