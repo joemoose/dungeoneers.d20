@@ -18,9 +18,9 @@ Also, think about their relationship with the other characters in the group, but
 | :-: | :-- | :-- | :-: | :-- | :-- |
 | 1 | Alchemist | Abandoned | 11 | Hunter | Framed |
 | 2 | Blacksmith | Addicted | 12 | Mariner | Haunted |
-| 3 | Burglar | Blackmailed | 13 | Mercenary | Kidnapped |
-| 4 | Carpenter | Condemned | 14 | Merchant | Mutilated |
-| 5 | Charlatan | Cursed | 15 | Miner | Poverty |
+| 3 | Burglar | Blackmailed | 13 | Mercenary | Impoverished |
+| 4 | Carpenter | Condemned | 14 | Merchant | Kidnapped |
+| 5 | Charlatan | Cursed | 15 | Miner | Mutilated |
 | 6 | Cleric | Defrauded | 16 | Performer | Pursued |
 | 7 | Cook | Demoted | 17 | Pickpocket | Rejected |
 | 8 | Cultist | Discredited | 18 | Scholar | Replaced |

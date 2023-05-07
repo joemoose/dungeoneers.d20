@@ -1,0 +1,12 @@
+| d20 | Profession | Misfortune | d20 | Profession | Misfortune |
+| :-: | :-- | :-- | :-: | :-- | :-- |
+| 1 | Alchemist | Abandoned | 11 | Hunter | Framed |
+| 2 | Blacksmith | Addicted | 12 | Mariner | Haunted |
+| 3 | Burglar | Blackmailed | 13 | Mercenary | Impoverished |
+| 4 | Carpenter | Condemned | 14 | Merchant | Kidnapped |
+| 5 | Charlatan | Cursed | 15 | Miner | Mutilated |
+| 6 | Cleric | Defrauded | 16 | Performer | Pursued |
+| 7 | Cook | Demoted | 17 | Pickpocket | Rejected |
+| 8 | Cultist | Discredited | 18 | Scholar | Replaced |
+| 9 | Gambler | Disowned | 19 | Servant | Robbed |
+| 10 | Herbalist | Exiled | 20 | Smuggler | Suspected |
