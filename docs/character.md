@@ -171,7 +171,7 @@ Strength is a prime attribute for combat. Dexterity serves stealth and thievery 
 
 Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to your STR, DEX, and WIL.
 
-### Alternate Method of Assigning Scores
+**Alternate Method of Assigning Scores**
 
 If you prefer not to roll for your attribute scores, spend 44 points across STR, DEX, WIL, and LUCK as you see fit with the following provisions:
 
