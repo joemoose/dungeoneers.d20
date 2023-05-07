@@ -6,13 +6,11 @@ The equipment your character carries, and your ingenuity defines your characterâ
 
 ## Inventory slots
 
-Your character has a limited number of inventory slots to carry items: 2 hand slots, STR-3 body slots, and 4 backpack slots. 
+Your character has 14 inventory slots to carry items: 2 hand slots, 6 body slots, and 6 backpack slots. 
 
 - **Hand Slots**: Items being held, such as weapons, shields, and torches.
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
-
-For example, a character with 11 Strength would have 14 inventory slots: 2 hand, 8 body, and 4 backpack.
 
 Most items take up one inventory slot. Some bulky items, such as two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
 
