@@ -2,31 +2,33 @@
 
 ## Introduction
 
-The equipment your character carries and your ingenuity defines your character’s role and specialty in the group.
+The equipment your character carries, and your ingenuity defines your character’s role and specialty in the group.
 
 ## Inventory slots
 
-Your character has **12** inventory slots to carry items: 2 hand slots, 4 body slots, and 6 backpack slots. 
+Your character has a limited number of inventory slots to carry items: 2 hand slots, STR-3 body slots, and 4 backpack slots. 
 
 - **Hand Slots**: Items being held, such as weapons, shields, and torches.
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
 
-Most items take up one inventory slot. Some bulky items, such as armor or two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
+For example, a character with 11 Strength would have 14 inventory slots: 2 hand, 8 body, and 4 backpack.
+
+Most items take up one inventory slot. Some bulky items, such as two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
 
 Your character can’t carry more items than their inventory allows. Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
 
 ## Coins
 
-Your character can carry up to 100 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
+Your character can carry up to 100 coins freely in their pockets. After that, each additional 200 coins occupy one inventory slot.
 
 ## Constraints
 
 Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from failed attribute checks, baleful spells, or events in the narrative.
 
-Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. An item must be dropped to make room if there aren’t enough inventory slots for a new constraint.
+Each constraint must be placed in a **body inventory slot**. You can have multiple copies of the same constraint. An item must be dropped to make room if there aren’t enough inventory slots for a new constraint.
 
-Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
+Some constraints have additional adverse effects besides taking up body inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
 Constraints can only be removed from your inventory by satisfying their cleared requirement, usually a short, long, or full rest.
 
@@ -84,31 +86,29 @@ Usage can be repaired on most damaged gear, such as weapons and armor, for 10% o
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. Anyone can strap on the best armor they can afford and enjoy its protective qualities.
+Armor reduces the damage you suffer from an attack. Each piece of armor equipped takes up one inventory slot and increases your armor rating by one point. Anyone can strap on the best armor they can afford and enjoy its protective qualities.
+
+A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. 
+
+**Armor List**
+
+| Type | Inventory Slot | Coins |
+| :--- | :-: | ---: |
+| Helmet | body | 100 |
+| Shield | hand | 50 |
+| Hauberk | body | 200 |
+| Cuirass | body | 250 |
+| Gauntlets | body | 150 |
+| Vambraces | body | 200 |
+| Greaves | body | 150 |
 
 **Notes**:
 
-- ***n* armor rating** items are base armor. Only a single type of base armor can be equipped.
-- **+1 armor rating** items can be equipped along with the base armor. Each then equipped improves the base armor rating by one.
 - **Helmets** provide an advantage on STR checks to avoid critical damage in addition to their +1 armor rating.
 - **Shields** have other uses besides their +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
-- **Massive Armor** includes the benefit of a helmet (advantage on STR checks to avoid critical damage) as part of the base armor. An additional helmet cannot be equipped.
-
-**Armor List**
-
-| Type | Rating | Notes | Coins |
-| :--- | :----------- | :------ | ---: |
-| Heavy hooded cloak | +1 armor | One body slot | 20 | 
-| Helmet | +1 armor | One body slot | 20 |
-| Shield | +1 armor | Offhand | 30 |
-| Cloth (Gambeson) | 1 armor | One body slots | 60 |
-| Light (Brigandine) | 2 armor | Two body slots | 500 |
-| Medium (Chainmail) | 3 armor | Two body slots | 1200 |
-| Heavy (Plate Mail) | 4 armor | Two body slots | 4,000 |
-| Massive (Full Plate) | 5 armor | Two body slots, a helmet is integrated | 8,000 |
 
 ## Weapons
 
@@ -129,20 +129,20 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Weapon | Damage | Notes | Coins |
 | :----- | :----: | :---- | ---: |
 | Unarmed | d4 | Doesn't ignore armor on critical hits | - |
-| Dagger | d4 | Offhand, Thrown | 15 |
-| Cudgel | 2d3 | Offhand | 5 |
-| Staff | 2d3/+d6 | Versatile | 10 |
-| Spear | d6/+d6 | Thrown, Versatile | 15 |
-| Axe | d8/+d8 | Thrown, Versatile | 20 |
-| Mace | 2d4/+d8 | Versatile | 20 |
-| Sword | d8/+d8 | Versatile | 30 |
-| Polearm | d10 | Two-handed, Reach| 40 |
-| Maul | 2d6 | Two-handed, STR 7+ | 30 |
-| Great Sword | d12 | Two-handed, STR 11+ | 60 |
-| Sling | 2d3 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 5 |
-| Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 50 |
-| Crossbow | d10 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 100 |
-| Longbow | d12 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 150 |
+| Dagger | d4 | Offhand, Thrown | 30 |
+| Cudgel | 2d3 | Offhand | 10 |
+| Staff | 2d3/+d6 | Versatile | 20 |
+| Spear | d6/+d6 | Thrown, Versatile | 30 |
+| Axe | d8/+d8 | Thrown, Versatile | 40 |
+| Mace | 2d4/+d8 | Versatile | 40 |
+| Sword | d8/+d8 | Versatile | 60 |
+| Polearm | d10 | Two-handed, Reach| 80 |
+| Maul | 2d6 | Two-handed, STR 7+ | 60 |
+| Great Sword | d12 | Two-handed, STR 11+ | 120 |
+| Sling | 2d3 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
+| Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 100 |
+| Crossbow | d10 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 200 |
+| Longbow | d12 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 300 |
 
 !!! Note
 		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
@@ -166,7 +166,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL check to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
 | Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](advancement.md) section for information on carousing. | 1 Use, Bulky | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
-| Travel Rations | Not tasty, but not bad either. | 3 Uses | 3 |
+| Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
 | Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
 !!! note
@@ -188,7 +188,7 @@ Crates contain a specific type of expedition equipment as follows:
 - **Food Crate** contains rations.
 - **Gear Crate** contains new adventuring gear.
 - **Medicine Crate** contains new healer’s kits.
-- **Survival Crate**: contains gear and clothing for surviving the extremes in wilderness travel. Specified on purchase as either hot- or cold-weather survival crates.
+- **Survival Crate**: contains gear and clothing for surviving the extremes in wilderness travel. They are specified on purchase as either hot- or cold-weather survival crates.
 - **Tools Crate** contains repair tools and crafting materials.
 - **Water Barrel** contains refills for a waterskin.
 

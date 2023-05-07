@@ -6,7 +6,7 @@ Damage is first dealt to your **Hit Points** (HP). HP represents your ability to
 
 After your HP is depleted, all damage is dealt to either your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
 
-Damage cannot be split between the two attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one is reduced to zero, apply any remaining damage to the other attribute.
+Damage cannot be split between the attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one is reduced to zero, apply any remaining damage to the other attribute.
 
 After taking STR or DEX attribute damage, you must make an attribute check for the respective attribute. If the check succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
@@ -16,7 +16,7 @@ When you suffer critical damage, you’re knocked unconscious and take a *Wounde
 
 ## Scars
 
-If either STR or DEX is reduced to zero, you suffer a potentially debilitating **scar**. Roll d6 on the following table and add the damage received.
+If either STR or DEX is reduced to zero, you suffer a potentially debilitating **scar**. Roll d6 and add the damage received, then consult the following table.
 
 | d6+Damage | Scar |
 | :-: | - |
@@ -29,9 +29,9 @@ If either STR or DEX is reduced to zero, you suffer a potentially debilitating *
 | 12 | **Grievous Wound**: Add a *Wounded* constraint. After you heal and clear your wounds, roll 1d6; 1–3: STR, 4–6: DEX. Make the corresponding attribute check. If you fail, reduce your maximum attribute score by one. |
 | 13 | **Hamstrung**: You can’t walk until you heal and rest. Add a *Wounded* constraint. After you heal and clear your wounds, make a DEX check. If you fail, reduce your maximum DEX score by one. |
 | 14 | **Deafened**: You cannot hear anything until you heal and rest. Add a *Dazed* constraint. After you heal, make a WIL check. If you fail, reduce your maximum WIL score by one. |
-| 15 | **Concussed**: You suffer a serious blow to the head. Add a *Dazed* constraint and immediately make a WIL check. If you fail, reduce your maximum WIL score by one. |
+| 15 | **Concussed**: You suffer a severe blow to the head. Add a *Dazed* constraint and immediately make a WIL check. If you fail, reduce your maximum WIL score by one. |
 | 16 | **Sundered**: An appendage is ripped off, crippled, or rendered useless. The GM will tell you which. Add a *Wounded* constraint. After you heal and clear your wounds, roll 1d6; 1–3: STR, 4–6: DEX. Make the corresponding attribute check. If you fail, reduce your maximum attribute score by one. |
-| 17 | **Mortal Wound**: Add a *Wounded* constraint. You are incapacitated and out of the action. You will die shortly unless stabilized or healed. After you heal and clear your wounds, make a STR check. If you fail, reduce your maximum HP by half, rounding up. |
+| 17 | **Mortal Wound**: Add a *Wounded* constraint. You are incapacitated and out of the action. You will soon die unless stabilized or healed. After you heal and clear your wounds, make a STR check. If you fail, reduce your maximum HP by half, rounding up. |
 | 18+ | **Doomed**: Death seemed imminent, but somehow, you survived. Add a *Deprived* constraint. If your next check against Critical Damage **fails**, you die immediately and horrifically.|
 
 ## Attribute Loss and Death

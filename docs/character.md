@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You’re a newly minted adventurer: a tomb-raiding, treasure-seeking, door-kicking dungeoneer who wields a spellbook just as easily as a blade. You will live a dangerous life. You will delve into weird and forgotten places. With some luck, you might retire before dying.
+You’re a newly minted **dungeoneer**: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook just as readily as a blade. You’re not like ordinary folk. You will live a dangerous life. You will delve into weird and forgotten places. With some luck, you might retire before dying.
 
 ## Step 1: Backstory
 
@@ -20,7 +20,7 @@ Also, think about their relationship with the other characters in the group, but
 | 2 | Blacksmith | Addicted | 12 | Mariner | Haunted |
 | 3 | Burglar | Blackmailed | 13 | Mercenary | Kidnapped |
 | 4 | Carpenter | Condemned | 14 | Merchant | Mutilated |
-| 5 | Charlatan | Cursed | 15 | Miner | Poor |
+| 5 | Charlatan | Cursed | 15 | Miner | Poverty |
 | 6 | Cleric | Defrauded | 16 | Performer | Pursued |
 | 7 | Cook | Demoted | 17 | Pickpocket | Rejected |
 | 8 | Cultist | Discredited | 18 | Scholar | Replaced |
@@ -73,7 +73,7 @@ These starting traits may change as you adventure and further develop your chara
 
 Give your character a name and describe how they look. Choose one or two physical characteristics that people first notice.
 
-If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
+If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
 
 **Names Table**
 
@@ -167,7 +167,7 @@ Four attributes describe your character’s primary characteristics:
 
 Is your character musclebound and insightful? Fortunate and charming? Nimble and hardy? Attribute scores define these qualities—your character’s assets and weaknesses.
 
-Strength is a prime attribute for warriors. Dexterity serves stealth and thievery well. Casting spells requires willpower.
+Strength is a prime attribute for combat. Dexterity serves stealth and thievery well. Casting spells requires Willpower.
 
 Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to your STR, DEX, and WIL.
 
@@ -188,15 +188,16 @@ Roll **d4+2** to determine your starting hit points.
 
 Let’s see what equipment you’ve brought to your new adventuring life.
 
-Everyone starts with a heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
+You start with a hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
 
 Choose **three** more items from the following list. You may choose an item more than once.
 
 - spear
 - shortbow and a quiver of arrows
-- helmet
+- sword
+- helmet 
 - shield
-- gambeson (padded cloth armor)
+- hauberk
 - 50 coins
 - bag of books
 - bottle of fine wine
@@ -258,12 +259,12 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 
 If you would prefer to pick from a standard starting equipment set, select from the following:
 
-- **Figher**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, gambeson, helmet, spear, and 10 coins
-- **Healer**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 60 coins
-- **Magic-User**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
-- **Ranger**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, gambeson, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
-- **Rogue**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, two daggers, gambeson, and 60 coins
-- **Scholar**: heavy hooded cloak of their choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
+- **Figher**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
+- **Healer**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 60 coins
+- **Magic-User**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
+- **Ranger**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
+- **Rogue**: hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 60 coins
+- **Scholar**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
 
 !!! note
 

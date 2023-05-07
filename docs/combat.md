@@ -62,11 +62,11 @@ If you take an action to focus exclusively on defending, you can make a DEX chec
 
 You can’t defend against attacks with the *blast* quality. 
 
-A critical success on your defense check against a melee attack also allows you to make an immediate counterattack on your opponent.
+A critical success on your defense check against a melee attack also allows you to immediately counterattack your opponent.
 
 You can also declare that you are defending another ally, area, or object and attempt to defend against an attack against them.
 
-Defense ends if you take another action, besides a single move.
+Defense ends if you take any other action besides a single move.
 
 ## Gambits
 
