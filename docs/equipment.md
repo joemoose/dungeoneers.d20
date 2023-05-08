@@ -55,13 +55,13 @@ A pair of helping hands might give you the edge you’ll need to survive or, at 
 
 In addition to a daily wage, hirelings must be fed and provided lodging.
 
-### Morale
+**Morale**
 
 When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or desert their employment.
 
 Well-paid or loyal hirelings may make this check with an advantage.
 
-### Advancement
+**Advancement**
 
 Hirelings can improve in the same way that your character does.
 
