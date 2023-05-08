@@ -62,7 +62,7 @@ If you take an action to focus exclusively on defending, you can make a DEX chec
 
 You can’t defend against attacks with the *blast* quality. 
 
-A critical success on your defense check against a melee attack also allows you to immediately counterattack your opponent.
+A critical success on your defense check against a melee attack also allows you to counterattack your opponent immediately.
 
 You can also declare that you are defending another ally, area, or object and attempt to defend against an attack against them.
 

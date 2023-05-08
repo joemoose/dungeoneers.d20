@@ -102,3 +102,19 @@ Once the Doom die is depleted, the character is considered Doomed. All their att
 ~~Push~~ 
 
 - “Roll high, under” and “trained rolls” mechanics adapted from *[Whitehack](https://whitehackrpg.wordpress.com)* by Christian Mehrstam.
+
+***
+
+**What this License Means**
+
+**Share**: You can copy and redistribute any content from the DUNGEONEERS rulebook in any medium or format. This license extends solely to the content of this document.
+
+**Adapt**: You may modify and build upon the content in this document for any purpose, even commercially. This includes creating new DUNGEONEERS rules, modifying existing rules, using rules for original settings or scenarios, or creating a new game based on DUNGEONEERS.
+
+**Terms of this License**
+
+**Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+
+**Example Credit**: This work is based on DUNGEONEERS, developed and published by [Zachary Taylor](https://zacharytaylor.itch.io); licensed for our use under the Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/).
+
+**ShareAlike**: If you modify or build upon the content of this document, you must distribute your creations under the same license as DUNGEONEERS.

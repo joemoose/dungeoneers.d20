@@ -14,7 +14,10 @@ Your character has 14 inventory slots to carry items: 2 hand slots, 6 body slots
 
 Most items take up one inventory slot. Some bulky items, such as two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
 
-Your character can’t carry more items than their inventory allows. Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
+If you carry more items than your inventory allows, your HP is reduced to **zero** until you remove the excess items.
+
+Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
+
 
 ## Coins
 
@@ -24,7 +27,7 @@ Your character can carry up to 100 coins freely in their pockets. After that, ea
 
 Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from failed attribute checks, baleful spells, or events in the narrative.
 
-Each constraint must be placed in a **body inventory slot**. You can have multiple copies of the same constraint. An item must be dropped to make room if there aren’t enough inventory slots for a new constraint.
+Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
 Some constraints have additional adverse effects besides taking up body inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
