@@ -38,7 +38,7 @@
 ---
 
 PERCEPTION
-When your character is actively looking for something, they find it. If time is of the essence, you should make a WIL check.
+When your character is actively looking for something, they find it. If time is of the essence, make a WIL check.
 
 GROUP TEST
 If half the characters succeed at their attribute check in a group effort, the whole group does.
