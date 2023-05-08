@@ -9,9 +9,9 @@ Dragonpowder gonnes are expensive, exotic, and very loud. Wielded by the rich or
 All dragonpowder gonnes have the following characteristics:
 
 - **Armor piercing**: Damage ignores three armor ratings; as with other weapons, a critical damage roll ignores all armor.
-- **Dangerous**: Gonnes always includes a bonus damage die. If you roll **double 1s** on a one’s damage and bonus damage dice roll, a misfire occurs, and your target suffers no harm. Consult the following Misfire Table for the result.
+- **Dangerous**: Gonnes always includes a bonus damage die. If you roll **double 1s** on a gonne’s damage and bonus damage dice roll, a misfire occurs, and your target suffers no harm. Consult the following Misfire Table for the result.
 - **Noisy**: Igniting dragonpowder has loud and explosive results. Animals flee when hearing the shot. Intelligent creatures will notice and investigate.
-- **Slow**: After attacking with a gonne, it must be reloaded. Reloading requires both hands and two actions per shot loaded. 
+- **Slow**: After attacking with a gonne, it must be reloaded. Reloading requires both hands and an actions per shot loaded. 
 
 ## Misfires
 
@@ -34,7 +34,7 @@ If you roll double 1s on a gonne’s damage and inherent bonus dice, a misfire o
 | Name | Damage | Notes | Coins |
 | :--- | :----: | :---- | ----: |
 | Petronel | d8 +d8 | It’s fired with one hand but requires both hands to reload. | 800 |
-| Fire Lance | d10 +d10/(d6 +d6) | Two-hands. Deals either d10 +d10 damage to a single target in melee range or d6 +d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires reloading two Powder Shots. | 1,200 |
+| Fire Lance | d10 +d10/(d6 +d6) | Two-hands. Deals either d10 +d10 damage to a single target in melee range or d6 +d6 *blast* damage at an adjacent zone. It can function as a polearm after firing. Requires two Powder Shots. | 1,200 |
 | Arquebus | d12 +d12 | Two-hands. | 1,000 |
 
 ## Ammunition List

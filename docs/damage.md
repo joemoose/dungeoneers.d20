@@ -14,10 +14,6 @@ After taking STR or DEX attribute damage, you must make an attribute check for t
 
 When you suffer critical damage, you’re knocked unconscious and take a *Wounded* constraint. Attempt a STR or WIL check at the beginning of each subsequent round to revive yourself. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
 
-### Wounds
-
-Wounds are constraints that take up an inventory slot. While wounded, STR and DEX checks have a disadvantage. A wound is cleared from your inventory after a long rest.
-
 ## Attribute Loss and Death
 
 If any **two** attribute scores of STR, DEX, or WIL are reduced to **zero**, you **die**. Note that a zero LUCK is not life-threatening—your attribute checks instead have a disadvantage.
