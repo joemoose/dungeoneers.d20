@@ -116,7 +116,8 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 - *Long-range*: This weapon can attack a target up to three zones away.
 - *Offhand*: This weapon can be used as a dual weapon in the offhand.
 - *Short-range*: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- *Reach*: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent. 
+- *Reach*: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent.
+- *Slow*: Requires an action to ready or reload.
 - *STR*: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
 - *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
 - *Two-handed*: This weapon requires two hand slots.
@@ -127,7 +128,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Weapon | Damage | Notes | Coins |
 | :----- | :----: | :---- | ---: |
 | Unarmed | d4 | Doesn't ignore armor on critical hits | - |
-| Dagger | d4 | Offhand, Thrown | 30 |
+| Dagger | d4 | Offhand, Thrown, advantage on initiative checks | 30 |
 | Cudgel | 2d3 | Offhand | 10 |
 | Staff | 2d3/+d6 | Versatile | 20 |
 | Spear | d6/+d6 | Thrown, Versatile | 30 |
@@ -139,8 +140,8 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Great Sword | d12 | Two-handed, STR 11+ | 120 |
 | Sling | 2d3 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
 | Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 100 |
-| Crossbow | d10 | Long-range, Two-handed, STR 7+<br/>Ammo: Quarrels and case: 5 coins | 200 |
-| Longbow | d12 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 300 |
+| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Quarrels and case: 10 coins | 200 |
+| Crossbow | d12 | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Arrows and quiver: 5 coins | 300 |
 
 !!! Note
 		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
@@ -175,11 +176,11 @@ Use your gear to solve challenges creatively and keep your character adventuring
 
 Equipment supply crates and barrels (hereafter referred to as simply “crates”) can replenish the party’s gear on long expeditions when they’re away from settlements and unable to restock.
 
-### Weight
+**Weight**
 
 Crates are heavy, taking up six inventory slots, and are typically carried on pack animals or in wagons.
 
-### Contents
+**Contents**
 
 Crates contain a specific type of expedition equipment as follows:
 
@@ -190,11 +191,11 @@ Crates contain a specific type of expedition equipment as follows:
 - **Tools Crate** contains repair tools and crafting materials.
 - **Water Barrel** contains refills for a waterskin.
 
-### Cost
+**Cost**
 
 A new crate costs ten times that of the item it contains. For example, a *gear crate* costs 200 coins (10 x 20 coins for one adventuring gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 200 coins.
 
-### Uses
+**Uses**
 
 Each crate is assigned a *Usage Die* to track its consumption. A full crate starts with a **d10** usage die.
 
@@ -208,6 +209,6 @@ When a 1 or 2 is rolled on a d4 usage die, the crate is emptied.
 
 	A player takes two healer’s kits from a new medicine crate. The usage die is d10. After removing the first kit, the player rolls an eight on the usage check. The medicine crate’s usage die remains at d10. After taking out the second kit, the player rolls a one. The crate’s usage die now drops to d8.
 
-### Other Crates
+**Other Crates**
 
 Other types of equipment crates could be purchased in larger settlements. For instance, a party planning to equip many soldiers could buy a crate of helmets for 300 coins. After each helmet is handed out, roll the helmet crate’s usage die. 
