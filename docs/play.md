@@ -73,7 +73,7 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 - **STR**: physical harm that *can’t* be dodged
 - **DEX**: physical harm that *can* be dodged
-- **WIL**: mental harm or distress, illusions, and mind-control effects
+- **WIL**: mental harm, illusions, and mind-control effects
 
 ## Luck
 
@@ -103,9 +103,9 @@ Your reputation will generally increase or decrease by 1 or 2 points by the end 
 
 If your reputation reaches 6, your character is considered **heroic**. Heroic characters are no longer anonymous and are generally known throughout the land. Heroes are expected to solve social problems and do great deeds.
 
-However, if your reputation drops to -6, you are considered **villainous**. Like heroes, you are no longer anonymous, but authorities actively persecute villains and hold them accountable for all wrongdoings.
+However, if your reputation drops to -6, you are considered **villainous**. Like heroes, you are no longer anonymous, but authorities (and heroic persons) actively persecute villains and hold them accountable for all wrongdoings.
 
-Your status may also provide advantages or disadvantages on certain social actions, such as employing and commanding hirelings or the initial reactions from NPCs. New missions and quests may become available based on your status. Followers may also seek you out.
+Your status may also provide advantages or disadvantages on social actions, such as employing and commanding hirelings or the initial reactions from NPCs. New missions and quests may become available based on your status. Followers may also seek you out.
 
 ### Boon Tokens
 

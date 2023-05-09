@@ -113,7 +113,7 @@ Taking your action to aim a ranged weapon allows you to ignore the target’s ar
 
 ## Subdual
 
-Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage. An enemy who would suffer critical damage or death from a subdual attack is knocked unconscious.
+Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage after first reducing it by the opponent’s armor rating. An enemy who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
 ## Morale
 
@@ -135,6 +135,6 @@ If you want to retreat to an adjacent zone while an enemy occupies your zone, yo
 
 When you battle a group of identical opponents, such as a gang of brigands, each with the same attributes and weapons, the GM may combine the opponents into a single abstract unit or **warband**. A warband has the same attributes, HP, armor rating, and damage dice as a single unit member.
 
-Attacks by individuals against a warband are **impaired** unless they have the *blast* quality. Attacks by a warband against an individual are **enhanced** and deal *blast* damage. Attacks by a warband can not be dodged or parried while defending.
+Attacks by individuals against a warband are **impaired** unless they have the *blast* quality. Attacks by a warband against an individual are **enhanced** and deal *blast* damage. 
 
 When a warband takes critical damage, it immediately fails morale and routs. If a warband is reduced to zero STR, it’s destroyed.

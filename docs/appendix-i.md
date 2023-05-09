@@ -153,7 +153,7 @@ When you create your character, pick **one** of the following powers. Select one
 	
 	!!! info "Example"
 	
-		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three animae (the rug is about his size and can *magically fly* for *2 rounds*).
+		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three anima (the rug is about his size and can *magically fly* for *2 rounds*).
 
 - **HARM**
 
@@ -161,7 +161,7 @@ When you create your character, pick **one** of the following powers. Select one
 	
 	!!! info "Example"
 		
-		Zathar sacrifices two animae. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
+		Zathar sacrifices two anima. He can Harm one creature for 2d6 damage or two creatures for d6 damage each.
 
 - **SOUL SIGHT**
 

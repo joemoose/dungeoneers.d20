@@ -37,15 +37,11 @@ Roll **d20** equal to or less than the applicable attribute:
 
 ## Combat
 
-On your turn, you can take **two** actions: move, attack, cast a spell, etc.
+On your turn, you can move and take one action: move s second time, attack, cast a spell, etc.
 
 **Initiative**
 
-Declare actions before rolling dice. A **fast** round is a single action. A **slow** round is two actions.
-
-1. Resolve all fast rounds before slow rounds.
-2. If players and opponents both take fast rounds, the player must make a DEX *or* WIL check to go first.
-3. If players and opponents both take slow rounds, the player must make a DEX *or* WIL check to go first.
+Make a DEX or a WIL checks to go before your opponents; otherwise, go after the opponents.
 
 **Attacks**
 
