@@ -3,7 +3,7 @@
 <center>
 *DUNGEONEERS*  
 <br/>
-*A Retro Roleplaying Game for Errant Rogues*  
+*An Adventure Roleplaying Game for Errant Rogues*  
 *by Zachary Taylor*  
 <br/>
 *–Player’s Guide–*  
