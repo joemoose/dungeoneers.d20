@@ -20,7 +20,7 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Luck mechanism adapted from *[Spellburn and Battlescars](https://xenio-in-a-bottle.itch.io/sab)* by Luís Fernando Anizello and Matheus Henrique Morais.
 
-- Mementos adapted from “[When All You Have is a Hammer](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html)”, *Against the Wicked City*, 4 February 2018, by Joseph Manola.
+- Mementos adapted from [“When All You Have is a Hammer”](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html), *Against the Wicked City*, 4 February 2018, by Joseph Manola.
 
 - Physical mutations adapted from *[Vaults of Vaarn #1](https://graculusdroog.itch.io/vaults-of-vaarn)* by Leo Hunt.
 
@@ -31,8 +31,6 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 - Sundering of shields adapted from [“Shields Shall be Splintered!”](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html), *Trollsmyth*, 6 May 2008, by Trollsmyth.
 
 - Supply chests adapted from [“Sack Packs”](https://shoalmontgames.com/2018/11/28/sack-pack/), *Shoalmont Games*, 28 November 2018, by ATXRedBeard.
-
-- Tactical initiative adapted from *[Errant](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition)* written by Ava Islam, published by [Kill Jester Publishing, LLP](https://www.killjester.com/).
 
 - Usage dice mechanic adapted from *[The Black Hack SRD](https://the-black-hack.jehaisleprintemps.net)* by Jack Black.  
 
@@ -56,5 +54,21 @@ This work includes material taken from the [System Reference Document 5.1 (“SR
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;margin-right:auto;margin-left:auto;display: block" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work outside the copyrighted material or trademarks of the entities above is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;margin-right:auto;margin-left:auto;display: block" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work outside the copyrighted material or trademarks of the entities above is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br/><br/>
+
+***
+
+**What this License Means**
+
+**Share**: You can copy and redistribute any content from DUNGEONEERS in any medium or format. This license extends solely to the content of this document.
+
+**Adapt**: You may modify and build upon the content in this document for any purpose, even commercially. This includes creating new DUNGEONEERS rules, modifying existing rules, using rules for original settings or scenarios, or creating a new game based on DUNGEONEERS.
+
+**Terms of this License**
+
+**Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+
+**Example Credit**: This work is based on DUNGEONEERS, developed and published by [Zachary Taylor](https://zacharytaylor.itch.io); licensed for our use under the Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/).
+
+**ShareAlike**: If you modify or build upon the content of this document, you must distribute your creations under the same license as DUNGEONEERS.
 

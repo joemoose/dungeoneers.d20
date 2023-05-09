@@ -107,7 +107,7 @@ Once the Doom die is depleted, the character is considered Doomed. All their att
 
 **What this License Means**
 
-**Share**: You can copy and redistribute any content from the DUNGEONEERS rulebook in any medium or format. This license extends solely to the content of this document.
+**Share**: You can copy and redistribute any content from DUNGEONEERS in any medium or format. This license extends solely to the content of this document.
 
 **Adapt**: You may modify and build upon the content in this document for any purpose, even commercially. This includes creating new DUNGEONEERS rules, modifying existing rules, using rules for original settings or scenarios, or creating a new game based on DUNGEONEERS.
 
@@ -118,3 +118,8 @@ Once the Doom die is depleted, the character is considered Doomed. All their att
 **Example Credit**: This work is based on DUNGEONEERS, developed and published by [Zachary Taylor](https://zacharytaylor.itch.io); licensed for our use under the Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/).
 
 **ShareAlike**: If you modify or build upon the content of this document, you must distribute your creations under the same license as DUNGEONEERS.
+
+***
+
+- Tactical initiative adapted from *[Errant](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition)* written by Ava Islam, published by [Kill Jester Publishing, LLP](https://www.killjester.com/).
+
