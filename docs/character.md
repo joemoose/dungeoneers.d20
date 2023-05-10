@@ -268,7 +268,7 @@ If you would prefer to pick from a standard starting equipment set, select from 
 
 !!! note
 
-	See the [Appendox](appendix-c.md) for more character archetypes and their starting equipment.
+	See the [Appendix](appendix-d.md) for more character archetypes and their starting equipment.
 
 ## Step 7: Introductions
 

@@ -1,4 +1,4 @@
-# Conflict
+# Combat
 
 ## Introduction
 
@@ -68,6 +68,10 @@ You can also declare that you are defending another ally, area, or object and at
 
 Defense ends if you take any other action besides a single move.
 
+## Disengaging
+
+If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX check to disengage from the fight. If you fail, the enemy makes a free attack against you as you retreat from the zone.
+
 ## Gambits
 
 Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with a relevant attribute check.  
@@ -126,10 +130,6 @@ Some fanatical or mindless opponents might not be required to check morale—the
 !!! note
 
 		Morale checks don’t apply to players. You have to decide when it’s prudent to run away!
-
-## Disengaging
-
-If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX check to disengage from the fight. If you fail, the enemy makes a free attack against you as you retreat from the zone.
 
 ## Warbands
 

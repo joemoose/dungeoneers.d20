@@ -21,11 +21,11 @@ Carts, horses, or mules can increase inventory space. Hirelings can also be empl
 
 ## Coins
 
-Your character can carry up to 100 coins freely in their pockets. After that, each additional 200 coins occupy one inventory slot.
+Your character can carry up to 100 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
 
 ## Constraints
 
-Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from failed attribute checks, baleful spells, or events in the narrative.
+Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from injuries in combat, failed attribute checks, baleful spells, or events in the narrative.
 
 Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
