@@ -1,5 +1,7 @@
 # Appendix F: Optional Character Classes
 
+---
+
 Consult the following table to determine your character’s class based on their starting HP. Your character’s class increases a starting attribute score and provides a unique ability.
 
 | HP | Class | Ability |

@@ -2,22 +2,21 @@
 
 ## Introduction
 
-The equipment your character carries, and your ingenuity defines your character’s role and specialty in the group.
+The equipment your character carries and your ingenuity defines your character’s role and specialty in the group.
 
 ## Inventory slots
 
-Your character has 14 inventory slots to carry items: 2 hand slots, 6 body slots, and 6 backpack slots. 
+Your character has 12 inventory slots to carry items: 2 hand slots, 4 body slots, and 6 backpack slots. 
 
 - **Hand Slots**: Items being held, such as weapons, shields, and torches.
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
 
-Most items take up one inventory slot. Some bulky items, such as two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
+Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
 
 If you carry more items than your inventory allows, your HP is reduced to **zero** until you remove the excess items.
 
 Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
-
 
 ## Coins
 
@@ -29,7 +28,7 @@ Constraints are detrimental conditions your character endures, such as *Wounded*
 
 Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
-Some constraints have additional adverse effects besides taking up body inventory slots. These effects apply as long as the constraint remains in your inventory. 
+Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
 Constraints can only be removed from your inventory by satisfying their cleared requirement, usually a short, long, or full rest.
 
@@ -47,34 +46,6 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 !!! Note
 		See the [How to Play](play.md) section for information about attribute checks and disadvantages and the [Damage](damage.md) section for information about rests.
 
-## Hirelings
-
-A pair of helping hands might give you the edge you’ll need to survive or, at the very least, carry more equipment. In many settlements, especially larger ones, you can find people willing to explore the world with you. 
-
-- **Torchbearer** (1 coin/day): 2 HP, 9 STR, 9 DEX, 9 WIL. Torch.
-- **Guard** (3 coins/day): 4 HP, 10 STR, 10 DEX, 10 WIL. Spear, Shield.
-- **Sellsword** (6 coins/day): 6 HP, 12 STR, 10 DEX, 10 WIL. Sword, Light Armor, Shield.
-- **Expert** (10 coins/day): 3 HP, 10 STR, 10 DEX, 12 WIL. Crossbow, Helmet, a *Specific Expertise*, or *Skill*.
-
-In addition to a daily wage, hirelings must be fed and provided lodging.
-
-**Morale**
-
-When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or desert their employment.
-
-Well-paid or loyal hirelings may make this check with an advantage.
-
-**Advancement**
-
-Hirelings can improve in the same way that your character does.
-
-Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, after they earn 1000 XP, they advance to Level 2.
-
-Not receiving a share of treasure may cause resentment amongst hirelings.
-
-!!! Note
-		See the [Leveling Up](advancement.md) section for information about XP and gaining levels.
-
 ## Usage
 
 Consumable items have a specified number of **uses** to track resource consumption. After eating rations, for example, mark off one use. 
@@ -87,29 +58,32 @@ Usage can be repaired on most damaged gear, such as weapons and armor, for 10% o
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. Each piece of armor equipped takes up one inventory slot and increases your armor rating by one point. Anyone can strap on the best armor they can afford and enjoy its protective qualities.
-
-A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. 
-
-**Armor List**
-
-| Type | Inventory Slot | Coins |
-| :--- | :-: | ---: |
-| Helmet | body | 100 |
-| Shield | hand | 50 |
-| Hauberk | body | 200 |
-| Cuirass | body | 250 |
-| Gauntlets | body | 150 |
-| Vambraces | body | 200 |
-| Greaves | body | 150 |
+Armor reduces the damage you suffer from an attack. A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. Anyone can strap on the best armor they can afford and enjoy its protective qualities.
 
 **Notes**:
 
+- ***n* armor rating** items are base armor. Only a single type of base armor can be equipped.
+- **+1 armor rating** items can be equipped along with the base armor. Each then equipped improves the base armor rating by one.
 - **Helmets** provide an advantage on STR checks to avoid critical damage in addition to their +1 armor rating.
 - **Shields** have other uses besides their +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
+- **Massive Armor** includes the benefit of a helmet (advantage on STR checks to avoid critical damage) as part of the base armor. An additional helmet cannot be equipped.
+
+**Armor List**
+
+| Type | Rating | Notes | Coins |
+| :--- | :----------- | :------ | ---: |
+| Heavy hooded cloak | +1 armor | One body slot | 20 | 
+| Helmet | +1 armor | One body slot | 60 |
+| Shield | +1 armor | Offhand | 40 |
+| Cloth (Gambeson) | 1 armor | One body slots | 50 |
+| Light (Brigandine) | 2 armor | Two body slots | 500 |
+| Medium (Chainmail) | 3 armor | Two body slots | 1200 |
+| Heavy (Plate Mail) | 4 armor | Two body slots | 4,000 |
+| Massive (Full Plate) | 5 armor | Two body slots, a helmet is integrated | 8,000 |
+
 
 ## Weapons
 
@@ -131,20 +105,21 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Weapon | Damage | Notes | Coins |
 | :----- | :----: | :---- | ---: |
 | Unarmed | d4 | Doesn't ignore armor on critical hits | - |
-| Dagger | d4 | Offhand, Thrown, advantage on initiative checks | 30 |
+| Dagger | d4 | Offhand, Thrown, advantage on initiative checks | 20 |
 | Cudgel | 2d3 | Offhand | 10 |
 | Staff | 2d3/+d6 | Versatile | 20 |
 | Spear | d6/+d6 | Thrown, Versatile | 30 |
 | Axe | d8/+d8 | Thrown, Versatile | 40 |
-| Mace | 2d4/+d8 | Versatile | 40 |
+| Mace | 2d4/+d8 | Versatile | 50 |
 | Sword | d8/+d8 | Versatile | 60 |
-| Polearm | d10 | Two-handed, Reach| 80 |
-| Maul | 2d6 | Two-handed, STR 7+ | 60 |
+| Polearm | d10 | Two-handed, Reach| 70 |
+| Maul | 2d6 | Two-handed, STR 7+ | 80 |
 | Great Sword | d12 | Two-handed, STR 11+ | 120 |
 | Sling | 2d3 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
-| Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 5 coins  | 100 |
-| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Quarrels and case: 10 coins | 200 |
-| Crossbow | d12 | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Arrows and quiver: 5 coins | 300 |
+| Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
+| Crossbow | d8 | Long-range, Two-handed, Slow<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
+| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and case: 10 coins | 200 |
+| Arbalest | d12 | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
 
 !!! Note
 		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
@@ -174,6 +149,34 @@ Use your gear to solve challenges creatively and keep your character adventuring
 !!! note
 
 		See the [Appendix](appendix-b.md) for more equipment lists.
+
+## Hirelings
+
+A pair of helping hands might give you the edge you’ll need to survive or, at the very least, carry more equipment. In many settlements, especially larger ones, you can find people willing to explore the world with you. 
+
+- **Torchbearer** (1 coin/day): 2 HP, 9 STR, 9 DEX, 9 WIL. Torch.
+- **Guard** (3 coins/day): 4 HP, 10 STR, 10 DEX, 10 WIL. Spear, Shield.
+- **Sellsword** (6 coins/day): 6 HP, 12 STR, 10 DEX, 10 WIL. Sword, Light Armor, Shield.
+- **Expert** (10 coins/day): 3 HP, 10 STR, 10 DEX, 12 WIL. Crossbow, Helmet, a *Specific Expertise*, or *Skill*.
+
+In addition to a daily wage, hirelings must be fed and provided lodging.
+
+**Morale**
+
+When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or desert their employment.
+
+Well-paid or loyal hirelings may make this check with an advantage.
+
+**Advancement**
+
+Hirelings can improve in the same way that your character does.
+
+Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, after they earn 1000 XP, they advance to Level 2.
+
+Not receiving a share of treasure may cause resentment amongst hirelings.
+
+!!! Note
+		See the [Leveling Up](advancement.md) section for information about XP and gaining levels.
 
 ## Supply Crates
 
@@ -214,4 +217,4 @@ When a 1 or 2 is rolled on a d4 usage die, the crate is emptied.
 
 **Other Crates**
 
-Other types of equipment crates could be purchased in larger settlements. For instance, a party planning to equip many soldiers could buy a crate of helmets for 1000 coins. After each helmet is handed out, roll the helmet crate’s usage die. 
+Other types of equipment crates could be purchased in larger settlements. For instance, a party planning to equip many soldiers could buy a crate of helmets for 600 coins. After each helmet is handed out, roll the helmet crate’s usage die. 

@@ -27,7 +27,7 @@ As such, Dungeoneers doesn’t use traditional character classes. The equipment 
 
 Additionally, combat is highly consequential. Every foe is deadly and can defeat you in a few rounds. There's no back-and-forth slog of dice rolling, standing toe-to-toe, and trading a series of blows that might or might not hit. Attacks always hit; you only roll damage. There's no "encounter balance." Combat is a puzzle to solve rather than a simulation of attrition. You must gain tactical advantages and defeat opponents quickly and overwhelmingly or else retreat and try a different approach.
 
-Since your character’s equipment is essential to their capabilities, tracking their gear is part of the game. But I’m not too fond of bookkeeping, so inventory is a simple mechanic: 14 slots maximum for equipment and mark usage on consumables. That's it.
+Since your character’s equipment is essential to their capabilities, tracking their gear is part of the game. But I’m not too fond of bookkeeping, so inventory is a simple mechanic: 12 slots maximum for equipment and mark usage on consumables. That's it.
 
 This game also has a luck system to encourage some crazy risk-taking. You are a heroic adventurer, after all.
 

@@ -1,5 +1,7 @@
 # Appendix I: Sword & Sorcery
 
+---
+
 The following rules provide a grittier campaign geared more toward violent action and dark powers.
 
 ## Character Classes

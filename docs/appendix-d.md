@@ -1,5 +1,7 @@
 # Appendix D: Character Archetypes
 
+---
+
 ## Starting Gear
 
 Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the following equipment:

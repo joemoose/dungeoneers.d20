@@ -1,5 +1,7 @@
 # Appendix C: Mounts
 
+---
+
 ## Introduction
 
 One might walk into the wilderness, but trekking is far more impressive when astride a war horse.
