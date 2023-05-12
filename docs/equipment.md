@@ -214,4 +214,4 @@ When a 1 or 2 is rolled on a d4 usage die, the crate is emptied.
 
 **Other Crates**
 
-Other types of equipment crates could be purchased in larger settlements. For instance, a party planning to equip many soldiers could buy a crate of helmets for 300 coins. After each helmet is handed out, roll the helmet crate’s usage die. 
+Other types of equipment crates could be purchased in larger settlements. For instance, a party planning to equip many soldiers could buy a crate of helmets for 1000 coins. After each helmet is handed out, roll the helmet crate’s usage die. 

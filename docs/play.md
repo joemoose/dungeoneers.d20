@@ -16,6 +16,12 @@ Everyone at the table must feel comfortable saying and allowing others to say �
 
 On to the mechanics!
 
+## Turns
+
+To make sure everyone at the table has a chance to participate and speak, the game uses **Turns**. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?”. 
+
+Each player can move and take one action during their turn. A turn may represent several seconds (during combat), several minutes (exploring a room), several hours (exploring a city), to several days (traveling).
+
 ## Attribute Checks
 
 When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
@@ -62,6 +68,10 @@ If your character’s former vocation or specialization could apply to your curr
 	- A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
 	
 	- A former mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
+	
+### Group Checks
+
+When everyone in the adventuring party is trying to do the same thing, such as moving quietly past a sleeping ogre, the GM may ask that everyone makes an attribute check. If at least half the characters succeed, the group succeeds.
 	
 ### Assistance
 
@@ -116,14 +126,6 @@ Spend your boon tokens with the GM anytime during play to gain unique benefits r
 ### Loss of Status
 
 Once you become a hero or a villain, you maintain that status and any boon tokens until your reputation returns to zero.
-
-## Time
-
-The game measures time in three durations:
-
-- **Round** is the time scale for combat. Each round is around 10 seconds.
-- **Turn** is the time scale for exploration. Each turn is 10 minutes, enough time to explore a room and perform an action or two.
-- **Watch** is the time scale used when traveling. Each Watch is 6 hours: morning, afternoon, evening, and night. A party can travel 6 miles in 1 watch in open terrain and clear weather.
 
 ## Zones
 
