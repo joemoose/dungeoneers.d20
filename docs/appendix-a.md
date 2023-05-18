@@ -25,15 +25,15 @@ Roll **d20** equal to or less than the applicable attribute:
 
 **Advantage & Disadvantage**
 
-- When making a check from a strong or weakened position, roll **two d20**. Take the **best** or **worst** result, respectively.
+- When making a check from a strong or weak position, roll **two d20**; take the **best** or **worst** result, respectively.
 
 **Critical Success**
 
-- Rolling a **1** is better-than-expected outcome. LUCK +1.
+- Rolling a **1** is better-than-expected outcome and LUCK +1.
 
 **Critical Failure**
 
-- Rolling a **20**, a worse-than-expected outcome. LUCK -1.
+- Rolling a **20**, a worse-than-expected outcome and LUCK -1.
 
 ## Combat
 

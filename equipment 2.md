@@ -35,7 +35,7 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 **Example Constraints**
 
 | Condition | Adverse Effect | Cleared After |
-| :-- | :-- | :-- |
+| :- | :- | :- |
 | *Dazed* | Disadvantage on WIL checks | Long rest |
 | *Deprived* | Can’t heal from resting | Meal and long rest |
 | *Fatigued* | No effect besides taking up inventory | Long rest |
@@ -58,7 +58,7 @@ Usage can be repaired on most damaged gear, such as weapons and armor, for 10% o
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **5 armor rating** at most, even if items would increase it above this number. Armor takes up body inventory slots; shields take up a hand slot.
+Armor reduces the damage you suffer from an attack. A player character can have up to a **6 armor rating** at most, even if items would increase it above this number. Anyone can strap on the best armor they can afford and enjoy its protective qualities. Armor takes up body inventory slots; shields take up a hand slot.
 
 **Notes**:
 
@@ -70,56 +70,57 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
+- **Massive Armor** includes a helmet (advantage on STR checks to avoid critical damage) as part of the base armor. An additional helmet cannot be equipped.
 
 **Armor List**
 
-| Type | Example | Rating | Notes | Coins |
-| :-- | :-- |:-- | :-- | --: |
-| Helmet || +1 armor | Body, Advantage on critical damage saves | 60 |
-| Shield || +1 armor | Hand | 40 |
-| Cloth | Gambeson | +1 armor | Body | 50 |
-| Light | Brigandine | 1 armor | Body, Bulky | 500 |
-| Medium | Chainmail | 2 armor | Body, Bulky | 1,000 |
-| Heavy | Plate Mail | 3 armor | Body, Bulky | 2,000 |
+| Type | Rating | Notes | Coins |
+| :--- | :----------- | :------ | ---: |
+| Heavy hooded cloak | +1 armor | Body | 20 | 
+| Helmet | +1 armor | Body, Advantage on critical damage saves | 60 |
+| Shield | +1 armor | Hand | 40 |
+| Cloth (Gambeson) | 1 armor | Body | 50 |
+| Light (Brigandine) | 2 armor | Body, Bulky | 500 |
+| Medium (Chainmail) | 3 armor | Body, Bulky | 1200 |
+| Heavy (Plate Mail) | 4 armor | Body, Bulky | 4,000 |
+| Massive (Full Plate) | 5 armor | Body, Bulky, Advantage on critical damage saves | 8,000 |
+
 
 ## Weapons
 
 You can use any weapon as you see fit. Most weapons have characteristics that affect their use. 
 
-- ***Ammo***: Long- and short-range weapons require the listed ammunition to be carried in a body slot.
-- ***Blugeoning***: ignores 1 armor rating on targets with **medium armor**.
-- ***Long-range***: This weapon can attack a target up to three zones away.
-- ***Offhand***: This weapon can be used as a dual weapon in the offhand.
-- ***Piercing***: ignores 1 armor rating on targets with **heavy armor**.
-- ***Reach***: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent.
-- ***Short-range***: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- ***Slashing***: ignores 1 armor rating on targets with **light armor**.
-- ***Slow***: Requires an action to ready or reload.
-- ***STR***: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
-- ***Thrown***: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
-- ***Two-handed***: This weapon requires two hand slots.
-- ***Versatile***: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both dice, take the best).
+- *Ammo*: Long- and short-range weapons require the listed ammunition to be carried in a body slot. 
+- *Long-range*: This weapon can attack a target up to three zones away.
+- *Offhand*: This weapon can be used as a dual weapon in the offhand.
+- *Short-range*: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
+- *Reach*: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent.
+- *Slow*: Requires an action to ready or reload.
+- *STR*: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
+- *Thrown*: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
+- *Two-handed*: This weapon requires two hand slots.
+- *Versatile*: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both dice, take the best).
 
 **Weapons List**
 
-| Weapon | Damage | Type | Notes | Coins |
-| :-- | :-: | :-- |:-- | --: |
-| Unarmed | d6 | – | Doesn't ignore armor on critical hits | – |
-| Dagger | d6 | Piercing | Offhand, Thrown, advantage on initiative checks | 20 |
-| Cudgel | d6 | Bludgeoning | Offhand | 10 |
-| Staff | d8/+d8 | Bludgeoning | Versatile | 20 |
-| Axe | d8 | Slashing | Thrown | 40 |
-| Spear |  d10/+d10 | Piercing | Thrown, Versatile | 30 |
-| Mace | d10 | Bludgeoning | – | 50 |
-| Sword | d10/+d10 | Slashing | Versatile | 60 |
-| Polearm | d10 | Piercing, Slashing | Two-handed, Reach| 70 |
-| Maul | d12 | Bludgeoning | Two-handed, STR 7+ | 80 |
-| Great Sword | d12 | Slashing | Two-handed, STR 11+ | 120 |
-| Sling | d6 | Bludgeoning | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
-| Shortbow | d8 | Piercing | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
-| Crossbow | d8 | Piercing | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
-| Longbow | d10 | Piercing | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and case: 10 coins | 200 |
-| Arbalest | d12 | Piercing | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
+| Weapon | Damage | Notes | Coins |
+| :----- | :----: | :---- | ---: |
+| Unarmed | d4 | Doesn't ignore armor on critical hits | - |
+| Dagger | d4 | Offhand, Thrown, advantage on initiative checks | 20 |
+| Cudgel | 2d3 | Offhand | 10 |
+| Staff | 2d3/+d6 | Versatile | 20 |
+| Spear | d6/+d6 | Thrown, Versatile | 30 |
+| Axe | d8/+d8 | Thrown, Versatile | 40 |
+| Mace | 2d4/+d8 | Versatile | 50 |
+| Sword | d8/+d8 | Versatile | 60 |
+| Polearm | d10 | Two-handed, Reach| 70 |
+| Maul | 2d6 | Two-handed, STR 7+ | 80 |
+| Great Sword | d12 | Two-handed, STR 11+ | 120 |
+| Sling | 2d3 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
+| Shortbow | d8 | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
+| Crossbow | d8 | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
+| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and case: 10 coins | 200 |
+| Arbalest | d12 | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
 
 !!! Note
 		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
@@ -128,11 +129,11 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 Use your gear to solve challenges creatively and keep your character adventuring. Most gear has characteristics that affect their use. 
 
-- ***Bulky***: requires two inventory slots.
-- ***Load***: Number of inventory slots available for storing items.
-- ***Slow***: It takes minutes or more to use.
-- ***Small***: Up to three small items can be stored in an inventory slot.
-- ***n Uses***: It can only be used *n* times.
+- _Bulky_: requires two inventory slots.
+- _Load_: Number of inventory slots available for storing items.
+- _Slow_: It takes minutes or more to use.
+- _Small_: Up to three small items can be stored in an inventory slot.
+- _n Uses_: It can only be used _n_ times.
 
 **Equipment List**
 

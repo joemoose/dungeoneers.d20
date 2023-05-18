@@ -2,15 +2,15 @@
 
 ## Introduction
 
-You’re a newly minted **dungeoneer**: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook just as readily as a blade. You’re not like ordinary folk. You will live a dangerous life. You will delve into weird and forgotten places in search of gold and glory. With some luck, you might retire before dying.
+You’re a newly minted **dungeoneer**: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook just as readily as a blade. You’re not like ordinary folk. You will live a dangerous life, questing for gold and glory. You will delve into dark and forgotten places best left undisturbed. With some luck, you might retire before dying.
 
 ## Step 1: Backstory
 
 Create a little backstory for your character. You chose to become an adventurer for a reason—what is it?
 
-Choose or roll d20 in the following Backstory table to determine your former (failed) profession and what misfortune befell you that pushed you into the life of adventuring.
+Choose or roll d20 in the following Backstory table to determine your former profession and what misfortune befell you that pushed you into the life of adventuring.
 
-Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. Don’t get too attached to your character; it’s a dangerous and uncertain world.
+Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. Don’t get too attached to your character; it’s a perilous and uncertain world.
 
 **Backstory Table**
 
@@ -188,7 +188,7 @@ Roll **d4+2** to determine your starting hit points.
 
 Let’s see what equipment you’ve brought to your new adventuring life.
 
-You start with a hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
+You start with a heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
 
 Choose **three** more items from the following list. You may choose an item more than once.
 
@@ -259,12 +259,12 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 
 If you would prefer to pick from a standard starting equipment set, select from the following:
 
-- **Figher**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
-- **Healer**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 60 coins
-- **Magic-User**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
-- **Ranger**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
-- **Rogue**: hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 60 coins
-- **Scholar**: hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
+- **Figher**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
+- **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 60 coins
+- **Magic-User**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
+- **Ranger**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
+- **Rogue**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 60 coins
+- **Scholar**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
 
 !!! note
 
