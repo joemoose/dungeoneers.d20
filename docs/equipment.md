@@ -58,43 +58,42 @@ Usage can be repaired on most damaged gear, such as weapons and armor, for 10% o
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **5 armor rating** at most, even if items would increase it above this number. Armor takes up body inventory slots; shields take up a hand slot.
+Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **3 armor rating** at most, even if items would increase it above this number.
 
 **Notes**:
 
-- ***n* armor rating** items are base armor. Only a single type of base armor can be equipped.
-- **+1 armor rating** items can be equipped along with the base armor. Each then equipped improves the base armor rating by one.
-- **Bulky** items require two inventory slots.
-- **Helmets** provide an advantage on attribute checks to avoid critical damage in addition to their +1 armor rating.
-- **Shields** have other uses besides their +1 armor rating:
+- ***n* armor rating** items are the base armor. Only a single type of base armor can be equipped.
+- **+1 armor rating** items can be equipped along with the base armor to increase the armor rating by one to a maximum armor rating of three.
+- **Bulky** armor require two body inventory slots.
+- **Helmets** provide an advantage on attribute checks to avoid critical damage in addition to a +1 armor rating.
+- **Shields** have other uses in addition to a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
 
 **Armor List**
 
-| Type | Example | Rating | Notes | Coins |
-| :-- | :-- |:-- | :-- | --: |
-| Helmet || +1 armor | Body, Advantage on critical damage saves | 60 |
-| Shield || +1 armor | Hand | 40 |
-| Cloth | Gambeson | +1 armor | Body | 50 |
-| Light | Brigandine | 1 armor | Body, Bulky | 500 |
-| Medium | Chainmail | 2 armor | Body, Bulky | 1,000 |
-| Heavy | Plate Mail | 3 armor | Body, Bulky | 2,000 |
+| Type | Notes | Coins |
+| :-- | :-- |:-- | --: |
+| Helmet | +1 armor | 60 |
+| Shield | +1 armor | 40 |
+| Light (brigandine) | 1 armor, bulky | 500 |
+| Medium (chainmail) | 2 armor, bulky | 1,000 |
+| Heavy (plate mail) | 3 armor, bulky | 2,000 |
 
 ## Weapons
 
 You can use any weapon as you see fit. Most weapons have characteristics that affect their use. 
 
 - ***Ammo***: Long- and short-range weapons require the listed ammunition to be carried in a body slot.
-- ***Blugeoning***: ignores 1 armor rating on targets with **medium armor**.
+- ***Bludgeoning***: Damage against **heavy armor** is *Enhanced*.
 - ***Long-range***: This weapon can attack a target up to three zones away.
 - ***Offhand***: This weapon can be used as a dual weapon in the offhand.
-- ***Piercing***: ignores 1 armor rating on targets with **heavy armor**.
+- ***Piercing***: Damage against **medium armor** is *Enhanced*.
 - ***Reach***: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent.
 - ***Short-range***: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- ***Slashing***: ignores 1 armor rating on targets with **light armor**.
-- ***Slow***: Requires an action to ready or reload.
+- ***Slashing***: Damage against **unarmored** and **light armor** is *Enhanced*.
+- ***Reload***: Requires an action to reload and ready.
 - ***STR***: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
 - ***Thrown***: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
 - ***Two-handed***: This weapon requires two hand slots.
@@ -102,24 +101,27 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 **Weapons List**
 
-| Weapon | Damage | Type | Notes | Coins |
-| :-- | :-: | :-- |:-- | --: |
-| Unarmed | d6 | – | Doesn't ignore armor on critical hits | – |
-| Dagger | d6 | Piercing | Offhand, Thrown, advantage on initiative checks | 20 |
-| Cudgel | d6 | Bludgeoning | Offhand | 10 |
-| Staff | d8/+d8 | Bludgeoning | Versatile | 20 |
-| Axe | d8 | Slashing | Thrown | 40 |
-| Spear |  d10/+d10 | Piercing | Thrown, Versatile | 30 |
-| Mace | d10 | Bludgeoning | – | 50 |
-| Sword | d10/+d10 | Slashing | Versatile | 60 |
-| Polearm | d10 | Piercing, Slashing | Two-handed, Reach| 70 |
-| Maul | d12 | Bludgeoning | Two-handed, STR 7+ | 80 |
-| Great Sword | d12 | Slashing | Two-handed, STR 11+ | 120 |
-| Sling | d6 | Bludgeoning | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
-| Shortbow | d8 | Piercing | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
-| Crossbow | d8 | Piercing | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
-| Longbow | d10 | Piercing | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and case: 10 coins | 200 |
-| Arbalest | d12 | Piercing | Long-range, Two-handed, Slow, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
+| Weapon | Damage | Notes | Coins |
+| :-- | :-: | :-- | --: |
+| Unarmed | d4 | Doesn't ignore armor on critical hits | - |
+| **Bludgeoning Weapons** ||||
+| Cudgel | d6 | Offhand | 10 |
+| Staff | d6/+d6 | Versatile | 20 |
+| Mace | d8 | - | 50 |
+| Maul | d10 | Two-handed, STR 7+ | 80 |
+| Sling | d8 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
+| **Piercing Weapons** ||||
+| Dagger | d6 | Offhand, Thrown | 20 |
+| Spear | d8/+d8 | Thrown, Versatile | 30 |
+| Pike | d10 | Two-handed, Reach| 70 |
+| Shortbow | d8 | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
+| Crossbow | d8 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
+| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and case: 10 coins | 200 |
+| Arbalest | d10 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
+| **Slashing Weapons** |||||
+| Axe | d6 | Thrown | 40 |
+| Sword | d8/+d8 | Versatile | 60 |
+| Great Sword | d10 | Two-handed, STR 11+ | 120 |
 
 !!! Note
 		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.

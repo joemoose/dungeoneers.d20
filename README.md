@@ -21,11 +21,11 @@ Roll **d20** equal to or less than the applicable attribute:
 
 **Critical Success**
 
-- Rolling the exact attribute score, a better-than-expected outcome. LUCK +1.
+- Rolling the exact attribute score, a better-than-expected outcome & LUCK +1.
 
 **Critical Failure**
 
-- Rolling a 20, a worse-than-expected outcome. LUCK -1.
+- Rolling a 20, a worse-than-expected outcome & LUCK -1.
 
 ## Combat
 
@@ -33,11 +33,7 @@ On your turn, you can take **two** actions: move, attack, cast a spell, etc.
 
 **Initiative**
 
-Declare actions before rolling dice. A *fast* round is a single action. A *slow* round is two actions.
-
-1. Resolve all fast rounds before slow rounds.
-2. If players and opponents both take fast rounds, the player must make a DEX *or* WIL check to go first.
-3. If players and opponents both take slow rounds, the player must make a DEX *or* WIL check to go first.
+The player must make a DEX *or* WIL check to go before their opponents.
 
 **Attacks**
 
@@ -69,6 +65,5 @@ Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each ess
   
 ## Inventory
 
-- Maximum of 12 inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
-- Items in the backpack require an action to retrieve during combat.
-- Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 5 in a slot.
+- Maximum of 12 inventory slots.
+- Most items take one slot; bulky items require two.

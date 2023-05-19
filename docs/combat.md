@@ -38,7 +38,7 @@ In some situations, attacks may receive an extra die, noted as +d6, +d8, etc. Ro
 
 ### Enhanced Attacks
 
-When an attack is **enhanced**, such as attacking an unaware opponent, add **+d12** bonus damage. Roll both and choose the best result.
+When an attack is **enhanced**, such as attacking an unaware opponent, add **+d12** bonus damage. Roll both and keep the **best** result.
 
 ### Impaired Attacks
 
