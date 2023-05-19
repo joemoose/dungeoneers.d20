@@ -40,7 +40,6 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 | *Deprived* | Can’t heal from resting | Meal and long rest |
 | *Fatigued* | No effect besides taking up inventory | Long rest |
 | *Frightened* | Make a WIL check to approach the source of fear | Short rest |
-| *Geas* | No effect besides taking up inventory | Complete the magical obligation |
 | *Wounded* | Disadvantage on STR and DEX checks | Full rest |
 
 !!! Note
@@ -74,7 +73,7 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 **Armor List**
 
 | Type | Notes | Coins |
-| :-- | :-- |:-- | --: |
+| :-- | :-- | --: |
 | Helmet | +1 armor | 60 |
 | Shield | +1 armor | 40 |
 | Light (brigandine) | 1 armor, bulky | 500 |

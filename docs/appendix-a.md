@@ -41,7 +41,7 @@ On your turn, you can move and take one action: move a second time, attack, cast
 
 **Initiative**
 
-Make a DEX or a WIL check to act before your opponents; otherwise, go after the opponents.
+Make a DEX or a WIL check to act before your opponents.
 
 **Attacks**
 
