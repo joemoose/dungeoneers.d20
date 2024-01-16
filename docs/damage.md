@@ -45,6 +45,6 @@ When an attack reduces your character's HP to exactly 0, they are uniquely impac
 | 7 HP | **Hamstrung**: You can barely move until you get serious help and rest. After recovery, roll 3d6. Take the new result if the total is higher than your max DEX. |
 | 8 HP | **Deafened**: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
 | 9 HP | **Re-brained**: Some hidden part of your psyche is knocked loose. Roll 3d6. Take the new result if the total is higher than your max WIL. |
-| 10 HP | **Sundered**: An appendage is torn off, crippled, or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
+| 10 HP | **Sundered**: An appendage is torn off, maimed, or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
 | 11 HP | **Mortal Wound**: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12+ HP | **Doomed**: Death seemed so close, but somehow you survived. You die horribly if your next save against critical damage is a fail. If you pass, roll 3d6. Take the new result if the total is higher than your max HP. |

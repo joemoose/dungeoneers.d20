@@ -17,8 +17,6 @@ Roll d20 for your character’s former career; refer to the listing for details.
 | 10 | Herbalist | 20 | Tracker |
 [Failed Careers Table]
 
-Failed Career Descriptions.md
-
 
 ## Alchemist
 

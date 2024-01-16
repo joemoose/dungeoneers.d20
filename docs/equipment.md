@@ -63,7 +63,7 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 **Notes**:
 
 - ***n* armor rating** items are the base armor. Only a single type of base armor can be equipped.
-- **+1 armor rating** items can be equipped along with the base armor to increase the armor rating by one to a maximum armor rating of three.
+- **+1 armor rating** items can be equipped with the base armor to increase the armor rating by one to a maximum armor rating of three.
 - **Bulky** armor requires two body inventory slots.
 - **Helmets** provide an advantage on attribute checks to avoid critical damage in addition to a +1 armor rating.
 - **Shields** have other uses in addition to a +1 armor rating:

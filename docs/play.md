@@ -33,7 +33,7 @@ To make an attribute check, roll a **d20** and compare the result to the applica
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer capable of doing almost anything. So when the outcome of an action is risky, and the GM calls for an attribute check to determine an outcome, how do we decide which attribute to roll against?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is risky, and the GM calls for an attribute check to determine an outcome, how do we decide which attribute to roll against?
 
 Your description of your character’s actions determines the applicable attribute. Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
 
@@ -71,7 +71,7 @@ If your character’s former vocation or specialization could apply to your curr
 	
 ### Group Checks
 
-When everyone in the adventuring party is trying to do the same thing, such as moving quietly past a sleeping ogre, the GM may ask that everyone makes an attribute check. If at least half the characters succeed, the group succeeds.
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that everyone make an attribute check. If at least half the characters succeed, the group succeeds.
 	
 ### Assistance
 
