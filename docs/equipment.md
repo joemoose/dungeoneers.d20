@@ -58,7 +58,7 @@ Usage can be repaired on most damaged gear, such as weapons and armor, for 10% o
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **3 armor rating** at most, even if items would increase it above this number.
+Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **4 armor rating** at most, even if items would increase it above this number.
 
 **Notes**:
 

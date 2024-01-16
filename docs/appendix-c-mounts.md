@@ -47,6 +47,10 @@ A *fearless* mount, or one explicitly trained for war, checks morale only when i
 
 ## Example Mounts
 
+**Draft Horse**
+
+5 HP, 0 Armor, 12 STR, 8 DEX, 10 WIL, Load 12 (*large*)
+
 **Elephant**
 
 10 HP, 1 Armor, 20 STR, 6 DEX, 16 WIL, Load 20 (*huge*, *fearless*)
@@ -62,10 +66,6 @@ As pony, Load 8 (*fearless*, *surefooted*, can travel underground)
 **Pony**
 
 3 HP, 0 Armor, 8 STR, 12 DEX, 8 WIL, Load 6 (*medium*)
-
-**Draft Horse**
-
-5 HP, 0 Armor, 12 STR, 8 DEX, 10 WIL, Load 12 (*large*)
 
 **Riding Horse**
 

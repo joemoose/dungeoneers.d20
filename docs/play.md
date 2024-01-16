@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The core of this game is a conversation between the players and the game master (GM). The GM describes the players’ current situation. Then the players ask questions and tell the GM what their characters do. The GM explains the results of their actions, and then the players react again and describe more activities, and so on.
+The core of this game is a conversation between the players and the game master (GM). The GM describes the players’ current situation. Then, the players ask questions and tell the GM what their characters do. The GM explains the results of their actions, and then the players react again and describe more activities, and so on.
 
 The GM answers your questions and always respects your freedom of choice. The GM provides challenges, obstacles, and situations to solve and overcome. Still, the game is more than just a story narrated by the GM—it’s an interactive narrative built on your and your fellow players’ decisions. Consider it as both creating and acting in an adventure story simultaneously.
 
@@ -20,7 +20,7 @@ On to the mechanics!
 
 To make sure everyone at the table has a chance to participate and speak, the game uses **Turns**. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?”. 
 
-Each player can move and take one action during their turn. A turn may represent several seconds (during combat), several minutes (exploring a room), several hours (exploring a city), to several days (traveling).
+Each player can move and take one action during their turn. A turn may represent several seconds (during combat), several minutes (exploring a room), several hours (exploring a city), or several days (traveling).
 
 ## Attribute Checks
 
@@ -99,13 +99,13 @@ The LUCK attribute applies only to player characters, not hirelings, monsters, o
 	
 ### Restoring Your Luck
 
-Anytime you roll a critical success on an attribute check, your LUCK increases. Conversely, rolling a critical failure decreases your luck.
+Anytime you roll a critical success on an attribute check, increase your LUCK score by one point to a maximum of 18. Conversely, rolling a critical failure decreases your LUCK score by one point to a minimum of zero.
 
 ## Zones
 
 The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
 
-For example, at the start of combat, the GM divides the battlefield into at least three zones; one where the party starts, one where the opponents start, and the area between them.
+For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and the other between them.
 
 The distance within and between zones is relative:
 
