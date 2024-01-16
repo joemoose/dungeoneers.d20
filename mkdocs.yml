@@ -9,7 +9,7 @@ site_dir: dungeoneers
 # Repo
 
 repo_url: https://github.com/joemoose/dungeoneers/
-edit_uri: blob/main/docs/
+edit_uri: blob/main/
 
 # Navigation
 
@@ -21,19 +21,20 @@ nav:
   - combat.md
   - damage.md
   - spells.md
-  - advancement.md
   - Appendices:
-      - appendix-a.md
-      - appendix-b.md
-      - appendix-c.md
-      - appendix-d.md
-      - appendix-e.md
-      - appendix-f.md
-      - appendix-g.md
-      - appendix-h.md
-      - appendix-i.md
+    - appendix-a-reference.md
+    - appendix-b-sundries.md
+    - appendix-c-mounts.md
+    - appendix-d-archetypes.md
+    - appendix-e-leveling.md
+    - appendix-f-classes.md
+    - appendix-g-hit_location.md
+    - appendix-h-dragonpowder.md
+    - appendix-i-sword_and_sorcery.md
+    - appendix-j-reputation.md
+    - appendix-k-crates.md
   - attribution.md
-
+  
 # Theme
 
 theme:

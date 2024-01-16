@@ -15,25 +15,27 @@ docs/damage.md
 
 docs/spells.md
 
-docs/advancement.md
+docs/appendix-a-reference.md
 
-docs/appendix-a.md
+docs/appendix-b-sundries.md
 
-docs/appendix-b.md
+docs/appendix-c-mounts.md
 
-docs/appendix-c.md
+docs/appendix-d-archetypes.md
 
-docs/appendix-d.md
+docs/appendix-e-leveling.md
 
-docs/appendix-e.md
+docs/appendix-f-classes.md
 
-docs/appendix-f.md
+docs/appendix-g-hit_location.md
 
-docs/appendix-g.md
+docs/appendix-h-dragonpowder.md
 
-docs/appendix-h.md
+docs/appendix-isword_and_sorcery.md
 
-docs/appendix-i.md
+docs/appendix-j-reputation.md
+
+docs/appendix-k-crates.md
 
 docs/attribution.md
 

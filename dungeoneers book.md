@@ -15,7 +15,4 @@ docs/damage.md
 
 docs/spells.md
 
-docs/advancement.md
-
 docs/attribution.md
-

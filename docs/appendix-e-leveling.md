@@ -1,4 +1,6 @@
-# Leveling Up
+# Appendix E: Alternate Leveling
+
+---
 
 ## Introduction
 
@@ -99,6 +101,23 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 | 11 | **Hot Gossip**. Your time spent carousing let you in on some juicy rumors. You learn one major secret about a person of note. |
 | 12+ | **Heroic Carousing!** It was a night of truly epic debauchery. Roll d6 to see how your legend grew. (1) Re-roll HP for your current level; swap the new result if higher, or increase by 1 if lower. (2) Gain 1 STR. (3) Gain 1 DEX. (4) Gain 1 WIL. (5) Gain 1 LUCK. (6) Gain a random spell tablet. |
 
+## Hirelings
 
+Hirelings can improve in the same way that your character does.
 
+Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, after they earn 1000 XP, they advance to Level 2.
 
+Not receiving a share of treasure may cause resentment amongst hirelings.
+
+!!! Note
+		See the [Leveling Up](advancement.md) section for information about XP and gaining levels.
+
+## Alternate Leveling
+
+---
+
+Rather than tracking experience points and leveling up based on the value of looted treasure and artifacts, you can tie your character’s level advancement to **essential milestones**, such as completing an expedition and returning to a settlement.
+
+You’ll need to bring something of value back to show for your efforts or, at the very least, share an adventurous tale to be sung by bards.
+
+You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more milestones.

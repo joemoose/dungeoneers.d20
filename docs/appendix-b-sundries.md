@@ -78,4 +78,4 @@
 
 !!! note
 
-	See the [Appendix](appendix-c.md) for details on mounts.
+	See the [Appendix](appendix-c-mounts.md) for details on mounts.

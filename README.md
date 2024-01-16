@@ -33,7 +33,9 @@ On your turn, you can take **two** actions: move, attack, cast a spell, etc.
 
 **Initiative**
 
-The player must make a DEX *or* WIL check to go before their opponents.
+Make a DEX or a WIL check to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round.
+
+Players go before their opponents in the second and all subsequent rounds.
 
 **Attacks**
 

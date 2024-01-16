@@ -20,7 +20,7 @@ Carts, horses, or mules can increase inventory space. Hirelings can also be empl
 
 ## Coins
 
-Your character can carry up to 100 coins freely in their pockets. After that, each additional 250 coins occupy one inventory slot.
+Your character can carry up to 100 coins freely in their pockets. After that, each additional 200 coins occupy one inventory slot.
 
 ## Constraints
 
@@ -51,7 +51,7 @@ Consumable items have a specified number of **uses** to track resource consumpti
 
 After all the uses are marked off, the item is depleted and removed from your inventory.
 
-Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could damage or deplete it, the GM may ask you to either mark one usage or roll **d6**; on a **1 or 2**, mark a use.
+Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could damage or deplete it, the GM may ask you to mark one usage.
  
 Usage can be repaired on most damaged gear, such as weapons and armor, for 10% of the original cost per point of usage removed. 
 
@@ -142,14 +142,14 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
 | Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 Uses, Slow, Bulky | 100 |
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL check to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
-| Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](advancement.md) section for information on carousing. | 1 Use, Bulky | 10 |
+| Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](appendix-e-leveling.md) section for information on carousing. | 1 Use, Bulky | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
 | Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
 !!! note
 
-		See the [Appendix](appendix-b.md) for more equipment lists.
+		See the [Appendix](appendix-b-sundries.md) for more equipment lists.
 
 ## Hirelings
 
@@ -167,55 +167,3 @@ In addition to a daily wage, hirelings must be fed and provided lodging.
 When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or desert their employment.
 
 Well-paid or loyal hirelings may make this check with an advantage.
-
-**Advancement**
-
-Hirelings can improve in the same way that your character does.
-
-Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, after they earn 1000 XP, they advance to Level 2.
-
-Not receiving a share of treasure may cause resentment amongst hirelings.
-
-!!! Note
-		See the [Leveling Up](advancement.md) section for information about XP and gaining levels.
-
-## Supply Crates
-
-Equipment supply crates and barrels (hereafter referred to as simply “crates”) can replenish the party’s gear on long expeditions when they’re away from settlements and unable to restock.
-
-**Weight**
-
-Crates are heavy, taking up six inventory slots, and are typically carried on pack animals or in wagons.
-
-**Contents**
-
-Crates contain a specific type of expedition equipment as follows:
-
-- **Food Crate** contains rations.
-- **Gear Crate** contains new adventuring gear.
-- **Medicine Crate** contains new healer’s kits.
-- **Survival Crate**: contains gear and clothing for surviving the extremes in wilderness travel. They are specified on purchase as either hot- or cold-weather survival crates.
-- **Tools Crate** contains repair tools and crafting materials.
-- **Water Barrel** contains refills for a waterskin.
-
-**Cost**
-
-A new crate costs ten times that of the item it contains. For example, a *gear crate* costs 200 coins (10 x 20 coins for one adventuring gear). If a crate does not have a listed item cost, such as crafting and survival crates, the price is 200 coins.
-
-**Uses**
-
-Each crate is assigned a *Usage Die* to track its consumption. A full crate starts with a **d10** usage die.
-
-Roll the usage die each time an item is removed from a crate. On a roll **1 or 2**, the usage die drops in size to the next lowest value in the dice chain as follows: 
-
-**d10** > **d8** > **d6** > **d4** > **empty**
-
-When a 1 or 2 is rolled on a d4 usage die, the crate is emptied.
-
-!!! info "Example"
-
-	A player takes two healer’s kits from a new medicine crate. The usage die is d10. After removing the first kit, the player rolls an eight on the usage check. The medicine crate’s usage die remains at d10. After taking out the second kit, the player rolls a one. The crate’s usage die now drops to d8.
-
-**Other Crates**
-
-Other types of equipment crates could be purchased in larger settlements. For instance, a party planning to equip many soldiers could buy a crate of helmets for 600 coins. After each helmet is handed out, roll the helmet crate’s usage die. 

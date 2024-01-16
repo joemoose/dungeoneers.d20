@@ -14,11 +14,11 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 ## Inititative
 
-When combat breaks out, a turn order must first be established for all the combatants. Turns allow every player to participate (no hogging the limelight) and provide tactical opportunities during combat.
+If you attack unsuspecting foes, your character and any allies aware of the plan go first.
 
-If you attack unsuspecting foes, your character and any allies aware of the plan go first. Otherwise, make a **DEX** or a **WIL** check to act before your opponents. Your opponents will all act on the same turn.
+Otherwise, during the *first round of combat*, each player must make a DEX or WIL save to act. Special circumstances, abilities, items, or skills may negate this requirement. Players that fail this save *lose their turn* for the first round.
 
-At the beginning of each subsequent round of combat, make a DEX or a WIL check to act before your opponents.
+The opponents then take their turn and the first round ends. The next round begins with the players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
 ## Attacks
 
@@ -54,7 +54,7 @@ If multiple combatants attack the same target, roll damage for each attacker, bu
 
 ### Blast
 
-Attacks with the *blast* quality affect all targets in a zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs, and massive sweeping onslaughts, to swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
+Attacks with the *blast* quality affect all targets in a zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs and massive sweeping onslaughts to swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
 
 ## Defending
 
@@ -82,7 +82,7 @@ Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or 
 	
 ### Suffering a Gamit
 
-Clever opponents will try and use gambits on you. If so, the GM gives you a choice: if you fail an attribute check to avoid the gambit, either suffer the effect of the gambit or take damage from the attack.
+Clever opponents will try to use gambits on you. If so, the GM gives you a choice: if you fail an attribute check to avoid the gambit, either suffer the effect of the gambit or take damage from the attack.
 
 ## Advantage in Combat
 
@@ -109,7 +109,7 @@ You cannot attack opponents in the same zone as you with a ranged weapon.
 
 ### Aimed Shots
 
-Taking your action to aim a ranged weapon allows you to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
+Taking an action to aim a ranged weapon allows you to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
 
 !!! Tip
 
@@ -117,7 +117,7 @@ Taking your action to aim a ranged weapon allows you to ignore the target’s ar
 
 ## Subdual
 
-Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual but halve the damage after first reducing it by the opponent’s armor rating. An enemy who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
+Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual, but halve the damage after first reducing it by the opponent’s armor rating. An enemy who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
 ## Morale
 

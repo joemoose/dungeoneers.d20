@@ -219,7 +219,7 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 | d66 | Item |
 | :-: | :-- |
 | 11 | Spool of fine copper wire. Useful for setting trip wires, rigging up pulleys, etc. Worth 20 coins to a jeweler or mechanic. |
-| 12 | Box of valuable incense. If burned, it emits quantities of thick, richly-fragrant smoke. Worth 20 coins to a priest. |
+| 12 | Box of valuable incense. If burned, it emits quantities of thick, richly fragrant smoke. Worth 20 coins to a priest. |
 | 13 | Box containing hundreds of tiny silver bells. It can be tied to strings, tripwires, etc., as an alarm system. Worth 20 coins to a dancer or musician. |
 | 14 | Vial of glowing liquid: briefly emits light equivalent to a candle when shaken vigorously but otherwise emits a dull green glow. It can be painted over things to make them glow with an unearthly greenish light. Worth 20 coins to an alchemist. |
 | 15 | Vial of strong, fast-drying glue. Capable of bonding just about anything, wood, stone, cloth, skin, etc. Worth 20 coins to a craftsman or alchemist. |
@@ -268,7 +268,7 @@ If you would prefer to pick from a standard starting equipment set, select from 
 
 !!! note
 
-	See the [Appendix](appendix-d.md) for more character archetypes and their starting equipment.
+	See the [Appendix](appendix-d-archetypes.md) for more character archetypes and their starting equipment.
 
 ## Step 7: Introductions
 
