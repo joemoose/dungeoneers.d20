@@ -14,9 +14,7 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 ## Inititative
 
-If you attack unsuspecting foes, your character and any allies aware of the plan go first.
-
-Otherwise, during the *first round of combat*, each player must make a DEX or WIL check to act. Special circumstances, abilities, items, or skills may negate this requirement. Players that fail this check *lose their turn* for the first round.
+During the *first round of combat*, each player must make a DEX or WIL check to act. Special circumstances, abilities, items, or skills may negate this requirement. Players who fail this check *lose their turn* for the first round.
 
 The opponents then take their turn and the first round ends. The next round begins with the players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
