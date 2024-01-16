@@ -129,7 +129,7 @@ Some fanatical or mindless opponents might not be required to check morale—the
 
 !!! note
 
-		Morale checks don’t apply to players. You have to decide when it’s prudent to run away!
+	Morale checks don’t apply to players. You have to decide when it’s prudent to run away!
 
 ## Warbands
 

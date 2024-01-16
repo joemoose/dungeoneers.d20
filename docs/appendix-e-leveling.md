@@ -1,4 +1,4 @@
-# Appendix E: Alternate Leveling
+# Appendix E: Optional Leveling
 
 ---
 
@@ -31,7 +31,7 @@ When your character earns enough XP to advance to the next level, perform the fo
 
 !!! note
 
-		The highest value that a character can attain for attributes and HP is 18.
+	The highest value that a character can attain for attributes and HP is 18.
 
 ## Stamina
 
@@ -109,10 +109,7 @@ Hirelings who receive a share of treasure after an expedition gain 1 Experience 
 
 Not receiving a share of treasure may cause resentment amongst hirelings.
 
-!!! Note
-		See the [Leveling Up](advancement.md) section for information about XP and gaining levels.
-
-## Alternate Leveling
+## Alternate Leveling: Milestones
 
 ---
 

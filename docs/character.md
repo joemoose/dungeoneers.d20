@@ -67,7 +67,7 @@ These starting traits may change as you adventure and further develop your chara
 
 !!! tip "Huzzah!"
 
-		You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*choice 1*), (*choice 2*), and (*choice 3*) adventurer.
+	You used to be a (*profession*), but then you were (*misfortune*). Now you are a (*choice 1*), (*choice 2*), and (*choice 3*) adventurer.
 
 ## Step 3: Name and Appearance
 
@@ -210,7 +210,7 @@ Choose **three** more items from the following list. You may choose an item more
 
 !!! note
 
-		See the [Equipment](equipment.md) section for more information on your gear.
+	See the [Equipment](equipment.md) section for more information on your gear.
 		
 Finally, roll d66 once and consult the following table to select an odd souvenir you own. It may come in handy one day, or you can sell it for a few coins.
 
@@ -260,10 +260,10 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 If you would prefer to pick from a standard starting equipment set, select from the following:
 
 - **Figher**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
-- **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 60 coins
+- **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins
 - **Magic-User**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
 - **Ranger**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
-- **Rogue**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 60 coins
+- **Rogue**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 10 coins
 - **Scholar**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
 
 !!! note

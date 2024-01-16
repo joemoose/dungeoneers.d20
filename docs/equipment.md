@@ -20,7 +20,7 @@ Carts, horses, or mules can increase inventory space. Hirelings can also be empl
 
 ## Coins
 
-Your character can carry up to 100 coins freely in their pockets. After that, each additional 200 coins occupy one inventory slot.
+Your character can carry up to 100 coins freely in their pockets. After that, each additional 200 coins occupies one inventory slot.
 
 ## Constraints
 
@@ -43,7 +43,8 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 | *Wounded* | Disadvantage on STR and DEX checks | Full rest |
 
 !!! Note
-		See the [How to Play](play.md) section for information about attribute checks and disadvantages and the [Damage](damage.md) section for information about rests.
+
+	See the [How to Play](play.md) section for information about attribute checks and disadvantages and the [Damage](damage.md) section for information about rests.
 
 ## Usage
 
@@ -63,7 +64,7 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 
 - ***n* armor rating** items are the base armor. Only a single type of base armor can be equipped.
 - **+1 armor rating** items can be equipped along with the base armor to increase the armor rating by one to a maximum armor rating of three.
-- **Bulky** armor require two body inventory slots.
+- **Bulky** armor requires two body inventory slots.
 - **Helmets** provide an advantage on attribute checks to avoid critical damage in addition to a +1 armor rating.
 - **Shields** have other uses in addition to a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
@@ -123,7 +124,8 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Great Sword | d10 | Two-handed, STR 11+ | 120 |
 
 !!! Note
-		See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
+
+	See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
 
 ##  Expedition Equipment
 
@@ -149,7 +151,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 
 !!! note
 
-		See the [Appendix](appendix-b-sundries.md) for more equipment lists.
+	See the [Appendix](appendix-b-sundries.md) for more equipment lists.
 
 ## Hirelings
 
