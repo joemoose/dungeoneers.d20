@@ -1,14 +1,18 @@
-# Appendix E: Optional Leveling
+# Appendix E: Optional Character Levels
 
 ---
 
 ## Introduction
 
-Your character earns Experience Points (XP) by bringing treasure and valuable relics back from their expeditions to the safety of a settlement.
+If your gaming table prefers a more traditional RPG character advancement mechanism rather than using combat [Scars](damage.md) and other growth opportunities and events in the narrative, you can track Experience Points (XP) and character levels.
+
+## Experience Points
+
+Your character earns XP by bringing treasure and valuable relics back from their expeditions to the safety of a settlement.
 
 For every coin’s worth of treasure brought back (divided equally amongst the party), your character earns 1 XP.
 
-## Level
+## Levels
 
 Characters start at level 1 with zero XP.
 
@@ -26,7 +30,7 @@ The following table shows the total XP required to advance each level.
 
 When your character earns enough XP to advance to the next level, perform the following actions:
 
-- **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, WIL, and LUCK. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased after rolling for each, increase your lowest attribute score by 1.
+- **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, and WIL. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased after rolling for each, increase your lowest attribute score by 1.
 - **Roll hit points**: Roll the HP dice listed for the new level. If the result exceeds the maximum HP that your character has, swap it with the rolled value. Otherwise, increase your maximum HP by 1.
 
 !!! note
@@ -110,8 +114,6 @@ Hirelings who receive a share of treasure after an expedition gain 1 Experience 
 Not receiving a share of treasure may cause resentment amongst hirelings.
 
 ## Alternate Leveling: Milestones
-
----
 
 Rather than tracking experience points and leveling up based on the value of looted treasure and artifacts, you can tie your character’s level advancement to **essential milestones**, such as completing an expedition and returning to a settlement.
 
