@@ -11,11 +11,11 @@ All dragonpowder gonnes have the following characteristics:
 - **Armor piercing**: Damage ignores three armor ratings; as with other weapons, a critical damage roll ignores all armor.
 - **Dangerous**: Gonnes always includes a bonus damage die. If you roll **double 1s** on a gonne’s damage and bonus damage dice roll, a misfire occurs, and your target suffers no harm. Consult the following Misfire Table for the result.
 - **Noisy**: Igniting dragonpowder has loud and explosive results. Animals flee when hearing the shot. Intelligent creatures will notice and investigate.
-- **Slow**: After attacking with a gonne, it must be reloaded. Reloading requires both hands and an actions per shot loaded. 
+- **Slow**: After attacking with a gonne, it must be reloaded. Reloading requires both hands and an action per shot loaded. 
 
 ## Misfires
 
-If you roll double 1s on a gonne’s damage and inherent bonus dice, a misfire occurs instead of damage to your target. Roll 2d6 and consult the following table for the result.
+If you roll double 1s on a gonne’s damage and inherent bonus dice, a **misfire** occurs instead of damage to your target. Roll 2d6 and consult the following table for the result.
 
 **Misfires Table**
 
@@ -48,4 +48,4 @@ If you roll double 1s on a gonne’s damage and inherent bonus dice, a misfire o
 | Name | Damage | Notes | Coins |
 | :--- | :----: | :---- | ----: |
 | Pomegranate | d8 | Thrown. Destroyed on use. *Blast* damage. | 120 |
-| Petard | 3d10 | Must be placed on the intended target and its fuse lit as two actions. The amount of time before detonation is determined by the fuse length: 1 to 6 rounds. There’s a 1 in 6 chance the fuse will detonate either one round earlier or later. Bulky. Destroyed on use. *Blast* damage. | 300 |
+| Petard | 3d10 | Must be secured on the intended target, and then its fuse lit as two actions. The amount of time before detonation is determined by the fuse length: 1 to 6 rounds. There’s a 1 in 6 chance the fuse will detonate either one round earlier or later. Bulky. Destroyed on use. *Blast* damage. | 300 |

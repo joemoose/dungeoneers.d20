@@ -25,7 +25,7 @@ Roll **d20** equal to or less than the applicable attribute:
 
 **Advantage & Disadvantage**
 
-- When making a check from a strong or weak position, roll **two d20**; take the **best** or **worst** result, respectively.
+- When making a check from a **strong** or **weak** position, roll **two d20**; take the **best** or **worst** result, respectively.
 
 **Critical Success**
 

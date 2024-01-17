@@ -4,7 +4,7 @@
 
 ## Introduction
 
-If your gaming table prefers a more traditional RPG character advancement mechanism rather than using combat [Scars](damage.md) and other growth opportunities and events in the narrative, you can track Experience Points (XP) and character levels.
+If your gaming table prefers a more traditional RPG character stats advancement mechanism rather than using combat [Scars](damage.md) and other growth opportunities and events in the narrative, you can track Experience Points (XP) and character levels.
 
 ## Experience Points
 
