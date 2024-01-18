@@ -77,8 +77,8 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 | :-- | :-- | --: |
 | Helmet | +1 armor | 60 |
 | Shield | +1 armor | 40 |
-| Light (brigandine) | 1 armor, bulky | 500 |
-| Medium (chainmail) | 2 armor, bulky | 1,000 |
+| Light (brigandine) | 1 armor, bulky | 120 |
+| Medium (chainmail) | 2 armor, bulky | 500 |
 | Heavy (plate mail) | 3 armor, bulky | 2,000 |
 
 ## Weapons
