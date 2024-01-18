@@ -69,7 +69,7 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 - **Shields** have other uses in addition to a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
-	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires a DEX *or* WIL check to maintain a shield wall. 
+	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires an attribute check of your choice to maintain a shield wall. 
 
 **Armor List**
 
@@ -144,7 +144,6 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
 | Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 Uses, Slow, Bulky | 100 |
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL check to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
-| Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the [Leveling Up](appendix-e-leveling.md) section for information on carousing. | 1 Use, Bulky | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
 | Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |

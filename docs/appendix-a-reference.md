@@ -16,7 +16,7 @@
 
 ## Attribute Checks
 
-Roll **d20** equal to or less than the applicable attribute:
+Roll **d20** less than or equal to the applicable attribute:
 
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
@@ -41,7 +41,7 @@ On your turn, you can move and take one action: move a second time, attack, cast
 
 **Initiative**
 
-Make a DEX or a WIL check to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round.
+Make a DEX or a WIL check to act before your opponents *in the first round* of combat. Players that fail this check *lose their turn* for the first round.
 
 Players go before their opponents in the second and all subsequent rounds.
 

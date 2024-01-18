@@ -1,5 +1,7 @@
 # NOTES
 
+| Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the optional [Leveling Up](appendix-e-leveling.md) section for information on carousing. | 1 Use, Bulky | 10 |
+
 ~~In all tabletop roleplaying games, it is important to make everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that may fall outside the everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, what will never be, and what might be in the game but only in passing.~~ 
 
 ~~It is also important that everyone at the table feels comfortable saying “pause” to take a break, “rewind” to revisit a previous situation or decision, and “stop” without fear of judgment if something in the conversation or gameplay makes them uncomfortable.~~
