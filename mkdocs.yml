@@ -9,7 +9,7 @@ site_dir: dungeoneers
 # Repo
 
 repo_url: https://github.com/joemoose/dungeoneers/
-edit_uri: blob/main/
+edit_uri: blob/main/docs
 
 # Navigation
 
@@ -122,4 +122,5 @@ plugins:
 #      enable_creation_date: false
 #      type: date
 #      fallback_to_build_date: true
+
 
