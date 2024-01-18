@@ -50,7 +50,7 @@ The offhand weapon functions as bonus damage when attacking with two weapons, on
 
 ### Multiple Attackers
 
-If multiple combatants attack the same target, roll damage for each attacker, but use only the best result.
+If multiple combatants attack the same target, roll damage for each attacker, but use only the best result, and add +1 damage for each attack after the first.
 
 ### Blast
 
@@ -58,15 +58,15 @@ Attacks with the *blast* quality affect all targets in a zone, rolling damage se
 
 ## Defending
 
-If you take an action to focus exclusively on defending, you can make a DEX check to parry, block, or dodge subsequent a melee attack once per round and avoid damage. To defend against ranged attacks, you must have a shield equipped.
+If you take your turn to focus exclusively on defending, you can make a DEX check to parry, block, or dodge subsequent melee attacks. To defend against ranged attacks, you must have a shield equipped.
 
 You can’t defend against attacks with the *blast* quality. 
 
 A critical success on your defense check against a melee attack also allows you to counterattack your opponent immediately.
 
-You can also declare that you are defending another ally, area, or object and attempt to defend against an attack against them.
+You can also declare that you are defending another ally, area, or object and attempt to defend against attacks against them.
 
-Defense ends if you take any other action besides a single move.
+Defense ends if you take any other action or move.
 
 ## Disengaging
 

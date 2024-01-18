@@ -1,5 +1,15 @@
 # NOTES
 
+## Dilemmas
+
+Whenever the Characters are getting close to getting something that they want that leaves an interesting narrative hook, offer a tough choice in the form of two desirable or undesirable outcomes
+
+They may pick one or push for both with an attribute check, sacrificing something, or getting through wits.
+
+*This system puts the narrative ability to give partial success and hard failures from story games into the hands of the Referee*
+
+---
+
 | Keg of Stout Ale | When you open a keg of stout ale and let everyone drink freely, roll your carousing check with an advantage (roll 3d6 and take the best two). See the optional [Leveling Up](appendix-e-leveling.md) section for information on carousing. | 1 Use, Bulky | 10 |
 
 ~~In all tabletop roleplaying games, it is important to make everyone at the table, players and GM, feel safe exploring themes, characters, and storylines that may fall outside the everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, what will never be, and what might be in the game but only in passing.~~ 
