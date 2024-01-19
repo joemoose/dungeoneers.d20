@@ -26,10 +26,11 @@ Each player can move and take one action during their turn. A turn may represent
 
 When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
-To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
+To make an attribute check, roll **two d20s** and compare the results to the applicable attribute score:
 
-- If the result is **less than or equal to** your attribute score, your character **succeeds** at their action.
-- If the result **exceeds the score**, your character **fails**.
+- If **both** results are **less than or equal to** your character's attribute score, the action **succeeds** as you intended.
+- If only **one** of the results is **less than or equal to** the score, the action is a **partial success** and may have an unexpected complication.
+- If **both** results are **higher** than your character's ability score, the action **fails**.
 
 ### Using Attributes
 
@@ -41,13 +42,15 @@ Don’t think about what your character is capable of, but rather *how* they wou
 
 ### Critical Success and Failure
 
-Rolling a **1** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
+Rolling a **1** on either die for a **successful** check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1 point.
 
-Conversely, rolling a **20** is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a **20** on either die for a **failed** check is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
+
+Partial successes, regardless of the dice results, do not modify your LUCK.
 
 ### Vantages
 
-The primary way to modify your attribute checks is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **two d20s** and take the **best** or **worst** result, respectively.
+The primary way to modify your attribute checks is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **an extra d20** (3d20) and take the two **best** or **worst** results, respectively.
 
 !!! note "Notes"
 
@@ -59,7 +62,7 @@ The primary way to modify your attribute checks is through vantages: favorable s
 
 	Always look to gain an advantage over opponents and situations!
 
-### Trained Rolls
+### Trained Checks
 
 If your character’s former vocation or specialization could apply to your current action, you gain an advantage on the attribute check. 
 

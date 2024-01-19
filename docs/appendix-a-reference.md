@@ -16,24 +16,28 @@
 
 ## Attribute Checks
 
-Roll **d20** less than or equal to the applicable attribute:
-
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a check.
 
+To make an attribute check, roll **two d20s** and compare the results to the applicable attribute score:
+
+- If **both** results are **less than or equal to** your character's attribute score, the action **succeeds** as you intended.
+- If only **one** of the results is **less than or equal to** the score, the action is a **partial success** and may have an unexpected complication.
+- If **both** results are **higher** than your character's ability score, the action **fails**.
+
 **Advantage & Disadvantage**
 
-- When making a check from a **strong** or **weak** position, roll **two d20**; take the **best** or **worst** result, respectively.
+- When making a check from a **strong** or **weak** position, roll **three d20**; take the two **best** or **worst** results, respectively.
 
 **Critical Success**
 
-- Rolling a **1** is a better-than-expected outcome and LUCK +1.
+- Rolling a **1** on either die in a **successful** check is a better-than-expected outcome and LUCK +1.
 
 **Critical Failure**
 
-- Rolling a **20**, a worse-than-expected outcome and LUCK -1.
+- Rolling a **20** on either die in a **failed** check is a worse-than-expected outcome and LUCK -1.
 
 ## Combat
 
