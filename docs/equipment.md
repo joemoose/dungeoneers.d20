@@ -109,14 +109,14 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Staff | d6/+d6 | Versatile | 20 |
 | Mace | d8 | - | 50 |
 | Maul | d10 | Two-handed, STR 7+ | 80 |
-| Sling | d8 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
+| Sling | d6 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
 | **Piercing Weapons** ||||
 | Dagger | d6 | Offhand, Thrown | 20 |
 | Spear | d8/+d8 | Thrown, Versatile | 30 |
 | Pike | d10 | Two-handed, Reach| 70 |
 | Shortbow | d8 | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
 | Crossbow | d8 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
-| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and case: 10 coins | 200 |
+| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 200 |
 | Arbalest | d10 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
 | **Slashing Weapons** |||||
 | Axe | d6 | Thrown | 40 |
