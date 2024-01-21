@@ -4,7 +4,7 @@ site_name: Dungeoneers RPG
 site_url: https://joemoose.github.io/dungeoneers/
 site_author: Zachary Taylor
 site_description: An Adventure Game for Errant Rogues
-site_dir: dungeoneers
+site_dir: ../joemoose.github.io/dungeoneers
 
 # Repo
 
