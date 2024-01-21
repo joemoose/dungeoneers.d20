@@ -6,7 +6,7 @@ Combat is dangerous, and wise adventurers, or at least those who’d like a long
 
 ## Actions
 
-On your turn in a combat round, you can *move* once and *take one action*. You decide whether you’ll move before you act or vice versa or forgo either. 
+On your turn in a combat round, you can *move* once to an adjacent zone and *take one action*. You decide whether you’ll move before you act or vice versa or forgo either. 
 
 Actions can include attacking, moving for a second time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
 
@@ -16,9 +16,9 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 During the *first round of combat*, each player must make a DEX or WIL save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save *lose their turn* for the first round.
 
-The opponents then take their turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
-The results of each side’s actions occur simultaneously. As such, all players declare their actions for their turn before determining the results of those actions.
+The results of each side’s actions occur simultaneously. As such, all players declare their actions for a turn before determining the results of those actions.
 
 ## Attacks
 
@@ -109,11 +109,15 @@ You cannot attack opponents in the same zone as you with a ranged weapon.
 
 ### Aimed Shots
 
-Taking an action to aim a ranged weapon allows you to ignore the target’s armor with a ranged attack the next round. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round does not ignore the target’s armor.
+Taking an action to aim a ranged weapon while not moving provides **enhanced** damage on your next ranged attack. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round is not enhanced.
 
 !!! Tip
 
 	Ask an ally to defend you while you aim.
+	
+### Berserkers
+
+While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. A WIL save is required to become berserk and also to stop the frenzy.
 
 ## Subdual
 

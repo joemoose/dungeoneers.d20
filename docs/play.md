@@ -32,7 +32,7 @@ To make an attribute save, roll **two d20s** and compare the results to the appl
 - If only **one** of the results is **less than or equal to** the score, the action is a **partial success** and may have an unexpected complication.
 - If **both** results are **higher** than your character's ability score, the action **fails**.
 
-When given sufficient time, relevant skill, and proper equipment, your actions will generally always succeed—the GM won't be calling for an attribute save. However, if one of these three requirements is missing, that would require an attribute save to determine an outcome. If two or more of the requirements are missing, the action is essentially impossible. It's time to think of a new approach.
+Note that given sufficient time, relevant skill or training, and proper equipment, your actions will generally always succeed—the GM won't be calling for an attribute save. However, if one of these three requirements is missing, that would require an attribute save to determine an outcome. If two or more of the requirements are missing, the action is essentially impossible. It's time to think of a new approach.
 
 ### Using Attributes
 
