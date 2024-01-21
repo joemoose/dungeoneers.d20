@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The equipment your character carries and your ingenuity defines your character’s role and specialty in the group.
+The equipment your character carries and your own ingenuity defines your character’s role and specialty in the group.
 
 ## Inventory slots
 
@@ -69,7 +69,6 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 - **Shields** have other uses in addition to a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
-	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires an attribute save of your choice to maintain a shield wall. 
 
 **Armor List**
 

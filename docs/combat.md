@@ -14,11 +14,11 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 ## Inititative
 
-During the *first round of combat*, each player must make a DEX or WIL save to act before their opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save *lose their turn* for the first round.
+During the *first round of combat*, each player must make a DEX or WIL save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save *lose their turn* for the first round.
 
 The opponents then take their turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
-The results of each side’s actions occur simultaneously.
+The results of each side’s actions occur simultaneously. As such, all players declare their actions for their turn before determining the results of those actions.
 
 ## Attacks
 
@@ -50,7 +50,7 @@ The offhand weapon functions as bonus damage when attacking with two weapons, on
 
 ### Multiple Attackers
 
-If multiple combatants attack the same target, roll damage for each attacker, but use only the best result, and add +1 damage for each attack after the first.
+If multiple combatants attack the same target, roll damage for each attacker, but use only the best result. Add +1 damage for each attacker after the first.
 
 ### Blast
 
@@ -64,9 +64,9 @@ You can’t defend against attacks with the *blast* quality.
 
 A critical success on your defense save against a melee attack also allows you to counterattack your opponent immediately.
 
-You can also declare that you are defending another ally, area, or object and attempt to defend against attacks against them.
+You can declare that you are defending another ally, area, or object and attempt to defend against attacks against them.
 
-Defense ends if you take any other action or move.
+Defense ends if you take any other action.
 
 ## Disengaging
 
@@ -104,7 +104,7 @@ You cannot attack opponents in the same zone as you with a ranged weapon.
 
 !!! tip
 
-	Always carry a backup melee weapon in a body inventory slot.
+	Always carry a backup melee weapon, ideally in a body inventory slot.
 
 
 ### Aimed Shots

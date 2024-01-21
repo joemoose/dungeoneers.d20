@@ -32,11 +32,11 @@ To make an attribute save, roll **two d20s** and compare the results to the appl
 - If only **one** of the results is **less than or equal to** the score, the action is a **partial success** and may have an unexpected complication.
 - If **both** results are **higher** than your character's ability score, the action **fails**.
 
-When given sufficient uninterrupted time, relevant skills, and proper equipment, your actions will generally always succeed—the GM won't be calling for an attribute save. However, if one of these three requirements is missing, that scenario would require an attribute save to determine an outcome. If two or more of the requirements are missing, the action is essentially impossible. It's time to think of a new approach.
+When given sufficient time, relevant skill, and proper equipment, your actions will generally always succeed—the GM won't be calling for an attribute save. However, if one of these three requirements is missing, that would require an attribute save to determine an outcome. If two or more of the requirements are missing, the action is essentially impossible. It's time to think of a new approach.
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is risky, and the GM calls for an attribute save, how do we decide which attribute to roll against?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute to roll against?
 
 Your description of your character’s actions determines the applicable attribute. Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
 
@@ -48,7 +48,7 @@ Rolling a **1** on either die for a **successful** save is a **critical success*
 
 Conversely, rolling a **20** on either die for a **failed** save is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
 
-Regardless of the dice results, partial successes do not modify your LUCK.
+Partial successes do not modify your LUCK.
 
 ### Vantages
 
@@ -114,7 +114,7 @@ Anytime you roll a **critical success** on an attribute save, increase your LUCK
 
 The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
 
-For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and the other between them.
+For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and another between them.
 
 The distance within and between zones is relative:
 

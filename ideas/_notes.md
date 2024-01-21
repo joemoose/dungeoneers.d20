@@ -1,5 +1,7 @@
 # NOTES
 
+	- Multiple allies with shields can take a turn to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires an attribute save of your choice to maintain a shield wall. 
+
 ## Dilemmas
 
 Whenever the Characters are getting close to getting something that they want that leaves an interesting narrative hook, offer a tough choice in the form of two desirable or undesirable outcomes

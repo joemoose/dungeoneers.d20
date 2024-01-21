@@ -6,13 +6,13 @@ Damage is first dealt to your **Hit Points** (HP). HP represents your ability to
 
 After your HP is depleted, all damage is dealt to either your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
 
-Damage from an attack cannot be split between the attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one attribute is reduced to zero, apply any remaining damage to the other attribute.
+Damage from an attack cannot be split between the attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one attribute is reduced to zero, apply any remaining damage to the other.
 
 After taking STR or DEX attribute damage, you must make an attribute save for the respective attribute. If the save succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
 ## Critical Damage
 
-When you suffer critical damage, you’re knocked unconscious and take a *Wounded* constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
+When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a *Wounded* constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
 
 ## Attribute Loss and Death
 
@@ -32,7 +32,7 @@ Magical curatives or the care of skilled healers may shorten these recovery time
 
 ## Scars
 
-When an attack reduces your character's HP to exactly 0, they are uniquely impacted. Look up the result in the table below based on the *total* damage taken. For example, if your character went from 4 HP to 0 HP, they would look at entry #4 (Broken Limb).
+When an attack reduces your character's HP to exactly 0, they are uniquely impacted. Look up the scar result in the table below based on the *total* damage taken. For example, if your character went from 4 HP to 0 HP, they would look at entry #4 (Broken Limb).
 
 | Damage | Scar |
 | :-: | :-- |
