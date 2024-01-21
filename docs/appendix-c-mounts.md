@@ -30,7 +30,7 @@ In some terrain, such as trackless mountainsides or dark, underground tunnels, i
 
 ## Conflict
 
-While mounted, a rider has a combat advantage over opponents on foot. No disengage check is required when retreating on a mount if your zone contains only opponents on foot.
+While mounted, a rider has a combat advantage over opponents on foot. No disengage save is required when retreating on a mount if your zone contains only opponents on foot.
 
 If charging to attack while mounted, your damage is doubled after first reducing it by the opponent’s armor rating.
 
@@ -39,7 +39,7 @@ If charging to attack while mounted, your damage is doubled after first reducing
 A typical mount must check morale when it first encounters a ferocious creature and whenever it or its rider is attacked.
 
 - If the mount has no rider, it checks morale against its WIL attribute score.
-- If the mount has a rider, the rider describes how they attempt to control their mount and makes a relevant attribute check using the rider's attribute scores rather than the mount's.
+- If the mount has a rider, the rider describes how they attempt to control their mount and makes a relevant attribute save using the rider's attribute scores rather than the mount's.
 
 A *fearless* mount, or one explicitly trained for war, checks morale only when its HP is reduced to zero or when its rider is slain or suffers critical damage while in the saddle. 
 

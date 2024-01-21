@@ -24,7 +24,7 @@ Once all three anima in a tablet are depleted, its spell can no longer be cast. 
 
 ## Miscasting a Spell
 
-Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to their WIL and must roll a WIL check. If failed, the caster takes a *Dazed* constraint.
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to their WIL and must roll a WIL save. If failed, the caster takes a *Dazed* constraint.
 
 The spell still manifests, though at a cost to the caster.
 
@@ -85,7 +85,7 @@ A spell’s effect is based on the [DICE] and [SUM] values.
 | 56 | Strands of Ensnarement | Fills an area [SUM] x 10 feet wide with sticky webs for [DICE] turns. | With the tablet on your person, bind your arms and hands with a silken cord for three days and three nights. Afterward, cut the cords with a silvered blade and burn them on the tablet after the final night. |
 | 61 | Thaumaturgic Diminishment | Up to [DICE] creatures are reduced to the size of a mouse for [SUM] turns. | With the tablet on your person, drink and eat only what can be served in a silver thimble for three days and three nights. |
 | 62 | Thaumaturgic Growth | Enlarge a creature to [DICE] +1 times its original size for [SUM] rounds. | Tie the spell tablet with silver wire to the highest branch of the third oak tree you see and leave it there for three days and three nights. |
-| 63 | Thaumaturgical Vesting | Up to [SUM] targets near you receive an advantage on attribute checks for [DICE] rounds. | With the tablet on your person, melt sufficient coins you’ve earned through honest labor to forge a horseshoe, then cast the horseshoe into deep water. |
+| 63 | Thaumaturgical Vesting | Up to [SUM] targets near you receive an advantage on attribute saves for [DICE] rounds. | With the tablet on your person, melt sufficient coins you’ve earned through honest labor to forge a horseshoe, then cast the horseshoe into deep water. |
 | 64 | Unchain the World Breaker | The ground shakes violently in a [SUM] x 10 feet diameter area for [DICE] rounds. | With the tablet on your person, gather three small, flat stones from a hilltop or mountainside, bury them for three days and three nights, then skip each stone across the surface of a body of deep water. |
 | 65 | Waking Dream | You create an impressive illusion under your control with full motion and sound for [SUM] rounds. | With the tablet on your person, paint a panorama on a canvas larger than yourself and trade it with a stranger for something that makes a sound. |
 | 66 | Ward of Renunciation | A narrow silver ring [SUM] x 10 feet in diameter appears on the ground around you. Name the creature that cannot cross it for [DICE] turns. Any such creatures within the ring are forcibly ejected for [SUM] + [DICE] damage upon casting. | Forge a silver hoop and pass the tablet and the remains of a monstrous creature through the hoop three times. Cast the hoop into deep water. |

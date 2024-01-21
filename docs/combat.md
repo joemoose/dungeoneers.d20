@@ -14,7 +14,7 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 ## Inititative
 
-During the *first round of combat*, each player must make a DEX or WIL check to act before their opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this check *lose their turn* for the first round.
+During the *first round of combat*, each player must make a DEX or WIL save to act before their opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save *lose their turn* for the first round.
 
 The opponents then take their turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
@@ -58,11 +58,11 @@ Attacks with the *blast* quality affect all targets in a zone, rolling damage se
 
 ## Defending
 
-If you take your turn to focus exclusively on defending, you can make a DEX check to parry, block, or dodge subsequent melee attacks. To defend against ranged attacks, you must have a shield equipped.
+If you take your turn to focus exclusively on defending, you can make a DEX save to parry, block, or dodge subsequent melee attacks. To defend against ranged attacks, you must have a shield equipped.
 
 You can’t defend against attacks with the *blast* quality. 
 
-A critical success on your defense check against a melee attack also allows you to counterattack your opponent immediately.
+A critical success on your defense save against a melee attack also allows you to counterattack your opponent immediately.
 
 You can also declare that you are defending another ally, area, or object and attempt to defend against attacks against them.
 
@@ -70,11 +70,11 @@ Defense ends if you take any other action or move.
 
 ## Disengaging
 
-If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX check to disengage from the fight. If you fail, the enemy makes a free attack against you as you retreat from the zone.
+If you want to retreat to an adjacent zone while an enemy occupies your zone, you must first make a successful STR *or* DEX save to disengage from the fight. If you fail, the enemy makes a free attack against you as you retreat from the zone.
 
 ## Gambits
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with a relevant attribute check.  
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with a relevant attribute save.  
 
 !!! tip
 
@@ -82,13 +82,13 @@ Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or 
 	
 ### Suffering a Gamit
 
-Clever opponents will try to use gambits on you. If so, the GM gives you a choice: if you fail an attribute check to avoid the gambit, either suffer the effect of the gambit or take damage from the attack.
+Clever opponents will try to use gambits on you. If so, the GM gives you a choice: if you fail an attribute save to avoid the gambit, either suffer the effect of the gambit or take damage from the attack.
 
 ## Advantage in Combat
 
 Characters can gain an advantage in combat by attacking an opponent who’s on lower ground, off balance, disarmed, distracted, or tactically disadvantaged in any significant way. 
 
-When a character has an advantage against an opponent, you can apply your advantage to a damage roll, gambit attempt, or an attribute check against that opponent, such as when defending. 
+When a character has an advantage against an opponent, you can apply your advantage to a damage roll, gambit attempt, or an attribute save against that opponent, such as when defending. 
 
 !!! note
 
@@ -121,9 +121,9 @@ Rather than inflicting grievous harm, you can attempt to **subdue** an opponent 
 
 ## Morale
 
-When you’re fighting a group of opponents, the opponents must pass a WIL check as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail morale immediately surrender or rout and attempt to flee. 
+When you’re fighting a group of opponents, the opponents must pass a WIL save as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail morale immediately surrender or rout and attempt to flee. 
 
-Lone foes must pass a morale check when reduced to 0 HP.
+Lone foes must pass a WIL save when reduced to 0 HP.
 
 Some fanatical or mindless opponents might not be required to check morale—they’ll fight to the bitter end.
 

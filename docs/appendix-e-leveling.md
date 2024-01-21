@@ -45,7 +45,7 @@ For each stamina point, you can place one constraint into the stamina space on y
 
 ## New Skills
 
-Learning new skills to gain an advantage on related attribute checks does not happen automatically when characters gain new levels. Your character starts with the training and knowledge suggested by the former career you selected during character creation, such as gambler or mercenary. 
+Learning new skills to gain an advantage on related attribute saves does not happen automatically when characters gain new levels. Your character starts with the training and knowledge suggested by the former career you selected during character creation, such as gambler or mercenary. 
 
 Acquiring new skills and knowledge afterward happens as part of your adventuring. Your character could hire mentors or experts to teach them new skills. Joining specialized groups, such as trade guilds, universities, or mercenary companies, could provide training. Your GM may award skills from quests, patrons, or other in-game opportunities.
 
@@ -75,10 +75,10 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 
 | d6+ | Mishaps |
 | :-: | :-- |
-| 1 | **Start a brawl**. You all are involved in a brawl that gets out of control. Wake up the next day with a *Fatigued* constraint and **d3** damage to an attribute (no critical damage check required.) Roll d3: (1) bleeding: STR damage, (2) bruised: DEX damage, or (3) concussed: WIL damage. The local tavern keeper is far less amicable. |
+| 1 | **Start a brawl**. You all are involved in a brawl that gets out of control. Wake up the next day with a *Fatigued* constraint and **d3** damage to an attribute (no critical damage save required.) Roll d3: (1) bleeding: STR damage, (2) bruised: DEX damage, or (3) concussed: WIL damage. The local tavern keeper is far less amicable. |
 | 2 | **Minor misunderstanding** with the local watch that you can’t smooth over. You spend the next d6 days locked up. You are all now seen as local troublemakers. |
 | 3 | One of you **insulted a local person of rank**. They’ll hold a grudge unless you all publicly apologize and humiliate yourself before them. |
-| 4 | **Hangover from hell**. Take a *Hungover* constraint. All checks have a disadvantage until a long rest. |
+| 4 | **Hangover from hell**. Take a *Hungover* constraint. All saves have a disadvantage until a long rest. |
 | 5 | **Gambling binge**. Your party owes a collective debt equal to half the amount spent carousing to someone you'd rather not own money to. |
 | 6 | **You've ruined the local economy!** Your excess spending means that all prices double until the next session. |
 | 7 | While in a **drunken stupor** and a spot of trouble, you sought refuge in a temple. The acolytes cared for you but have begun hounding you to perform a charitable act as repayment. |
@@ -95,7 +95,7 @@ Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roister
 | 1 | **Jackpot!** One of you strikes it rich at the gambling tables! Gain 2d6 × 50 coins. |
 | 2 | **Gain a local reputation as the life of the party!** Those of questionable reputation are much more friendly and see you as one of their own. |
 | 3 | Whoa, **what a trip!** The strange powder you sniffed revealed mystic truths about the universe. Younger people are much more friendly and see you as one of their own. |
-| 4 | **Well fed, well rested, and ready to go!** Your first attribute check of the day has an advantage. |
+| 4 | **Well fed, well rested, and ready to go!** Your first attribute save of the day has an advantage. |
 | 5 | **Citizens arrest!** You catch a criminal in the act and restrain them until the watch arrives. You are seen as a hero by the settlement. |
 | 6 | The **local blacksmith**, due to your influx of coins, has been able to fashion an exquisite weapon that he's willing to sell for the normal price.
 | 7 | The **local temple acolytes** see you as protectors of the settlement. They offer you a *blessing* before your next adventure. |

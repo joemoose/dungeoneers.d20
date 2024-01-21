@@ -6,7 +6,7 @@ The core of this game is a conversation between the players and the game master 
 
 The GM answers your questions and always respects your freedom of choice. The GM provides challenges, obstacles, and situations to solve and overcome. Still, the game is more than just a story narrated by the GM—it’s an interactive narrative built on your and your fellow players’ decisions. Consider it as both creating and acting in an adventure story simultaneously.
 
-Suppose the outcome of your character’s actions isn’t immediately apparent, or the activity is risky. In that case, the GM might ask you to roll dice to determine an outcome.
+Suppose the outcome of your character’s actions isn’t immediately apparent, and the activity is risky. In that case, the GM might ask you to roll dice to determine an outcome.
 
 ## Safety
 
@@ -22,35 +22,37 @@ To make sure everyone at the table has a chance to participate and speak, the ga
 
 Each player can move and take one action during their turn. A turn may represent several seconds (during combat), several minutes (exploring a room), several hours (exploring a city), or several days (traveling).
 
-## Attribute Checks
+## Attribute Saves
 
-When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute check** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
+When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute save** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
-To make an attribute check, roll **two d20s** and compare the results to the applicable attribute score:
+To make an attribute save, roll **two d20s** and compare the results to the applicable attribute score:
 
 - If **both** results are **less than or equal to** your character's attribute score, the action **succeeds** as you intended.
 - If only **one** of the results is **less than or equal to** the score, the action is a **partial success** and may have an unexpected complication.
 - If **both** results are **higher** than your character's ability score, the action **fails**.
 
+When given sufficient uninterrupted time, relevant skills, and proper equipment, your actions will generally always succeed—the GM won't be calling for an attribute save. However, if one of these three requirements is missing, that scenario would require an attribute save to determine an outcome. If two or more of the requirements are missing, the action is essentially impossible. It's time to think of a new approach.
+
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is risky, and the GM calls for an attribute check to determine an outcome, how do we decide which attribute to roll against?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is risky, and the GM calls for an attribute save, how do we decide which attribute to roll against?
 
-Your description of your character’s actions determines the applicable attribute. Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR check. If you use a lock pick to unlock the door, that’s a DEX check. If you want to bribe a guard to open it, that’s a WIL check.
+Your description of your character’s actions determines the applicable attribute. Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
 
 Don’t think about what your character is capable of, but rather *how* they would approach a problem. Use all of your character’s resources.
 
 ### Critical Success and Failure
 
-Rolling a **1** on either die for a **successful** check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1 point.
+Rolling a **1** on either die for a **successful** save is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1 point.
 
-Conversely, rolling a **20** on either die for a **failed** check is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a **20** on either die for a **failed** save is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
 
-Partial successes, regardless of the dice results, do not modify your LUCK.
+Regardless of the dice results, partial successes do not modify your LUCK.
 
 ### Vantages
 
-The primary way to modify your attribute checks is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **an extra d20** (3d20) and take the two **best** or **worst** results, respectively.
+The primary way to modify your attribute save is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **an extra d20** (3d20) for the attribute save, but take the two **best** or **worst** results, respectively.
 
 !!! note "Notes"
 
@@ -62,9 +64,9 @@ The primary way to modify your attribute checks is through vantages: favorable s
 
 	Always look to gain an advantage over opponents and situations!
 
-### Trained Checks
+### Trained Saves
 
-If your character’s former vocation or specialization could apply to your current action, you gain an advantage on the attribute check. 
+If your character’s former vocation or specializations could apply to your current action, you gain an advantage on the attribute save. 
 
 !!! info "Examples"
 
@@ -72,17 +74,21 @@ If your character’s former vocation or specialization could apply to your curr
 	
 	- A former mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
 	
-### Group Checks
+### Opposed Saves
 
-When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that everyone make an attribute check. If at least half the characters succeed, the group succeeds.
+If two opponents attempt to overcome the other, whoever is most at risk should make the attribute save.
 	
 ### Assistance
 
-Per the GM, allies can assist another player in an attribute check whenever feasible. The player making the check and all those coming to their aid make individual attribute checks; if a majority succeeds, the check is a success. Note that everyone involved suffers the potential consequences if the check fails.
+Per the GM, allies can assist another player in an attribute save whenever feasible. The player making the save and all those coming to their aid make individual attribute saves; if a majority succeeds, the save is a success. Note that everyone involved suffers the potential consequences if the save fails.
+
+### Group Saves
+
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to fail makes the attribute save. This would be a good time to come to their assistance.	
 
 ## Saving Throws
 
-Unlike many traditional roleplaying games, saving throws have no separate values. Instead, you’ll make a relevant attribute check if you are surprised by a harmful situation and must avoid or resist the threat.
+Unlike many traditional roleplaying games, saving throws have no separate values. Instead, you’ll make a relevant attribute save if you are surprised by a harmful situation and must avoid or resist the threat.
 
 - **STR**: physical harm that *can’t* be dodged
 - **DEX**: physical harm that *can* be dodged
@@ -92,7 +98,7 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 You can expend your LUCK attribute during play to change outcomes. Decrease (burn) your LUCK score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. Your LUCK score can’t be decreased to less than zero.
 
-Be warned: if you run out of LUCK (the score becomes zero), all your attribute checks suffer a disadvantage. 
+Be warned: if you run out of LUCK (the score becomes zero), all your attribute saves suffer a disadvantage. 
 
 The LUCK attribute applies only to player characters, not hirelings, monsters, or other non-player characters controlled by the GM.
 		
@@ -102,7 +108,7 @@ The LUCK attribute applies only to player characters, not hirelings, monsters, o
 	
 ### Restoring Your Luck
 
-Anytime you roll a critical success on an attribute check, increase your LUCK score by one point to a maximum of 18. Conversely, rolling a critical failure decreases your LUCK score by one point to a minimum of zero.
+Anytime you roll a **critical success** on an attribute save, increase your LUCK score by one point to a maximum of 18. Conversely, rolling a **critical failure** decreases your LUCK score by one point to a minimum of zero.
 
 ## Zones
 

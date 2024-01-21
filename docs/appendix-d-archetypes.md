@@ -26,7 +26,7 @@ Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the 
 
 ### Druid 
 
-- druidic poultice (WIL check clears a constraint)
+- druidic poultice (WIL save clears a constraint)
 - jute clothing
 - owl, animal companion (1 hp, talons d4)
 - relic: *Witchwood Brooch*
@@ -92,7 +92,7 @@ Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the 
 
 ### Wizard 
 
-- *Leycap Mushrooms* (clears all *Drained* constraints, STR check vs. addiction)
+- *Leycap Mushrooms* (clears all *Drained* constraints, STR save vs. addiction)
 - dagger (d6)
 - ragged clothing (hidden pockets)
 - spell tablet (*random*) 
@@ -104,7 +104,7 @@ Each archetype starts with adventuring gear, travel rations, 3d6 coins, and the 
 ### Holy Ward
 
 - **Charges**: d6+1
-- **Usage**: A thin silver circle 50ft across appears on the ground around you. Specify the type of creature that can not cross. Any such creatures within the circle as it’s cast are forcibly tossed outwards for d6 damage.
+- **Usage**: A thin silver circle 50ft across appears on the ground around you. Specify the type of creature that can not cross. Any such creatures within the circle as its cast are forcibly tossed outwards for d6 damage.
 
 ### Sigil Ring 
 

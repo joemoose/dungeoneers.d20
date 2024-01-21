@@ -24,7 +24,7 @@ Your character can carry up to 100 coins freely in their pockets. After that, ea
 
 ## Constraints
 
-Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from injuries in combat, failed attribute checks, baleful spells, or events in the narrative.
+Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from injuries in combat, failed attribute saves, baleful spells, or events in the narrative.
 
 Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
@@ -36,15 +36,15 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 
 | Condition | Adverse Effect | Cleared After |
 | :-- | :-- | :-- |
-| *Dazed* | Disadvantage on WIL checks | Long rest |
+| *Dazed* | Disadvantage on WIL saves | Long rest |
 | *Deprived* | Can’t heal from resting | Meal and long rest |
 | *Fatigued* | No effect besides taking up inventory | Long rest |
-| *Frightened* | Make a WIL check to approach the source of fear | Short rest |
-| *Wounded* | Disadvantage on STR and DEX checks | Full rest |
+| *Frightened* | Make a WIL save to approach the source of fear | Short rest |
+| *Wounded* | Disadvantage on STR and DEX saves | Full rest |
 
 !!! Note
 
-	See the [How to Play](play.md) section for information about attribute checks and disadvantages and the [Damage](damage.md) section for information about rests.
+	See the [How to Play](play.md) section for information about attribute saves and disadvantages and the [Damage](damage.md) section for information about rests.
 
 ## Usage
 
@@ -65,11 +65,11 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 - ***n* armor rating** items are the base armor. Only a single type of base armor can be equipped.
 - **+1 armor rating** items can be equipped with the base armor to increase the armor rating by one to a maximum armor rating of three.
 - **Bulky** armor requires two body inventory slots.
-- **Helmets** provide an advantage on attribute checks to avoid critical damage in addition to a +1 armor rating.
+- **Helmets** provide an advantage on attribute saves to avoid critical damage in addition to a +1 armor rating.
 - **Shields** have other uses in addition to a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
 	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
-	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires an attribute check of your choice to maintain a shield wall. 
+	- Multiple allies with shields can take a round to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires an attribute save of your choice to maintain a shield wall. 
 
 **Armor List**
 
@@ -142,9 +142,9 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | Item | Description | Notes | Coins |
 | :-- | :-- | :-- | --: |
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
-| Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL check with an advantage. | 3 Uses, Slow, Bulky | 100 |
-| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL check to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
-| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL check with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
+| Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL save with an advantage. | 3 Uses, Slow, Bulky | 100 |
+| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
+| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL save with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
 | Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
@@ -165,6 +165,6 @@ In addition to a daily wage, hirelings must be fed and provided lodging.
 
 **Morale**
 
-When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL check or desert their employment.
+When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL save or desert their employment.
 
-Well-paid or loyal hirelings may make this check with an advantage.
+Well-paid or loyal hirelings may make this save with an advantage.

@@ -56,7 +56,7 @@ After you defeat a creature in combat by personally delivering the final blow, y
 When you encounter a creature of which you carry a trophy, spend one grit to:
 
 - Receive +d12 bonus damage when attacking it.
-- Gain an advantage on attribute checks against that creature’s abilities.
+- Gain an advantage on attribute saves against that creature’s abilities.
 
 **SPOOR**
 
@@ -78,9 +78,9 @@ You have a variety of unique abilities. When you first create your character and
 
 - **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double your damage after first reducing it by the armor rating, if any.
 
-	**Mastery**: During combat, as part of your attack, you can make a DEX *or* WIL check against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
+	**Mastery**: During combat, as part of your attack, you can make a DEX *or* WIL save against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
 
-- **EXPERTISE**: You can re-roll an attribute check once per session.
+- **EXPERTISE**: You can re-roll an attribute save once per session.
 
 	**Mastery**: You can re-roll any dice roll once per session.
 
@@ -96,9 +96,9 @@ You have a variety of unique abilities. When you first create your character and
 
 	**Mastery**: You always act before opponents if you’re not surprised.
 
-- **NETWORK**: Make a WIL check when entering a new settlement. If you succeed, note that you have a contact in the settlement. The nature of this contact is up to you and the GM and can be fleshed out whenever the need arises.
+- **NETWORK**: Make a WIL save when entering a new settlement. If you succeed, note that you have a contact in the settlement. The nature of this contact is up to you and the GM and can be fleshed out whenever the need arises.
 
-	**Mastery**: Make a WIL check once each session to see if you have a contact in any area, regardless of whether you’re new to it.
+	**Mastery**: Make a WIL save once each session to see if you have a contact in any area, regardless of whether you’re new to it.
 
 ## Sorcerer Class
 
@@ -116,20 +116,20 @@ You can alter the world through sheer force of will and your body’s consumptio
 
 Your sorcerous power requires you to expend at least one attribute point of STR, DEX, WIL, or LUCK as anima to fuel your powers. The more of your body you sacrifice, the greater the anima consumed and the greater the magnitude of the power unleashed.
 
-Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. A critical damage check is unnecessary when losing an attribute score for anima. 
+Attribute scores lost for invoking your powers are healed as usual—STR, DEX, and WIL from long rests, LUCK from critical success rolls, and so on. A critical damage save is unnecessary when losing an attribute score for anima. 
 
 #### Invoking Powers
 
-**To invoke a sorcerous power**, take two actions, sacrifice at least one point of an attribute score for anima, and make a WIL check.
+**To invoke a sorcerous power**, take two actions, sacrifice at least one point of an attribute score for anima, and make a WIL save.
 
-- If the check succeeds, the power manifests as you intended.
-- The power does not materialize on a failure; you must then make a **corruption check** to avoid the resulting sorcerous backlash within you.
+- If the save succeeds, the power manifests as you intended.
+- The power does not materialize on a failure; you must then make a **corruption save** to avoid the resulting sorcerous backlash within you.
 
-The WIL check to invoke your power has an advantage if your invocation is performed over two rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
+The WIL save to invoke your power has an advantage if your invocation is performed over two rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
 !!! note
 
-	See the following **Corruption** section for details on making a corruption check.
+	See the following **Corruption** section for details on making a corruption save.
 
 ### Powers
 
@@ -137,7 +137,7 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **ALTER**
 
-	Make a declarative statement affecting one creature or object you can see. The statement is valid for as many rounds as anima spent. The alteration can not cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute check to avoid being altered.
+	Make a declarative statement affecting one creature or object you can see. The statement is valid for as many rounds as anima spent. The alteration can not cause damage directly (use Harm), move a creature or object, or create new things or effects (use Create). Sentient creatures and magical objects can make an attribute save to avoid being altered.
 
 	The maximum size or weight of the creature or object to be altered is that of the sorcerer. For each additional anima, you can double the size or weight altered.  
 
@@ -159,7 +159,7 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **HARM**
 
-	Deal d6 damage per anima spent to one target that you can see. Creatures and magical objects can make an attribute check to mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another anima for each additional target affected.
+	Deal d6 damage per anima spent to one target that you can see. Creatures and magical objects can make an attribute save to mitigate the damage. Describe your manifestations however you’d like: electrical arcs, exudations of fire from your fingertips, grasping hands from the underworld. Sacrifice another anima for each additional target affected.
 	
 	!!! info "Example"
 		
@@ -171,15 +171,15 @@ When you create your character, pick **one** of the following powers. Select one
 
 - **WARD**
 
-	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as anima spent. The ward provides an advantage on attribute checks to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack. The maximum size of the target warded is that of the sorcerer. For each additional anima expended, the size can be doubled,
+	Manifest a shimmering, translucent shield around you or a target for as many combat rounds as anima spent. The ward provides an advantage on attribute saves to avoid magical effects and impairs damage from physical attacks. The ward moves with its target. The ward can be sundered and destroyed to negate all damage from a single spell or attack. The maximum size of the target warded is that of the sorcerer. For each additional anima expended, the size can be doubled,
 
 ### Dark Magic
 
-The anima required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their corruption level immediately by 1. A corruption check is required regardless of whether the invocation succeeds.
+The anima required for sorcerous powers can be drained from another sentient creature. Doing so invites abomination and chaos into the sorcerer and increases their corruption level immediately by 1. A corruption save is required regardless of whether the invocation succeeds.
 
 Dark magic is not as efficient as draining anima from the sorcerer’s own body; two attribute points must be sacrificed from the host for one anima. The anima drained from the host can be combined with that from the sorcerer.
 
-If anima is drained from an unwilling victim, the victim must be restrained and, assuming they are conscious, can make an attribute check to resist the loss.
+If anima is drained from an unwilling victim, the victim must be restrained and, assuming they are conscious, can make an attribute save to resist the loss.
 
 ---
 
@@ -198,17 +198,17 @@ When a character’s HP is reduced to **zero or less** in an attack, they are un
 | Damage | Scar |
 | :-: | :- |
 | 1 | **Lasting Scar**: Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 2d6. If the total is higher than your max HP, swap it. |
-| 2 | **Rattling Blow**: You’re disoriented and shaken. Take a *Dazed* constraint. WIL checks have a disadvantage until you heal and rest. Roll 2d6. If the total is higher than your max HP, swap it. |
+| 2 | **Rattling Blow**: You’re disoriented and shaken. Take a *Dazed* constraint. WIL saves have a disadvantage until you heal and rest. Roll 2d6. If the total is higher than your max HP, swap it. |
 | 3 | **Walloped**: You’re sent flying, landing flat on your face, winded. Add a *Fatigue* constraint to your inventory. Add 1 to your max HP. |
-| 4 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. One attribute (per the GM) has a disadvantage on checks until you heal and rest. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
-| 5 | **Diseased**: You have a revolting, uncomfortable infection. Add a *Diseased* constraint. Attribute checks have a disadvantage until you heal and rest. When you recover from the infection, roll 3d6. If the total is higher than your max HP, swap it. |
+| 4 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. One attribute (per the GM) has a disadvantage on saves until you heal and rest. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
+| 5 | **Diseased**: You have a revolting, uncomfortable infection. Add a *Diseased* constraint. Attribute saves have a disadvantage until you heal and rest. When you recover from the infection, roll 3d6. If the total is higher than your max HP, swap it. |
 | 6 | **Reorienting Head Wound**: Roll 1d6; 1–2: STR, 3–4 DEX, 5–6: WIL. Next, roll 3d6. If the total is higher than the specified max attribute score, swap it. |
 | 7 | **Hamstrung**: You can’t walk until you heal and rest. After recovery, roll 3d6. If the result is higher than your max DEX attribute, swap it. |
 | 8 | **Deafened**: You can’t hear anything until you heal and rest. Afterward, Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
 | 9 | **Re-brained**: Some remote part of your psyche is knocked loose. Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
 | 10 | **Sundered**: An appendage is torn off, crippled, or useless. The GM will tell you which. Roll 3d6. If the result is higher than your max STR attribute, swap it. |
 | 11 | **Mortal Wound**: You are *Deprived* and out of the action. Add a *Fatigue* to your inventory. You will die shortly unless revived. Upon revival, roll 2d10. Take the new result as your max HP. |
-| 12+ | **Doomed**: Death seemed imminent, but luckily, somehow, you survived. If your next STR check against critical damage fails, you die instantly and horrifically. If you pass, roll 3d6. If the result is higher than your LUCK attribute, swap it. |
+| 12+ | **Doomed**: Death seemed imminent, but luckily, somehow, you survived. If your next STR save against critical damage fails, you die instantly and horrifically. If you pass, roll 3d6. If the result is higher than your LUCK attribute, swap it. |
 
 ## Relics
 
@@ -232,19 +232,19 @@ Your corruption level can be increased manifold while adventuring: using sorcero
 
 As your corruption level increases, you may undergo increasingly unpleasant mutations.
 
-### Corruption Checks 
+### Corruption Saves 
 
-When directed by the GM to make a corruption check, roll either a STR *or* WIL check and **add your current corruption level** to the result:
+When directed by the GM to make a corruption save, roll either a STR *or* WIL save and **add your current corruption level** to the result:
 
-- If your attribute check succeeds, you hold chaos at bay (this time) and suffer no consequences.
+- If your attribute save succeeds, you hold chaos at bay (this time) and suffer no consequences.
 
-	On a **critical success** (rolling your exact attribute score), your check succeeds regardless of your corruption level. Also, **decrease** your corruption level by one.
+	On a **critical success** (rolling your exact attribute score), your save succeeds regardless of your corruption level. Also, **decrease** your corruption level by one.
 
 - If you fail, consult the following table for a mutation.
 
 	On a **critical failure** (rolling a 20), immediately **increase** your corruption level by one before consulting the mutations table. 
 
-Regardless of success or failure on your check, **increase** your corruption level by one afterward.
+Regardless of success or failure on your save, **increase** your corruption level by one afterward.
 
 ### Mutations
 
@@ -272,7 +272,7 @@ Roll **d20 +your corruption level** and consult the following table.
 | 27 | Manifest one **Vitiation** of whichever category you have the most. See the following tables. |
 | 28 | Manifest one **Chthonian Vitiation**, one **Demonian Vitiation**, and one **Ophidian Vitiation**. See the following tables. |
 | 29 | All animals loathe you, fleeing from you if they’re prey and attacking you if predatory. |
-| 30+ | A portal to a non-Euclydian dimension devoid of light opens and consumes you. You are forever obliterated. Create a new character. Everyone near you immediately adds one to their corruption level and makes a corruption check. |
+| 30+ | A portal to a non-Euclydian dimension devoid of light opens and consumes you. You are forever obliterated. Create a new character. Everyone near you immediately adds one to their corruption level and makes a corruption save. |
 
 #### Cacogenic Mutation
 
@@ -344,7 +344,7 @@ As you suffer increasingly more corruption, supernatural beings of primal chaos 
 | 2 | You can wilt plants by touching them. |
 | 3 | You can wither muscle on touch and drain d3 STR. |
 | 4 | You can ignite and extinguish small flames at will. |
-| 5 | You no longer need to make critical damage checks on WIL damage. |
+| 5 | You no longer need to make critical damage saves on WIL damage. |
 | 6 | You know if someone breaks an agreement with you. |
 | 7 | You know someone’s location if they speak your name. |
 | 8 | You no longer need to eat, sleep, or breathe. |
@@ -366,7 +366,7 @@ As you suffer increasingly more corruption, supernatural beings of primal chaos 
 | 7 | You can shed your skin and change your appearance. |
 | 8 | You are unaffected by poison and disease. |
 | 9 | You can sense nearby relics. |
-| 10 | You no longer need to make critical damage checks on DEX damage. |
+| 10 | You no longer need to make critical damage saves on DEX damage. |
 | 11 | You can perfectly regulate your heartbeat and temperature. |
 | 12 | You can extract, buy, and sell memories and dreams. |
 

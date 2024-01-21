@@ -8,15 +8,15 @@ After your HP is depleted, all damage is dealt to either your **Strength** or **
 
 Damage from an attack cannot be split between the attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one attribute is reduced to zero, apply any remaining damage to the other attribute.
 
-After taking STR or DEX attribute damage, you must make an attribute check for the respective attribute. If the check succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
+After taking STR or DEX attribute damage, you must make an attribute save for the respective attribute. If the save succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
 ## Critical Damage
 
-When you suffer critical damage, you’re knocked unconscious and take a *Wounded* constraint. Attempt a STR or WIL check at the beginning of each subsequent round to revive yourself. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
+When you suffer critical damage, you’re knocked unconscious and take a *Wounded* constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
 
 ## Attribute Loss and Death
 
-If any **two** attribute scores of STR, DEX, or WIL are reduced to **zero**, you **die**. Note that a zero LUCK is not life-threatening—your attribute checks instead have a disadvantage.
+If any **two** attribute scores of STR, DEX, or WIL are reduced to **zero**, you **die**. Note that a zero LUCK is not life-threatening—your attribute saves instead have a disadvantage.
 
 If your character dies, create a new one. The GM will bring them into the game as quickly as possible. Alternatively, you can take over playing one of your hirelings. You can still create a new character later if you choose.
 
