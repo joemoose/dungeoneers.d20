@@ -8,8 +8,8 @@
 <br/>
 *–Player’s Guide–*  
 <br/>
-*Playtest Document v1.3*  
-*January 16, 2024*  
+*Playtest Document v1.4*  
+*January 21, 2024*  
 </center>
 ---
 
