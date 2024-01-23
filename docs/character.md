@@ -12,7 +12,7 @@ Choose or roll d20 in the following Backstory table to determine your former pro
 
 Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. Don’t become too attached to your character; it’s a perilous and uncertain world.
 
-**Backstory Table**
+### Backstory Table
 
 | d20 | Profession | Misfortune | d20 | Profession | Misfortune |
 | :-: | :-- | :-- | :-: | :-- | :-- |
@@ -35,7 +35,7 @@ These pairs form triads of *Bright* (empathy, protection, selflessness) and *Dar
 
 For example, a character with all bright traits would be the traditional hero. Conversely, a character with all dark traits is quite the villain. A mix is somewhere between those extremes.
 
-**Traits Table**
+### Traits Table
 
 | | *Bright* | | *Dark* |
 | :-: | :-: | :-: | :-: |
@@ -45,7 +45,7 @@ For example, a character with all bright traits would be the traditional hero. C
 
 These traits set a tone for role-playing your character, letting others know what to expect.
 
-**Trait Combination Descriptions**
+### Trait Combination Descriptions
 
 **BBB: The Hero**. An everyday saint. Someone who is loved by all and who, in turn, spends their life trying to make the world better for everyone, no matter the stakes or the personal reward.
 
@@ -75,7 +75,7 @@ Give your character a name and describe how they look. Choose one or two physica
 
 If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
 
-**Names Table**
+### Names Table
 
 Roll once with d6 and d20.
 
@@ -102,7 +102,7 @@ Roll once with d6 and d20.
 | 19 | Erasmus | Ogden | Webster |
 | 20 | Esme | Olga | Zora |
 
-**Surnames Table**
+### Surnames Table
 
 Roll once with d6 and d20.
 
@@ -129,7 +129,7 @@ Roll once with d6 and d20.
 | 19 | Fisk | Phillifent | Wexley |
 | 20 | Gimble | Relish | Wilberforce |
 
-**Appearance Table**
+### Appearance Table
 
 Roll once or twice with d6 and d20.
 
@@ -171,7 +171,7 @@ Strength is a prime attribute for combat. Dexterity serves stealth and thievery 
 
 Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to your STR, DEX, and WIL.
 
-**Alternate Method of Assigning Scores**
+### Alternate Method of Assigning Scores
 
 If you prefer not to roll for your attribute scores, spend 44 points across STR, DEX, WIL, and LUCK as you see fit with the following provisions:
 
@@ -214,7 +214,7 @@ Choose **three** more items from the following list. You may choose an item more
 		
 Finally, roll d66 once and consult the following table to select an odd souvenir you own. It may come in handy one day, or you can sell it for a few coins.
 
-**Odd Items for Creative Problem-Solving**
+### Odd Items for Creative Problem-Solving
 
 | d66 | Item |
 | :-: | :-- |
@@ -255,7 +255,7 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 | 65 | Jeweled ring, with a hidden panel concealed beneath the jewel, is painted as the reigning monarch's coat of arms. It's handy if you want to pretend to be a spy. It's worth 50 coins to a jeweler. |
 | 66 | Long wooden box and two silvered glass mirrors fitted together to form a simple periscope. If you pulled out the mirrors, they'd be worth 20 coins each. |
 
-**Archetypes**
+### Archetypes
 
 If you would prefer to pick from a standard starting equipment set, select from the following:
 
@@ -265,10 +265,6 @@ If you would prefer to pick from a standard starting equipment set, select from 
 - **Ranger**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
 - **Rogue**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 10 coins
 - **Scholar**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
-
-!!! note
-
-	See the [Appendix](appendix-d-archetypes.md) for more character archetypes and their starting equipment.
 
 ## Step 7: Introductions
 
