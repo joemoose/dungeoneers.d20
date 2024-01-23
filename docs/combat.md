@@ -115,7 +115,7 @@ Taking an action to aim a ranged weapon while not moving provides **enhanced** d
 
 	Ask an ally to defend you while you aim.
 	
-### Berserkers
+## Berserkers
 
 While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. A WIL save is required to become berserk and also to stop the frenzy.
 
