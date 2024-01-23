@@ -63,16 +63,6 @@ The primary way to modify your attribute save is through vantages: favorable sit
 !!! Tip
 
 	Always look to gain an advantage over opponents and situations!
-
-### Trained Saves
-
-If your character’s former vocation or training could apply to your current action, you gain an advantage on the attribute save. 
-
-!!! info "Examples"
-
-	- A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
-	
-	- A mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
 	
 ### Opposed Saves
 

@@ -1,6 +1,18 @@
 # NOTES
 
-	- Multiple allies with shields can take a turn to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires an attribute save of your choice to maintain a shield wall. 
+### Trained Saves
+
+If your character’s former vocation or training could apply to your current action, you gain an advantage on the attribute save. 
+
+!!! info "Examples"
+
+	- A character who was an alchemist in their former career would have an advantage when brewing potions and handling dangerous reagents. 
+	
+	- A mariner has an advantage when navigating at sea, attending to sails, or other ship-related tasks.
+
+### Shield Wall
+
+Multiple allies with shields can take a turn to interlock their shields and form a shield wall. Attacks against a shield wall are impaired. Coordinated movement or action requires an attribute save of your choice to maintain a shield wall. 
 
 ## Dilemmas
 
