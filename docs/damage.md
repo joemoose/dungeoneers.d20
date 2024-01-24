@@ -32,7 +32,7 @@ Magical curatives or the care of skilled healers may shorten these recovery time
 
 ## Scars
 
-When an attack reduces your character's HP to exactly 0, they are uniquely impacted. Look up the scar result in the table below based on the *total* damage taken. For example, if your character went from 4 HP to 0 HP, they would look at entry #4 (Broken Limb).
+When an attack reduces your character's HP to exactly 0, they are uniquely impacted. Look up the scar result in the table below based on the *total* damage taken. For example, if your character went from 4 HP to 0 HP, they would look at entry 4 (Broken Limb).
 
 | Damage | Scar |
 | :-: | :-- |
