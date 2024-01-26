@@ -24,7 +24,7 @@ Your character can carry up to 100 coins freely in their pockets. After that, ea
 
 ## Constraints
 
-Constraints are detrimental conditions your character endures, such as *Wounded* or *Frightened*. Constraints can result from injuries in combat, failed attribute saves, baleful spells, or events in the narrative.
+Constraints are detrimental conditions your character endures, such as *Wounded* or *Faitigued*. Constraints can result from injuries in combat, failed attribute saves, baleful spells, or events in the narrative.
 
 Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
@@ -34,15 +34,15 @@ Some constraints have additional adverse effects besides taking up inventory slo
 
 Constraints can only be removed from your inventory by satisfying their cleared requirement, usually a short, long, or full rest.
 
-**Example Constraints**
+### Example Constraints
 
 | Condition | Adverse Effect | Cleared After |
 | :-- | :-- | :-- |
 | *Dazed* | Disadvantage on WIL saves | Long rest |
-| *Deprived* | Can’t heal from resting | Meal and long rest |
+| *Deprived* | Can’t heal or remove constraints when resting | Meal and long rest |
 | *Fatigued* | No effect besides taking up inventory | Long rest |
 | *Frightened* | Make a WIL save to approach the source of fear | Short rest |
-| *Wounded* | Disadvantage on STR and DEX saves | Full rest |
+| *Wounded* | Disadvantage on STR or DEX saves (per the failed critical wound save) | Full rest |
 
 !!! Note
 
@@ -164,7 +164,7 @@ A pair of helping hands might give you the edge you’ll need to survive or, at 
 
 In addition to a daily wage, hirelings must be fed and provided lodging.
 
-**Morale**
+**Hireling Morale**
 
 When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL save or desert their employment.
 

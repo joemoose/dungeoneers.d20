@@ -24,13 +24,13 @@ Once all three anima in a tablet are depleted, its spell can no longer be cast. 
 
 ## Miscasting a Spell
 
-Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to their WIL and must roll a WIL save. If failed, the caster takes a *Dazed* constraint.
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to their WIL and must roll a WIL save afterward. If failed, the caster takes a *Dazed* constraint.
 
 The spell still manifests, though at a cost to the caster.
 
 !!! Tip
 
-	Use great care when casting spells with a damaged Willpower attribute. Your character dies if two attributes, STR, DEX, or *WIL*, are reduced to zero.
+	Use great care when casting spells with damaged attribute scores. Your character dies if two attributes, STR, DEX, or *WIL*, are reduced to zero.
 
 ## Selling a Spell
 

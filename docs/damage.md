@@ -12,7 +12,7 @@ After taking STR or DEX attribute damage, you must make an attribute save for th
 
 ## Critical Damage
 
-When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a *Wounded* constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
+When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a *Wounded* constraint. Attempt a STR *or* WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
 
 ## Attribute Loss and Death
 
@@ -25,7 +25,7 @@ If your character dies, create a new one. The GM will bring them into the game a
 There are three ways for your character to rest and recover:
 
 - **Short Rest**: Resting for a complete turn restores all lost HP but may expose the party.
-- **Long Rest**: Resting uninterrupted for a watch restores one lost point of STR, DEX, and WIL and clears all *Dazed* and *Fatigued* constraints.
+- **Long Rest**: Resting uninterrupted for a watch restores one lost point of STR, DEX, and WIL and clears all *Dazed* and *Fatigued* constraints or other short-term constraints.
 - **Full Rest**: Resting in a safe location for a week restores all lost STR, DEX, and WIL and clears 1d3 *Wounded* or other long-term constraints.
 
 Magical curatives or the care of skilled healers may shorten these recovery times.
@@ -48,3 +48,7 @@ When an attack reduces your character's HP to exactly 0, they are uniquely impac
 | 10 HP | **Sundered**: An appendage is torn off, maimed, or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
 | 11 HP | **Mortal Wound**: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12+ HP | **Doomed**: Death seemed so close, but somehow you survived. You die horribly if your next save against critical damage is a fail. If you pass, roll 3d6. Take the new result if the total is higher than your max HP. |
+
+## Deprivation
+
+If your character lacks a crucial need (such as food or rest), they are *Deprived*. Anyone Deprived for more than a day adds a *Fatigued* constraint to their inventory, one for each day. A deprived character cannot recover HP or attributes or remove constraints when resting.
