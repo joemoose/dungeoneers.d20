@@ -100,6 +100,19 @@ The LUCK attribute applies only to player characters, not hirelings, monsters, o
 
 Anytime you roll a **critical success** on an attribute save, increase your LUCK score by one point to a maximum of 18. Conversely, rolling a **critical failure** decreases your LUCK score by one point to a minimum of zero.
 
+## Time
+
+Time measurements are flexible depending on the activities in the narrative.
+
+| Narrative | Unit | Time |
+| - | - | - |
+| Combat | Round | 10 seconds |
+| Exploring a dungeon or a short rest | Turn | 10 minutes |
+| Exploring a city | Turn | 1 hour |
+| Exploring wilderness or a long rest | Watch | 8 hours |
+| Downtime between adventures or a full rest | Week | 7 or more days |
+
+
 ## Zones
 
 The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
