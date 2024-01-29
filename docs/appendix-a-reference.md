@@ -33,7 +33,7 @@ Roll **d20** equal to or less than the applicable attribute:
 
 ### Critical Failure
 
-- Rolling a **20**, always fails and is a worse-than-expected outcome. LUCK -1.
+- Rolling a **20** always fails and is a worse-than-expected outcome. LUCK -1.
 
 ## Combat
 
