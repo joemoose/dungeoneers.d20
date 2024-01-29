@@ -43,9 +43,9 @@ Don’t think about what your character is capable of, but rather *how* they wou
 
 ### Critical Success and Failure
 
-Rolling a **1** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
+Rolling a **1** on a check is a **critical success**; the outcome always succeeds and will be better than you expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a **20** is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a **20** is a **critical failure**; the outcome always fails and is worse than expected. Decrease your LUCK by 1.
 
 ### Vantages
 
@@ -82,9 +82,9 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 ## Luck
 
-You can expend your LUCK attribute during play to change outcomes. Decrease (burn) your LUCK score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. Your LUCK score can’t be decreased to less than zero.
+You can expend your LUCK attribute during play to change outcomes. Decrease (burn) your LUCK score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. 
 
-Be warned: if you run out of LUCK (the score becomes zero), all your attribute saves suffer a disadvantage. 
+Your LUCK score can’t be decreased to less than zero. But be warned: if you run out of LUCK (the score becomes zero), all your attribute saves suffer a disadvantage. 
 
 The LUCK attribute applies only to player characters, not hirelings, monsters, or other non-player characters controlled by the GM.
 		
