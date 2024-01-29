@@ -16,40 +16,36 @@
 
 ## Attribute Saves
 
+Roll **d20** equal to or less than the applicable attribute:
+
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
-To make an attribute save, roll **two d20s** and compare the results to the applicable attribute score:
+### Advantage & Disadvantage
 
-- If **both** results are **less than or equal to** your character's attribute score, the action **succeeds** as you intended.
-- If only **one** of the results is **less than or equal to** the score, the action is a **partial success** and may have an unexpected complication.
-- If **both** results are **higher** than your character's ability score, the action **fails**.
+- When making a save from a **strong** or **weak** position, roll **two d20**; take the two **best** or **worst** results, respectively.
 
-**Advantage & Disadvantage**
+### Critical Success
 
-- When making a save from a **strong** or **weak** position, roll **three d20**; take the two **best** or **worst** results, respectively.
+- Rolling a **1** is better-than-expected outcome and LUCK +1.
 
-**Critical Success**
+### Critical Failure
 
-- Rolling a **1** on either die in a **successful** save is a better-than-expected outcome and LUCK +1.
-
-**Critical Failure**
-
-- Rolling a **20** on either die in a **failed** save is a worse-than-expected outcome and LUCK -1.
+- Rolling a **20**, a worse-than-expected outcome and LUCK -1.
 
 ## Combat
 
 On your turn, you can move and take one action: move a second time, attack, cast a spell, etc.
 
-**Initiative**
+### Initiative
 
 Make a DEX or a WIL save to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round.
 
 Players go before their opponents in the second and all subsequent rounds.
 
-**Attacks**
+### Attacks
 
 **Attacks always hit**. Roll weapon damage and deal that much damage to an opponent, minus armor rating.
 
@@ -57,7 +53,9 @@ Players go before their opponents in the second and all subsequent rounds.
 - **Enhanced**: Roll an extra d12 damage die, take best.
 - **Impaired**: Roll an extra d4 damage die, take worst.
 
-**Damage**: Dealt first to HP.
+### Damage
+
+Damage is first dealt to HP.
 
 - Once HP is depleted, take damage to STR or DEX.
 - After taking STR or DEX damage, make the respective attribute save. On failure, take a *Wounded* constraint and become incapacitated.

@@ -26,11 +26,10 @@ Each player can move and take one action during their turn. A turn may represent
 
 When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute save** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
-To make an attribute save, roll **two d20s** and compare the results to the applicable attribute score:
+To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
 
-- If **both** results are **less than or equal to** your character's attribute score, the action **succeeds** as you intended.
-- If only **one** of the results is **less than or equal to** the score, the action is a **partial success** and may have an unexpected complication.
-- If **both** results are **higher** than your character's ability score, the action **fails**.
+- If the result is **less than or equal to** your attribute score, your character **succeeds** at their action.
+- If the result **exceeds the score**, your character **fails**.
 
 Note that given sufficient time, relevant skill or training, and proper equipment, your actions will generally always succeed—the GM won't be calling for an attribute save. However, if one of these three requirements is missing, that would require an attribute save to determine an outcome. If two or more of the requirements are missing, the action is essentially impossible. It's time to think of a new approach.
 
@@ -44,21 +43,19 @@ Don’t think about what your character is capable of, but rather *how* they wou
 
 ### Critical Success and Failure
 
-Rolling a **1** on either die for a **successful** save is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1 point.
+Rolling a **1** on a check is a **critical success**, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a **20** on either die for a **failed** save is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
-
-Partial successes do not modify your LUCK.
+Conversely, rolling a **20** is a **critical failure**, and the outcome is worse than expected. Decrease your LUCK by 1.
 
 ### Vantages
 
-The primary way to modify your attribute save is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **an extra d20** (3d20) for the attribute save, but take the two **best** or **worst** results, respectively.
+The primary way to modify your attribute save is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **an extra d20** (2d20) for the attribute save, but take only the **best** or **worst** result, respectively.
 
 !!! note "Notes"
 
 	- If you have multiple advantages or disadvantages, you take only one—they don't stack.
 	- However, if an action has multiple advantages without any disadvantages, it may no longer be risky and succeed automatically, per the GM.
-	- If you are in a situation with both advantages and disadvantages, they cancel each other out; you roll just two d20 as usual.
+	- If you are in a situation with advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
 	
 !!! Tip
 
@@ -75,7 +72,6 @@ Per the GM, allies can assist another player in an attribute save whenever feasi
 ### Group Saves
 
 When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to fail makes the attribute save. This would be a good time to come to their assistance.	
-
 ## Saving Throws
 
 Unlike many traditional roleplaying games, saving throws have no separate values. Instead, you’ll make a relevant attribute save if you are surprised by a harmful situation and must avoid or resist the threat.
@@ -111,7 +107,6 @@ Time measurements are flexible depending on the activities in the narrative.
 | Exploring a city | Turn | 1 hour |
 | Exploring wilderness or a long rest | Watch | 8 hours |
 | Downtime between adventures or a full rest | Week | 7 or more days |
-
 
 ## Zones
 

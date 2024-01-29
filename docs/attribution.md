@@ -28,8 +28,6 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Spell system adapted from [“The GLOG”](https://goblinpunch.blogspot.com/2016/05/the-glog.html), *Goblin Punch*, 7 May 2016, by Arnold Kemp and [“D100 - Potential Spell Recharge Conditions”](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html), *d4 Caltrops*, 19 September 2022, by Ktrey.
 
-- "Success, Partial Success, Failure" dice mechanic adapted from *[Apocalypse World](http://apocalypse-world.com)* by Meguey and Vincent Baker.
-
 - Sundering of shields adapted from [“Shields Shall be Splintered!”](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html), *Trollsmyth*, 6 May 2008, by Trollsmyth.
 
 - Supply chests adapted from [“Sack Packs”](https://shoalmontgames.com/2018/11/28/sack-pack/), *Shoalmont Games*, 28 November 2018, by ATXRedBeard.

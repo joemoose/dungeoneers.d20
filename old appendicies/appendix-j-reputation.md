@@ -16,7 +16,7 @@ Your status may also provide advantages or disadvantages on social actions, such
 
 ## Boon Tokens
 
-Once you achieve the reputation of heroic or villainous, anytime you would modify your reputation further (greater than six for heroes or less than -6 for villains), you instead receive a **boon token**. You can hold up to two boon tokens.
+Once you achieve the reputation of heroic or villainous, anytime you modify your reputation further (greater than six for heroes or less than -6 for villains), you instead receive a **boon token**. You can hold up to two boon tokens.
 
 Spend your boon tokens with the GM anytime during play to gain unique benefits relevant to your status. A heroic boon could, for example, be used to enjoy free lodging and food in a town or receive an exotic gift or a vital piece of information from a friendly NPC. A villainous boon could enlist the services of an assassin’s guild, gain entry to a cult, or instill compliant fear in an NPC. Tokens could also be used for more practical matters, such as avoiding damage from an attack or increasing your LUCK. Both you and the GM can come up with ideas on how to spend your tokens.
 
