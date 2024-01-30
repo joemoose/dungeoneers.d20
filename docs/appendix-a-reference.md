@@ -21,12 +21,11 @@
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
-Roll **d20** +**MOD**:
+Roll **d20** +**modifier**:
 
 - **15+**: success
 - **10-14**: partial success, with a complication
 - **9-**: failure
-
 
 ### Advantage & Disadvantage
 
@@ -52,7 +51,7 @@ Players go before their opponents in the second and all subsequent rounds.
 
 ### Attacks
 
-**Attacks always hit**. Roll weapon damage and deal that much damage to an opponent, minus armor rating.
+**Attacks always hit**. Roll weapon damage +modifier and deal that much damage to an opponent, minus armor rating.
 
 - **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
