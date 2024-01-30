@@ -10,6 +10,10 @@ Damage from an attack cannot be split between the attributes—after HP is reduc
 
 After taking STR or DEX attribute damage, you must make an attribute save for the respective attribute. If the save succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
+!!! note "Note"
+
+	As your attributes are damaged, the associated attribute modifier will likely decrease. The modifier is determined by your current attribute score, not the total (undamaged) score.
+
 ## Critical Damage
 
 When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a *Wounded* constraint. Attempt a STR *or* WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.

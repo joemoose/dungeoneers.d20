@@ -34,13 +34,16 @@ Roll **d20** and add the applicable attribute score **modifier (MOD)** to the re
 - **If you roll 10 to 14**, you succeed but with an unexpected complication.
 - **If the result is 9 or less**, you fail.
 
-Note that given sufficient time, relevant skill or training, and the proper equipment, your actions will generally always succeed—the GM won't call for an attribute save.
 
-However, if one of these three requirements is missing, that would require an attribute save to determine the outcome. The action would be impossible if two or more of these requirements were missing. It'd be time to think of a new approach.
+!!! note "Notes"
+
+	- Given sufficient time, relevant skill or training, and the proper equipment, your actions will generally always succeed—the GM won't call for an attribute save.
+	- However, if one of these three requirements is missing, that would require an attribute save to determine the outcome.
+	- The action would be impossible if two or more of these requirements were missing. It's time to think of a new approach!
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute to roll against?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute modifier to apply to your die roll?
 
 Your description of your character’s actions determines the applicable attribute. Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
 

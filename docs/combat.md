@@ -22,7 +22,13 @@ The results of each side’s actions occur simultaneously. As such, all players 
 
 ## Attacks
 
-**Attacks always hit**. Roll your weapon’s damage dice and do that much damage to an opponent minus their armor rating. 
+**Attacks always hit**. Roll your weapon’s damage dice, and add the appropriate attribute modifier:
+
+- STR: for melee or thrown weapons
+- DEX: for ranged weapons
+- WIL: for spells
+
+You inflict the total amount of damage to an opponent minus their armor rating. 
 
 !!! tip
 
@@ -109,7 +115,7 @@ You cannot attack opponents in the same zone as you with a ranged weapon.
 
 ### Aimed Shots
 
-Taking an action to aim a ranged weapon while not moving provides **enhanced** damage on your next ranged attack. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round is not enhanced.
+Taking an action to aim a ranged or thrown weapon while not moving provides **enhanced** damage on your next attack. If you’re attacked in the same round as aiming, your aim is disrupted—your attack in the next round is not enhanced.
 
 !!! Tip
 
