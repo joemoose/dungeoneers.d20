@@ -12,13 +12,13 @@ Suppose the outcome of your character’s actions isn’t immediately apparent, 
 
 Everyone at the table, players and GM, should feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, won't ever be in the game, and might be in the game but only in passing. 
 
-Everyone at the table must feel comfortable saying and allowing others to say “pause” to take a break, “rewind” to revisit a previous situation or decision, and, most importantly, “stop” without fear of judgment if something in the conversation or game makes them uncomfortable. If a “stop” is called, immediately drop that topic from the game and steer the narrative differently; don't debate its merits.
+Everyone at the table must feel comfortable saying and allowing others to say “**pause**” to take a break, “**rewind**” to revisit a previous situation or decision, and, most importantly, “**stop**” without fear of judgment if something in the conversation or game makes them uncomfortable. If a “stop” is called, immediately drop that topic from the game and steer the narrative differently; don't debate its merits.
 
 On to the mechanics!
 
 ## Turns
 
-To make sure everyone at the table has a chance to participate and speak, the game uses **Turns**. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?”. 
+To make sure everyone at the table has a chance to participate and speak, the game uses **turns**. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?”. 
 
 Each player can move and take one action during their turn. A turn may represent several seconds (during combat), several minutes (exploring a room), several hours (exploring a city), or several days (traveling).
 
@@ -28,7 +28,7 @@ When you describe your character doing something risky with an essential but unc
 
 **To make an attribute save…**
 
-Roll **d20** and add the applicable attribute score **modifier (MOD)** to the result:
+Roll **d20** and add the applicable attribute score **modifier** to the result:
 
 - **If you roll 15 or more**, you succeed without any complications.
 - **If you roll 10 to 14**, you succeed but with an unexpected complication.
@@ -45,7 +45,7 @@ Roll **d20** and add the applicable attribute score **modifier (MOD)** to the re
 
 Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute modifier to apply to your die roll?
 
-Your description of your character’s action determines the applicable attribute.
+Your description of what your character does determines the applicable attribute.
 
 Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
 
@@ -77,7 +77,7 @@ Roll **an extra d20** (2d20) for the attribute save, but take only the **best** 
 	
 ### Opposed Saves
 
-If two opponents attempt to overcome the other, whoever is most at risk should make the attribute save.
+If two opponents attempt to overcome the other, whoever is **most at risk** should make the attribute save.
 	
 ### Assistance
 
@@ -85,7 +85,7 @@ Per the GM, allies can assist another player in an attribute save whenever feasi
 
 ### Group Saves
 
-When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to fail makes the attribute save. This would be an excellent time to come to their assistance.	
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to **fail** makes the attribute save. This would be an excellent time to come to their assistance.	
 
 ## Saving Throws
 

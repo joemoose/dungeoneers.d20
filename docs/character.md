@@ -173,7 +173,7 @@ Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK a
 
 ### Attribute Modifiers
 
-Next, determine each attribute score's die roll modifier (MOD). You apply these modifiers to dice rolls that decide the outcome of risky or uncertain actions and weapon damage.
+Next, determine each attribute score's die roll **modifier**. You apply these modifiers to dice rolls that decide the outcome of risky or uncertain actions and damage when attacking.
 
 | Score |	Modifier |
 | :-: | :-: |

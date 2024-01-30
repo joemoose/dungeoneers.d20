@@ -14,7 +14,7 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 ## Inititative
 
-During the *first round of combat*, each player must make a DEX *or* WIL save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save *lose their turn* for the first round.
+During the **first round of combat**, each player must make a DEX *or* WIL save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round.
 
 The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
@@ -66,7 +66,7 @@ Attacks with the *blast* quality affect all targets in a zone, rolling damage se
 
 If you take your turn to focus exclusively on defending, you can make a DEX save to parry, block, or dodge subsequent melee attacks. To defend against ranged attacks, you must have a shield equipped.
 
-You can’t defend against attacks with the *blast* quality. 
+You can’t defend against attacks with the *Blast* quality. 
 
 A critical success on your defense save against a melee attack also allows you to counterattack your opponent immediately.
 
