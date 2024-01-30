@@ -38,26 +38,30 @@ Roll **d20** and add the applicable attribute score **modifier (MOD)** to the re
 !!! note "Notes"
 
 	- Given sufficient time, relevant skill or training, and the proper equipment, your actions will generally always succeed—the GM won't call for an attribute save.
-	- However, if one of these three requirements is missing, that would require an attribute save to determine the outcome.
+	- However, if one of these three requirements is missing, that would require an attribute save to determine an outcome.
 	- The action would be impossible if two or more of these requirements were missing. It's time to think of a new approach!
 
 ### Using Attributes
 
 Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute modifier to apply to your die roll?
 
-Your description of your character’s actions determines the applicable attribute. Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
+Your description of your character’s actions determines the applicable attribute.
 
-Don’t think about what your character is capable of, but rather *how* they would approach a problem. Use all of your character’s resources.
+Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
+
+!!! Tip
+
+	Don’t only think about what your character is capable of, but rather *how* you would approach a problem. Use all of your character’s resources.
 
 ### Critical Success and Failure
 
 Rolling a natural **20** on a save is a **critical success**; the action always succeeds regardless of modifiers, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a natural **1** is a **critical failure**; the action always fails and is worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a natural **1** is a **critical failure**; the action always fails regardless of modifiers, and the outcome is worse than expected. Decrease your LUCK by 1.
 
 ### Vantages
 
-The primary way to modify your attribute saves is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantage**, while unfavorable situations have **disadvantage**.
+Besides attribute modifiers, the primary way to modify your attribute saves is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantage**, while unfavorable situations have **disadvantage**.
 
 Roll **an extra d20** (2d20) for the attribute save, but take only the **best** or **worst** result, respectively.
 
