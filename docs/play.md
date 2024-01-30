@@ -45,7 +45,7 @@ Roll **d20** and add the applicable attribute score **modifier (MOD)** to the re
 
 Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute modifier to apply to your die roll?
 
-Your description of your character’s actions determines the applicable attribute.
+Your description of your character’s action determines the applicable attribute.
 
 Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
 
@@ -85,7 +85,7 @@ Per the GM, allies can assist another player in an attribute save whenever feasi
 
 ### Group Saves
 
-When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to fail makes the attribute save. This would be a good time to come to their assistance.	
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to fail makes the attribute save. This would be an excellent time to come to their assistance.	
 
 ## Saving Throws
 
@@ -121,7 +121,7 @@ Time measurements are flexible depending on the activities in the narrative.
 | Exploring a dungeon or a short rest | Turn | 10 minutes |
 | Exploring a city | Turn | 1 hour |
 | Exploring wilderness or a long rest | Watch | 8 hours |
-| Downtime between adventures or a full rest | Week | 7 or more days |
+| Downtime between adventures or a full rest | Week | 7, or more, days |
 
 ## Distance
 
