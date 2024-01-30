@@ -16,24 +16,29 @@
 
 ## Attribute Saves
 
-Roll **d20** equal to or less than the applicable attribute:
-
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
+Roll **d20** +**MOD**:
+
+- **15+**: success
+- **10-14**: partial success, with a complication
+- **9-**: failure
+
+
 ### Advantage & Disadvantage
 
-- When making a save from a **strong** or **weak** position, roll **two d20** for an attribute save and take the **best** or **worst** result, respectively.
+- When making a save from a **strong** or **weak** position, roll **two d20** and take the **best** or **worst** result, respectively.
 
 ### Critical Success
 
-- Rolling a **1** always suceeds and is better-than-expected outcome. LUCK +1.
+- Rolling a **20** always suceeds and is better-than-expected outcome. LUCK +1.
 
 ### Critical Failure
 
-- Rolling a **20** always fails and is a worse-than-expected outcome. LUCK -1.
+- Rolling a **1** always fails and is a worse-than-expected outcome. LUCK -1.
 
 ## Combat
 

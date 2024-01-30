@@ -131,7 +131,7 @@ Roll once with d6 and d20.
 
 ### Appearance Table
 
-Roll once or twice with d6 and d20.
+Roll two or three times with d6 and d20.
 
 |   | 1–2 | 3–4 | 5–6 |
 | :-: | :- | :- | :- |
@@ -171,9 +171,23 @@ Strength is a prime attribute for combat. Dexterity serves stealth and thievery 
 
 Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to your STR, DEX, and WIL.
 
+### Attribute Modifiers
+
+Next, determine each attribute score's die roll modifier (MOD). You apply these modifiers to dice rolls that decide the outcome of risky or uncertain actions and weapon damage.
+
+| Score |	Modifier |
+| :-: | :-: |
+| 1-3	| -3 |
+| 4-5	| -2 |
+| 6-8 | -1 |
+| 9-12 | 0 |
+| 13-15 | +1 |
+| 16-17 | +2 |
+| 18 | +3 |
+
 ### Alternate Method of Assigning Scores
 
-If you prefer not to roll for your attribute scores, spend 44 points across STR, DEX, WIL, and LUCK as you see fit with the following provisions:
+If you prefer not to roll randomly for your attribute scores, spend 44 points across STR, DEX, WIL, and LUCK as you see fit with the following provisions:
 
 - The maximum starting attribute score is 16.
 - LUCK can’t be higher than the other three attribute scores.

@@ -26,12 +26,17 @@ Each player can move and take one action during their turn. A turn may represent
 
 When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute save** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
 
-To make an attribute check, roll a **d20** and compare the result to the applicable attribute score:
+**To make an attribute save…**
 
-- If the result is **less than or equal to** your attribute score, your character **succeeds** at their action.
-- If the result **exceeds the score**, your character **fails**.
+Roll **d20** and add the applicable attribute score **modifier (MOD)** to the result:
 
-Note that given sufficient time, relevant skill or training, and proper equipment, your actions will generally always succeed—the GM won't be calling for an attribute save. However, if one of these three requirements is missing, that would require an attribute save to determine an outcome. If two or more of the requirements are missing, the action is essentially impossible. It's time to think of a new approach.
+- **If you roll 15 or more**, you succeed without any complications.
+- **If you roll 10 to 14**, you succeed but with an unexpected complication.
+- **If the result is 9 or less**, you fail.
+
+Note that given sufficient time, relevant skill or training, and the proper equipment, your actions will generally always succeed—the GM won't call for an attribute save.
+
+However, if one of these three requirements is missing, that would require an attribute save to determine the outcome. The action would be impossible if two or more of these requirements were missing. It'd be time to think of a new approach.
 
 ### Using Attributes
 
@@ -43,18 +48,20 @@ Don’t think about what your character is capable of, but rather *how* they wou
 
 ### Critical Success and Failure
 
-Rolling a **1** on a check is a **critical success**; the outcome always succeeds and will be better than you expected. Increase your LUCK attribute score by 1.
+Rolling a natural **20** on a save is a **critical success**; the action always succeeds regardless of modifiers, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a **20** is a **critical failure**; the outcome always fails and is worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a natural **1** is a **critical failure**; the action always fails and is worse than expected. Decrease your LUCK by 1.
 
 ### Vantages
 
-The primary way to modify your attribute save is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantages**, while unfavorable situations have **disadvantages**. Roll **an extra d20** (2d20) for the attribute save, but take only the **best** or **worst** result, respectively.
+The primary way to modify your attribute saves is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantage**, while unfavorable situations have **disadvantage**.
+
+Roll **an extra d20** (2d20) for the attribute save, but take only the **best** or **worst** result, respectively.
 
 !!! note "Notes"
 
 	- If you have multiple advantages or disadvantages, you take only one—they don't stack.
-	- However, if an action has multiple advantages without any disadvantages, it may no longer be risky and succeed automatically, per the GM.
+	- However, if an action has multiple advantages without any disadvantages, it's likely to be no longer risky and will succeed automatically, per the GM.
 	- If you are in a situation with advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
 	
 !!! Tip
@@ -72,6 +79,7 @@ Per the GM, allies can assist another player in an attribute save whenever feasi
 ### Group Saves
 
 When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to fail makes the attribute save. This would be a good time to come to their assistance.	
+
 ## Saving Throws
 
 Unlike many traditional roleplaying games, saving throws have no separate values. Instead, you’ll make a relevant attribute save if you are surprised by a harmful situation and must avoid or resist the threat.
@@ -108,11 +116,11 @@ Time measurements are flexible depending on the activities in the narrative.
 | Exploring wilderness or a long rest | Watch | 8 hours |
 | Downtime between adventures or a full rest | Week | 7 or more days |
 
-## Zones
+## Distance
 
 The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
 
-For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and another between them.
+For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and the other between them.
 
 The distance within and between zones is relative:
 
