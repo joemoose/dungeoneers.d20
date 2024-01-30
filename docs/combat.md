@@ -6,9 +6,9 @@ Combat is dangerous, and wise adventurers, or at least those who’d like a long
 
 ## Actions
 
-On your turn in a combat round, you can *move* once to an adjacent zone and *take one action*. You decide whether you’ll move before you act or vice versa or forgo either. 
+On your turn in a combat round, you can **move once** to an adjacent zone and **take one action**. You decide whether you’ll move before you act or vice versa or forgo either. 
 
-Actions can include attacking, moving for a second time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
+Actions can include attacking, moving for a *second* time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
 
 Minor actions, such as drawing a weapon from a body inventory slot, dropping to the ground, or shouting a command, are free actions that do not count as your single action for the round.
 
@@ -127,7 +127,7 @@ While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP
 
 ## Subdual
 
-Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual, but halve the damage after first reducing it by the opponent’s armor rating. An enemy who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
+Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual, but halve the damage after first reducing it by the opponent’s armor rating. An enemy who suffers critical damage or death from a subdual attack is knocked unconscious.
 
 ## Morale
 
