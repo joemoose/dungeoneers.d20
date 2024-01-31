@@ -60,12 +60,12 @@ Usage can be repaired on most damaged gear, such as weapons and armor, for 10% o
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **4 armor rating** at most, even if items would increase it above this number.
+Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **5 armor rating** at most, even if items would increase it above this number.
 
 **Notes**:
 
 - ***n* armor rating** items are the base armor. Only a single type of base armor can be equipped.
-- **+1 armor rating** items can be equipped with the base armor to increase the armor rating by one to a maximum armor rating of three.
+- **+1 armor rating** items can be equipped with the base armor to increase the armor rating by one. 
 - **Bulky** armor requires two body inventory slots.
 - **Helmets** provide an advantage on attribute saves to avoid critical damage in addition to a +1 armor rating.
 - **Shields** have other uses in addition to a +1 armor rating:
@@ -88,7 +88,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 - ***Ammo***: Long- and short-range weapons require the listed ammunition to be carried in a body slot.
 - ***Bludgeoning***: Damage against **heavy armor** is *Enhanced*.
-- ***Finesse***: Uses DEX *or* STR attribute for damage modifier.
+- ***Finesse***: Uses DEX *or* STR attribute for the damage modifier.
 - ***Long-range***: This weapon can attack a target up to three zones away.
 - ***Offhand***: This weapon can be used as a dual weapon in the offhand.
 - ***Piercing***: Damage against **medium armor** is *Enhanced*.
@@ -97,7 +97,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 - ***Slashing***: Damage against **unarmored** and **light armor** is *Enhanced*.
 - ***Reload***: Requires an action to reload and ready.
 - ***STR***: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
-- ***Thrown***: This weapon can attack a target in the same zone or be thrown at a target in an adjacent zone.
+- ***Thrown***: This weapon can attack an opponent in the same zone or be thrown at a target in an adjacent zone.
 - ***Two-handed***: This weapon requires two hand slots.
 - ***Versatile***: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both dice, take the best).
 
