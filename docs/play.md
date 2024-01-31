@@ -43,7 +43,7 @@ Roll **d20** and add the applicable attribute score **modifier** to the result:
 
 ### Using Attributes
 
-Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute modifier to apply to your die roll?
+Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute modifier to apply?
 
 Your description of what your character does determines the applicable attribute.
 
@@ -51,7 +51,7 @@ Consider a heavy, locked castle door—how do you pass through it? If you break 
 
 !!! Tip
 
-	Don’t only think about what your character is capable of, but rather *how* you would approach a problem. Use all of your character’s resources.
+	Don’t only think about what your character is capable of, but rather how *you* would approach a problem. Use all of your character’s resources.
 
 ### Critical Success and Failure
 
@@ -73,7 +73,7 @@ Roll **an extra d20** (2d20) for the attribute save, but take only the **best** 
 	
 !!! Tip
 
-	Always look to gain an advantage over opponents and situations!
+	Always look to gain an advantage over opponents and obstacles!
 	
 ### Opposed Saves
 
@@ -81,11 +81,11 @@ If two opponents attempt to overcome the other, whoever is **most at risk** shou
 	
 ### Assistance
 
-Per the GM, allies can assist another player in an attribute save whenever feasible. The player making the save and all those coming to their aid make individual attribute saves; if a majority succeeds, the save is a success. Note that everyone involved suffers the potential consequences if the save fails.
+Allies can assist another player in an attribute save whenever feasible. The player making the save and all those coming to their aid make individual attribute saves; if a majority succeeds, the save is a success. Note that everyone involved suffers the potential consequences if the save fails.
 
 ### Group Saves
 
-When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM may ask that the character most likely to **fail** makes the attribute save. This would be an excellent time to come to their assistance.	
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM will ask that the character most likely to **fail** makes the attribute save. This would be an excellent time to come to their assistance.	
 
 ## Saving Throws
 
@@ -93,7 +93,7 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 - **STR**: physical harm that *can’t* be dodged
 - **DEX**: physical harm that *can* be dodged
-- **WIL**: mental harm, illusions, and mind-control effects
+- **WIL**: mental harm, illusions, or mind-control effects
 
 ## Luck
 
