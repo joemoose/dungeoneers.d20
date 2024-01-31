@@ -23,9 +23,9 @@
 
 Roll **d20** +**modifier**:
 
-- **15+**: success
-- **10-14**: partial success, with a complication
-- **9-**: failure
+- **15+**: Success, with no complications
+- **10-14**: Success, with a complication
+- **9-**: Failure
 
 ### Advantage & Disadvantage
 
@@ -33,7 +33,7 @@ Roll **d20** +**modifier**:
 
 ### Critical Success
 
-- Rolling a **20** always suceeds and is better-than-expected outcome. LUCK +1.
+- Rolling a **20** always succeeds and is better-than-expected outcome. LUCK +1.
 
 ### Critical Failure
 
