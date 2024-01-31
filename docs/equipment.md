@@ -87,14 +87,14 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 You can use any weapon as you see fit. Most weapons have characteristics that affect their use. 
 
 - ***Ammo***: Long- and short-range weapons require the listed ammunition to be carried in a body slot.
-- ***Bludgeoning***: Damage against **heavy armor** is *Enhanced*.
+- ***Bludgeoning***: Damage against **heavy armor** has *Advantage*.
 - ***Finesse***: Uses DEX *or* STR attribute for the damage modifier.
 - ***Long-range***: This weapon can attack a target up to three zones away.
 - ***Offhand***: This weapon can be used as a dual weapon in the offhand.
-- ***Piercing***: Damage against **medium armor** is *Enhanced*.
+- ***Piercing***: Damage against **medium armor** has *Advantage*.
 - ***Reach***: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent.
 - ***Short-range***: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- ***Slashing***: Damage against **unarmored** and **light armor** is *Enhanced*.
+- ***Slashing***: Damage against **unarmored** and **light armor** has *Advantage*.
 - ***Reload***: Requires an action to reload and ready.
 - ***STR***: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
 - ***Thrown***: This weapon can attack an opponent in the same zone or be thrown at a target in an adjacent zone.
