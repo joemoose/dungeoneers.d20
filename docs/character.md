@@ -71,7 +71,7 @@ These starting traits may change as you adventure and further develop your chara
 
 ## Step 3: Name and Appearance
 
-Give your character a name and describe how they look. Choose one or two physical characteristics that people first notice.
+Give your character a name and describe how they look. Choose two or three physical characteristics that people first notice.
 
 If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
 
@@ -175,7 +175,7 @@ Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK a
 
 Next, determine each attribute score's die roll **modifier**. You apply these modifiers to dice rolls that decide the outcome of risky or uncertain actions and damage when attacking.
 
-| Score |	Modifier |
+| Score | Modifier |
 | :-: | :-: |
 | 1-3	| -3 |
 | 4-5	| -2 |
@@ -194,7 +194,7 @@ If you prefer not to roll randomly for your attribute scores, spend 44 points ac
 
 ## Step 5: Hit Points
 
-Hit points (HP) represent the damage you can shrug off before suffering any actual harm. HP is easily and quickly restored.
+Hit points (HP) represent the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
 
 Roll **d4+2** to determine your starting hit points.
 
@@ -271,7 +271,7 @@ Finally, roll d66 once and consult the following table to select an odd souvenir
 
 ### Archetypes
 
-If you would prefer to pick from a standard starting equipment set, select from the following:
+If you would prefer to pick from a standard starting equipment set, select one of the following:
 
 - **Figher**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
 - **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins
