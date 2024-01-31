@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The equipment your character carries and your own ingenuity defines your character’s role and specialty in the group.
+The equipment that your character carries and your own ingenuity define your character’s role and specialty in the group.
 
 ## Inventory slots
 
@@ -88,6 +88,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 - ***Ammo***: Long- and short-range weapons require the listed ammunition to be carried in a body slot.
 - ***Bludgeoning***: Damage against **heavy armor** is *Enhanced*.
+- ***Finesse***: Uses DEX *or* STR attribute for damage modifier.
 - ***Long-range***: This weapon can attack a target up to three zones away.
 - ***Offhand***: This weapon can be used as a dual weapon in the offhand.
 - ***Piercing***: Damage against **medium armor** is *Enhanced*.
@@ -112,7 +113,8 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Maul | d10 | Two-handed, STR 7+ | 80 |
 | Sling | d6 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
 | **Piercing Weapons** ||||
-| Dagger | d6 | Offhand, Thrown | 20 |
+| Dagger | d6 | Finesse, Offhand, Thrown | 20 |
+| Rapier | d8 | Finesse | 80 |
 | Spear | d8/+d8 | Thrown, Versatile | 30 |
 | Pike | d10 | Two-handed, Reach| 70 |
 | Shortbow | d8 | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
@@ -145,7 +147,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
 | Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL save with an advantage. | 3 Uses, Slow, Bulky | 100 |
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
-| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll your WIL save with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
+| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll a WIL save with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
 | Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
