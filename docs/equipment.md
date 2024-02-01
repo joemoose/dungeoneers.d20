@@ -79,8 +79,8 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 | Shield | +1 Armor | 40 |
 | Helmet | +1 Armor | 60 |
 | Light (hauberk) | 1 Armor, Bulky | 120 |
-| Medium (chainmail) | 2 Armor, Bulky | 500 |
-| Heavy (plate mail) | 3 Armor, Bulky | 2,000 |
+| Medium (chainmail) | 2 Armor, Bulky | 400 |
+| Heavy (plate mail) | 3 Armor, Bulky | 1,500 |
 
 ## Weapons
 
@@ -153,7 +153,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 
 !!! note
 
-	See the [Appendix](appendix-b-sundries.md) for more equipment lists.
+	See the [Appendix B](appendix-b-sundries.md) for more equipment lists.
 
 ## Hirelings
 

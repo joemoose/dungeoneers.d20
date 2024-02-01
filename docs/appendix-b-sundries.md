@@ -2,6 +2,16 @@
 
 ---
 
+### Armor
+
+| Type | Notes | Coins |
+| :-- | :-- | --: |
+| Shield | +1 Armor | 40 |
+| Helmet | +1 Armor | 60 |
+| Light (hauberk) | 1 Armor, Bulky | 120 |
+| Medium (chainmail) | 2 Armor, Bulky | 400 |
+| Heavy (plate mail) | 3 Armor, Bulky | 1,500 |
+
 ### Clothing and Gifts
 
 | Item | Coins | Item | Coins |
@@ -13,6 +23,17 @@
 | Furs | 100 | Ring or cameo | 100 |
 | Leather boots | 15 | Fine tapestry | 350 |
 | Cloak | 25 | A crown fit for a king | 5,000 |
+
+### Expedition Gear
+
+| Item | Description | Notes | Coins |
+| :-- | :-- | :-- | --: |
+| Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
+| Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL save with an advantage. | 3 Uses, Slow, Bulky | 100 |
+| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
+| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll a WIL save with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
+| Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
+| Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
 ### Meals
 
@@ -56,7 +77,7 @@
 | A month's prayers for the departed | 1 |
 | Repairs to a mundane item | 30% of the item's cost |
 
-### Tools & Gear
+### Tools & Paraphernalia
 
 | Item | Coins | Item | Coins |
 | :- | :-: | :- | :-: |
@@ -107,6 +128,31 @@
 | Passage on a safe route | - | 1 |
 | Passage on a tough route | - | 10 |
 | Passage on a dangerous route | - | 100 |
+
+### Weapons
+
+| Weapon | Damage | Notes | Coins |
+| :-- | :-: | :-- | --: |
+| Unarmed | d4 | Doesn't ignore armor on critical hits | - |
+| **Bludgeoning Weapons** ||||
+| Cudgel | d6 | Offhand | 10 |
+| Staff | d6/+d6 | Versatile | 20 |
+| Mace | d8 | - | 50 |
+| Maul | d10 | Two-handed, STR 7+ | 80 |
+| Sling | d6 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
+| **Piercing Weapons** ||||
+| Dagger | d6 | Finesse, Offhand, Thrown | 20 |
+| Rapier | d8 | Finesse | 80 |
+| Spear | d8/+d8 | Thrown, Versatile | 30 |
+| Pike | d10 | Two-handed, Reach| 70 |
+| Shortbow | d8 | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
+| Crossbow | d8 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
+| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 200 |
+| Arbalest | d10 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
+| **Slashing Weapons** |||||
+| Axe | d6 | Thrown | 40 |
+| Sword | d8/+d8 | Versatile | 60 |
+| Great Sword | d10 | Two-handed, STR 11+ | 120 |
 
 !!! note
 
