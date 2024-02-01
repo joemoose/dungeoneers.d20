@@ -1,10 +1,10 @@
 # Outrider
 
-> Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. However, yours is not a solitary path: you'll always have your horse.
+---
 
-## Names
+Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. However, yours is not a solitary path: you'll always have your horse.
 
-Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
+---
 
 ## Starting Gear
 

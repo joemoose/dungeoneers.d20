@@ -1,10 +1,10 @@
 # Mountebank
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+---
 
-## Names
+Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
 
-Ambrose, Lucius, Beauregard, Cornelius, Aria, Seren, Indigo, Delphine, Solene, Noa
+---
 
 ## Starting Gear
 

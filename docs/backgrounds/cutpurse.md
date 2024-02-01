@@ -1,10 +1,10 @@
 # Cutpurse
 
-> You live in the grey space between those who have power and those who don’t. You find opportunities where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+---
 
-## Names
+You live in the grey space between those who have power and those who don’t. You find opportunities where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
 
-Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
+---
 
 ## Starting Gear
  

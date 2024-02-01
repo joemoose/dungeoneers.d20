@@ -1,10 +1,10 @@
 # Hexenbane
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+---
 
-## Names
+You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
 
-Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
+---
 
 ## Starting Gear
 

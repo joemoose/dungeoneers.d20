@@ -1,10 +1,10 @@
 # Foundling
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. You'll never fit in, at least not where you're at. 
+---
 
-## Names
+An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. You'll never fit in, at least not where you're at. 
 
-Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, Hazel
+---
 
 ## Starting Gear
 

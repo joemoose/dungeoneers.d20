@@ -1,10 +1,10 @@
 # Kettlewright
 
-> You are known by the smell of molten metal and the jingle of tin. You are not a mere merchant but an artisan of fire and metal. 
+---
 
-## Names
+You are known by the smell of molten metal and the jingle of tin. You are not a mere merchant but an artisan of fire and metal. 
 
-Fergus, Eamon, Bram, Idris, Elara, Darragh, Seren, Rónán, Berek, Lorenz
+---
 
 ## Starting Gear
 

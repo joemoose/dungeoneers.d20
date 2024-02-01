@@ -1,10 +1,10 @@
 # Bonekeeper
 
-> You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to celebrate the gift of life fully, we must honor its finale as well. 
+---
 
-## Names
+You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to celebrate the gift of life fully, we must honor its finale as well. 
 
-Rook, Ebon, Moro, Yew, Pall, Leth, Nix, Barnaby, Vesper, Leder
+---
 
 ## Starting Gear
 

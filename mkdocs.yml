@@ -22,10 +22,33 @@ nav:
   - damage.md
   - spells.md
   - Appendices:
-    - appendix-a-reference.md
-    - appendix-b-sundries.md
-    - appendix-c-mounts.md
-    - appendix-d-reputation.md
+    - 'Rules Reference': appendix-a-reference.md
+    - 'Additional Equipment': appendix-b-sundries.md
+    - 'Mounts': appendix-c-mounts.md
+    - 'Reputation & Boons': appendix-d-reputation.md
+    - 'Alternate Backgrounds':
+      - 'List of Backgrounds': appendix-e-backgrounds.md
+      - Descriptions:
+        - backgrounds/aurifex.md
+        - backgrounds/barber-surgeon.md
+        - backgrounds/beast-handler.md
+        - backgrounds/bonekeeper.md
+        - backgrounds/cutpurse.md
+        - backgrounds/fieldwarden.md
+        - backgrounds/fletchwind.md
+        - backgrounds/foundling.md
+        - backgrounds/fungal-forager.md
+        - backgrounds/greenwise.md
+        - backgrounds/half-witch.md
+        - backgrounds/hexenbane.md
+        - backgrounds/jongleur.md
+        - backgrounds/kettlewright.md
+        - backgrounds/marchguard.md
+        - backgrounds/mountebank.md
+        - backgrounds/outrider.md
+        - backgrounds/prowler.md
+        - backgrounds/rill-runner.md
+        - backgrounds/scrivener.md
   - attribution.md
   
 # Theme

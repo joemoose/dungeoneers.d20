@@ -1,10 +1,10 @@
 # Jongleur
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+---
 
-## Names
+What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
 
-Jax, Selene, Baladria, Ada, Felix, Saylor, Tripp, Lantos, Echo, Jubilo 
+---
 
 ## Starting Gear
 

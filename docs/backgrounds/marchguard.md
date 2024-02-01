@@ -1,10 +1,10 @@
 # Marchguard
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds its own.
+---
 
-## Names
+Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds its own.
 
-Gann, Light, Gale, Frost, Thorn, Reed, Flint, Brook, Brie, Aasim
+---
 
 ## Starting Gear
 
