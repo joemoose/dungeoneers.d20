@@ -25,5 +25,5 @@
 | 17  | [Outrider](backgrounds/outrider.md) |
 | 18  | [Prowler](backgrounds/prowler.md) |
 | 19  | [Rill Runner](backgrounds/rill-runner.md) |
-| 20  | [Scrivner](backgrounds/scrivner.md) |
+| 20  | [Scrivner](backgrounds/scrivener.md) |
 
