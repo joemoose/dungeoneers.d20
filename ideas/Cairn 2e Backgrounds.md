@@ -199,13 +199,179 @@ Sable, Lyra, Eamon, Salina, Elara, Freya, Isolde, Sparrow, Ivy, Silas
 |  5  | Vagrant's Veil    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. Recharge: Donate all the day's winnings to the poor (Petty).  |
 |  6  | Smokestack Marble | 3 uses. Crush to release a dense cloud of smoke that follows you (small).                                                                      |
 
+### Fieldwarden
 
+Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives.
 
+Roll a second time on the Bonds table.
 
+### Starting Gear
 
+- 3d6 coins
+- Rations (3 uses)
+- Torch (3 uses)
+- Brigandine (1 Armor, bulky)
+- Sling (d6)
+- Hand axe (d6)
+- Repellent (name the creature, 3 uses)
 
+### Names
 
+Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
+### What got the better of you?
 
+| d6  | Opponent                                                                                                                                                                                                                                                                              |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take Gale Seed Extract (3 uses). Ingesting one lets you sprint with a speed four times your regular rate. Afterward you add two Fatigue.                                         |
+|  2  | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterwards you were able to gather a pouch of Fireseeds (d8, blast, 4 uses).                                                                                                                      |
+|  3  | An antlered, toothy demon that nearly ended you. Take a blood-stained bone knife (d6). On critical damage, its next attack becomes enhanced from contact with blood.                                                                                                                  |
+|  4  | The Withering, a type of stem rot from The Roots. Take a Diseased Crop (6 uses) that decays any plant it touches.                                                                                                                                                                     |
+|  5  | Wolves, or so you thought. You are now a Werewolf [8 HP, 15 STR, 14 DEX, claws (d6+d6) or bite (d8)]. Your WIL remains the same. You can turn at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
+|  6  | Crop thieves. Not all of them survived, but you were outnumbered. Take a +d4 HP and a Hilted Broadsword (d8, bulky).                                                                                                                                                                  |
+
+### What tool saved your life?
+
+| d6  | Tool           | Description                                                                                                                                                              |
+| :-: | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  1  | Bloodvine Whip | d8 damage. On Critical Damage it drains the target's blood, granting the weapon's next attack the blast quality.                                                         |
+|  2  | Clatter Keeper | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                                                          |
+|  3  | Sun Stick      | Provides ample warmth and light for up to one hour (1 use). Recharge: Leave in heavy sunlight for a full day.                                                            |
+|  4  | Root Tether    | When thrown, binds up to a wolf-sized creature to the soil for a short time.                                                                                             |
+|  5  | Greenwhistle   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                                        |
+|  6  | Everbloom Band | A circlet adorned with flowers that never wilt. On taking Critical Damage the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+
+## Fletchwind
+
+You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death.
+
+### Starting Gear
+
+- 3d6 coins
+- Rations (3 uses)
+- Torch (3 uses)
+- Bow (see table)
+- Serrated Knife (d6)
+- Boiled Leather (1 Armor)
+- Heartroot Salve (recover 1d4 STR)
+
+### Names
+
+Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
+
+### How did you earn your bow?
+
+| d6  | Event                                                                                                                                          |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | War. If you are first to attack, your bow gains the blast property for the first round.                                                        |
+|  2  | Falconry. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d6)]. It only eats live game.                                    |
+|  3  | Hunting. When taking the Supply (pg. 80) action your ability to secure Rations increases by one step (e.g. 1d4 becomes 1d6).                   |
+|  4  | Tournaments. Attacks with your bow are enhanced if the target is immobile.                                                                     |
+|  5  | Training. If you are the first to attack, melee attacks against you are impaired until you take STR damage.                                    |
+|  6  | Scouting. When taking the Travel (pg. 80) action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+
+### What kind of wood is your bow made from?
+
+| d6  | Wood                                                                                               |
+| :-: | -------------------------------------------------------------------------------------------------- |
+|  1  | Western Yew (d6, bulky). Can be wielded as a blunt weapon (d6). Noisy.                             |
+|  2  | Sessile Oak (d8, bulky). Slams into targets. On critical damage, something is torn off.            |
+|  3  | Stone Pine (d6, bulky). Produces one use of Sticky Sap per day. It is highly explosive.            |
+|  4  | White Ash (d6, bulky). Can be used in place of a shield in melee combat (+1 Armor).                |
+|  5  | Striped Bamboo (d6). Collapsible, it only requires one slot (but still requires both hands).       |
+|  6  | Wych Elm (d6, bulky). Protects the bearer from poisons and toxins, so long as they are holding it. |
+
+### Foundling
+
+An odd birthmark, a strange smell: somehow, the touch of elsewhere still lingers. You’ll never fit in, at least not where you’re at. Roll on the Omens table, but keep the results private for now.
+
+### Starting Gear
+
+- 3d6 coins
+- Rations (3 uses)
+- Torch (3 uses)
+- Salt Pouch
+- Heirloom Amulet (petty, glows in the presence of magic)
+- Sling (d6)
+- Dagger (d6)
+
+### Names
+
+Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Sileas, Gossamer, Hazel
+
+### Who took you in?
+
+| d6  | Person                                                                                                                                                                                                                                                           |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | An old hunter. You were both quite happy, until it all ended. Take a Weathered Longbow (d8, bulky) and a Leather Jerkin (1 Armor).                                                                                                                               |
+|  2  | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a Healing Ungent (restores d4 STR).                                                                                                                             |
+|  3  | A druid, who taught you the language of trees. When it came time to leave you took with you only a Gnarled Staff (d8) and the promise that one day you would return.                                                                                             |
+|  4  | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a Smith's Apron (petty) and a set of oft-mended Chain Mail (2 Armor, bulky).                                                 |
+|  5  | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a Storybook, a Dagger (d6), and some burning questions.                                                           |
+|  6  | The monks of a secluded forest monastery. When their rules became too strict, you snuck away. Take a Monk's Habit (warm, petty) and a Spellbook of Control Plants. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. |
+|     |                                                                                                                                                                                                                                                                  |
+
+### What keeps away bad tidings?
+
+| d6  | Item          | Description                                                                                                                             |
+| :-: | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Pipeweed      | Your good luck charm. Conversations tend to flow more easily after a smoke (6 uses).                                                    |
+|  2  | Stink Jar     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit (1 use).                              |
+|  3  | Ivy Worm      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
+|  4  | Dream Stone   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
+|  5  | Drowning Rod  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It doesn't shrink back down.                 |
+|  6  | Rabbit's Foot | You were wearing it when they found you. They say it is the foot of she who left you, and that it protects you from witch magic.        |
+
+### Fungal Forager
+
+You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
+
+### Starting Gear
+
+- 3d6 coins
+- Rations (3 uses)
+- Sharpened Trowel (d6)
+- Candle Helmet (+1 Armor, dim, 6 uses)
+- Rope （25ft
+- Metal pail
+
+### Names
+
+Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
+
+### What strange fungi did you discover?
+
+| d6  | Fungus                                                                                                                                                                     |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Shrieking Trumpet. When exposed to light it screams so loudly that all nearby attacks (including your own) are impaired (2 uses).                                          |
+|  2  | Torch Fungus. When crushed it creates a heatless light for ten minutes (3 uses).                                                                                           |
+|  3  | Murderous Truffle. Pungent, highly toxic, and very rare (worth 50gp to assassins). Illegal pretty much everywhere (1 use).                                                 |
+|  4  | Hellcap. Exposure to its aroma causes intense nausea, even vomiting. Either way, it clears the room. Bottled (1 use).                                                      |
+|  5  | Sproutcup. Ingest to shrink down to the size of a mouse (your belongings stay the same size). You return to normal size within the hour, often in fits and starts (1 use). |
+|  6  | Rootflower. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead, and their stories (1 use).                        |
+
+### What keeps you sane, even in utter darkness?
+
+| d6  | Item            | Description                                                                                |
+| :-: | --------------- | ------------------------------------------------------------------------------------------ |
+|  1  | Glowsnail       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                    |
+|  2  | Silk Moth Shall | A weatherproof blanket, it can also douse a fire without being damaged.                    |
+|  3  | Milkflower      | A gentle stimulant. Chewing makes you immune to panic for the next hour (3 uses).          |
+|  4  | Luxcompass      | Hums softly as it moves closer to the Sun. Eventually, the noise becomes unbearably loud.  |
+|  5  | Sloth-Tarp      | A tough and weatherproof fabric, useful for hanging off trees. When inside, take +1 Armor. |
+|  6  | Miner's Grease  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive (3 uses).   |
+
+## Greenwise
+
+You delve deep into The Woods, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but its confidant as well.
+
+### Starting Gear
+
+- 3d6 coins
+- Rations (3 uses)
+- Torch (3 uses)
+- Iron Pot Root Knife (d6)
+- Healing Salve (restore 4 STR)
+- Twine Bauble (petty, Ward once per day) Ward: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
 
 
