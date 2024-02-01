@@ -76,11 +76,11 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 
 | Type | Notes | Coins |
 | :-- | :-- | --: |
-| Helmet | +1 armor | 60 |
-| Shield | +1 armor | 40 |
-| Light (hauberk) | 1 armor, bulky | 120 |
-| Medium (chainmail) | 2 armor, bulky | 500 |
-| Heavy (plate mail) | 3 armor, bulky | 2,000 |
+| Shield | +1 Armor | 40 |
+| Helmet | +1 Armor | 60 |
+| Light (hauberk) | 1 Armor, Bulky | 120 |
+| Medium (chainmail) | 2 Armor, Bulky | 500 |
+| Heavy (plate mail) | 3 Armor, Bulky | 2,000 |
 
 ## Weapons
 
