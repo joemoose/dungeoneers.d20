@@ -6,66 +6,81 @@ Dungeoneers is a minimalist rules system for playing old-school tabletop fantasy
 
 # Rules Summary
 
-## Attribute Checks
+## Best Practices
 
-Roll **d20** equal to or less than the applicable attribute:
+- **Engage and collaborate** with your GM and other players. Be kind. Be positive. Be authentic.
+- **Ask lots of questions**. Gather information. Talk to NPCs. Make notes. Draw maps.
+- **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally. Always gain an advantage. Your character sheet doesn’t limit you.
+- **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away.
+- **Play to win, but savor a loss**. Leave your mark on the world. Create a memorable story.
 
-- **STRENGTH (STR)**: Tests of brawn and endurance. Resisting physical harm that can’t be dodged.
-- **DEXTERITY (DEX)**: Tests of agility and finesse. Resisting physical harm that can be dodged.
-- **WILLPOWER (WIL)**: Tests of charisma and determination. Resisting mental harm, illusions, or charming effects.
-- **LUCK**: Tests of chance or fate; can burn points to modify other attribute checks.
+## Attribute Saves
 
-**Advantage & Disadvantage**
+- **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
+- **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
+- **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
+- **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
-- When making a check from a strong or weakened position, roll **two d20**. Take the best or worst result, respectively.
+Roll **d20** +**modifier**:
 
-**Critical Success**
+- **15+**: Success, with no complications
+- **10-14**: Success, with a complication
+- **9-**: Failure
 
-- Rolling the exact attribute score, a better-than-expected outcome & LUCK +1.
+### Advantage & Disadvantage
 
-**Critical Failure**
+- When making a save from a **strong** or **weak** position, roll **two d20** and take the **best** or **worst** result, respectively.
 
-- Rolling a 20, a worse-than-expected outcome & LUCK -1.
+### Critical Success
+
+- Rolling a **20** always succeeds and is better-than-expected outcome. LUCK +1.
+
+### Critical Failure
+
+- Rolling a **1** always fails and is a worse-than-expected outcome. LUCK -1.
 
 ## Combat
 
-On your turn, you can take **two** actions: move, attack, cast a spell, etc.
+On your turn, you can move and take one action: move a second time, attack, cast a spell, etc.
 
-**Initiative**
+### Initiative
 
-Make a DEX or a WIL check to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round.
+Make a DEX or a WIL save to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round.
 
 Players go before their opponents in the second and all subsequent rounds.
 
-**Attacks**
+### Attacks
 
-Attacks always hit. Roll weapon damage and deal that much damage to an enemy, minus armor rating.
+**Attacks always hit**. Roll weapon damage +modifier and deal that much damage to an opponent, minus armor rating.
 
 - **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
 - **Impaired**: Roll an extra d4 damage die, take worst.
 
-**Damage**: Dealt first to HP.
+### Damage
 
-- Once HP is depleted, take damage to STR.
-- After taking STR damage, make a STR check. On failure, take a *Wounded* constraint and become incapacitated.
-- If STR is reduced to zero, you die.   
+Damage is first dealt to HP.
 
-## Rest & Healing
+- Once HP is depleted, take damage to STR or DEX.
+- After taking STR or DEX damage, make the respective attribute save. On failure, take a *Wounded* constraint and become incapacitated.
+- If two attributes besides LUCK are reduced to zero, you die.   
+
+## Healing
 
 - **Short**: Takes a turn. Restore all HP.
-- **Long**: Takes a watch. Restore 1 STR, DEX, and WIL.
+- **Long**: Takes a watch. Restore 1 STR, DEX, and WIL. Clears *Fatigued*, *Dazed*, and other short-term constraints.
 - **Full**: Takes a week. Restore all STR, DEX, and WIL. Clears *Wounded* and other long-term constraints.
 
 ## Spells
 
-Invest **1–3 essence** (up to the remaining uses) and roll **d6** for each essence invested:
+Invest **1–3 anima** (up to the remaining uses) and roll **d6** for each anima invested:
 
-- Mark essence usage for each **1 or 2** rolled.  
-- For every **1 rolled**, take d6 WIL damage. Make a WIL check. On failure, take a *Dazed* constraint.
+- Mark anima usage for each **1 or 2** rolled.  
+- For every **1 rolled**, take d6 WIL damage. Make a WIL save. On failure, take a *Dazed* constraint.
 - The spell effect is determined by the number of dice rolled and the sum.
   
 ## Inventory
 
-- Maximum of 12 inventory slots.
-- Most items take one slot; bulky items require two.
+- Maximum of **12** inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
+- Items in the backpack require an action to retrieve during combat.
+- Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 3 in a slot.
