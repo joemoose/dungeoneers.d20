@@ -22,11 +22,11 @@ nav:
   - damage.md
   - spells.md
   - Appendices:
-    - 'Rules Reference': appendix-a-reference.md
-    - 'Additional Equipment': appendix-b-sundries.md
-    - 'Mounts': appendix-c-mounts.md
-    - 'Reputation & Boons': appendix-d-reputation.md
-    - 'Alternate Backgrounds':
+    - 'Appendix A: Rules Reference': appendix-a-reference.md
+    - 'Appendix B: Equipment': appendix-b-sundries.md
+    - 'Appendix C: Mounts': appendix-c-mounts.md
+    - 'Appendix D: Reputation': appendix-d-reputation.md
+    - 'Appendix E: Alternate Backgrounds':
       - 'List of Backgrounds': appendix-e-backgrounds.md
       - Descriptions:
         - backgrounds/aurifex.md
