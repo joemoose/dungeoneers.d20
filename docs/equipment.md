@@ -24,7 +24,7 @@ Your character can carry up to 100 coins freely in their pockets. After that, ea
 
 ## Constraints
 
-Constraints are detrimental conditions your character endures, such as *Wounded* or *Faitigued*. Constraints can result from injuries in combat, failed attribute saves, baleful spells, or events in the narrative.
+Constraints are detrimental conditions your character endures, such as *Wounded* or *Fatigued*. Constraints can result from injuries in combat, failed attribute saves, baleful spells, or events in the narrative.
 
 Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
