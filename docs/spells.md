@@ -30,10 +30,6 @@ Whenever you roll one or more **1s** when casting a spell, the spell parasitical
 
 The spell still manifests, though at a cost to the caster.
 
-!!! Tip
-
-	Use great care when casting spells with damaged attribute scores. Your character dies if two attributes, STR, DEX, or *WIL*, are reduced to zero.
-
 ## Selling a Spell
 
 A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a large settlement. A depleted tablet is, at most,  half to a third of its value.
