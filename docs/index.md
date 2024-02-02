@@ -9,7 +9,7 @@
 *–Player’s Guide–*  
 <br/>
 *Playtest Document v1.6*  
-*January 30, 2024*  
+*February 2, 2024*  
 </center>
 ---
 
@@ -23,7 +23,7 @@ If you’re new to tabletop roleplaying games, I’d suggest you read [*Fundamen
 
 Dungeoneers grew out of a desire for a specific style of play. Call it "old school." I wanted a game that encourages *player* ingenuity over *character* abilities, a game that weaves an emergent story from conversations between the players and GM. To do something, you need only to describe it. The rules stay well out of the way until needed by the GM—perhaps to decide a risky and uncertain outcome. The GM will let you know if and when you need to roll dice. Description and observation are a player’s toolkit, not some system of rules.
 
-As such, Dungeoneers doesn’t use traditional character classes. The equipment your character carries and your resourcefulness defines your character's abilities. You won't "use" your character sheet to look up a specific power for a particular problem. To be a warrior, find the best armor and weapons you can afford. A thief needs tools. A mage needs a spell. Do all three? Certainly.
+As such, Dungeoneers doesn’t use traditional character classes. The equipment that your character carries and your own resourcefulness defines your character's abilities. You won't "use" your character sheet to look up a specific power for a particular problem. To be a warrior, find the best armor and weapons you can afford. A thief needs tools. A mage needs a spell. Do all three? Certainly.
 
 Additionally, combat is highly consequential. Every foe is deadly and can defeat you in a few rounds. There's no back-and-forth slog of dice rolling, standing toe-to-toe, and trading a series of blows that might or might not hit. Attacks always hit; you only roll damage. There's no "encounter balance." Combat is a puzzle to solve rather than a simulation of attrition. You must gain tactical advantages and defeat opponents quickly and overwhelmingly, or retreat and try a different approach.
 
@@ -34,5 +34,5 @@ This game also has a luck system to encourage some crazy risk-taking. You are a 
 Enjoy!
 
 Zachary Taylor  
-January 2024  
+February 2024  
 Mastodon: [@dice.camp@joemoose](https://dice.camp/@joemoose)

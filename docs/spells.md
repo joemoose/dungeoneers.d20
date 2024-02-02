@@ -4,6 +4,8 @@
 
 Spells are living, sentient spirits bound within rune-etched obsidian or metal tablets. Spell tablets are rare and found in forgotten places, such as dungeons, ancient tombs, and dragon hoards. The capture and binding of spells is an art lost to all but the most learned wizards, who guard their secrets jealously.
 
+Tablets attract the attention of those seeking the arcane powers within, and it is considered dangerous to display them openly.
+
 ## Anima
 
 A tablet has three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted from a tablet by casting its spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three anima are depleted from a tablet, the spell can no longer be cast.
@@ -34,7 +36,7 @@ The spell still manifests, though at a cost to the caster.
 
 ## Selling a Spell
 
-A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a large settlement. A depleted tablet is, at most, a third of its value.
+A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a large settlement. A depleted tablet is, at most,  half to a third of its value.
 
 ## Spells List
 
