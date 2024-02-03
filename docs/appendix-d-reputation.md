@@ -12,7 +12,7 @@ Your character's actions in the game's narrative change their reputation score.
 
 The GM decides when an action modifies your reputation. For example, rescuing a notable person would increase your reputation, whereas killing innocents would decrease your reputation.
 
-Your reputation may increase or decrease by a point or two at the end of a game session, depending on your character’s actions and accomplishments during the game.
+Your reputation might increase or decrease by a point or two at the end of a game session, depending on your character’s actions and accomplishments during the game.
 
 ## Heros and Villians
 
