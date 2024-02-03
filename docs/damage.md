@@ -4,7 +4,7 @@
 
 Damage is first dealt to your **Hit Points** (HP). HP represents your ability to avoid or shrug off harm.
 
-After your HP is depleted, all damage is dealt to your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
+After your HP is depleted, all damage is dealt to either your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
 
 Damage from an attack cannot be split between the attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one attribute is reduced to zero, apply any remaining damage to the other.
 
@@ -29,14 +29,14 @@ If your character dies, create a new one. The GM will bring them into the game a
 There are three ways for your character to rest and recover:
 
 - **Short Rest**: Resting for a complete turn restores all lost HP but may expose the party.
-- **Long Rest**: Resting uninterrupted for a watch restores one lost point of STR, DEX, and WIL and clears all *Dazed* and *Fatigued* constraints or other short-term constraints.
+- **Long Rest**: Resting uninterrupted for a watch (eight hours) restores one lost point of STR, DEX, and WIL and clears all *Dazed* and *Fatigued* constraints or other short-term constraints.
 - **Full Rest**: Resting in a safe location for a week restores all lost STR, DEX, and WIL and clears 1d3 *Wounded* or other long-term constraints.
 
 Magical curatives or the care of skilled healers may shorten these recovery times.
 
 ## Battle Hardened
 
-When an attack reduces your character's HP to exactly 0, they are scarred by the damage. Look up the resulting scar in the following table based on the damage taken. For example, if your character went from 4 HP to 0 HP, they would look at entry 4 (Broken Limb).
+When an attack reduces your character's HP to **exactly** 0, they are scarred by the damage. Look up the resulting scar in the following table based on the damage taken. For example, if your character went from 4 HP to 0 HP, they would look at entry 4 (Broken Limb).
 
 | Damage | Scar |
 | :-: | :-- |

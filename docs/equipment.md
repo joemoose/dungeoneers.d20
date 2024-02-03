@@ -88,7 +88,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 - ***Ammo***: Long- and short-range weapons require the listed ammunition to be carried in a body slot.
 - ***Bludgeoning***: Damage against **heavy armor** has *Advantage*.
-- ***Finesse***: Uses DEX *or* STR attribute for the damage modifier.
+- ***Finesse***: Uses either DEX *or* STR attribute for the damage modifier.
 - ***Long-range***: This weapon can attack a target up to three zones away.
 - ***Offhand***: This weapon can be used as a dual weapon in the offhand.
 - ***Piercing***: Damage against **medium armor** has *Advantage*.

@@ -143,7 +143,7 @@ Some fanatical or mindless opponents might not be required to check morale—the
 
 ## Warbands
 
-When you battle a group of identical opponents, such as a gang of brigands, each with the same attributes and weapons, the GM may combine the opponents into a single abstract unit or **warband**. A warband has the same attributes, HP, armor rating, and damage dice as a single unit member.
+When you battle a large group of identical opponents, such as a gang of brigands, each with the same attributes and weapons, the GM may combine the opponents into a single abstract unit or **warband**. A warband has the same attributes, HP, armor rating, and damage dice as a single unit member.
 
 Attacks by individuals against a warband are **impaired** unless they have the *blast* quality. Attacks by a warband against an individual are **enhanced** and deal *blast* damage. 
 
