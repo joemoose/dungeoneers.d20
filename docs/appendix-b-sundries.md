@@ -11,6 +11,7 @@
 | Light (hauberk) | 1 Armor, Bulky | 120 |
 | Medium (chainmail) | 2 Armor, Bulky | 400 |
 | Heavy (plate mail) | 3 Armor, Bulky | 1,200 |
+| Heavy (full plate) | 4 Armor, Bulky, Helmet Built-in | 3,600 |
 
 ### Clothing and Gifts
 
