@@ -117,14 +117,14 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Rapier | d8 | Finesse | 80 |
 | Spear | d8/+d8 | Thrown, Versatile | 30 |
 | Pike | d10 | Two-handed, Reach| 70 |
-| Shortbow | d8 | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
-| Crossbow | d8 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
-| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 200 |
+| Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
+| Crossbow | d8 | Long-range, Two-handed, Reload<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
+| Longbow | d10 | Long-range, Two-handed, STR 12+<br/>Ammo: Arrows and quiver: 10 coins | 200 |
 | Arbalest | d10 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
 | **Slashing Weapons** |||||
 | Axe | d6 | Thrown | 40 |
 | Sword | d8/+d8 | Versatile | 60 |
-| Great Sword | d10 | Two-handed, STR 11+ | 120 |
+| Great Sword | d10 | Two-handed, STR 12+ | 120 |
 
 !!! Note
 
