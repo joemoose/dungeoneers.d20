@@ -120,7 +120,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Shortbow | d8 | Short-range, Two-handed, STR 7+<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
 | Crossbow | d8 | Long-range, Two-handed, Reload<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
 | Longbow | d10 | Long-range, Two-handed, STR 12+<br/>Ammo: Arrows and quiver: 10 coins | 200 |
-| Arbalest | d10 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
+| Arbalest | d10 | Long-range, Two-handed, Reload<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
 | **Slashing Weapons** |||||
 | Axe | d6 | Thrown | 40 |
 | Sword | d8/+d8 | Versatile | 60 |
