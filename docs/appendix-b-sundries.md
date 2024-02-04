@@ -11,7 +11,7 @@
 | Light (hauberk) | 1 Armor, Bulky | 120 |
 | Medium (chainmail) | 2 Armor, Bulky | 400 |
 | Heavy (plate mail) | 3 Armor, Bulky | 1,200 |
-| Heavy (full plate) | 4 Armor, Bulky, Helmet Built-in | 3,600 |
+| Heavy (full plate) | 4 Armor, Bulky, Helmet built-in | 3,600 |
 
 ### Clothing and Gifts
 
@@ -30,11 +30,11 @@
 | Item | Description | Notes | Coins |
 | :-- | :-- | :-- | --: |
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
-| Bag of Books | When your bag contains just the right book for your research subject, name the book, mark off one use, and roll your WIL save with an advantage. | 3 Uses, Slow, Bulky | 100 |
-| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d3** points of attribute damage. | 5 Uses, Slow | 10 |
-| Pipeleaf | When you share pipeleaf with someone, expend two uses and roll a WIL save with an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
+| Bag of Books | When your bag contains just the right book for your research subject to gain an advantage, name the book and mark off one use. | 3 Uses, Slow, Bulky | 100 |
+| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d4** points of attribute damage. | 5 Uses, Slow | 10 |
+| Pipeleaf | When you share pipeleaf with someone, expend two uses and gain an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
-| Waterskin | If you’re trekking in a hot and arid environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
+| Waterskin | If you’re trekking in an arid and or barren environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
 ### Meals
 
@@ -109,7 +109,7 @@
 | Horn | 10 | Spyglass | 40 |
 | Hourglass | 50 | Stakes (3) and mallet | 3 |
 | Incense | 10 | Tar | 10 |
-| Ladder (bulky, 10ft) | 10 | Tent (fits 2 people, bulky) | 20 |
+| Ladder (bulky, 10ft) | 10 | Tent (fits 4 people, bulky) | 20 |
 | Lantern & Oil | 10 | Tinder box (flint & steel) | 3 |
 | Lock - (key included) | 30 | Torch | 1 |
 | Large Trap | 20 | Waterskin | 1 |
