@@ -11,21 +11,21 @@ Your coin comes from escorting caravans, tracking fugitives, or lending your bla
 - 3d6 coins
 - Rations (3 uses)
 - Torch (3 uses) 
-- Great Sword (d10, _bulky_)
+- Great Sword (d10, *bulky*)
 - Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
+- Crossbow (d8, *bulky*)
 - Spyglass
 
 ## What personal code or principle do you uphold?
 
 | d6 | Principle |
 | - | - |
-| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield you cannot be moved so long as both feet are planted on firm ground. |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt. |
+| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved for so long as both feet are planted on firm ground. |
+| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are *enhanced* until STR or DEX damage is dealt to an opponent. |
 | **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior. |
-| **4** | **Revere the Dead**: Death is a journey we all take, and it deserves respect. Take an extra **30 coins**. You always place two coins on the eyelids of a slain foe. Somehow, you always find the coin. |
-| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked unto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Odd Gear** table. |
+| **4** | **Revere the Dead**: Death is a journey we all take, and it deserves respect. Take an extra **30 coins**. You always place two coins on the eyelids of a slain foe. |
+| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked unto its face, the stick hardens into iron (d8) until the vow is complete. The stick will snap in half if the vow is ever broken. |
+| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or kind. You expect nothing less from all others. Take a **Ledger**, and roll a second time on the **odd starting gear** table. |
 
 
 ## What breed is your horse?
@@ -37,4 +37,4 @@ Your coin comes from escorting caravans, tracking fugitives, or lending your bla
 | **3** | **Rivertooth** | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (+2 if carrying two people). |
 | **4** | **Piebald Cob** | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots. |
 | **5** | **Linden White** | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). +3 slots. |
-| **6** | **Stray Fogger** | Wild, but _very fast_ (even in **Tough** terrain). Rides light. 4 HP. +2 slots. |
+| **6** | **Stray Fogger** | Wild, but *very fast* (even in **Tough** terrain). Rides light. 4 HP. +2 slots. |

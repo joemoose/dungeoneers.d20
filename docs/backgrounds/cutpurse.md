@@ -11,7 +11,7 @@ You live in the grey space between those who have power and those who don’t. Y
 - 3d6 coins
 - Rations (3 uses)
 - Torch (3 uses) 
-- Twin Daggers (d6+d6, _bulky_)
+- Twin Daggers (d6+d6, *bulky*)
 - Padded Leather (1 Armor)
 - Lockpicks
 - Black Outfit (*small*)
@@ -22,8 +22,8 @@ You live in the grey space between those who have power and those who don’t. Y
 | :-: | - |
 | **1** | A noble's summer home. The place was full of fancy wine (+20 coins) but not much else. Take **Fence Cutters**. |
 | **2** | A bank (you were caught). You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take **Retractable Wires**. |
-| **3** | A guild warehouse. Take a **Ladder** (_bulky_, 10ft) and **Blinding Powder** (1 use). |
-| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of _Arcane Eye_ (*small*). |
+| **3** | A guild warehouse. Take a **Ladder** (*bulky*, 10ft) and **Blinding Powder** (1 use). |
+| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of *Arcane Orb* (*small*). |
 | **5** | Constable's quarters. You escaped but left some friends behind. Take **Strong Silk Rope** (30ft) and a queasy feeling. |
 | **6** | A university. You were seen but not pursued. You still don't know why. Take **Smoke Pellets** (3 uses). |
 
@@ -33,8 +33,8 @@ You live in the grey space between those who have power and those who don’t. Y
 | :-: | - | - |
 | **1** | **Catring** | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail. |
 | **2** | **Gildfinger** | 1 charge. A finger glove that mimics any mundane key. **Recharge**: bundle it with at least 100 coins for a night. |
-| **3** | **Glimpse Glass** | 3 charges. A monocle that lets you see through walls or other obstructions. It shatters after the last use. |
+| **3** | **Glimpse Glass** | 3 charges. A monocle that lets you see through walls or doors. It shatters after the last use. |
 | **4** | **Sweetwhistle** | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory (describe it). |
-| **5** | **Vagrant's Veil** | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Small_ |
-| **6** | **Smokestack Marble** | 3 uses. Crush to release a dense cloud of smoke that follows you. _Small_. |
+| **5** | **Vagrant's Veil** | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. *Small* |
+| **6** | **Smokestack Marble** | 3 uses. Crush to release a dense cloud of smoke that follows you. *Small*. |
 

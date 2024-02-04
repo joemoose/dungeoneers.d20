@@ -19,11 +19,11 @@ You are a shepherd to the departed. You listen to the final whispers of the dead
 
 | d6 | Item |
 | - | - |
-| **1** | A **crow-shaped amulet**. You can ask a question of the dead but must add a **Fatigue** each time. They do not always speak truthfully. |
-| **2** | A **mortal wound** from a freed _revenant_. You were healed, but the disfigurement has made you a pariah. You require neither air nor sustenance but are still subject to pain and death. Trapped between, the dead see you as one of their own. |
-| **3** | A **Blood Pail** (_bulky_) from a local death-cult. Empty its contents to summon a creature built from items buried below (bones, rocks, pottery, etc). It obeys your command, but if destroyed, you _permanently_ lose 1d4 STR. It has 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, shard fists (d8). **Recharge**: Fill the bucket with the blood of a dying warrior. |
-| **4** | A **burial wagon** (+6 slots, _slow_) from your last job. It came with a stubborn old **donkey** (+4 slots, +2 slots if pulling wagon). |
-| **5** | A _Detect Magic_ spellbook, stolen from an ancient library. Your family worked in service to an obscure underworld deity, but you lost your faith. Though exiled, you continue to serve, even as an apostate. |
+| **1** | A **crow-shaped amulet**. You can ask a question of the dead but must add a *Fatigued* constraint each time. They do not always speak truthfully. |
+| **2** | A **mortal wound** from a freed *revenant*. You were healed, but the disfigurement has made you a pariah. You require neither air nor sustenance but are still subject to pain and death. Trapped between, the dead see you as one of their own. |
+| **3** | A **Blood Pail** (*bulky*) from a local death-cult. Empty its contents to summon a creature built from items buried below (bones, rocks, pottery, etc). It obeys your command, but if destroyed, you *permanently* lose d4 STR. It has 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, shard fists (d6). **Recharge**: Fill the bucket with the blood of a dying warrior. |
+| **4** | A **burial wagon** (+6 slots, *slow*) from your last job. It came with a stubborn old **donkey** (+4 slots, +2 slots if pulling wagon). |
+| **5** | A *Pierce the Veil* spell tablet, stolen from an ancient library. Your family worked in service to an obscure underworld deity, but you lost your faith. Though exiled, you continue to serve, even as an apostate. |
 | **6** | A **plague doctor's mask**, after its owner succumbed to the disease that wiped out everyone you once knew. They should have kept it on. |
 
 ## What tool was invaluable in your work?
@@ -35,5 +35,5 @@ You are a shepherd to the departed. You listen to the final whispers of the dead
 | 3 | **Pulley** | Great for moving gravestones, rocks, or even bodies. |
 | 4 | **Incense** | Perfect for rituals or to keep the flies at bay. Cools the blood. |
 | 5 | **Crowbar** | d6 damage. Sometimes you just need to get the damn thing open! |
-| 6 | **Repellent** | Powerful stuff. Its faded label makes it unclear what it is actually _meant_ to repel, though. Perhaps everything. 3 uses. |
+| 6 | **Repellent** | Powerful stuff. Its faded label makes it unclear what it is actually *meant* to repel, though. Perhaps everything. 3 uses. |
 
