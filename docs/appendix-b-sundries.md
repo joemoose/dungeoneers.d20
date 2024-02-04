@@ -139,21 +139,21 @@
 | Cudgel | d6 | Offhand | 10 |
 | Staff | d6/+d6 | Versatile | 20 |
 | Mace | d8 | - | 50 |
-| Maul | d10 | Two-handed, STR 7+ | 80 |
+| Maul | d10 | Two-handed, STR 12+ | 80 |
 | Sling | d6 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
 | **Piercing Weapons** ||||
 | Dagger | d6 | Finesse, Offhand, Thrown | 20 |
 | Rapier | d8 | Finesse | 80 |
 | Spear | d8/+d8 | Thrown, Versatile | 30 |
 | Pike | d10 | Two-handed, Reach| 70 |
-| Shortbow | d8 | Short-range, Two-handed<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
-| Crossbow | d8 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
-| Longbow | d10 | Long-range, Two-handed, STR 11+<br/>Ammo: Arrows and quiver: 10 coins | 200 |
+| Shortbow | d8 | Short-range, Two-handed. STR 7+<br/>Ammo: Arrows and quiver: 10 coins  | 100 |
+| Crossbow | d8 | Long-range, Two-handed, Reload<br/>Ammo: Quarrels and quiver: 10 coins | 150 |
+| Longbow | d10 | Long-range, Two-handed, STR 12+<br/>Ammo: Arrows and quiver: 10 coins | 200 |
 | Arbalest | d10 | Long-range, Two-handed, Reload, STR 7+<br/>Ammo: Quarrels and quiver: 10 coins | 300 |
 | **Slashing Weapons** |||||
 | Axe | d6 | Thrown | 40 |
 | Sword | d8/+d8 | Versatile | 60 |
-| Great Sword | d10 | Two-handed, STR 11+ | 120 |
+| Great Sword | d10 | Two-handed, STR 12+ | 120 |
 
 !!! note
 

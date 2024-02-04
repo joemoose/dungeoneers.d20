@@ -110,7 +110,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 | Cudgel | d6 | Offhand | 10 |
 | Staff | d6/+d6 | Versatile | 20 |
 | Mace | d8 | - | 50 |
-| Maul | d10 | Two-handed, STR 7+ | 80 |
+| Maul | d10 | Two-handed, STR 12+ | 80 |
 | Sling | d6 | Short-range<br/>Ammo: Stones and pouch: 1 coin | 10 |
 | **Piercing Weapons** ||||
 | Dagger | d6 | Finesse, Offhand, Thrown | 20 |
