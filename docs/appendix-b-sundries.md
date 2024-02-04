@@ -34,7 +34,7 @@
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d4** points of attribute damage. | 5 Uses, Slow | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and gain an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
-| Waterskin | If you’re trekking in an arid and or barren environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
+| Waterskin | If you’re trekking in an arid or barren environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
 ### Meals
 

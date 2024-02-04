@@ -145,7 +145,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | Item | Description | Notes | Coins |
 | :-- | :-- | :-- | --: |
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
-| Bag of Books | When your bag contains just the right book for your research subject to gain an advantage, name the book, mark off one use. | 3 Uses, Slow, Bulky | 100 |
+| Bag of Books | When your bag contains just the right book for your research subject to gain an advantage, name the book and mark off one use. | 3 Uses, Slow, Bulky | 100 |
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d4** points of attribute damage. | 5 Uses, Slow | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and gain an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
