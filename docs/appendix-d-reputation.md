@@ -2,7 +2,7 @@
 
 ---
 
-Your character’s **reputation** is measured on a scale of **-6 to 6**. Your character starts at **zero**. A zero value represents an ordinary person with no fame or notoriety who might do heroic or villanous things.
+Your character’s **reputation** is measured on a scale of **-6 to 6**. Your character starts at **zero**. A zero value represents an ordinary person with no fame or notoriety who might do heroic or villainous things.
 
 Your character's actions in the game's narrative change their reputation score.
 
@@ -11,8 +11,6 @@ Your character's actions in the game's narrative change their reputation score.
 - Whenever you do something vicious or selfish, your reputation decreases by 1. 
 
 The GM decides when an action modifies your reputation. For example, rescuing a notable person would increase your reputation, whereas killing innocents would decrease your reputation.
-
-Your reputation might increase or decrease by a point or two at the end of a game session, depending on your character’s actions and accomplishments during the game.
 
 ## Heros and Villians
 
@@ -24,7 +22,7 @@ Your status may also provide advantages or disadvantages on social actions, such
 
 ## Boon Tokens
 
-Once you achieve the reputation of heroic or villainous, anytime you modify your reputation further (greater than six for heroes or less than -6 for villains), you instead receive a **boon token**. You can hold up to two boon tokens.
+Once you achieve the reputation of heroic or villainous, anytime you modify your reputation further (greater than six for heroes or less than -6 for villains), you instead receive a **boon token**. You can hold up to **two** boon tokens.
 
 Spend your boon tokens with the GM anytime during play to gain unique benefits relevant to your status.
 
