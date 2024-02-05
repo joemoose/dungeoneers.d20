@@ -21,11 +21,26 @@
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
-Roll **d20** +**modifier**:
+Roll **d20** +**attribute modifier**:
 
 - **15+**: Success, with no complications
 - **10-14**: Success, with a complication
 - **9-**: Failure
+
+## Attribute Modifier
+
+| Score | Modifier |
+| :-: | :-: |
+| 1 | -5 |
+| 2-3 | -4 |
+| 4-5	| -3 |
+| 6-7 | -2 |
+| 8-9 | -1 |
+| 10-11 | 0 |
+| 12-13 | +1 |
+| 14-15 | +2 |
+| 16-17 | +3 |
+| 18 | +4 |
 
 ### Advantage & Disadvantage
 
