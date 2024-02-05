@@ -36,4 +36,4 @@ You copy ancient texts and illuminate manuscripts, recording the voices of the c
 | **3** | **Everquill** | A quill that writes on any surface. You still need ink. *Petty*. |
 | **4** | **Whisper Vial** | Whisper a message into the vial, and it plays back to whoever next opens it. |
 | **5** | **Voyeur's Suringa** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
-| **6** | **Echo Leaf** | A blank parchment. Whoever unfurls it sees their actions of the day slowly revealed in a tight scrawl. *Petty*. |
+| **6** | **Echo Leaf** | A blank parchment. Whoever unfurls it sees their actions of the day slowly revealed in a tight scrawl. *Small*. |
