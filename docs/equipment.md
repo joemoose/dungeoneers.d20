@@ -162,11 +162,11 @@ A pair of helping hands might give you the edge you’ll need to survive or, at 
 - **Torchbearer** (1 coin/day): 2 HP, 9 STR, 9 DEX, 9 WIL. Torch.
 - **Guard** (3 coins/day): 4 HP, 10 STR, 10 DEX, 10 WIL. Spear, Shield.
 - **Sellsword** (6 coins/day): 6 HP, 12 STR, 10 DEX, 10 WIL. Sword, Light Armor, Shield.
-- **Expert** (10 coins/day): 3 HP, 10 STR, 10 DEX, 12 WIL. Crossbow, Helmet, a *Specific Expertise*, or *Skill*.
+- **Expert** (10 coins/day): 3 HP, 10 STR, 10 DEX, 12 WIL. Crossbow, Helmet, Specific *Expertise*, or *Skill*.
 
 In addition to a daily wage, hirelings must be fed and provided lodging.
 
-**Hireling Morale**
+### Hireling Morale
 
 When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL save or desert their employment.
 
