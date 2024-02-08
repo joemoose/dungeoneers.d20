@@ -18,9 +18,9 @@ Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 - Equipment adapted from *[Dungeon World](https://dungeon-world.com/)*, by Adam Koebel and Sage LaTorra.
 
-- Luck mechanism adapted from *[Spellburn and Battlescars](https://xenio-in-a-bottle.itch.io/sab)* by Luís Fernando Anizello and Matheus Henrique Morais.
+- Keepsakes adapted from [“When All You Have is a Hammer”](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html), *Against the Wicked City*, 4 February 2018, by Joseph Manola.
 
-- Mementos adapted from [“When All You Have is a Hammer”](http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html), *Against the Wicked City*, 4 February 2018, by Joseph Manola.
+- Luck mechanism adapted from *[Spellburn and Battlescars](https://xenio-in-a-bottle.itch.io/sab)* by Luís Fernando Anizello and Matheus Henrique Morais.
 
 - Physical mutations adapted from *[Vaults of Vaarn #1](https://graculusdroog.itch.io/vaults-of-vaarn)* by Leo Hunt.
 

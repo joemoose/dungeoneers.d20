@@ -22,7 +22,7 @@ Wits are your sharpest weapon, a facade your strongest shield. But when you do l
 | :-: | - |
 | **1** | Your "patients" kept reporting miraculous recoveries despite your lack of training. Start with **Bandages** (3 uses) and a *knack for healing*. |
 | **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours. |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Gain an extra odd item of starting gear. Start with a concealable **Knife** (d4, *small*). |
+| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Gain an extra Keepsake with your starting gear. Start with a concealable **Knife** (d4, *small*). |
 | **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (*small*), a **Ceremonial Sword** (harmless, 60 coins), and a **Bouquet of Flowers**. |
 | **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (*WIL save to avoid mishaps*). If you are the target of magic, the same applies to its wielder. |
 | **6** | Your "seances" with the dead were, in actuality, a clever ruse involving a hidden spell tablet of *Arcane Tongues*. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. |

@@ -228,9 +228,9 @@ Choose **three** more items from the following list. You may choose an item more
 
 	See the [Equipment](equipment.md) section for more information on your gear.
 		
-Finally, roll d66 once and consult the following table to select an odd souvenir you own. It may come in handy one day, or you can sell it for a few coins.
+Finally, roll d66 once and consult the following table to select an odd keepsake you own. Your keepsake is small and does not take up an inventory slot. It may come in handy one day, or you can sell it for a few coins.
 
-### Odd Items for Creative Problem-Solving
+### Keepsakes
 
 | d66 | Item |
 | :-: | :-- |

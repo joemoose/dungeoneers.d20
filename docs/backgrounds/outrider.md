@@ -25,7 +25,7 @@ Your coin comes from escorting caravans, tracking fugitives, or lending your bla
 | **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior. |
 | **4** | **Revere the Dead**: Death is a journey we all take, and it deserves respect. Take an extra **30 coins**. You always place two coins on the eyelids of a slain foe. |
 | **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked unto its face, the stick hardens into iron (d8) until the vow is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or kind. You expect nothing less from all others. Take a **Ledger**, and roll a second time on the **odd starting gear** table. |
+| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or kind. You expect nothing less from all others. Take a **Ledger**, and roll a second time on the **Keepsakes** table. |
 
 
 ## What breed is your horse?
