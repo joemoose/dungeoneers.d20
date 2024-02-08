@@ -99,7 +99,7 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 You can expend your LUCK attribute during play to change outcomes. Decrease (burn) your LUCK score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. 
 
-Your LUCK score can’t be decreased to less than zero. But be warned: if you run out of LUCK (the score becomes zero), all your attribute saves suffer a disadvantage. 
+Your LUCK score can’t be decreased to less than zero. 
 
 The LUCK attribute applies only to player characters, not hirelings, monsters, or other non-player characters controlled by the GM.
 		
