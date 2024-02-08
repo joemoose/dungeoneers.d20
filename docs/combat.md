@@ -24,9 +24,9 @@ The results of each side’s actions occur simultaneously. As such, all players 
 
 **Attacks always hit**. Roll your weapon’s damage dice, and add the appropriate attribute modifier:
 
-- STR: for melee or thrown weapons
-- DEX: for ranged weapons
-- WIL: for spells
+- **STR**: for melee or thrown weapons
+- **DEX**: for ranged weapons
+- **WIL**: for spells
 
 You inflict the total amount of damage to an opponent minus their armor rating. 
 
@@ -36,7 +36,7 @@ You inflict the total amount of damage to an opponent minus their armor rating.
 
 ### Critical Hits
 
-Rolling **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor rating and does full damage.
+Rolling **maximum damage** on a weapon’s die roll is a **critical hit**. A critical hit **ignores** the target’s armor rating.
 
 ### Bonus Damage
 
