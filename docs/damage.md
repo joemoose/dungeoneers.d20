@@ -6,8 +6,6 @@ Damage is first dealt to your **Hit Points** (HP). HP represents your ability to
 
 After your HP is depleted, all damage is dealt to either your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
 
-Damage from an attack cannot be split between the attributes—after HP is reduced to zero, damage applies entirely to STR or DEX. If one attribute is reduced to zero, apply any remaining damage to the other.
-
 After taking STR or DEX attribute damage, you must make an attribute save for the respective attribute. If the save succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
 !!! note "Note"
