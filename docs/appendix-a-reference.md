@@ -63,9 +63,11 @@ Make a DEX or a WIL save to act before your opponents *in the first round* of co
 
 Players go before their opponents in the second and all subsequent rounds.
 
+All players declare their intended actions before resolving the effects.
+
 ### Attacks
 
-**Attacks always hit**. Roll weapon damage +modifier and deal that much damage to an opponent, minus armor rating.
+**Attacks always hit**. Roll weapon damage +attribute modifier and deal that much damage to an opponent, minus armor rating.
 
 - **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
@@ -77,7 +79,7 @@ Damage is first dealt to HP.
 
 - Once HP is depleted, take damage to STR or DEX.
 - After taking STR or DEX damage, make the respective attribute save. On failure, take a *Wounded* constraint and become incapacitated.
-- If two attributes besides LUCK are reduced to zero, you die.   
+- If STR or DEX is reduced to zero, you die.   
 
 ## Healing
 
