@@ -204,14 +204,20 @@ Roll **d4+2** to determine your starting hit points.
 
 Let’s see what equipment you’ve brought to your new adventuring life.
 
-You start with a heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, and 3d6 coins.
+You start with the following equipment:
+
+- a heavy hooded cloak of your choice of color
+- adventuring gear
+- travel rations
+- a dagger
+- 3d6 coins
 
 Choose **three** more items from the following list. You may choose an item more than once.
 
 - spear
 - shortbow and a quiver of arrows
 - sword
-- helmet 
+- helmet
 - shield
 - hauberk
 - 50 coins
@@ -259,7 +265,7 @@ Finally, roll d66 once and consult the following table to select an odd keepsake
 | 45 | Bag of smoke bombs. If thrown against a hard surface, they explode into a huge cloud of choking smoke on impact. It's worth 30 coins to thieves or entertainers. |
 | 46 | Intricately made wind-up clockwork toy. It can carry small objects, depress pressure plates, set off traps, etc. It's worth 20 coins to a mechanic or wealthy parent. |
 | 51 | Ceramic mask painted with enamel to resemble a ferocious demonic face. It's disturbingly realistic, especially if only glimpsed briefly. It's worth 30 coins to an actor or collector. |
-| 52 | Box of bladders can be inflated like balloons and used as floats. It's worth 20 coins to a jester. |
+| 52 | Box of bladders that can be inflated like balloons and used as floats. It's worth 20 coins to a jester. |
 | 53 | Bottle of colored ink. Handy for making marks and staining things. It's worth 20 coins to a scribe. |
 | 54 | Sturdy magnifying glass. Handy for examining things close-up and concentrating light. It's worth 30 coins to a sage or a craftsman. |
 | 55 | Chess set with beautifully carved pieces. You'd be surprised how many dungeon occupants fancy themselves as chess masters. It's worth 30 coins to any chess enthusiast. |
@@ -275,7 +281,7 @@ Finally, roll d66 once and consult the following table to select an odd keepsake
 
 If you would prefer to pick from a standard starting equipment set, select one of the following:
 
-- **Figher**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
+- **Fighter**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
 - **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins
 - **Magic-User**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
 - **Ranger**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
