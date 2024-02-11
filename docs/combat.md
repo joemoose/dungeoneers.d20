@@ -56,7 +56,7 @@ The offhand weapon functions as bonus damage when attacking with two weapons, on
 
 ### Multiple Attackers
 
-If multiple combatants attack the same target, roll damage for each attacker, but use only the best result. Add +1 damage for each attacker after the first.
+If multiple combatants attack the same target, roll damage for each attacker, but use only the **best** result. Add **+1 damage** for each attacker after the first.
 
 ### Blast
 
