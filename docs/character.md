@@ -177,11 +177,12 @@ Next, determine each attribute score's die roll **modifier**. You apply these mo
 
 | Score | Modifier |
 | :-: | :-: |
-| 1-2 | -4 |
-| 3-4	| -3 |
-| 5-6 | -2 |
-| 7-8 | -1 |
-| 9-11 | 0 |
+| 1 | -5 |
+| 2-4 | -4 |
+| 4-5	| -3 |
+| 6-7 | -2 |
+| 8-9 | -1 |
+| 10-11 | 0 |
 | 12-13 | +1 |
 | 14-15 | +2 |
 | 16-17 | +3 |
