@@ -34,7 +34,6 @@ Roll **d20** and add the applicable attribute score **modifier** to the result:
 - **If you roll 10 to 14**, you succeed, but with an unexpected complication.
 - **If the result is 9 or less**, you fail.
 
-
 !!! note "Notes"
 
 	- Given sufficient time, relevant skill or training, and the proper equipment, your actions will generally always succeed—the GM won't call for an attribute save.
