@@ -20,19 +20,19 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 3. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
 
-## Recharging a Spell
-
-Once all three anima in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three anima. 
-
 ## Miscasting a Spell
 
-Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to their WIL and must roll a WIL save afterward. If failed, the caster takes a *Dazed* constraint.
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to their WIL and must then roll a WIL save to avoid Critical Damage. 
 
 The spell still manifests, though at a cost to the caster.
 
 !!! Tip
 
 	Use great care when casting spells with damaged attribute scores. Your character is incapacitated if *WIL* is reduced to zero.
+
+## Recharging a Spell
+
+Once all three anima in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three anima. 
 
 ## Selling a Spell
 

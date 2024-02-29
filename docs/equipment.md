@@ -38,7 +38,6 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 
 | Condition | Adverse Effect | Cleared After |
 | :-- | :-- | :-- |
-| *Dazed* | Disadvantage on WIL saves | Long rest |
 | *Deprived* | Can’t heal or remove constraints when resting | Meal and long rest |
 | *Fatigued* | No effect besides taking up inventory | Long rest |
 | *Frightened* | Make a WIL save to approach the source of fear | Short rest |
