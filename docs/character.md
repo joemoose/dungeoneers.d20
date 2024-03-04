@@ -199,9 +199,9 @@ If you prefer not to roll randomly for your attribute scores, spend 44 points ac
 
 Hit points (HP) represent the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
 
-Add your **STR**, **DEX**, and **WIL** modifiers to determine your base hit points.
+Add your **STR**, **DEX**, and **WIL** modifiers to determine your base hit points to a minimum of zero.
 
-Your HP is then increased by 1 point for every two open slots in your inventory.
+Your base HP is then increased by 1 point for every open slot in your inventory.
 
 ## Step 6: Starting Equipment
 

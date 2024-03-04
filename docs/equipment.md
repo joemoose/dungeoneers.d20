@@ -6,7 +6,7 @@ The equipment that your character carries and your ingenuity define your charact
 
 ## Inventory slots
 
-Your character has **12** inventory slots to carry items: 2 hand slots, 4 body slots, and 6 backpack slots. 
+Your character has **12** inventory slots to carry equipment: 2 hand slots, 4 body slots, and 6 backpack slots. 
 
 - **Hand Slots**: Items being held, such as weapons, shields, and torches.
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
@@ -18,7 +18,7 @@ You cannot fill more than 12 slots. Carts, horses, or mules can increase invento
 
 ### Inventory and HP
 
-Add **1 point** to your base HP for every **two open slots** in your inventory.
+Add **1 point** to your base HP for every **open slot** in your inventory.
 
 If you carry a full inventory (i.e., filling all 12 slots), your HP is reduced to **zero**. 
 
