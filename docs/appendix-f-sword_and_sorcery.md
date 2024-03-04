@@ -1,4 +1,4 @@
-# Appendix I: Sword & Sorcery
+# Appendix F: Sword & Sorcery
 
 ---
 
@@ -8,7 +8,7 @@ The following rules provide a grittier campaign geared more toward violent actio
 
 Character creation remains the same as the core Dungeoneers system with one extra step: choosing a class for your character. Character classes add unique talents and specializations to your character.
 
-Pick either the **Warrior**, **Thief**, or **Sorcerer** class for your character.
+Pick either **Warrior**, **Thief**, or **Sorcerer** for your character.
 
 The three classes are described in the following sections. 
 
@@ -22,7 +22,7 @@ Warriors are adventurers dedicated to mastering the arts of combat and war. In a
 
 A warrior has mastered a variety of special maneuvers you can perform in combat. You do this by spending a resource called **Grit**. You start with one grit. At every **even-numbered** level, you gain one additional grit. You can use multiple maneuvers at the same time.
 
-Grit is restored after a long rest.
+Grit is restored after a short rest.
 
 #### Starting Maneuvers
 
@@ -78,15 +78,15 @@ You have a variety of unique abilities. When you first create your character and
 
 - **BACKSTAB**: When you attack a creature that isn’t aware of you, in addition to the advantage you would typically gain, you double your damage after first reducing it by the armor rating, if any.
 
-	**Mastery**: During combat, as part of your attack, you can make a DEX *or* WIL save against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
+	**Mastery**: During combat, as part of your attack, you can make a DEX or WIL save against a creature aware of you to flank or confuse the target, adding a +d12 damage bonus.
 
 - **EXPERTISE**: You can re-roll an attribute save once per session.
 
 	**Mastery**: You can re-roll any dice roll once per session.
 
-- **FAST**: You can make an attack and then disengage as a *fast* initiative round.
+- **FAST**: You can make an attack and then disengage as a single action.
 
-	**Mastery**: You can move and attack in the same round as a *fast* initiative round.
+	**Mastery**: You can move and attack as a single action.
 
 - **MANY POCKETS**: You gain an additional body inventory slot. 
 
@@ -120,10 +120,10 @@ Attribute scores lost for invoking your powers are healed as usual—STR, DEX, a
 
 #### Invoking Powers
 
-**To invoke a sorcerous power**, take two actions, sacrifice at least one point of an attribute score for anima, and make a WIL save.
+**To invoke a sorcerous power**, sacrifice at least one point of an attribute score for anima, and make a WIL save.
 
 - If the save succeeds, the power manifests as you intended.
-- The power does not materialize on a failure; you must then make a **corruption save** to avoid the resulting sorcerous backlash within you.
+- On a failure, the power does not materialize; you must make a **corruption save** to avoid the resulting sorcerous backlash within you.
 
 The WIL save to invoke your power has an advantage if your invocation is performed over two rounds without interruption. The invocation may succeed automatically if invoked as a ritual over an uninterrupted watch. 
 
@@ -155,7 +155,7 @@ When you create your character, pick **one** of the following powers. Select one
 	
 	!!! info "Example"
 	
-		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three anima (the rug is about his size and can *magically fly* for *2 rounds*).
+		Zathar the Sorcerer invokes a flying carpet, which he uses to escape. He sacrifices three animas (the rug is about his size and can *magically fly* for *2 rounds*).
 
 - **HARM**
 
@@ -183,33 +183,6 @@ If anima is drained from an unwilling victim, the victim must be restrained and,
 
 ---
 
-## Advancement
-
-As your character levels, they *do not* automatically increase their HP and attributes as in the core Dungeoneers rules. Instead, they select new abilities from their class.
-
-To increase their HP and attributes, characters must gain **scars** in combat.
-
-## Scars
-
-When a character’s HP is reduced to **zero or less** in an attack, they are uniquely scarred. Look up the result in the following table based on the damage sustained in the attack.
-
-**Scars Table**
-
-| Damage | Scar |
-| :-: | :- |
-| 1 | **Lasting Scar**: Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 2d6. If the total is higher than your max HP, swap it. |
-| 2 | **Rattling Blow**: You’re disoriented and shaken. Take a *Dazed* constraint. WIL saves have a disadvantage until you heal and rest. Roll 2d6. If the total is higher than your max HP, swap it. |
-| 3 | **Walloped**: You’re sent flying, landing flat on your face, winded. Add a *Fatigue* constraint to your inventory. Add 1 to your max HP. |
-| 4 | **Broken Limb**: Roll 1d6; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. One attribute (per the GM) has a disadvantage on saves until you heal and rest. Once mended, roll 3d6. If the total is higher than your max HP, swap it. |
-| 5 | **Diseased**: You have a revolting, uncomfortable infection. Add a *Diseased* constraint. Attribute saves have a disadvantage until you heal and rest. When you recover from the infection, roll 3d6. If the total is higher than your max HP, swap it. |
-| 6 | **Reorienting Head Wound**: Roll 1d6; 1–2: STR, 3–4 DEX, 5–6: WIL. Next, roll 3d6. If the total is higher than the specified max attribute score, swap it. |
-| 7 | **Hamstrung**: You can’t walk until you heal and rest. After recovery, roll 3d6. If the result is higher than your max DEX attribute, swap it. |
-| 8 | **Deafened**: You can’t hear anything until you heal and rest. Afterward, Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
-| 9 | **Re-brained**: Some remote part of your psyche is knocked loose. Roll 3d6. If the result is higher than your max WIL attribute, swap it. |
-| 10 | **Sundered**: An appendage is torn off, crippled, or useless. The GM will tell you which. Roll 3d6. If the result is higher than your max STR attribute, swap it. |
-| 11 | **Mortal Wound**: You are *Deprived* and out of the action. Add a *Fatigue* to your inventory. You will die shortly unless revived. Upon revival, roll 2d10. Take the new result as your max HP. |
-| 12+ | **Doomed**: Death seemed imminent, but luckily, somehow, you survived. If your next STR save against critical damage fails, you die instantly and horrifically. If you pass, roll 3d6. If the result is higher than your LUCK attribute, swap it. |
-
 ## Relics
 
 Relics are arcane objects imbued with sorcerous powers. They do not require casting like spell tablets. After attuning (see the next section), you learn the command word or method to activate the object’s power. However, when using relics, you sometimes risk corruption. Relics have a limited number of uses and possibly a recharge condition.
@@ -226,7 +199,7 @@ Attunement ends if you’re more than 100 feet away from the relic for a day and
 
 ## Corruption
 
-Sorcery is volatile and warps its practitioners. Magical corruption is everpresent in the settings of sword and sorcery. 
+Sorcery is volatile and warps its practitioners. Magical corruption is ever present in the settings of sword and sorcery. 
 
 Your corruption level can be increased manifold while adventuring: using sorcerous powers, attuning to forbidden relics, committing heinous acts, interacting with maleficent areas, creatures, and objects, etc. A newly created character has zero corruption level.
 
@@ -234,15 +207,15 @@ As your corruption level increases, you may undergo increasingly unpleasant muta
 
 ### Corruption Saves 
 
-When directed by the GM to make a corruption save, roll either a STR *or* WIL save and **add your current corruption level** to the result:
+When directed by the GM to make a corruption save, roll either a STR or WIL save and **add your current corruption level** to the result:
 
 - If your attribute save succeeds, you hold chaos at bay (this time) and suffer no consequences.
 
-	On a **critical success** (rolling your exact attribute score), your save succeeds regardless of your corruption level. Also, **decrease** your corruption level by one.
+	On a **critical success**, your save succeeds regardless of your corruption level. Also, **decrease** your corruption level by one.
 
 - If you fail, consult the following table for a mutation.
 
-	On a **critical failure** (rolling a 20), immediately **increase** your corruption level by one before consulting the mutations table. 
+	On a **critical failure**, immediately **increase** your corruption level by one before consulting the mutations table. 
 
 Regardless of success or failure on your save, **increase** your corruption level by one afterward.
 
@@ -291,7 +264,7 @@ Roll **d20 +your corruption level** and consult the following table.
 | 25 | Echolocation | You can “see” in darkness using echoes. |
 | 26 | Extra arms | You have more arms than normal. |
 | 31 | Fangs, Venomous | You have a poisonous bite. |
-| 32 | Frog Tongue | You have a long sticky tongue that can grab small objects. |
+| 32 | Frog Tongue | You have a long, sticky tongue that can grab small objects. |
 | 33 | Fur | You are covered in fur. |
 | 34 | Gills | You have gills and can breathe in water. |
 | 35 | Heat Vision | You can see heat signatures. |
@@ -311,7 +284,7 @@ Roll **d20 +your corruption level** and consult the following table.
 | 61 | Scaly Skin | Your skin is thick and scaly; add +1 to your armor. |
 | 62 | Tail, Prehensile | You have a long, thin tail that can grip objects. | 
 | 63 | Toxic Flesh | Your flesh is toxic when eaten. |
-| 64 | Vocal Mimic | You can perfectly mimic other voices or sounds. |
+| 64 | Vocal Mimic | You can mimic other voices or sounds perfectly. |
 | 65 | Warty Skin | Your skin is thick and warty. Add +1 to your armor rating. |
 | 66 | Whiskers | You have sensitive whiskers like a cat. |
 
@@ -377,3 +350,123 @@ After suffering a **fifth vitiation** of the same category, you are forever tran
 - **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
 - **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders in the region and beyond.
 - **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
+
+## Advancement
+
+As your character adventures and acquires treasure, they will increase their level and capabilities.
+
+### Experience Points
+
+Your character earns XP by bringing treasure and valuable relics back from their expeditions to the safety of a settlement.
+
+For every coin’s worth of treasure brought back (divided equally amongst the party), your character earns 1 XP.
+
+### Levels
+
+Characters start at level 1 with zero XP.
+
+The following table shows the total XP required to advance each level.
+
+**Level and XP Table**
+
+| Level | HP | Stamina | XP |
+| :-: | :-: | :-: | --: |
+| 1 | d4+2 | 0 | 0 |
+| 2 | 2d6 | 1 | 1000 |
+| 3 | 3d6 | 2 | 3000 |
+| 4 | 3d6 | 2 | 6000 |
+| 5+ | 3d6 | 3 | +5000 |
+
+When your character earns enough XP to advance to the next level, perform the following actions:
+
+- **Roll for attribute increase**: Roll 3d6 for each attribute: STR, DEX, and WIL. If the result exceeds the maximum value that your character has for the attribute, increase it by one. If none of your attributes are increased after rolling for each, increase your lowest attribute score by 1.
+- **Roll hit points**: Roll the HP dice listed for the new level. If the result exceeds the maximum HP that your character has, swap it with the rolled value. Otherwise, increase your maximum HP by 1.
+
+!!! note
+
+	The highest value that a character can attain for attributes and HP is 18.
+
+### Stamina
+
+Starting at level 2, your character gains the **Stamina** attribute. Stamina allows your character to ignore constraints.
+
+For each stamina point, you can place one constraint into the stamina space on your character sheet rather than in your inventory. After it’s put into the stamina space, the constraint is ignored but isn’t removed until its cleared requirement is met.
+
+### New Skills
+
+Learning new skills to gain an advantage on related attribute saves does not happen automatically when characters gain new levels. Your character starts with the training and knowledge suggested by the former career you selected during character creation, such as gambler or mercenary. 
+
+Acquiring new skills and knowledge afterward happens as part of your adventuring. Your character could hire mentors or experts to teach them new skills. Joining specialized groups, such as trade guilds, universities, or mercenary companies, could provide training. Your GM may award skills from quests, patrons, or other in-game opportunities.
+
+New skills and specialized knowledge are acquired as events in the narrative, not from leveling up.
+
+### Carousing
+
+You can spend your hard-earned coins for XP rather than buying equipment, hirelings, or other useful sundries. **Carousing** earns XP by spending coins at a **5-to-one** ratio: 5 coins for 1 XP. Carousing represents your debauched revelries, gambling, investments in “business opportunities,” or any other recreation involving new-found wealth and rollicking fun. 
+
+#### Carousing Check
+
+Declare the number of coins you’re spending to carouse and roll **2d6** to see how your evening goes. Regardless of the evening’s outcome, you earn your XP.
+
+**Carousing Results Table**
+
+| 2d6 | Results |
+| :-: | :-- |
+| 2–4 | You’ve made a fool of yourself somehow. Roll on the following **Mishaps** table. |
+| 5–9 | Your carousing causes no remarkable incidents. |
+| 10–12 | You’ve had a stroke of good fortune! Roll on the following **Fortunes** table. |
+
+#### Mishaps and Fortunes
+
+Roll **d6 +1 for every 250 coins** you spent—the more extravagant your roistering, the more volatile or legendary the consequences. See the following Mishaps and Fortunes tables to determine what happens.
+
+##### Carousing Mishaps Table
+
+| d6+ | Mishaps |
+| :-: | :-- |
+| 1 | **Start a brawl**. You all are involved in a brawl that gets out of control. Wake up the next day with a *Fatigued* constraint and **d3** damage to an attribute (no critical damage save required.) Roll d3: (1) bleeding: STR damage, (2) bruised: DEX damage, or (3) concussed: WIL damage. The local tavern keeper is far less amicable. |
+| 2 | **Minor misunderstanding** with the local watch that you can’t smooth over. You spend the next d6 days locked up. You are all now seen as local troublemakers. |
+| 3 | One of you **insulted a local person of rank**. They’ll hold a grudge unless you all publicly apologize and humiliate yourself before them. |
+| 4 | **Hangover from hell**. Take a *Hungover* constraint. All saves have a disadvantage until a long rest. |
+| 5 | **Gambling binge**. Your party owes a collective debt equal to half the amount spent carousing to someone you'd rather not own money to. |
+| 6 | **You've ruined the local economy!** Your excess spending means that all prices double until the next session. |
+| 7 | While in a **drunken stupor** and a spot of trouble, you sought refuge in a temple. The acolytes cared for you but have begun hounding you to perform a charitable act as repayment. |
+| 8 | Due to **a lost game of axe throwing** and a few inflammatory remarks at the tavern, you make bitter enemies with a local rival adventuring party. |
+| 9 | **Beaten and robbed**. A bunch of thugs waylays you during your drunken carousing. Collectively lose 2d6 x 50 coins. |
+| 10 | **Bad Investment**. Invest all your spare coins in some smooth-tongued merchant's scheme. It turns out it's a sham. One of the town’s merchants flees. |
+| 11 | **Major misunderstanding** with the local watch. You are locked up for 2d6 days, and all your equipment is confiscated until fines and bribes totaling 2d6 x 50 coins are paid. You all are now seen as local criminals. |
+| 12+ | **The roof! The roof! The roof is on fire!** You accidentally start a conflagration. Roll d6: (1–2) you burned down your favorite tavern, (3–5) some other establishment is reduced to ash, or (6) a big chunk of town goes up in smoke. Roll d6 again: (1–2) no one knows it was you, (3–5) one other person knows you did it, or (6) everyone knows. |
+
+##### Carousing Fortunes Table
+
+| d6+ | Fortune |
+| :-: | :-- |
+| 1 | **Jackpot!** One of you strikes it rich at the gambling tables! Gain 2d6 × 50 coins. |
+| 2 | **Gain a local reputation as the life of the party!** Those of questionable reputation are much more friendly and see you as one of their own. |
+| 3 | Whoa, **what a trip!** The strange powder you sniffed revealed mystic truths about the universe. Younger people are much more friendly and see you as one of their own. |
+| 4 | **Well fed, well rested, and ready to go!** Your first attribute save of the day has an advantage. |
+| 5 | **Citizens arrest!** You catch a criminal in the act and restrain them until the watch arrives. You are seen as a hero by the settlement. |
+| 6 | The **local blacksmith**, due to your influx of coins, has been able to fashion an exquisite weapon that he's willing to sell for the normal price.
+| 7 | The **local temple acolytes** see you as protectors of the settlement. They offer you a *blessing* before your next adventure. |
+| 8 | **Impressed by your ability to drink** for days and keep standing, a local hireling of high repute will join you on your next adventure if you wish. |
+| 9 | **Outstanding Investment!** Invest all your spare cash in some smooth-tongued merchant's scheme. It turns out it's real! It returns 3d4 x 10% coins for the next d3+1 sessions. |
+| 10 | **Local celebrity**. Your ability to revel with the common folk has led them to see you as one of their own, and they’re thankful to have you around. You receive free room and board in this settlement. |
+| 11 | **Hot Gossip**. Your time spent carousing let you in on some juicy rumors. You learn one major secret about a person of note. |
+| 12+ | **Heroic Carousing!** It was a night of truly epic debauchery. Roll d6 to see how your legend grew. (1) Re-roll HP for your current level; swap the new result if higher, or increase by 1 if lower. (2) Gain 1 STR. (3) Gain 1 DEX. (4) Gain 1 WIL. (5) Gain 1 LUCK. (6) Gain a random spell tablet. |
+
+### Hirelings
+
+Hirelings can improve in the same way that your character does.
+
+Hirelings who receive a share of treasure after an expedition gain 1 Experience Point (XP) per coin above their daily wage. Like your character, after they earn 1000 XP, they advance to Level 2.
+
+Not receiving a share of treasure may cause resentment amongst hirelings.
+
+### Alternate Leveling: Milestones
+
+Rather than tracking experience points and leveling up based on the value of looted treasure and artifacts, you can tie your character’s level advancement to **essential milestones**, such as completing an expedition and returning to a settlement.
+
+You’ll need to bring something of value back to show for your efforts or, at the very least, share an adventurous tale to be sung by bards.
+
+You need as many milestones equal to your current level to advance to the next level. For example, a level 1 character reaches level 2 after one expedition. To go on to level 3, they need to complete two more milestones.
+
