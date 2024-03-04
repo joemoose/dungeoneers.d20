@@ -10,7 +10,7 @@ Create a little backstory for your character. You chose to become an adventurer 
 
 Choose or roll d20 in the following Backstory table to determine your former profession and what misfortune befell you that pushed you into the life of adventuring.
 
-Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. Don’t become too attached to your character; it’s a perilous and uncertain world.
+Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. Don’t become too attached to your character; it’s a dangerous and uncertain world.
 
 ### Backstory Table
 
@@ -199,7 +199,9 @@ If you prefer not to roll randomly for your attribute scores, spend 44 points ac
 
 Hit points (HP) represent the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
 
-Roll **d4+2** to determine your starting hit points.
+Add your **STR**, **DEX**, and **WIL** modifiers to determine your base hit points.
+
+Your HP is then increased by 1 point for every two open slots in your inventory.
 
 ## Step 6: Starting Equipment
 

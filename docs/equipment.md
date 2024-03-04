@@ -12,11 +12,15 @@ Your character has **12** inventory slots to carry items: 2 hand slots, 4 body s
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
 
-Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Smaller items may be generally bundled three or so into a single slot.
+Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Individual small items may not require an inventory slot or be generally bundled three or so into a single slot.
 
-If you carry a full inventory (i.e., filling all 12 slots), your HP is reduced to **zero**. You cannot fill more than 12 slots.
+You cannot fill more than 12 slots. Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
 
-Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
+### Inventory and HP
+
+Add **1 point** to your base HP for every **two open slots** in your inventory.
+
+If you carry a full inventory (i.e., filling all 12 slots), your HP is reduced to **zero**. 
 
 ## Coins
 
@@ -41,7 +45,7 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 | *Deprived* | Can’t heal or remove constraints when resting | Meal and long rest |
 | *Fatigued* | No effect besides taking up inventory | Long rest |
 | *Frightened* | Make a WIL save to approach the source of fear | Short rest |
-| *Wounded* | Disadvantage on STR or DEX saves (per the failed critical wound save) | Full rest |
+| *Wounded* | Disadvantage on either STR or DEX saves (per the failed critical wound save) | Full rest |
 
 !!! Note
 
@@ -145,9 +149,9 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | :-- | :-- | :-- | --: |
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
 | Bag of Books | When your bag contains just the right book for your research subject to gain an advantage, name the book and mark off one use. | 3 Uses, Slow, Bulky | 100 |
-| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off a use, restore all HP, and make a WIL save to restore **d4** points of attribute damage. | 5 Uses, Slow | 10 |
+| Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off one use and restore d3 points of attribute damage. | 5 Uses, Slow | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and gain an advantage when attempting to persuade or negotiate with them. | 6 Uses, Slow, Small | 5 |
-| Travel Rations | Not tasty, but not bad either. | 3 Uses | 5 |
+| Travel Rations | Not tasty, but not bad either. Restores 1 point of attribute damage once per day.  | 3 Uses | 5 |
 | Waterskin | If you’re trekking in an arid or barren environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
 !!! note

@@ -25,7 +25,7 @@ Dungeoneers grew out of a desire for a specific style of play. Call it "old scho
 
 As such, Dungeoneers doesn’t use traditional character classes. The equipment that your character carries and your own resourcefulness defines your character's abilities. You won't "use" your character sheet to look up a specific power for a particular problem. To be a warrior, find the best armor and weapons you can afford. A thief needs tools. A mage needs a spell. Do all three? Certainly.
 
-Additionally, combat is highly consequential. Every foe is deadly and can defeat you in a few rounds. There's no back-and-forth slog of dice rolling, standing toe-to-toe, and trading a series of blows that might or might not hit. Attacks always hit; you only roll damage. There's no "encounter balance." Combat is a puzzle to solve rather than a simulation of attrition. You must gain tactical advantages and defeat opponents quickly and overwhelmingly, or retreat and try a different approach.
+Additionally, combat is highly consequential. Every foe is deadly and can defeat you in a few rounds. There's no back-and-forth slog of dice rolling, standing toe-to-toe, and trading a series of blows that might or might not hit. Attacks always hit; you only roll damage. There's no "encounter balance." Combat is a puzzle to solve rather than a simulation of attrition. You must gain tactical advantages, defeat opponents quickly and overwhelmingly, or retreat and try a different approach.
 
 Since your character’s equipment is essential to their capabilities, tracking their gear is part of the game. But I’m not too fond of bookkeeping, so inventory is a simple mechanic: 12 slots maximum for equipment and mark usage on consumables. That's it.
 
