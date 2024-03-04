@@ -73,7 +73,7 @@ These starting traits may change as you adventure and further develop your chara
 
 Give your character a name and describe how they look. Choose two or three physical characteristics that people first notice.
 
-If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
+If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
 
 ### Names Table
 
@@ -231,13 +231,24 @@ Choose **three** more items from the following list. You may choose an item more
 - pipe and pipeleaf
 - spell tablet (*selected randomly, see the [Spells](spells.md) section for a list )*
 
+### Archetypes
+
+If you would prefer to pick from a standard starting equipment set, select one of the following:
+
+- **Fighter**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
+- **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins
+- **Magic-User**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
+- **Ranger**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
+- **Rogue**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 10 coins
+- **Scholar**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
+
 !!! note
 
 	See the [Equipment](equipment.md) section for more information on your gear.
+
+## Step 8: Keepsakes
 		
 Finally, roll d66 once and consult the following table to select an odd keepsake you own. Your keepsake is small and does not take up an inventory slot. It may come in handy one day, or you can sell it for a few coins.
-
-### Keepsakes
 
 | d66 | Item |
 | :-: | :-- |
@@ -278,19 +289,8 @@ Finally, roll d66 once and consult the following table to select an odd keepsake
 | 65 | Jeweled ring, with a hidden panel concealed beneath the jewel, is painted as the reigning monarch's coat of arms. It's handy if you want to pretend to be a spy. It's worth 50 coins to a jeweler. |
 | 66 | Long wooden box and two silvered glass mirrors fitted together to form a simple periscope. If you pulled out the mirrors, they'd be worth 20 coins each. |
 
-### Archetypes
+## Step 8: Introductions
 
-If you would prefer to pick from a standard starting equipment set, select one of the following:
-
-- **Fighter**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
-- **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins
-- **Magic-User**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
-- **Ranger**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
-- **Rogue**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 10 coins
-- **Scholar**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
-
-## Step 7: Introductions
-
-Finally, create a short description of your character, preferably a sentence or so, and introduce your character to the other players in your party.
+Create a short description of your character, preferably a sentence or so, and introduce your character to the other players in your party.
 
 Good luck, dungeoneer!

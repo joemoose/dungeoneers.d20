@@ -50,7 +50,7 @@ Consider a heavy, locked castle door—how do you pass through it? If you break 
 
 !!! Tip
 
-	Don’t only think about what your character is capable of, but rather how *you* would approach a problem. Use all of your character’s resources.
+	Don’t only think about what your character is capable of, but how *you* would approach a problem. Use all of your character’s resources.
 
 ### Critical Success and Failure
 

@@ -8,7 +8,7 @@ Tablets attract the attention of those seeking the arcane powers within, and it 
 
 ## Anima
 
-A tablet has three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted from a tablet by casting its spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three anima are depleted from a tablet, the spell can no longer be cast.
+A tablet has three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted from a tablet by casting its spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three animas are depleted from a tablet, the spell can no longer be cast.
 
 ## Casting a Spell
 
@@ -16,7 +16,7 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 1. Declare how much anima you’ll use when casting the spell, up to the maximum number remaining in the tablet.
 
-2. Roll as many **d6** equal to the number of anima used. Mark off one anima from the tablet for each **1 or 2** rolled. 
+2. Roll as many **d6** equal to the number of animas used. Mark off one anima from the tablet for each **1 or 2** rolled. 
 
 3. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
 
@@ -32,7 +32,7 @@ The spell still manifests, though at a cost to the caster.
 
 ## Recharging a Spell
 
-Once all three anima in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three anima. 
+Once all three anima in a tablet are depleted, its spell can no longer be cast. Each tablet, however, has a recharge condition. Fulfilling this condition rekindles the spirit within the tablet and restores three animas. 
 
 ## Selling a Spell
 
@@ -42,7 +42,7 @@ A fully charged spell tablet can typically be sold for 2d6 x 100 coins in a larg
 
 In the following spell descriptions:
 
-- [DICE] is the number of dice rolled equal to the number of anima used to cast the spell.
+- [DICE] is the number of dice rolled, equal to the number of animas used to cast the spell.
 - [SUM] is the sum of the dice rolled.
 
 A spell’s effect is based on the [DICE] and [SUM] values.

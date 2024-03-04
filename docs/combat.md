@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Combat is dangerous, and wise adventurers, or at least those who’d like a long career, seek to avoid it.
+Combat is dangerous, and wise adventurers, or those who’d like a long career, seek to avoid it.
 
 ## Actions
 
@@ -16,7 +16,7 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 During the **first round of combat**, each player must make a DEX *or* WIL save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round.
 
-The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
 The results of each side’s actions occur simultaneously. As such, all players declare their actions for a turn before determining the results of those actions.
 
@@ -28,7 +28,7 @@ The results of each side’s actions occur simultaneously. As such, all players 
 - **DEX**: for ranged weapons
 - **WIL**: for spells
 
-You inflict the total amount of damage to an opponent minus their armor rating. 
+You inflict the total damage to an opponent minus their armor rating. 
 
 !!! tip
 
@@ -48,7 +48,7 @@ When an attack is **enhanced**, such as attacking an unaware opponent, add **+d1
 
 ### Impaired Attacks
 
-When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** bonus damage and keep the **worst** result.
+When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** bonus damage but keep only the **worst** result.
 
 ### Dual Wielder
 
@@ -127,11 +127,11 @@ While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP
 
 ## Subdual
 
-Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual, but halve the damage after first reducing it by the opponent’s armor rating. An enemy who suffers critical damage or death from a subdual attack is knocked unconscious.
+Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual, but halve the damage after reducing it by the opponent’s armor rating. An enemy who suffers critical damage or death from a subdual attack is knocked unconscious.
 
 ## Morale
 
-When you’re fighting a group of opponents, the opponents must pass a WIL save as a group to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail morale immediately surrender or rout and attempt to flee. 
+When you’re fighting a group of opponents, the opponents must pass a WIL save to continue fighting after they take their first casualty and again after they lose half their numbers or their leader is defeated. Opponents who fail morale immediately surrender or rout and attempt to flee. 
 
 Lone foes must pass a WIL save when reduced to 0 HP.
 

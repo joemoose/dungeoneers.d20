@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The equipment that your character carries and your own ingenuity define your character’s role and specialty in the group.
+The equipment that your character carries and your ingenuity define your character’s role and specialty in the group.
 
 ## Inventory slots
 

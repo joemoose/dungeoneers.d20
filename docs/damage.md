@@ -4,7 +4,7 @@
 
 Damage is first dealt to your **Hit Points** (HP). HP represents your ability to avoid or shrug off harm.
 
-After your HP is depleted, all damage is dealt to either your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
+After your HP is depleted, all damage is dealt to your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
 
 After taking STR or DEX attribute damage, you must make an attribute save for the respective attribute. If the save succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
@@ -14,11 +14,11 @@ After taking STR or DEX attribute damage, you must make an attribute save for th
 
 ## Critical Damage
 
-When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a ***Wounded*** constraint. Attempt a STR *or* WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
+When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a ***Wounded*** constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
 
 ## Attribute Loss and Death
 
-If either **STR** *or* **DEX** is reduced to **zero**, your character **dies**. If **WIL** is reduced to zero, your mind is broken, and you are incapacitated until WIL is restored. Note that zero **LUCK** is not life-threatening.
+If either **STR** or **DEX** is reduced to **zero**, your character **dies**. If **WIL** is reduced to zero, your mind is broken, and you are incapacitated until WIL is restored. Note that zero **LUCK** is not life-threatening.
 
 If your character dies, create a new one. The GM will bring them into the game as quickly as possible. Alternatively, you can take over playing one of your hirelings. You can still create a new character later if you choose.
 
