@@ -18,7 +18,7 @@ You cannot fill more than 12 slots. Carts, horses, or mules can increase invento
 
 ### Inventory and HP
 
-Add **1 point** to your base HP for every **open slot** in your inventory.
+Add **1 point** to your base HP for every **two open slots** in your inventory.
 
 If you carry a full inventory (i.e., filling all 12 slots), your HP is reduced to **zero**. 
 
@@ -45,7 +45,7 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 | *Deprived* | Can’t heal or remove constraints when resting | Meal and long rest |
 | *Fatigued* | No effect besides taking up inventory | Long rest |
 | *Frightened* | Make a WIL save to approach the source of fear | Short rest |
-| *Wounded* | Disadvantage on either STR or DEX saves (per the failed critical wound save) | Full rest |
+| *Wounded* | Disadvantage on an attribute save, per the failed critical wound save | Full rest |
 
 !!! Note
 

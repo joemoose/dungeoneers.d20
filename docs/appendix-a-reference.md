@@ -101,3 +101,5 @@ Invest **1–3 anima** (up to the remaining uses) and roll **d6** for each anima
 - Maximum of **12** inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
 - Items in the backpack require an action to retrieve during combat.
 - Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 3 in a slot.
+- For every two open slots, add **+1 to HP**.
+- If all 12 slots are filled, **HP=0**.
