@@ -80,7 +80,7 @@ If you want to retreat to an adjacent zone while an enemy occupies your zone, yo
 
 ## Gambits
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with a relevant attribute save.  
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with an opposed attribute save.  
 
 !!! tip
 
