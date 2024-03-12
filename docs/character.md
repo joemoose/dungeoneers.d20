@@ -178,7 +178,7 @@ Next, determine each attribute score's die roll **modifier**. You apply these mo
 | Score | Modifier |
 | :-: | :-: |
 | 1 | -5 |
-| 2-4 | -4 |
+| 2-3 | -4 |
 | 4-5	| -3 |
 | 6-7 | -2 |
 | 8-9 | -1 |
@@ -235,7 +235,7 @@ Choose **three** more items from the following list. You may choose an item more
 
 ### Archetypes
 
-If you would prefer to pick from a standard starting equipment set, select one of the following:
+If you would prefer to pick from a standard starting equipment set, select one of the following archetypes:
 
 - **Fighter**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
 - **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins

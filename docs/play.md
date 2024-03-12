@@ -24,11 +24,11 @@ Each player can move and take one action during their turn. A turn may represent
 
 ## Attribute Saves
 
-When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute save** to determine whether you succeed. The GM will describe possible complications or outcomes to help in your decision-making.
+When you describe your character doing something risky with an essential but uncertain outcome, the GM may ask you to make an **attribute save** to determine whether you succeed. The GM will describe possible complications or outcomes to help you decide.
 
 **To make an attribute save…**
 
-Roll **d20** and add the applicable attribute score **modifier** to the result:
+Roll **d20** and add the applicable **attribute modifier** to the result:
 
 - **If you roll 15 or more**, you succeed without any complications.
 - **If you roll 10 to 14**, you succeed, but with an unexpected complication.
@@ -37,7 +37,7 @@ Roll **d20** and add the applicable attribute score **modifier** to the result:
 !!! note "Notes"
 
 	- Given sufficient time, relevant skill or training, and the proper equipment, your actions will generally always succeed—the GM won't call for an attribute save.
-	- However, if one of these three requirements is missing, that would require an attribute save to determine an outcome.
+	- However, if one of these three requirements is missing, an attribute save would be required to determine an outcome.
 	- The action would be impossible if two or more of these requirements were missing. It's time to think of a new approach!
 
 ### Using Attributes
@@ -88,7 +88,7 @@ When everyone in the adventuring party tries to do the same thing, such as tipto
 
 ## Saving Throws
 
-Unlike many traditional roleplaying games, saving throws have no separate values. Instead, you’ll make a relevant attribute save if you are surprised by a harmful situation and must avoid or resist the threat.
+Unlike many traditional roleplaying games, saving throws have no separate values. Instead, you’ll make a relevant attribute save when you are surprised by a harmful situation and must avoid or resist the threat.
 
 - **STR**: physical harm that *can’t* be dodged
 - **DEX**: physical harm that *can* be dodged
