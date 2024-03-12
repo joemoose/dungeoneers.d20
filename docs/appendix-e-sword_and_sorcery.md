@@ -1,4 +1,4 @@
-# Appendix F: Sword & Sorcery
+# Appendix E: Sword & Sorcery
 
 ---
 
@@ -8,7 +8,7 @@ The following rules provide a grittier campaign geared more toward violent actio
 
 Character creation remains the same as the core Dungeoneers system with one extra step: choosing a class for your character. Character classes add unique talents and specializations to your character.
 
-Pick either **Warrior**, **Thief**, or **Sorcerer** for your character.
+- Pick either **Warrior**, **Thief**, or **Sorcerer** for your character's class.
 
 The three classes are described in the following sections. 
 
@@ -120,7 +120,7 @@ Attribute scores lost for invoking your powers are healed as usual—STR, DEX, a
 
 #### Invoking Powers
 
-**To invoke a sorcerous power**, sacrifice at least one point of an attribute score for anima, and make a WIL save.
+**To invoke a sorcerous power**, sacrifice at least one point of an attribute score for anima and make a WIL save.
 
 - If the save succeeds, the power manifests as you intended.
 - On a failure, the power does not materialize; you must make a **corruption save** to avoid the resulting sorcerous backlash within you.
@@ -183,20 +183,6 @@ If anima is drained from an unwilling victim, the victim must be restrained and,
 
 ---
 
-## Relics
-
-Relics are arcane objects imbued with sorcerous powers. They do not require casting like spell tablets. After attuning (see the next section), you learn the command word or method to activate the object’s power. However, when using relics, you sometimes risk corruption. Relics have a limited number of uses and possibly a recharge condition.
-
-### Attunement
-
-Relics require your character to bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for attuning, such as attuning only in a temple or while underground.
-
-Attuning to an item requires your character to spend a long rest focused on only that item while in physical contact with it. This focus can take the form of weapon practice (for a weapon), meditation (for an object), or some other appropriate activity. At the end of an uninterrupted long rest, your character understands how to activate any magical properties of the relic, including any necessary command words.
-
-A relic can be tuned to only one person at a time, and a person can be tuned to only three relics. 
-
-Attunement ends if you’re more than 100 feet away from the relic for a day and a night, your character dies, or another creature attunes to the relic. You can voluntarily end attunement unless the relic is cursed.
-
 ## Corruption
 
 Sorcery is volatile and warps its practitioners. Magical corruption is ever present in the settings of sword and sorcery. 
@@ -221,7 +207,7 @@ Regardless of success or failure on your save, **increase** your corruption leve
 
 ### Mutations
 
-Roll **d20 +your corruption level** and consult the following table.
+Roll **d20 +corruption level** and consult the following table.
 
 | d20 | Mutation |
 | :-: | :- |

@@ -1,5 +1,21 @@
 # NOTES
 
+## Relics
+
+Relics are arcane objects imbued with sorcerous powers. They do not require casting like spell tablets. After attuning (see the next section), you learn the command word or method to activate the object’s power. However, when using relics, you sometimes risk corruption. Relics have a limited number of uses and possibly a recharge condition.
+
+### Attunement
+
+Relics require your character to bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for attuning, such as attuning only in a temple or while underground.
+
+Attuning to an item requires your character to spend a long rest focused on only that item while in physical contact with it. This focus can take the form of weapon practice (for a weapon), meditation (for an object), or some other appropriate activity. At the end of an uninterrupted long rest, your character understands how to activate any magical properties of the relic, including any necessary command words.
+
+A relic can be tuned to only one person at a time, and a person can be tuned to only three relics. 
+
+Attunement ends if you’re more than 100 feet away from the relic for a day and a night, your character dies, or another creature attunes to the relic. You can voluntarily end attunement unless the relic is cursed.
+
+
+
 ### Trained Saves
 
 If your character’s former vocation or training could apply to your current action, you gain an advantage on the attribute save. 

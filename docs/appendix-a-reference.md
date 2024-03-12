@@ -21,7 +21,7 @@
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
-Roll **d20** +**attribute modifier**:
+Roll **d20 +attribute modifier**:
 
 - **15+**: Success, with no complications
 - **10-14**: Success, with a complication
@@ -32,7 +32,7 @@ Roll **d20** +**attribute modifier**:
 | Score | Modifier |
 | :-: | :-: |
 | 1 | -5 |
-| 2-4 | -4 |
+| 2-3 | -4 |
 | 4-5	| -3 |
 | 6-7 | -2 |
 | 8-9 | -1 |
@@ -78,9 +78,10 @@ All players declare their intended actions before resolving the effects.
 
 Damage is first dealt to HP.
 
-- Once HP is depleted, take damage to STR or DEX.
+- IF HP is reduced to ***exactly* zero** in a single attack, receive a **Scar**.
+- Once HP is zero, take damage to STR or DEX.
 - After taking STR or DEX damage, make the respective attribute save. On failure, take a *Wounded* constraint and become incapacitated.
-- If STR or DEX is reduced to zero, you die.   
+- If STR or DEX is reduced to **zero**, you **die**.   
 
 ## Healing
 
