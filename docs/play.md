@@ -119,7 +119,7 @@ Time measurements are flexible depending on the activities in the narrative.
 | Combat | Round | 10 seconds |
 | Exploring a dungeon or a short rest | Turn | 10 minutes |
 | Exploring a city | Turn | 1 hour |
-| Exploring wilderness or a long rest | Watch | 8 hours |
+| Exploring a wilderness or a long rest | Watch | 8 hours. There are three watches in a day. |
 | Downtime between adventures or a full rest | Week | 7, or more, days |
 
 ## Distance
