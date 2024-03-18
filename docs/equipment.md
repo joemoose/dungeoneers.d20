@@ -61,8 +61,8 @@ Unless specified otherwise, all items have three uses.
  
 Usage can be repaired on most damaged items, such as weapons and armor, for 10% of the original cost per point of usage removed. 
 
-- **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. On 1-2, mark usage.
-- **Torches and lanterns**: mark usage every 6 Turns.
+- **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. **On 1-2**, mark usage.
+- **Torches and lanterns**: mark usage every 6 turns.
 - **Rations**: Mark usage after a meal.
 - **Other gear**: If used in a way that could break or deplete it, the GM may ask you to mark usage.
 
