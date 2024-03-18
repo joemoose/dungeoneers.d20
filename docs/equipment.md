@@ -58,19 +58,19 @@ Most items have a specified number of **uses** to track resource consumption or 
 After all the uses are marked off on an item, it is depleted or destroyed and removed from your inventory.
 
 Unless specified otherwise, all items have three uses. 
- 
-Usage can be repaired on most damaged items, such as weapons and armor, for 10% of the original cost per point of usage removed. 
 
 - **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. **On 1-2**, mark usage.
 - **Torches and lanterns**: mark usage every 6 turns.
 - **Rations**: Mark usage after a meal.
 - **Other gear**: If used in a way that could break or deplete it, the GM may ask you to mark usage.
 
+Usage can be repaired on most damaged items, such as weapons and armor, for 10% of the original cost per point of usage removed. 
+
 ## Armor
 
 Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **5 armor rating** at most, even if items would increase it above this number.
 
-**Notes**:
+Armor has characteristics that affect its use.
 
 - ***n* armor rating** items are the base armor. Only a single type of base armor can be equipped.
 - **+1 armor rating** items can be equipped with the base armor to increase the armor rating by one. 
