@@ -8,8 +8,8 @@
 <br/>
 *–Player’s Guide–*  
 <br/>
-*Playtest Document v1.6*  
-*February 2, 2024*  
+*Playtest Document v1.7*  
+*March 18, 2024*  
 </center>
 ---
 
@@ -34,5 +34,5 @@ This game also has a luck system to encourage some crazy risk-taking. You are a 
 Enjoy!
 
 Zachary Taylor  
-February 2024  
+March 2024  
 Mastodon: [@dice.camp@joemoose](https://dice.camp/@joemoose)
