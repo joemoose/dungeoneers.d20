@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Damage is first dealt to your **Hit Points** (HP). HP represents your ability to avoid or shrug off harm.
+Damage is first dealt to your **Hit Protection** (HP). HP represents your ability to avoid or shrug off harm.
 
 After your HP is depleted, all damage is dealt to your **Strength** or **Dexterity** attribute (your choice). Damage to an attribute is grievous harm.
 
