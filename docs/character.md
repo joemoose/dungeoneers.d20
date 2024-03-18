@@ -195,11 +195,11 @@ If you prefer not to roll randomly for your attribute scores, spend 44 points ac
 - The maximum starting attribute score is 16.
 - LUCK can’t be higher than the other three attribute scores.
 
-## Step 5: Hit Points
+## Step 5: Hit Protection
 
-Hit points (HP) represent the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
+Hit protection (HP) represents the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
 
-- Add all four attribute modifiers, **STR**, **DEX**, **WIL**, and **LUCK**, to determine your base hit points to a minimum of zero.
+- Add all four of your attribute modifiers, **STR**, **DEX**, **WIL**, and **LUCK**, to determine your base HP to a minimum of zero.
 
 - Your base HP is then increased by **1 point** for every **two open slots** in your inventory.
 
