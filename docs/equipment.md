@@ -53,13 +53,13 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 
 ## Usage
 
-Most items have a specified number of **uses** to track resource consumption or wear and tear. After eating rations, for example, mark off one use. 
+Most items have a specified number of **uses** to track resource consumption or durability. After eating rations, for example, mark off one use. 
 
-After all the uses are marked off on an item, it is depleted or destroyed and removed from your inventory.
+After all the uses are marked off on an item, it is depleted or destroyed.
 
 Unless specified otherwise, all items have three uses. 
 
-- **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. **On 1-2**, mark usage.
+- **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. **On 1**, mark usage.
 - **Torches and lanterns**: mark usage every 6 turns.
 - **Rations**: Mark usage after a meal.
 - **Other gear**: If used in a way that could break or deplete it, the GM may ask you to mark usage.
