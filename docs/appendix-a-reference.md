@@ -78,7 +78,7 @@ All players declare their intended actions before resolving the effects.
 
 Damage is first dealt to HP.
 
-- IF HP is reduced to ***exactly*** **zero** in a single attack, receive a **Scar**.
+- If HP is reduced to ***exactly*** **zero** in a single attack, receive a **Scar**.
 - Once HP is zero, take damage to STR or DEX.
 - After taking STR or DEX damage, make the respective attribute save. On failure, take a *Wounded* constraint and become incapacitated.
 - If STR or DEX is reduced to **zero**, you **die**.   
