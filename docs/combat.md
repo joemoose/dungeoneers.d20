@@ -18,7 +18,7 @@ During the **first round of combat**, each player must make a DEX *or* WIL save 
 
 The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
-The results of each side’s actions occur simultaneously. As such, all players declare their actions for a turn before determining the results of those actions.
+The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
 
 ## Attacks
 
@@ -48,7 +48,7 @@ When an attack is **enhanced**, such as attacking an unaware opponent, add **+d1
 
 ### Impaired Attacks
 
-When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** bonus damage but keep only the **worst** result.
+When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** damage. Impaired attacks do not cause critical hits.
 
 ### Dual Wielder
 
@@ -56,7 +56,7 @@ The offhand weapon functions as bonus damage when attacking with two weapons, on
 
 ### Multiple Attackers
 
-If multiple combatants attack the same target, roll damage for each attacker, but use only the **best** result. Add **+1 damage** for each attacker after the first.
+If multiple combatants attack the same target, roll damage for each attacker, but use only the **best** result. Add **+1 damage** for each attacker after the first, up to +6.
 
 ### Blast
 
