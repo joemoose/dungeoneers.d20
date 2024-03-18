@@ -12,7 +12,7 @@ Your character has **12** inventory slots to carry equipment: 2 hand slots, 4 bo
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
 
-Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Individual small items may not require an inventory slot or be generally bundled three or so into a single slot.
+Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Small items may not require an inventory slot or be generally bundled three or so into a single slot.
 
 You cannot fill more than 12 slots. Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
 
@@ -53,13 +53,18 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 
 ## Usage
 
-Consumable items have a specified number of **uses** to track resource consumption. After eating rations, for example, mark off one use. 
+Most items have a specified number of **uses** to track resource consumption or wear and tear. After eating rations, for example, mark off one use. 
 
-After all the uses are marked off, the item is depleted and removed from your inventory.
+After all the uses are marked off on an item, it is depleted or destroyed and removed from your inventory.
 
-Unless specified otherwise, all items have three uses. If other equipment is used in such a way that could damage or deplete it, the GM may ask you to mark one usage.
+Unless specified otherwise, all items have three uses. 
  
-Usage can be repaired on most damaged gear, such as weapons and armor, for 10% of the original cost per point of usage removed. 
+Usage can be repaired on most damaged items, such as weapons and armor, for 10% of the original cost per point of usage removed. 
+
+- **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. On 1-2, mark usage.
+- **Torches and lanterns**: mark usage every 6 Turns.
+- **Rations**: Mark usage after a meal.
+- **Other gear**: If used in a way that could break or deplete it, the GM may ask you to mark usage.
 
 ## Armor
 
@@ -81,7 +86,7 @@ Armor reduces the damage you suffer from an attack. Any character can strap on t
 | :-- | :-- | --: |
 | Shield | +1 Armor | 40 |
 | Helmet | +1 Armor | 60 |
-| Light (hauberk) | 1 Armor, Bulky | 100 |
+| Light (hauberk) | 1 Armor | 100 |
 | Medium (chainmail) | 2 Armor, Bulky | 400 |
 | Heavy (plate mail) | 3 Armor, Bulky | 1,200 |
 
@@ -137,7 +142,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 Use your gear to solve challenges creatively and keep your character adventuring. Most gear has characteristics that affect their use. 
 
-- ***Bulky***: requires two inventory slots.
+- ***Bulky***: Requires two inventory slots.
 - ***Load***: Number of inventory slots available for storing items.
 - ***Slow***: It takes minutes or more to use.
 - ***Small***: Up to three small items can be stored in an inventory slot.
