@@ -86,7 +86,7 @@ Damage is first dealt to HP.
 ## Healing
 
 - **Short**: Takes a turn. Restore all HP.
-- **Long**: Takes a watch. Restore 1 STR, DEX, and WIL. Clears *Fatigued*, *Dazed*, and other short-term constraints.
+- **Long**: Takes a watch. Restore 1 STR, DEX, and WIL. Clears *Fatigued* and other short-term constraints.
 - **Full**: Takes a week. Restore all STR, DEX, and WIL. Clears *Wounded* and other long-term constraints.
 
 ## Spells
