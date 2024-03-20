@@ -92,7 +92,8 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 - **STR**: physical harm that *can’t* be dodged
 - **DEX**: physical harm that *can* be dodged
-- **WIL**: mental harm, illusions, or mind-control effects
+- **INT**: illusions or deception
+- **WIL**: mental harm or mind-control effects
 
 ## Luck
 

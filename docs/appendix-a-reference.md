@@ -18,7 +18,8 @@
 
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
-- **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
+- **INTELLIGENCE (INT)**: Tests of perception and intuition; resisting illusions or deception.
+- **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
 Roll **d20 +attribute modifier**:
@@ -79,23 +80,23 @@ All players declare their intended actions before resolving the effects.
 Damage is first dealt to HP.
 
 - If HP is reduced to ***exactly*** **zero** in a single attack, receive a **Scar**.
-- Once HP is zero, take damage to STR or DEX.
+- Once HP is zero, take damage directly to STR or DEX.
 - After taking STR or DEX damage, make the respective attribute save. On failure, take a *Wounded* constraint and become incapacitated.
 - If STR or DEX is reduced to **zero**, you **die**.   
 
 ## Healing
 
 - **Short**: Takes a turn. Restore all HP.
-- **Long**: Takes a watch. Restore 1 STR, DEX, and WIL. Clears *Fatigued* and other short-term constraints.
-- **Full**: Takes a week. Restore all STR, DEX, and WIL. Clears *Wounded* and other long-term constraints.
+- **Long**: Takes a watch. Restore 1 STR, DEX, INT, and WIL. Clears *Fatigued* and other short-term constraints.
+- **Full**: Takes a week. Restore all STR, DEX, INT, and WIL. Clears *Wounded* and other long-term constraints.
 
 ## Spells
 
 Invest **1–3 anima** (up to the remaining uses) and roll **d6** for each anima invested:
 
 - Mark anima usage for each **1 or 2** rolled.  
-- For every **1 rolled**, take d6 WIL damage. Make a WIL save. On failure, take a *Dazed* constraint.
-- The spell effect is determined by the number of dice rolled and the sum.
+- For every **1 rolled**, take d6 INT or WIL damage. Make an attribute save to avoid critical damage.
+- The spell's effect is determined by the number of dice rolled and the sum.
   
 ## Inventory
 

@@ -162,14 +162,15 @@ Four attributes describe your character’s primary characteristics:
 
 - **STRENGTH (STR)**: brawn, endurance, toughness
 - **DEXTERITY (DEX)**: agility, finesse, quickness
+- **INTELLIGENCE (INT)**: intuition, knowledge, perception
 - **WILLPOWER (WIL)**: charisma, command, determination
 - **LUCK**: destiny, good fortune, favor of the gods
 
 Is your character musclebound and insightful? Fortunate and charming? Nimble and hardy? Attribute scores define these qualities—your character’s assets and weaknesses.
 
-Strength is a prime attribute for combat. Dexterity serves stealth and thievery well. Casting spells requires Willpower.
+Strength is a prime attribute for combat. Dexterity serves stealth and thievery well. Intelligence is essential to exploration and scholarly pursuits. Casting spells or leading others requires Willpower.
 
-- Roll **2d6+4** four times, noting the results. Assign the lowest value to LUCK and the other three as you prefer to your STR, DEX, and WIL.
+- Roll **2d6+4** five times, noting the results. Assign the lowest value to LUCK and the other four as you prefer to your STR, DEX, INT, and WIL.
 
 ### Attribute Modifiers
 
@@ -190,16 +191,16 @@ Next, determine each attribute score's die roll **modifier**. You apply these mo
 
 ### Alternate Method of Assigning Scores
 
-If you prefer not to roll randomly for your attribute scores, spend 44 points across STR, DEX, WIL, and LUCK as you see fit with the following provisions:
+If you prefer not to roll randomly for your attribute scores, spend 55 points across STR, DEX, INT, WIL, and LUCK as you see fit with the following provisions:
 
 - The maximum starting attribute score is 16.
-- LUCK can’t be higher than the other three attribute scores.
+- LUCK can’t be higher than the other four attribute scores.
 
 ## Step 5: Hit Protection
 
 Hit protection (HP) represents the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
 
-- Add all four of your attribute modifiers, **STR**, **DEX**, **WIL**, and **LUCK**, to determine your base HP to a minimum of zero.
+- Add all five of your attribute modifiers, **STR**, **DEX**, **INT**, **WIL**, and **LUCK**, to determine your base HP to a minimum of zero.
 
 - Your base HP is then increased by **1 point** for every **two open slots** in your inventory.
 
@@ -263,7 +264,7 @@ Finally, roll d66 once and consult the following table to select an odd keepsake
 | 21 | Sturdy spyglass. It makes far-off things look closer. It's worth 50 coins to a sailor. |
 | 22 | Bag of marbles made from semi-precious stones to entertain some long-dead aristocratic child. It's handy if you want to make something roll or make someone trip over. It's worth 20 coins to wealthy people with small kids. |
 | 23 | Wind-up clockwork music box. When cranked, it plays the same tune repeatedly until it winds down. Worth 20 coins 
-| 24 | Vial of strong-smelling perfume. It's handy for leaving scent trails or masking your smell. It's worth 20 coins to anyone vain or of high status. |
+| 24 | Vial of strong-smelling perfume. It's handy for leaving scent trails or masking your smell. It's worth 20 coins to anyone vainglorius or of high status. |
 | 25 | Box of perfumed candles with different scents and sizes. It can be lit in different combinations to create combinations of light and scent. It can also be squashed down into wax if you need to take an impression of something. It's worth 20 coins in any large settlement. |
 | 26 | Lodestone (magnet) on a stick. It's worth 20 coins to an alchemist or engineer. |
 | 31 | Fashionable chopines (platform shoes) with eight-inch wooden platforms. It's handy if the floor is six inches deep in something you want to avoid walking in. It's worth 20 coins to any dedicated follower of fashion. |

@@ -22,13 +22,13 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 ## Miscasting a Spell
 
-Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to their WIL and must then roll a WIL save to avoid Critical Damage. 
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to either their INT or WIL and must then roll an attribute save to avoid Critical Damage. 
 
 The spell still manifests, though at a cost to the caster.
 
 !!! Tip
 
-	Use great care when casting spells with damaged attribute scores. Your character is incapacitated if *WIL* is reduced to zero.
+	Use great care when casting spells with damaged attribute scores. Your character is incapacitated if INT or WIL is reduced to zero.
 
 ## Recharging a Spell
 

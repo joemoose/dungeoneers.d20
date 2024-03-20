@@ -14,9 +14,9 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 ## Inititative
 
-During the **first round of combat**, each player must make a DEX *or* WIL save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round.
+During the **first round of combat**, each player must make a DEX *or* INT save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round.
 
-The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
 The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
 
@@ -48,7 +48,7 @@ When an attack is **enhanced**, such as attacking an unaware opponent, add **+d1
 
 ### Impaired Attacks
 
-When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** damage. Impaired attacks do not cause critical hits.
+When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** bonus damage. Roll both and keep the **worst** result.
 
 ### Dual Wielder
 
