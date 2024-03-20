@@ -16,13 +16,16 @@ To cast a spell, your character must hold the tablet in one hand and recite the 
 
 1. Declare how much anima you’ll use when casting the spell, up to the maximum number remaining in the tablet.
 
-2. Roll as many **d6** equal to the number of animas used. Mark off one anima from the tablet for each **1 or 2** rolled. 
+2. If you attempt to cast a spell while hurried or under stress, such as casting while being attacked, the GM may require that you first make a WIL save. Otherwise, success is automatic.
 
-3. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
+3. If successfully cast, roll as many **d6** equal to the number of animas used. Mark off one anima from the tablet for each **1 or 2** rolled. 
+
+4. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
+
 
 ## Miscasting a Spell
 
-Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, the caster takes **d6** damage to either their INT or WIL and must then roll an attribute save to avoid Critical Damage. 
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, you take **d6** damage to either your INT or WIL (your choice) and must then roll an attribute save to avoid Critical Damage. 
 
 The spell still manifests, though at a cost to the caster.
 
