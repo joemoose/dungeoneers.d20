@@ -168,6 +168,8 @@ Four attributes describe your character’s primary characteristics:
 
 Is your character musclebound and insightful? Fortunate and charming? Nimble and hardy? Attribute scores define these qualities—your character’s assets and weaknesses.
 
+Strength and Dexterity are your physical attributes. Intelligence and Willpower are your mental attributes.
+
 Strength is a prime attribute for combat. Dexterity serves stealth and thievery well. Intelligence is essential to exploration and scholarly pursuits. Casting spells or leading others requires Willpower.
 
 - Roll **2d6+4** five times, noting the results. Assign the lowest value to LUCK and the other four as you prefer to your STR, DEX, INT, and WIL.
