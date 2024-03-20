@@ -158,7 +158,7 @@ Roll two or three times with d6 and d20.
 
 ## Step 4: Attribute Scores
 
-Four attributes describe your character’s primary characteristics:
+Five attributes describe your character’s primary characteristics:
 
 - **STRENGTH (STR)**: brawn, endurance, toughness
 - **DEXTERITY (DEX)**: agility, finesse, quickness
