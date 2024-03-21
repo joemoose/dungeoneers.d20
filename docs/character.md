@@ -202,9 +202,9 @@ If you prefer not to roll randomly for your attribute scores, spend 55 points ac
 
 Hit protection (HP) represents the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
 
-- Add all five of your attribute modifiers, **STR**, **DEX**, **INT**, **WIL**, and **LUCK**, to determine your base HP to a minimum of zero.
+- Roll **d4+2** for your starting HP.
 
-- Your base HP is then increased by **1 point** for every **two open slots** in your inventory.
+- Your HP is then increased by **1 point** for every **two open slots** in your inventory.
 
 ## Step 6: Starting Equipment
 
