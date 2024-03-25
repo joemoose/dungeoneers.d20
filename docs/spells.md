@@ -8,7 +8,7 @@ Tablets attract the attention of those seeking the arcane powers within, and it 
 
 ## Anima
 
-A tablet has three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted from a tablet by casting its spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three animas are depleted from a tablet, the spell can no longer be cast.
+A tablet contains three units of arcane energy referred to as **anima** to power the spell it contains. Anima is volatile and can be depleted by casting a spell. The more anima you harness when casting a spell, the greater its magnitude and effect, but the greater the risk of depleting the tablet’s anima. Once all three animas are depleted from a tablet, the spell can no longer be cast.
 
 ## Casting a Spell
 
