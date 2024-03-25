@@ -170,7 +170,7 @@ Is your character musclebound and insightful? Fortunate and charming? Nimble and
 
 Strength and Dexterity are your physical attributes. Intellect and Willpower are your mental attributes.
 
-Strength is a prime attribute for combat. Dexterity serves stealth and thievery well. Intelligence is essential to exploration and scholarly pursuits. Casting spells or leading others requires Willpower.
+Strength is a prime attribute for combat. Dexterity is useful for stealth and thievery. Intellect is essential for exploration and scholarly pursuits. Casting spells or leading others requires Willpower.
 
 - Roll **2d6+4** five times, noting the results. Assign the lowest value to LUCK and the other four as you prefer to your STR, DEX, INT, and WIL.
 
