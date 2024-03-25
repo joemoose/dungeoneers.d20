@@ -6,7 +6,7 @@ Combat is dangerous, and wise adventurers, or those who’d like a long career, 
 
 ## Actions
 
-On your turn in a combat round, you can **move once** to an adjacent zone and **take one action**. You decide whether you’ll move before you act or vice versa or forgo either. 
+On your turn in a combat round, you can move once to an adjacent zone and take one action. You decide whether to move before you act, vice versa, or forgo either. 
 
 Actions can include attacking, moving for a *second* time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
 
@@ -60,7 +60,7 @@ If multiple combatants attack the same target, roll damage for each attacker, bu
 
 ### Blast
 
-Attacks with the *blast* quality affect all targets in a zone, rolling damage separately for each affected combatant. Blast refers to anything from fireballs and massive sweeping onslaughts to swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
+Attacks with the blast quality affect all targets in a zone, rolling damage separately for each combatant affected. Blast refers to anything from fireballs and massive sweeping onslaughts to swarms of tiny creatures. If unsure how many targets can be affected in the zone, roll the weapon’s damage die for the number of targets affected.
 
 ## Defending
 
@@ -80,7 +80,7 @@ If you want to retreat to an adjacent zone while an enemy occupies your zone, yo
 
 ## Gambits
 
-Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. Gambits don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). They’re resolved with an opposed attribute save.  
+Gambits are combat maneuvers such as stunning, shoving, disarming, tripping, or sundering armor. They don’t cause damage directly but may do so indirectly (for example, pushing an opponent off a ledge). Gambits are resolved with an opposed attribute save.  
 
 !!! tip
 
