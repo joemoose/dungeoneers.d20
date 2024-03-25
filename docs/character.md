@@ -8,7 +8,7 @@ You’re a newly minted **dungeoneer**: a tomb-raiding, treasure-seeking, door-k
 
 Create a little backstory for your character. You chose to become an adventurer for a reason—what is it?
 
-Choose or roll d20 in the following Backstory table to determine your former profession and what misfortune befell you that pushed you into the life of adventuring.
+Choose or roll d20 in the following Backstory table to determine your former profession and what misfortune pushed you into the life of adventuring.
 
 Also, think about their relationship with the other characters in the group, but you don’t have to decide all this now; developing your character as you play is okay. Don’t become too attached to your character; it’s a dangerous and uncertain world.
 
@@ -31,7 +31,7 @@ Also, think about their relationship with the other characters in the group, but
 
 Next, pick one trait from each of the following three pairs that best describes your character’s outlook on life, personality, and motivation—collectively called your **drive**. If you prefer, roll d6; on an even result, take the first option; on an odd, take the second.
 
-These pairs form triads of *Bright* (empathy, protection, selflessness) and *Dark* (callousness, manipulation, self-entitlement) traits of a character’s personality.
+These pairs form triads of a character's personality traits that are *Bright* (empathy, protection, selflessness) and *Dark* (callousness, manipulation, self-entitlement).
 
 For example, a character with all bright traits would be the traditional hero. Conversely, a character with all dark traits is quite the villain. A mix is somewhere between those extremes.
 
@@ -53,11 +53,11 @@ These traits set a tone for role-playing your character, letting others know wha
 
 **BDB: The Parent**. Someone who genuinely cares about and feels deeply for others but is okay with deceiving and manipulating them, as long as it’s for the other’s well-being.
 
-**DBB: The Reluctant Hero**. A gritty, down-to-earth type who may appear gruff and cold, even rude on the outside, but who, deep down, truly cares for their friends.
+**DBB: The Reluctant Hero**. This type is gritty and down-to-earth. Although they may appear gruff and cold, even rude on the outside, they truly care for their friends deep down.
 
 **DDB: The Tribal Leader**. Someone who cares for their people but has little to no regard for outsiders. They are willing to do anything for themselves and their people, no matter the cost to outsiders.
 
-**DBD: The Guard**. A merciless protector of the status quo, who cares only for the pay they receive but who won’t tolerate fighting or exploitation amongst those under their charge.
+**DBD: The Guard**. They are merciless protectors of the status quo who care only for the pay they receive but won’t tolerate fighting or exploitation amongst those under their charge.
 
 **BDD: The Intelligencer**. An expert manipulator who can find and exploit people’s strengths and weaknesses, connecting with them emotionally only to use them.
 
@@ -73,7 +73,7 @@ These starting traits may change as you adventure and further develop your chara
 
 Give your character a name and describe how they look. Choose two or three physical characteristics that people first notice.
 
-If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
+If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
 
 ### Names Table
 
@@ -162,13 +162,13 @@ Five attributes describe your character’s primary characteristics:
 
 - **STRENGTH (STR)**: brawn, endurance, toughness
 - **DEXTERITY (DEX)**: agility, finesse, quickness
-- **INTELLIGENCE (INT)**: intuition, knowledge, perception
+- **INTELLECT (INT)**: intuition, knowledge, perception
 - **WILLPOWER (WIL)**: charisma, command, determination
 - **LUCK**: destiny, good fortune, favor of the gods
 
 Is your character musclebound and insightful? Fortunate and charming? Nimble and hardy? Attribute scores define these qualities—your character’s assets and weaknesses.
 
-Strength and Dexterity are your physical attributes. Intelligence and Willpower are your mental attributes.
+Strength and Dexterity are your physical attributes. Intellect and Willpower are your mental attributes.
 
 Strength is a prime attribute for combat. Dexterity serves stealth and thievery well. Intelligence is essential to exploration and scholarly pursuits. Casting spells or leading others requires Willpower.
 
@@ -266,7 +266,7 @@ Finally, roll d66 once and consult the following table to select an odd keepsake
 | 21 | Sturdy spyglass. It makes far-off things look closer. It's worth 50 coins to a sailor. |
 | 22 | Bag of marbles made from semi-precious stones to entertain some long-dead aristocratic child. It's handy if you want to make something roll or make someone trip over. It's worth 20 coins to wealthy people with small kids. |
 | 23 | Wind-up clockwork music box. When cranked, it plays the same tune repeatedly until it winds down. Worth 20 coins 
-| 24 | Vial of strong-smelling perfume. It's handy for leaving scent trails or masking your smell. It's worth 20 coins to anyone vainglorius or of high status. |
+| 24 | Vial of strong-smelling perfume. It's handy for leaving scent trails or masking your smell. It's worth 20 coins to anyone vainglorious or of high status. |
 | 25 | Box of perfumed candles with different scents and sizes. It can be lit in different combinations to create combinations of light and scent. It can also be squashed down into wax if you need to take an impression of something. It's worth 20 coins in any large settlement. |
 | 26 | Lodestone (magnet) on a stick. It's worth 20 coins to an alchemist or engineer. |
 | 31 | Fashionable chopines (platform shoes) with eight-inch wooden platforms. It's handy if the floor is six inches deep in something you want to avoid walking in. It's worth 20 coins to any dedicated follower of fashion. |

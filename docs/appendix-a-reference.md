@@ -18,7 +18,7 @@
 
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
-- **INTELLIGENCE (INT)**: Tests of perception and intuition; resisting illusions or deception.
+- **INTELLECT (INT)**: Tests of perception and intuition; resisting illusions or deception.
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
@@ -28,7 +28,7 @@ Roll **d20 +attribute modifier**:
 - **10-14**: Success, with a complication
 - **9-**: Failure
 
-## Attribute Modifier
+### Attribute Modifiers
 
 | Score | Modifier |
 | :-: | :-: |
