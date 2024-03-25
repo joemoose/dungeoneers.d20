@@ -14,7 +14,7 @@ Your character has **12** inventory slots to carry equipment: 2 hand slots, 4 bo
 
 Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Small items may not require an inventory slot or be generally bundled three or so into a single slot.
 
-You cannot fill more than 12 slots. Carts, horses, or mules can increase inventory space. Hirelings can also be employed to haul your equipment. 
+You cannot fill more than 12 slots. Carts, horses, or mules can increase inventory space. Hirelings can also haul your equipment. 
 
 ### Inventory and HP
 
@@ -28,11 +28,11 @@ Your character can carry up to 100 coins freely in their pockets. After that, ea
 
 ## Constraints
 
-Constraints are detrimental conditions your character endures, such as *Wounded* or *Fatigued*. Constraints can result from injuries in combat, failed attribute saves, baleful spells, or events in the narrative.
+Constraints are detrimental conditions your character endures, such as being *Wounded* or *Fatigued*. They can result from combat injuries, failed attribute saves, baleful spells, or events in the narrative.
 
 Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
-If you are forced to add a constraint to your inventory but have no free space, you must drop an item from your inventory.
+If you are forced to add a constraint to your inventory but have no free space, you must remove an item from it.
 
 Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
@@ -62,7 +62,7 @@ Unless specified otherwise, all items have three uses.
 - **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. **On 1**, mark usage.
 - **Torches and lanterns**: mark usage every 6 turns.
 - **Rations**: Mark usage after a meal.
-- **Other gear**: If used in a way that could break or deplete it, the GM may ask you to mark usage.
+- **Other gear**: If you use it in a way that could break or deplete it, the GM may ask you to mark its usage.
 
 Usage can be repaired on most damaged items, such as weapons and armor, for 10% of the original cost per point of usage removed. 
 
@@ -136,7 +136,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 
 !!! Note
 
-	See the [Combat](combat.md) section for information about enhanced damage, impaired damage, and critical hits.
+	For information about enhanced damage, impaired damage, and critical hits, see the [Combat](combat.md) section.
 
 ##  Expedition Equipment
 
@@ -161,7 +161,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 
 !!! note
 
-	See the [Appendix B](appendix-b-sundries.md) for more equipment lists.
+	For more equipment lists, see the [Appendix B](appendix-b-sundries.md).
 
 ## Hirelings
 

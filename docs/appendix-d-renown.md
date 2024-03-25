@@ -18,15 +18,15 @@ If your renown reaches **6**, your character is considered **heroic**. Heroic ch
 
 However, if your renown drops to **-6**, you are considered **villainous**. Like heroes, you are no longer anonymous, but authorities (and heroic persons) actively persecute villains and hold them accountable for all wrongdoings.
 
-Your status may also provide advantages or disadvantages on social actions, such as employing and commanding hirelings or the initial reactions from NPCs. New missions and quests may become available based on your status. Like-minded followers may also seek you out.
+Your status may also provide advantages or disadvantages in social actions, such as employing and commanding hirelings or the initial reactions from NPCs. Based on your status, new missions and quests may become available. Like-minded followers may also seek you out.
 
 ## Boon Tokens
 
-Once you achieve the heroic or villainous renown, anytime you modify your renown further (greater than six for heroes or less than -6 for villains), you instead receive a **boon token**. You can hold up to **two** boon tokens.
+Once you achieve heroic or villainous renown, anytime you modify your renown further (greater than six for heroes or less than -6 for villains), you receive a boon token. You can hold up to two boon tokens.
 
 Spend your boon tokens with the GM anytime during play to gain unique benefits relevant to your status.
 
-A heroic boon could, for example, be used to enjoy free lodging and food in a town or receive an exotic gift or a vital piece of information from a friendly NPC.
+A heroic boon could, for example, allow one to enjoy free lodging and food in a town or receive an exotic gift or vital information from a friendly NPC.
 
 A villainous boon might enlist the services of an assassin’s guild, gain entry to a cult, or instill compliant fear in an NPC. 
 

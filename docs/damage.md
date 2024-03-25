@@ -14,7 +14,7 @@ After taking STR or DEX attribute damage, you must make an attribute save for th
 
 ## Critical Damage
 
-When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a ***Wounded*** constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can be revived by an ally as well. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
+When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a ***Wounded*** constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can also be revived by an ally. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
 
 ## Attribute Loss and Death
 
@@ -34,7 +34,7 @@ Magical curatives or the care of skilled healers may shorten these recovery time
 
 ## Battle Hardened
 
-When an attack reduces your character's HP to **exactly** 0, they are scarred by the damage. Look up the resulting scar in the following table based on the damage taken. For example, if your character went from 4 HP to 0 HP, they would look at entry 4 HP (Broken Limb).
+When an attack reduces your character's HP to **exactly** 0, the damage scars them. Based on the damage taken, look up the resulting scar in the following table. For example, if your character went from 4 HP to 0 HP, they would look at entry 4 HP (Broken Limb).
 
 | Damage | Scar |
 | :-: | :-- |

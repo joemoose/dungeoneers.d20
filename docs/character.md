@@ -53,11 +53,11 @@ These traits set a tone for role-playing your character, letting others know wha
 
 **BDB: The Parent**. Someone who genuinely cares about and feels deeply for others but is okay with deceiving and manipulating them, as long as it’s for the other’s well-being.
 
-**DBB: The Reluctant Hero**. This type is gritty and down-to-earth. Although they may appear gruff and cold, even rude on the outside, they truly care for their friends deep down.
+**DBB: The Reluctant Hero**. This type is gritty and down-to-earth. Although they may appear gruff and cold, even rude on the outside, they genuinely care for their friends deep down.
 
 **DDB: The Tribal Leader**. Someone who cares for their people but has little to no regard for outsiders. They are willing to do anything for themselves and their people, no matter the cost to outsiders.
 
-**DBD: The Guard**. They are merciless protectors of the status quo who care only for the pay they receive but won’t tolerate fighting or exploitation amongst those under their charge.
+**DBD: The Guard**. They are ruthless protectors of the status quo who care only for the pay they receive but won’t tolerate fighting or exploitation amongst those under their charge.
 
 **BDD: The Intelligencer**. An expert manipulator who can find and exploit people’s strengths and weaknesses, connecting with them emotionally only to use them.
 

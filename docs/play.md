@@ -18,7 +18,7 @@ On to the mechanics!
 
 ## Turns
 
-To make sure everyone at the table has a chance to participate and speak, the game uses **turns**. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?”. 
+To ensure everyone at the table has a chance to participate and speak, the game uses turns. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?” 
 
 Each player can move and take one action during their turn. A turn may represent several seconds (during combat), several minutes (exploring a room), several hours (exploring a city), or several days (traveling).
 
@@ -50,7 +50,7 @@ Consider a heavy, locked castle door—how do you pass through it? If you break 
 
 !!! Tip
 
-	Don’t only think about what your character is capable of, but how *you* would approach a problem. Use all of your character’s resources.
+	Think about not only what your character is capable of but also how you would approach a problem. Use all of your character’s resources.
 
 ### Critical Success and Failure
 
@@ -60,7 +60,7 @@ Conversely, rolling a natural **1** is a **critical failure**; the action always
 
 ### Vantages
 
-Besides attribute modifiers, the primary way to modify your attribute saves is through vantages: favorable situations in the narrative beyond what might be considered typical have **advantage**, while unfavorable situations have **disadvantage**.
+Besides attribute modifiers, the primary way to modify your attribute saves is through vantages: favorable situations in the narrative beyond what might be considered typical have an **advantage**. In contrast, unfavorable situations have a **disadvantage**.
 
 Roll **an extra d20** (2d20) for the attribute save, but take only the **best** or **worst** result, respectively.
 
@@ -84,7 +84,7 @@ Allies can assist another player in an attribute save whenever feasible. The pla
 
 ### Group Saves
 
-When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM will ask that the character most likely to **fail** makes the attribute save. This would be an excellent time to come to their assistance.	
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM will ask that the character most likely to fail make the attribute save. This would be an excellent time to assist them.	
 
 ## Saving Throws
 
@@ -93,7 +93,7 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 - **STR**: physical harm that *can’t* be dodged
 - **DEX**: physical harm that *can* be dodged
 - **INT**: illusions or deception
-- **WIL**: mental harm or mind-control effects
+- **WIL**: mental harm or mind-control
 
 ## Luck
 
@@ -109,7 +109,7 @@ The LUCK attribute applies only to player characters, not hirelings, monsters, o
 	
 ### Restoring Your Luck
 
-Anytime you roll a **critical success** on an attribute save, increase your LUCK score by one point to a maximum of 18. Conversely, rolling a **critical failure** decreases your LUCK score by one point to a minimum of zero.
+Anytime you roll a **critical success** on an attribute save, your LUCK score increases by one point to a maximum of 18. Conversely, rolling a **critical failure** decreases your LUCK score by one point to a minimum of zero.
 
 ## Time
 
@@ -125,7 +125,7 @@ Time measurements are flexible depending on the activities in the narrative.
 
 ## Distance
 
-The game uses **zones** as abstractions of distance and area to divide larger physical spaces into smaller units, like rooms in a house.
+The game uses zones, abstractions of distance and area, to divide larger physical spaces into smaller units, like rooms in a house.
 
 For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and the other between them.
 

@@ -24,15 +24,15 @@ The maximum size of the rider and the extra load carried in saddlebags depends o
 	
 ## Traveling
 
-You can travel twice as fast as walking while mounted and riding along roads or across easy, flat terrain, such as grasslands. If on any other terrain, mounted travel is the same speed as on foot. 
+While mounted and riding along roads or across easy, flat terrain, such as grasslands, you can travel twice as fast as walking. On any other terrain, mounted travel is the same speed as on foot. 
 
-In some terrain, such as trackless mountainsides or dark, underground tunnels, it may be impossible for mounts to traverse it unless specifically bred or trained for the environment.
+In some terrain, such as trackless mountainsides or dark, underground tunnels, it may be impossible for mounts to traverse unless they are specifically bred or trained for the environment.
 
 ## Conflict
 
-While mounted, a rider has a combat advantage over opponents on foot. No disengage save is required when retreating on a mount if your zone contains only opponents on foot.
+While mounted, a rider has a combat advantage over opponents on foot. If your zone contains only opponents on foot, no disengage save is required when retreating on a mount.
 
-If charging to attack while mounted, your damage is doubled after first reducing it by the opponent’s armor rating.
+If you charge to attack while mounted, your damage is doubled.
 
 ## Morale
 
