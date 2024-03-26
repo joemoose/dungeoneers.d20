@@ -18,7 +18,7 @@ On to the mechanics!
 
 ## Turns
 
-To ensure everyone at the table has a chance to participate and speak, the game uses turns. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?” 
+The game uses turns to ensure everyone at the table has a chance to participate and speak. A turn is the time needed to move and act. The GM will go around the table and ask, “It’s your turn; what do you do?” 
 
 Each player can move and take one action during their turn. A turn may represent several seconds (during combat), several minutes (exploring a room), several hours (exploring a city), or several days (traveling).
 
@@ -50,7 +50,7 @@ Consider a heavy, locked castle door—how do you pass through it? If you break 
 
 !!! Tip
 
-	Think about not only what your character is capable of but also how you would approach a problem. Use all of your character’s resources.
+	Consider not only what your character is capable of but also how you would approach a problem. Use all of your character’s resources.
 
 ### Critical Success and Failure
 
@@ -84,7 +84,7 @@ Allies can assist another player in an attribute save whenever feasible. The pla
 
 ### Group Saves
 
-When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM will ask that the character most likely to fail make the attribute save. This would be an excellent time to assist them.	
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM will ask that the character who will most likely fail make the attribute save. This would be an excellent time to assist them.	
 
 ## Saving Throws
 
@@ -119,15 +119,14 @@ Time measurements are flexible depending on the activities in the narrative.
 | - | - | - |
 | Combat | Round | 10 seconds |
 | Exploring a dungeon or a short rest | Turn | 10 minutes |
-| Exploring a city | Turn | 1 hour |
-| Exploring a wilderness or a long rest | Watch | 8 hours. There are three watches in a day. |
+| Exploring a wilderness or a long rest | Watch | 4-8 hours. There are four watches in a day: morning, afternoon, evening, and night. |
 | Downtime between adventures or a full rest | Week | 7, or more, days |
 
 ## Distance
 
 The game uses zones, abstractions of distance and area, to divide larger physical spaces into smaller units, like rooms in a house.
 
-For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and the other between them.
+For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and another between them.
 
 The distance within and between zones is relative:
 
