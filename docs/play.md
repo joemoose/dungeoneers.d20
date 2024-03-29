@@ -113,7 +113,7 @@ Anytime you roll a **critical success** on an attribute save, your LUCK score in
 
 ## Time
 
-Time measurements are flexible depending on the current scope of the narrative. A character can generally take one significant action per unit of time.
+Time measurements are flexible depending on the narrative's current scope. Based on the narrative, a character can generally take one significant action per unit of time.
 
 | Narrative | Unit | Time |
 | - | - | - |
