@@ -113,13 +113,14 @@ Anytime you roll a **critical success** on an attribute save, your LUCK score in
 
 ## Time
 
-Time measurements are flexible depending on the activities in the narrative.
+Time measurements are flexible depending on the current scope of the narrative. A character can generally take one significant action per unit of time.
 
 | Narrative | Unit | Time |
 | - | - | - |
 | Combat | Round | 10 seconds |
 | Exploring a dungeon or a short rest | Turn | 10 minutes |
-| Exploring a wilderness or a long rest | Watch | 4-8 hours. There are four watches in a day: morning, afternoon, evening, and night. |
+| Exploring a city or wilderness or a long rest | Watch | There are four watches in a day: morning, afternoon, evening, and night. |
+| Travelling Overland | Day |  24 hours |
 | Downtime between adventures or a full rest | Week | 7, or more, days |
 
 ## Distance
