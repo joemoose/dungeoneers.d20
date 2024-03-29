@@ -162,7 +162,7 @@ Five attributes describe your character’s primary characteristics:
 
 - **STRENGTH (STR)**: brawn, endurance, toughness
 - **DEXTERITY (DEX)**: agility, finesse, quickness
-- **INTELLECT (INT)**: intuition, knowledge, perception
+- **INTELLECT (INT)**: intuition, perception, reasoning
 - **WILLPOWER (WIL)**: charisma, command, determination
 - **LUCK**: destiny, good fortune, favor of the gods
 
