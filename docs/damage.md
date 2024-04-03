@@ -14,7 +14,7 @@ After taking STR or DEX attribute damage, you must make an attribute save for th
 
 ## Critical Damage
 
-When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a ***Wounded*** constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. You can also be revived by an ally. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
+When you suffer critical damage, you’re knocked unconscious or otherwise incapacitated and take a ***Wounded*** constraint. Attempt a STR or WIL save at the beginning of each subsequent round to revive yourself and rejoin the fight. An ally can also revive you. Even after you’re revived, your HP remains at zero (unless you received healing from an ally), and the *Wounded* constraint remains until it’s cleared.
 
 ## Attribute Loss and Death
 

@@ -12,7 +12,7 @@ Your character has **12** inventory slots to carry equipment: 2 hand slots, 4 bo
 - **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
 - **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
 
-Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Small items may not require an inventory slot or be generally bundled three or so into a single slot.
+Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Small items may not require an inventory slot or be bundled three or so into a single slot.
 
 You cannot fill more than 12 slots. Carts, horses, or mules can increase inventory space. Hirelings can also haul your equipment. 
 
@@ -32,7 +32,7 @@ Constraints are detrimental conditions your character endures, such as being *Wo
 
 Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
 
-If you are forced to add a constraint to your inventory but have no free space, you must remove an item from it.
+You must remove an item if you are forced to add a constraint to your inventory but have no free space.
 
 Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
 
@@ -51,15 +51,15 @@ Constraints can only be removed from your inventory by satisfying their cleared 
 
 	See the [How to Play](play.md) section for information about attribute saves and disadvantages and the [Damage](damage.md) section for information about rests.
 
-## Usage
+## Usage and Durability
 
 Most items have a specified number of **uses** to track resource consumption or durability. After eating rations, for example, mark off one use. 
 
-After all the uses are marked off on an item, it is depleted or destroyed.
+After all the uses are marked off on an item, it is depleted or rendered unusable.
 
 Unless specified otherwise, all items have three uses. 
 
-- **Weapons, armor, and ammunition**: After a fight, roll d6 for each item that was used during the fight. **On 1**, mark usage.
+- **Weapons, armor, and ammunition**: After a fight, roll **d6** for each item that was used during the fight. **On 1**, mark usage.
 - **Torches and lanterns**: mark usage every 6 turns.
 - **Rations**: Mark usage after a meal.
 - **Other gear**: If you use it in a way that could break or deplete it, the GM may ask you to mark its usage.
@@ -86,7 +86,7 @@ Armor has characteristics that affect its use.
 | :-- | :-- | --: |
 | Shield | +1 Armor | 40 |
 | Helmet | +1 Armor | 60 |
-| Light (hauberk) | 1 Armor | 100 |
+| Light (hauberk) | 1 Armor, Bulky | 100 |
 | Medium (chainmail) | 2 Armor, Bulky | 400 |
 | Heavy (plate mail) | 3 Armor, Bulky | 1,200 |
 

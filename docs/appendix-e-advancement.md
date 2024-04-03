@@ -2,7 +2,7 @@
 
 ## What Do You Do Next?
 
-The goal of an Expedition is most often to learn about a mysterious environment, evade a powerful threat, or seek out mysterious artifacts.
+The goal of an Expedition is most often to learn about a mysterious environment, evade a potent threat, or seek out mysterious artifacts.
 
 A successful expedition is one that returns to Civilisation with something to show for it. This could be a lost relic, a terrible secret, or just a good story.
 

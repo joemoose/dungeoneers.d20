@@ -24,9 +24,9 @@ The maximum size of the rider and the extra load carried in saddlebags depends o
 	
 ## Traveling
 
-While mounted and riding along roads or across easy, flat terrain, such as grasslands, you can travel twice as fast as walking. On any other terrain, mounted travel is the same speed as on foot. 
+You can travel twice as fast as walking while mounted and riding along roads or across easy, flat terrain, such as grasslands. On any other terrain, mounted travel is the same speed as on foot. 
 
-In some terrain, such as trackless mountainsides or dark, underground tunnels, it may be impossible for mounts to traverse unless they are specifically bred or trained for the environment.
+In some terrain, such as trackless mountainsides or dark, underground tunnels, it may only be possible for mounts to traverse if they are specifically bred or trained for the environment.
 
 ## Conflict
 

@@ -48,7 +48,7 @@ When an attack is **enhanced**, such as attacking an unaware opponent, add **+d1
 
 ### Impaired Attacks
 
-When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **+d4** bonus damage. Roll both and keep the **worst** result.
+When an attack is **impaired**, such as firing at an opponent behind cover or fighting while your hands are bound, roll **d4** damage regardless of weapon. An impaired attack doesn't ignore armor on critical hits.
 
 ### Dual Wielder
 
@@ -56,7 +56,7 @@ The offhand weapon functions as bonus damage when attacking with two weapons, on
 
 ### Multiple Attackers
 
-If multiple combatants attack the same target, roll damage for each attacker, but use only the **best** result. Add **+1 damage** for each attacker after the first, up to +6.
+If multiple combatants attack the same target, roll damage for each attacker, but use only the **best** result. Add **+1 damage** for each attacker after the first, up to +5.
 
 ### Blast
 
@@ -123,7 +123,7 @@ Taking an action to aim a ranged or thrown weapon while not moving provides **en
 	
 ## Berserkers
 
-While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. A WIL save is required to become berserk and also to stop the frenzy.
+While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. A WIL save is required to become berserk and also stop the frenzy.
 
 ## Subdual
 
@@ -145,6 +145,6 @@ Some fanatical or mindless opponents might not be required to check morale—the
 
 When you battle a large group of identical opponents, such as a gang of brigands, each with the same attributes and weapons, the GM may combine the opponents into a single abstract unit or **warband**. A warband has the same attributes, HP, armor rating, and damage dice as a single unit member.
 
-Attacks by individuals against a warband are **impaired** unless they have the *blast* quality. Attacks by a warband against an individual are **enhanced** and deal *blast* damage. 
+Individual attacks against a warband are **impaired** unless they have the *blast* quality. Attacks by a warband against an individual are **enhanced** and deal *blast* damage. 
 
 When a warband takes critical damage, it immediately fails morale and routs. If a warband is reduced to zero STR, it’s destroyed.

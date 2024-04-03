@@ -193,7 +193,7 @@ Next, determine each attribute score's die roll **modifier**. You apply these mo
 
 ### Alternate Method of Assigning Scores
 
-If you prefer not to roll randomly for your attribute scores, spend 55 points across STR, DEX, INT, WIL, and LUCK as you see fit with the following provisions:
+If you prefer not to roll randomly for your attribute scores, **set each attribute score to 5** and then spend **30 points** across STR, DEX, INT, WIL, and LUCK as you see fit with the following provisions:
 
 - The maximum starting attribute score is 16.
 - LUCK can’t be higher than the other four attribute scores.
@@ -212,7 +212,6 @@ Let’s see what equipment you’ve brought to your new adventuring life.
 
 You start with the following equipment:
 
-- a heavy hooded cloak of your choice of color
 - adventuring gear
 - travel rations
 - a dagger
@@ -240,12 +239,12 @@ Choose **three** more items from the following list. You may choose an item more
 
 If you would prefer to pick from a standard starting equipment set, select one of the following archetypes:
 
-- **Fighter**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
-- **Healer**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins
-- **Magic-User**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
-- **Ranger**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
-- **Rogue**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, two daggers, helmet, and 10 coins
-- **Scholar**: heavy hooded cloak of your choice of color, adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
+- **Fighter**: adventuring gear, travel rations, a dagger, hauberk, helmet, spear, and 10 coins
+- **Healer**: adventuring gear, travel rations, a dagger, healer’s kit, bag of books, and 10 coins
+- **Magic-User**: adventuring gear, travel rations, a dagger, three spell tablets, and 10 coins
+- **Ranger**: adventuring gear, travel rations, a dagger, helmet, shortbow and a quiver of arrows, loyal animal companion, and 10 coins
+- **Rogue**: adventuring gear, travel rations, two daggers, helmet, and 10 coins
+- **Scholar**: adventuring gear, travel rations, a dagger, a bottle of fine wine, a bag of books, a spell tablet, and 10 coins.
 
 !!! note
 

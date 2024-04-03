@@ -22,7 +22,7 @@ Your status may also provide advantages or disadvantages in social actions, such
 
 ## Boon Tokens
 
-Once you achieve heroic or villainous renown, anytime you modify your renown further (greater than six for heroes or less than -6 for villains), you receive a boon token. You can hold up to two boon tokens.
+Once you achieve heroic or villainous renown, you receive a boon token anytime you modify your renown further (greater than six for heroes or less than -6 for villains). You can hold up to two boon tokens.
 
 Spend your boon tokens with the GM anytime during play to gain unique benefits relevant to your status.
 
