@@ -10,7 +10,7 @@ A successful expedition is one that returns to Civilisation with something to sh
 
 When your character has completed the requirements, they move to the next *Experience Level*.
 
-Each time they advance a level, roll **3d6** for HP and each of their four primary Attribute Scores (not including LUCK). If the roll is **higher** than their current score, it is increased by 1 to a maximum of 18.
+Each time they advance a level, roll **d20** for HP and each of their four primary Attribute Scores (not including LUCK). If the roll is **higher** than their current score, it is increased by 1 to a maximum of 18.
 
 **Reputation**: As your character advances through Experience Levels, they may also be treated differently by people they encounter.
 
