@@ -30,9 +30,9 @@ When you describe your character doing something risky with an essential but unc
 
 Roll **d20** and add the applicable **attribute modifier** to the result:
 
-- **If you roll 15 or more**, you succeed without any complications.
+- **If you roll 15 or more**, you succeed without any complications, and the best outcome occurs.
 - **If you roll 10 to 14**, you succeed, but with an unexpected complication.
-- **If the result is 9 or less**, you fail.
+- **If the result is 9 or less**, you fail and make things worse, creating an entirely new problem.
 
 !!! note "Notes"
 
