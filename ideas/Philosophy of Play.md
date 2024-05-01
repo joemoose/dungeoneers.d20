@@ -76,7 +76,7 @@ Players should always understand the reasons behind their choices, and informati
 ## Die of Luck
 
 - Occasionally, you will want an element of randomness, or a Save will not resolve the situation.
-- In these situations, give players an X-in-6 chance of succeeding in what they are trying or of something occurring. Roll d6, and it happens if the result falls within the Fated chance.
+- In these situations, give players an x-in-6 chance of succeeding in what they are trying or of something occurring. Roll d6: it happens if the result falls within the Fated chance.
 
 # Principles for Players
 

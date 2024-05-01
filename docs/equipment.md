@@ -59,9 +59,11 @@ After all the uses are marked off on an item, it is depleted or rendered unusabl
 
 Unless specified otherwise, all items have three uses. 
 
-- **Weapons, armor, and ammunition**: After a fight, roll **d6** for each item that was used during the fight. **On 1**, mark usage.
-- **Torches and lanterns**: mark usage every 6 turns.
+- **Ammo**: Mark usage whenever you roll the ranged weapon's maximum damage.
+- **Armor**: Mark usage whenever the armor absorbs all damage from an attack.
 - **Rations**: Mark usage after a meal.
+- **Torches and lanterns**: mark usage every 6 turns.
+- **Weapons**: Mark usage whenever you roll the weapon's minimum damage.
 - **Other gear**: If you use it in a way that could break or deplete it, the GM may ask you to mark its usage.
 
 Usage can be repaired on most damaged items, such as weapons and armor, for 10% of the original cost per point of usage removed. 
