@@ -12,7 +12,7 @@ Actions can include attacking, moving for a *second* time, casting a spell, retr
 
 Minor actions, such as drawing a weapon from a body inventory slot, dropping to the ground, or shouting a command, are free actions that do not count as your single action for the round.
 
-## Inititative
+## Initiative
 
 During the **first round of combat**, each player must make a DEX *or* INT save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round.
 
