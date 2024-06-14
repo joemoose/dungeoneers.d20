@@ -37,7 +37,7 @@ For example, a character with all bright traits would be the traditional hero. C
 
 ### Traits Table
 
-| | *Bright* | | *Dark* |
+| | Bright | | Dark |
 | :-: | :-: | :-: | :-: |
 | 1 | Empathetic | *or* | Callous |
 | 2 | Protective | *or* | Manipulative |
@@ -73,7 +73,7 @@ These starting traits may change as you adventure and further develop your chara
 
 Give your character a name and describe how they look. Choose two or three physical characteristics that people first notice.
 
-If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
+If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
 
 ### Names Table
 
