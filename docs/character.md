@@ -249,7 +249,7 @@ If you would prefer to pick from a standard starting equipment set, select one o
 
 	See the [Equipment](equipment.md) section for more information on your gear.
 
-## Step 8: Keepsakes
+## Step 7: Keepsakes
 		
 Finally, roll d66 once and consult the following table to select an odd keepsake you own. Your keepsake is small and does not take up an inventory slot. It may come in handy one day, or you can sell it for a few coins.
 
