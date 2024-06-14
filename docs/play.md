@@ -38,7 +38,7 @@ Roll **d20** and add the applicable **attribute modifier** to the result:
 
 	- Given sufficient time, relevant skill or training, and the proper equipment, your actions will generally always succeed—the GM won't call for an attribute save.
 	- However, if one of these three requirements is missing, an attribute save would be required to determine an outcome.
-	- The action would be impossible if two or more of these requirements were missing. It's time to think of a new approach!
+	- The action would generally be impossible if two or more of these requirements were missing. It's time to think of a new approach!
 
 ### Using Attributes
 

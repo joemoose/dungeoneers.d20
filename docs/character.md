@@ -203,7 +203,6 @@ If you prefer not to roll randomly for your attribute scores, **set each attribu
 Hit protection (HP) represents the damage you can shrug off before suffering any physical harm. HP is easily and quickly restored.
 
 - Roll **d4+2** for your starting HP.
-
 - Your HP is then increased by **1 point** for every **two open slots** in your inventory.
 
 ## Step 6: Starting Equipment
