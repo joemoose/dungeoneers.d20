@@ -28,11 +28,10 @@ When you describe your character doing something risky with an essential but unc
 
 **To make an attribute save…**
 
-Roll **d20** and add the applicable **attribute modifier** to the result:
+Roll **d20** and compare the result to the applicable attribute score:
 
-- **If you roll 15 or more**, you succeed without any complications, and the best outcome occurs.
-- **If you roll 10 to 14**, you succeed, but with an unexpected complication.
-- **If the result is 9 or less**, you fail and make things worse, creating an entirely new problem.
+- **If the roll is equal to or less than** your attribute score, you succeed without complications.
+- **If the roll is greater than** your attribute score, you fail and make things worse, creating an entirely new problem.
 
 !!! note "Notes"
 
@@ -40,7 +39,7 @@ Roll **d20** and add the applicable **attribute modifier** to the result:
 	- However, if one of these three requirements is missing, an attribute save would be required to determine an outcome.
 	- The action would generally be impossible if two or more of these requirements were missing. It's time to think of a new approach!
 
-### Using Attributes
+### Applicable Attributes
 
 Your character is a determined, resourceful adventurer capable of doing almost anything. So, when the outcome of an action is uncertain or risky, and the GM calls for an attribute save, how do we decide which attribute modifier to apply?
 
@@ -54,9 +53,9 @@ Consider a heavy, locked castle door—how do you pass through it? If you break 
 
 ### Critical Success and Failure
 
-Rolling a natural **20** on a save is a **critical success**; the action always succeeds regardless of modifiers, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
+Rolling a natural **1** on a save is a **critical success**; the action always succeeds regardless of modifiers, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a natural **1** is a **critical failure**; the action always fails regardless of modifiers, and the outcome is worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a natural **20** is a **critical failure**; the action always fails regardless of modifiers, and the outcome is worse than expected. Decrease your LUCK by 1.
 
 ### Vantages
 

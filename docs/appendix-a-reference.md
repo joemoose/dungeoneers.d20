@@ -22,11 +22,10 @@
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
-Roll **d20 +attribute modifier**:
+Roll **d20** versus the applicable attribute score:
 
-- **15+**: Success, with no complications
-- **10-14**: Success, with a complication
-- **9-**: Failure
+- **Equal to or less than** the attribute score: Success
+- **Greater than** the attribute score: Failure
 
 ### Attribute Modifiers
 
@@ -49,11 +48,11 @@ Roll **d20 +attribute modifier**:
 
 ### Critical Success
 
-- Rolling a **20** always succeeds and is better-than-expected outcome. LUCK +1.
+- Rolling a **1** always succeeds and is better-than-expected outcome. LUCK +1.
 
 ### Critical Failure
 
-- Rolling a **1** always fails and is a worse-than-expected outcome. LUCK -1.
+- Rolling a **20** always fails and is a worse-than-expected outcome. LUCK -1.
 
 ## Combat
 

@@ -176,7 +176,7 @@ Strength is a prime attribute for combat. Dexterity is useful for stealth and th
 
 ### Attribute Modifiers
 
-Next, determine each attribute score's die roll **modifier**. You apply these modifiers to dice rolls that decide the outcome of risky or uncertain actions and damage when attacking.
+Next, determine each attribute score's die roll **modifier**. You apply these modifiers to damage when attacking.
 
 | Score | Modifier |
 | :-: | :-: |

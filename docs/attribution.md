@@ -1,9 +1,5 @@
 # Attribution
 
-I stand on the shoulders of giants.
-
----
-
 Dungeoneers builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](https://cairnrpg.com)*, Chris McDowall’s *[Into the ODD](https://freeleaguepublishing.com/en/games/into-the-odd/)*, Ben Milton’s *[Knave](https://questingbeast.itch.io/knave)*, Isaac Williams’ *[Mausritter](https://mausritter.com)*, and the resulting minimalist OSR and NSR diaspora.
 
 ---
