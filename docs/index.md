@@ -8,9 +8,10 @@
 <br/>
 *–Player’s Guide–*  
 <br/>
-*Playtest Document v1.8*  
-*March 29, 2024*  
+*Playtest Document v1.9*  
+*June 17, 2024*  
 </center>
+
 ---
 
 DUNGEONEERS is a minimalist rules system for playing old-school tabletop fantasy roleplaying games.
@@ -34,5 +35,5 @@ This game also has a luck system to encourage some crazy risk-taking. You are a 
 Enjoy!
 
 Zachary Taylor  
-March 2024  
+June 2024  
 Mastodon: [@dice.camp@joemoose](https://dice.camp/@joemoose)
