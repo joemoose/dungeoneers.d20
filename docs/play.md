@@ -28,7 +28,7 @@ When you describe your character doing something risky with an essential but unc
 
 **To make an attribute save…**
 
-Roll **d20** and compare the result to the applicable attribute score:
+Roll **d20** and compare the result to the applicable **attribute score**:
 
 - **If the roll is equal to or less than** your attribute score, you succeed without complications.
 - **If the roll is greater than** your attribute score, you fail and make things worse, creating an entirely new problem.
@@ -45,7 +45,11 @@ Your character is a determined, resourceful adventurer capable of doing almost a
 
 Your description of what your character does determines the applicable attribute.
 
-Consider a heavy, locked castle door—how do you pass through it? If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save. If you use a lock pick to unlock the door, that’s a DEX save. If you want to bribe a guard to open it, that’s a WIL save.
+Consider a heavy, locked castle door—how do you pass through it?
+
+- If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save.
+- If you use a lock pick to unlock the door, that’s a DEX save.
+- If you want to bribe a guard to open it, that’s a WIL save.
 
 !!! Tip
 
@@ -53,13 +57,13 @@ Consider a heavy, locked castle door—how do you pass through it? If you break 
 
 ### Critical Success and Failure
 
-Rolling a natural **1** on a save is a **critical success**; the action always succeeds regardless of modifiers, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
+Rolling a natural **1** on a save is a **critical success**; the action always succeeds regardless of circumstances, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
-Conversely, rolling a natural **20** is a **critical failure**; the action always fails regardless of modifiers, and the outcome is worse than expected. Decrease your LUCK by 1.
+Conversely, rolling a natural **20** is a **critical failure**; the action always fails regardless of circumstances, and the outcome is worse than expected. Decrease your LUCK by 1.
 
 ### Vantages
 
-Besides attribute modifiers, the primary way to modify your attribute saves is through vantages: favorable situations in the narrative beyond what might be considered typical have an **advantage**. In contrast, unfavorable situations have a **disadvantage**.
+The primary way to modify your attribute saves is through vantages: favorable situations in the narrative beyond what might be considered typical have an **advantage**. In contrast, unfavorable situations have a **disadvantage**.
 
 Roll **an extra d20** (2d20) for the attribute save, but take only the **best** or **worst** result, respectively.
 

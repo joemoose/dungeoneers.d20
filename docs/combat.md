@@ -14,7 +14,7 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 ## Initiative
 
-During the **first round of combat**, each player must make a DEX *or* INT save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round.
+During the **first round of combat**, each player must make an INT save to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round.
 
 The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
