@@ -72,7 +72,7 @@ All players declare their intended actions before resolving the effects.
 
 - **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
-- **Impaired**: Roll an extra d4 damage die, take worst.
+- **Impaired**: Roll d4 damage with no critical hits.
 
 ### Damage
 
