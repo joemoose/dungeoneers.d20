@@ -1,4 +1,7 @@
-# Preface
+---
+hide:
+  - navigation
+---
 
 <center>
 *DUNGEONEERS*  
@@ -17,6 +20,8 @@
 DUNGEONEERS is a minimalist rules system for playing old-school tabletop fantasy roleplaying games.
 
 ---
+
+# Preface
 
 Welcome to Dungeoneers! This guide is for players. It’s the resource I hand to new players at my table. It contains all the information you need to create your character, equip them, and head out on adventures.
 
