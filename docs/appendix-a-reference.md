@@ -27,7 +27,7 @@ Roll **d20** versus the applicable attribute score:
 - **Equal to or less than** the attribute score: Success
 - **Greater than** the attribute score: Failure
 
-### Attribute Modifiers
+### Attribute Damage Modifiers
 
 | Score | Damage Modifier |
 | :-: | :-: |

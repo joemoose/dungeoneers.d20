@@ -10,7 +10,7 @@ After taking STR or DEX attribute damage, you must make an attribute save for th
 
 !!! note "Note"
 
-	As your attributes are damaged, the associated attribute modifier will likely decrease. The modifier is determined by your current attribute score, not the total (undamaged) score.
+	As your attributes are damaged, the associated attribute damage modifier will likely decrease. The modifier is determined by your current attribute score, not the total (undamaged) score.
 
 ## Critical Damage
 
@@ -34,7 +34,7 @@ Magical curatives or the care of skilled healers may shorten these recovery time
 
 ## Battle Hardened
 
-When an attack reduces your character's HP to **exactly** 0, the damage scars them. Based on the damage taken, look up the resulting scar in the following table. For example, if your character went from 4 HP to 0 HP, they would look at entry 4 HP (Broken Limb).
+When a single attack reduces your character's HP to **exactly 0**, the damage scars them. Based on the damage taken, look up the resulting scar in the following table. For example, if your character went from 4 HP to 0 HP, they would look at entry 4 HP (Broken Limb).
 
 | Damage | Scar |
 | :-: | :-- |

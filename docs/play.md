@@ -49,13 +49,14 @@ Consider a heavy, locked castle door—how do you pass through it?
 
 - If you break out a crowbar from your adventuring gear and try to pry it open, that’s a STR save.
 - If you use a lock pick to unlock the door, that’s a DEX save.
+- If you search for a hidden mechanism to open it, that’s an INT save.
 - If you want to bribe a guard to open it, that’s a WIL save.
 
 !!! Tip
 
 	Consider not only what your character is capable of but also how you would approach a problem. Use all of your character’s resources.
 
-### Critical Success and Failure
+### Critical Successes and Failures
 
 Rolling a natural **1** on a save is a **critical success**; the action always succeeds regardless of circumstances, and the outcome will be better than you expected. Increase your LUCK attribute score by 1.
 
@@ -100,7 +101,7 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 ## Luck
 
-You can expend your LUCK attribute during play to change outcomes. Decrease (burn) your LUCK score by one point to re-roll any dice roll, except for critical failures—critical failures are always failures. 
+You can expend your LUCK attribute during play to change outcomes. Decrease (burn) your LUCK score by one point to re-roll any dice roll, except for *critical failures*—critical failures are always failures. 
 
 Your LUCK score can’t be decreased to less than zero. 
 

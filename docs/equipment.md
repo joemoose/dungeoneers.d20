@@ -91,22 +91,23 @@ Armor has characteristics that affect its use.
 | Light (hauberk) | 1 Armor, Bulky | 100 |
 | Medium (chainmail) | 2 Armor, Bulky | 400 |
 | Heavy (plate mail) | 3 Armor, Bulky | 1,200 |
+| Heavy (full plate) | 4 Armor, Bulky, Helmet built-in | 3,600 |
 
 ## Weapons
 
 You can use any weapon as you see fit. Most weapons have characteristics that affect their use. 
 
 - ***Ammo***: Long- and short-range weapons require the listed ammunition to be carried in a body slot.
-- ***Bludgeoning***: Damage against **heavy armor** has *Advantage*.
+- ***Bludgeoning***: Damage against **heavy armor** has an *advantage*.
 - ***Finesse***: Uses either DEX *or* STR attribute for the damage modifier.
 - ***Long-range***: This weapon can attack a target up to three zones away.
 - ***Offhand***: This weapon can be used as a dual weapon in the offhand.
-- ***Piercing***: Damage against **medium armor** has *Advantage*.
-- ***Reach***: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does enhanced damage if either mounted and charging an opponent or set to receive a charge from an opponent.
-- ***Short-range***: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are Impaired.
-- ***Slashing***: Damage against **unarmored** and **light armor** has *Advantage*.
+- ***Piercing***: Damage against **medium armor** has an *advantage*.
+- ***Reach***: Can attack an opponent several feet away while fighting from behind a protective shield wall or in the second rank. Does *enhanced* damage if either mounted and charging an opponent or set to receive a charge from an opponent.
+- ***Short-range***: This weapon can attack a target up to 2 zones away. Attacks 3 zones away are *impaired*.
+- ***Slashing***: Damage against **unarmored** and **light armor** has an *advantage*.
 - ***Reload***: Requires an action to reload and ready.
-- ***STR***: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *Impaired*.
+- ***STR***: Using the weapon requires a minimum STR score. If your STR is less than the requirement, the damage is *impaired*.
 - ***Thrown***: This weapon can attack an opponent in the same zone or be thrown at a target in an adjacent zone.
 - ***Two-handed***: This weapon requires two hand slots.
 - ***Versatile***: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both dice, take the best).
@@ -155,9 +156,9 @@ Use your gear to solve challenges creatively and keep your character adventuring
 | Item | Description | Notes | Coins |
 | :-- | :-- | :-- | --: |
 | Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
-| Bag of Books | When your bag contains just the right book for your research subject to gain an advantage, name the book and mark off one use. | 3 Uses, Slow, Bulky | 100 |
+| Bag of Books | When your bag contains just the right book for your research subject to gain an *advantage*, name the book and mark off one use. | 3 Uses, Slow, Bulky | 100 |
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off one use and restore d3 points of attribute damage. | 3 Uses, Slow | 10 |
-| Pipeleaf | When you share pipeleaf with someone, expend two uses and gain an advantage when attempting to persuade or negotiate with them. | 3 Uses, Slow, Small | 5 |
+| Pipeleaf | When you share pipeleaf with someone, expend two uses and gain an *advantage* when attempting to persuade or negotiate with them. | 3 Uses, Slow, Small | 5 |
 | Travel Rations | Not tasty, but not bad either. Restores 1 point of attribute damage once per day.  | 3 Uses | 5 |
 | Waterskin | If you’re trekking in an arid or barren environment, the GM may ask that you track your water consumption. Otherwise, assume it’s readily available. | 3 Uses | 1 |
 
@@ -180,4 +181,4 @@ In addition to a daily wage, hirelings must be fed and provided lodging.
 
 When a hireling faces a stressful situation, is made to go without pay or food, or is asked to do something more dangerous than what they signed on for, they must make a WIL save or desert their employment.
 
-Well-paid or loyal hirelings may make this save with an advantage.
+Well-paid or loyal hirelings may make this save with an *advantage*.

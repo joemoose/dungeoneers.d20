@@ -15,17 +15,15 @@ A tablet contains three units of arcane energy referred to as **anima** to power
 To cast a spell, your character must hold the tablet in one hand and recite the inscribed incantations aloud.
 
 1. Declare how much anima you’ll use when casting the spell, up to the maximum number remaining in the tablet.
-
 2. If you attempt to cast a spell while hurried or under stress, such as casting while being attacked, the GM may require that you first make a WIL save. Otherwise, success is automatic.
-
 3. If successfully cast, roll as many **d6** equal to the number of animas used. Mark off one anima from the tablet for each **1 or 2** rolled. 
-
 4. The spell produces an effect that varies depending on the number of dice rolled and the sum of the dice. See the following “Spell List” for the effects.
-
 
 ## Miscasting a Spell
 
-Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies. For each 1 rolled, in addition to using up an anima from the tablet, you take **d6** damage to either your INT or WIL (your choice) and must then roll an attribute save to avoid Critical Damage. 
+Whenever you roll one or more **1s** when casting a spell, the spell parasitically drains your character’s own anima and mental energies.
+
+For each 1 rolled, in addition to using up an anima from the tablet, you take **d6** damage to either your INT or WIL (your choice) and must then roll an attribute save to avoid Critical Damage. 
 
 The spell still manifests, though at a cost to the caster.
 
@@ -90,7 +88,7 @@ A spell’s effect is based on the [DICE] and [SUM] values.
 | 56 | Strands of Ensnarement | Fills an area [SUM] x 10 feet wide with sticky webs for [DICE] turns. | With the tablet on your person, bind your arms and hands with a silken cord for three days and three nights. Afterward, cut the cords with a silvered blade and burn them on the tablet after the final night. |
 | 61 | Thaumaturgic Diminishment | Up to [DICE] creatures are reduced to the size of a mouse for [SUM] turns. | With the tablet on your person, drink and eat only what can be served in a silver thimble for three days and three nights. |
 | 62 | Thaumaturgic Growth | Enlarge a creature to [DICE] +1 times its original size for [SUM] rounds. | Tie the spell tablet with silver wire to the highest branch of the third oak tree you see and leave it there for three days and three nights. |
-| 63 | Thaumaturgical Vesting | Up to [SUM] targets near you receive an advantage on attribute saves for [DICE] rounds. | With the tablet on your person, melt sufficient coins you’ve earned through honest labor to forge a horseshoe, then cast the horseshoe into deep water. |
+| 63 | Thaumaturgical Vesting | Up to [SUM] targets near you receive an *advantage* on attribute saves for [DICE] rounds. | With the tablet on your person, melt sufficient coins you’ve earned through honest labor to forge a horseshoe, then cast the horseshoe into deep water. |
 | 64 | Unchain the World Breaker | The ground shakes violently in a [SUM] x 10 feet diameter area for [DICE] rounds. | With the tablet on your person, gather three small, flat stones from a hilltop or mountainside, bury them for three days and three nights, then skip each stone across the surface of a body of deep water. |
 | 65 | Waking Dream | You create an impressive illusion under your control with full motion and sound for [SUM] rounds. | With the tablet on your person, paint a panorama on a canvas larger than yourself and trade it with a stranger for something that makes a sound. |
 | 66 | Ward of Renunciation | A narrow silver ring [SUM] x 10 feet in diameter appears on the ground around you. Name the creature that cannot cross it for [DICE] turns. Any such creatures within the ring are forcibly ejected for [SUM] + [DICE] damage upon casting. | Forge a silver hoop and pass the tablet and the remains of a monstrous creature through the hoop three times. Cast the hoop into deep water. |
