@@ -29,7 +29,7 @@ Roll **d20** versus the applicable attribute score:
 
 ### Attribute Modifiers
 
-| Score | Modifier |
+| Score | Damage Modifier |
 | :-: | :-: |
 | 1 | -5 |
 | 2-3 | -4 |
@@ -60,11 +60,11 @@ On your turn, you can move and take one action: move a second time, attack, cast
 
 ### Initiative
 
-Make a DEX or a WIL save to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round.
+Make an INT save to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round and do not act.
 
 Players go before their opponents in the second and all subsequent rounds.
 
-All players declare their intended actions before resolving the effects.
+All players declare their intended actions before resolving the effects simultaneously.
 
 ### Attacks
 
