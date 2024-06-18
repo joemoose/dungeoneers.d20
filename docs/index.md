@@ -1,10 +1,5 @@
----
-hide:
-  - navigation
----
-
 <center>
-*DUNGEONEERS*  
+# DUNGEONEERS  
 <br/>
 *An Adventure Roleplaying Game for Errant Rogues*  
 *by Zachary Taylor*  

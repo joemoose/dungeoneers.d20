@@ -29,29 +29,17 @@ Roll **d20** versus the applicable attribute score:
 
 ### Attribute Damage Modifiers
 
-| Score | Damage Modifier |
-| :-: | :-: |
-| 1 | -5 |
-| 2-3 | -4 |
-| 4-5	| -3 |
-| 6-7 | -2 |
-| 8-9 | -1 |
-| 10-11 | 0 |
-| 12-13 | +1 |
-| 14-15 | +2 |
-| 16-17 | +3 |
-| 18 | +4 |
+| Score | 1 | 2–3 | 4–5 | 6–7 | 8–9 | 10–11 | 12–13 | 14–15 | 16–17 | 18 |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Modifier | -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |
 
 ### Advantage & Disadvantage
 
 - When making a save from a **strong** or **weak** position, roll **two d20** and take the **best** or **worst** result, respectively.
 
-### Critical Success
+### Critical Success and Failure
 
 - Rolling a **1** always succeeds and is better-than-expected outcome. LUCK +1.
-
-### Critical Failure
-
 - Rolling a **20** always fails and is a worse-than-expected outcome. LUCK -1.
 
 ## Combat
