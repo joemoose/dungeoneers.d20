@@ -21,21 +21,9 @@ docs/appendix-b-sundries.md
 
 docs/appendix-c-mounts.md
 
-docs/appendix-d-archetypes.md
+docs/appendix-d-renown.md
 
-docs/appendix-e-leveling.md
-
-docs/appendix-f-classes.md
-
-docs/appendix-g-hit_location.md
-
-docs/appendix-h-dragonpowder.md
-
-docs/appendix-isword_and_sorcery.md
-
-docs/appendix-j-reputation.md
-
-docs/appendix-k-crates.md
+docs/appendix-e-advancement.md
 
 docs/attribution.md
 
