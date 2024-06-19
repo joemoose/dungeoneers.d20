@@ -66,7 +66,7 @@ Unless specified otherwise, all items have three uses.
 - **Weapons**: Mark usage whenever you roll the weapon's minimum damage.
 - **Other gear**: If you use it in a way that could break or deplete it, the GM may ask you to mark its usage.
 
-Usage can be repaired on most damaged items, such as weapons and armor, for 10% of the original cost per point of usage removed. 
+Usage can be repaired on most damaged items by a craftsman in a town for 10% of the original cost per point of usage removed. Alternatively, you can spend one unit of adventuring supplies to repair one point of usage on an item while adventuring.
 
 ## Armor
 
