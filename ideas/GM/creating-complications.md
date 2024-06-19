@@ -2,7 +2,7 @@
 
 When a character describes an action that is dangerous with an uncertain outcome, you, as GM, describe the possible complications that could arise before the dice are rolled. Your complications increase the stakes and add interesting twists to the narrative.
 
-The character may rethink their approach, and that’s certainly okay, even encouraged if their action is fraught with disadvantages or deadly complications. Their new descriptions and actions will likely change the number and content of your complications.
+The character may rethink their approach, and that’s certainly okay, even encouraged, if their action is fraught with disadvantages or deadly complications. Their new descriptions and actions will likely change the number and content of your complications.
 
 ### Assigning Complications
 
