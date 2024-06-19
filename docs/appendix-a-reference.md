@@ -66,7 +66,7 @@ Make an **INT save** to act before your opponents **in the first round** of comb
 - **WIL**: for spells
 
 | Score | 1–3 | 4–5 | 6–8 | 9–12 | 13–15 | 16–17 | 18 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Modifier | -3 | -2 | -1 | 0 | +1 | +2 | +3 |
 
 ### Damage
