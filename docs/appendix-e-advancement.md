@@ -10,9 +10,7 @@ A successful expedition is one that returns to Civilisation with something to sh
 
 When your character has completed the requirements, they move to the next *Experience Level*.
 
-Each time they advance a level, roll **d20** for HP and each of their four primary Attribute Scores (not including LUCK). If the roll is **higher** than their current score, it is increased by 1 to a maximum of 18.
-
-**Reputation**: As your character advances through Experience Levels, they may also be treated differently by people they encounter.
+Each time they advance a level, roll **d20** for HP and each of their four primary Attribute Scores (not including LUCK). If the roll is **higher** than their current score, increase the score by 1 to a maximum of 18.
 
 | Level | Requirement |
 | - | - |
@@ -29,7 +27,7 @@ Downtime is a phase of play between adventures. It begins as soon as the party r
 
 During each downtime, characters may perform activities of daily living and run errands that can be quickly adjudicated on the spot.
 
-Each player character may also perform 1 downtime action drawn from the list of 10 actions that follow.
+Each player character may also perform one downtime action drawn from the list of 10 actions that follow.
 
 Each action on this list takes time and is potentially significant in that it develops a character, leaves a mark on the campaign world, or provides a leg up for adventuring.
 
@@ -46,7 +44,7 @@ Each action on this list takes time and is potentially significant in that it de
 
 To perform a downtime activity, the player must describe how their character performs the chosen action. The GM will make alternative suggestions if the action seems unlikely to succeed.
 
-For all downtime activities, the player rolls a relevant attribute save to adjudicate the success of the action. Generally, a 9– is a failure, a 10-14 is a mixed success, and a 15+ is a success.
+For all downtime activities, the player rolls a relevant attribute save to adjudicate the success of the action. 
 
 Progress may be measured against a downtime activity tracker—it could require several downtimes to complete a chosen activity.
 
