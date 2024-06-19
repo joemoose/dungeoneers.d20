@@ -12,3 +12,5 @@ _Scratch Pad
 | 14-15 | +2 |
 | 16-17 | +3 |
 | 18 | +4 |
+
+- Archetypes starting gear adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.

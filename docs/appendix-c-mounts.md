@@ -12,7 +12,7 @@ The maximum size of the rider and the extra inventory slots carried in saddlebag
 
 | Size | Example | Rider | Slots |
 | :-- | :-- | :-- | :-- |
-| small | goat | halfling | 4 |
+| small | goat | halfling | 2 |
 | medium | pony | dwarf or elf | 6 |
 | large | horse | human | 10 |
 | huge | elephant | any | 20 |

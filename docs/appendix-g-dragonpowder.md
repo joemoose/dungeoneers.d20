@@ -26,9 +26,9 @@ If you roll **double 1s** on your gonne’s damage, a **mishap** occurs instead 
 | 2 | The gonne explodes and is destroyed. Roll d6 damage to you. |
 | 3 | You catch on fire, taking d3 damage per round, ignoring armor until you put it out. |
 | 4 | Sparks get in your eyes. All DEX and WIL saves are disadvantaged until you take one action to recover and make a STR save. |
-| 5–9 | The gonne fails to fire. You must take one round of fiddling with the mechanism and make a DEX *or* WIL save before firing it again. |
+| 5–9 | The gonne fails to fire. You must take one round of fiddling with the mechanism and make a DEX *or* INT save before firing it again. |
 | 10 | The gonne breaks. It will need to be thoroughly cleaned and repaired before firing it again. The repair cost is 30% of its price. |
-| 11 | The gonne is fine, but every player character nearby must make a LUCK save. The character who fails and rolls the lowest result takes damage rather than the intended target. |
+| 11 | The gonne is fine, but every player character nearby must make a LUCK save. The character who fails and rolls the highest result takes damage rather than the intended target. |
 | 12 | The gonne explodes and is destroyed. Roll d6 *blast* damage to you and everyone nearby. |
 
 ## Gonnes

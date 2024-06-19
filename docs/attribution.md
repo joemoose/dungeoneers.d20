@@ -4,8 +4,6 @@ DUNGEONEERS builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 ---
 
-- Archetypes starting gear adapted from [“d66 Cairn Background Loadouts”](https://d66kobolds.blogspot.com/2021/01/d66-cairn-background-loadouts-adapted.html), *d66 Classless Kobolds*, 12 January 2021, by Jim Parkin.
-
 - Drives adapted from “The Grey Shaded Hex” by Lord Simon Black, [*KNOCK #2*](https://www.themerrymushmen.com/product/knock-2-tmm/), published by The Merry Mushmen and Kamchatka Publishing, pp. 70-71, and used with permission.
 
 - Equipment adapted from *[Dungeon World](https://dungeon-world.com/)*, by Adam Koebel and Sage LaTorra.
