@@ -147,7 +147,6 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 Use your gear to solve challenges creatively and keep your character adventuring. Most gear has characteristics that affect their use. 
 
 - ***Bulky***: Requires two inventory slots.
-- ***Load***: Number of inventory slots available for storing items.
 - ***Slow***: It takes minutes or more to use.
 - ***Small***: Up to three small items can be stored in an inventory slot.
 - ***n Uses***: It can only be used *n* times.
