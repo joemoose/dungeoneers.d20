@@ -18,9 +18,10 @@ You cannot fill more than 12 slots. Carts, horses, or mules can increase invento
 
 ### Inventory and HP
 
-Add **1 point** to your base HP for every **two open slots** in your inventory.
+The amount of gear you’re carrying modifies your HP as follows:
 
-If you carry a full inventory (i.e., filling all 12 slots), your HP is reduced to **zero**. 
+- Add **1 point** to your maximum HP for every **two open slots** in your inventory.
+- If you carry a full inventory (i.e., filling all 12 slots), your HP is reduced to **zero**. 
 
 ## Coins
 
