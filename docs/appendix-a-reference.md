@@ -9,12 +9,20 @@
 - **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally. Always gain an advantage. Your character sheet doesn’t limit you.
 - **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away.
 - **Play to win, but savor a loss**. Leave your mark on the world. Create a memorable story.
+    
+!!! quote
 
-	!!! quote
-
-		Play your character like you’re driving a stolen car.<br/>–John Harper, *[Blades in the Dark](https://bladesinthedark.com/basics)*
+	Play your character like you’re driving a stolen car.<br/>–John Harper, *[Blades in the Dark](https://bladesinthedark.com/basics)*
+    
 
 ## Attribute Saves
+
+Roll **d20** versus applicable attribute score:
+
+- **Equal to or less than** attribute score: *Success*
+- **Greater than** attribute score: *Failure*
+
+### Attributes
 
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
@@ -22,24 +30,13 @@
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
-Roll **d20** versus the applicable attribute score:
+### Advantages and Disadvantages
 
-- **Equal to or less than** the attribute score: Success
-- **Greater than** the attribute score: Failure
+- When making a save from a **strong** or **weak** position, roll **two d20s** and take the **best** or **worst** result, respectively.
 
-### Attribute Damage Modifiers
+### Critical Successes and Failures
 
-| Score | 1–3 | 4–5 | 6–8 | 9–12 | 13–15 | 16–17 | 18 |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Modifier | -3 | -2 | -1 | 0 | +1 | +2 | +3 |
-
-### Advantage & Disadvantage
-
-- When making a save from a **strong** or **weak** position, roll **two d20** and take the **best** or **worst** result, respectively.
-
-### Critical Success and Failure
-
-- Rolling a **1** always succeeds and is better-than-expected outcome. LUCK +1.
+- Rolling a **1** always succeeds and is a better-than-expected outcome. LUCK +1.
 - Rolling a **20** always fails and is a worse-than-expected outcome. LUCK -1.
 
 ## Combat
@@ -48,28 +45,38 @@ On your turn, you can move and take one action: move a second time, attack, cast
 
 ### Initiative
 
-Make an INT save to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round and do not act.
+Make an **INT save** to act before your opponents **in the first round** of combat. Players that fail this save **lose their turn** for the first round and do not act.
 
-Players go before their opponents in the second and all subsequent rounds.
-
-All players declare their intended actions before resolving the effects simultaneously.
+- Players go before their opponents in the second and all subsequent rounds.
+- All players declare their intended actions before resolving the effects simultaneously.
 
 ### Attacks
 
-**Attacks always hit**. Roll weapon damage +attribute modifier and deal that much damage to an opponent, minus armor rating.
+**Attacks always hit**. Roll weapon damage +attribute damage modifier and deal that much damage to an opponent, minus armor rating.
 
 - **Critical Hit**: A maximum damage roll ignores all armor.
 - **Enhanced**: Roll an extra d12 damage die, take best.
-- **Impaired**: Roll d4 damage with no critical hits.
+- **Impaired**: Roll d4 damage, ignoring critical hits.
+
+#### Attribute Damage Modifier
+
+- **STR**: for melee or thrown weapons
+- **DEX**: for ranged weapons
+- **INT**: bonus for surprise attacks
+- **WIL**: for spells
+
+| Score | 1–3 | 4–5 | 6–8 | 9–12 | 13–15 | 16–17 | 18 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Modifier | -3 | -2 | -1 | 0 | +1 | +2 | +3 |
 
 ### Damage
 
 Damage is first dealt to HP.
 
 - If HP is reduced to ***exactly*** **zero** in a single attack, receive a **Scar**.
-- Once HP is zero, damage is taken directly to STR or DEX.
+- Once HP is zero, take damage directly to STR or DEX.
 - After taking STR or DEX damage, make the respective attribute save to avoid critical damage. On failure, take a *Wounded* constraint and become incapacitated.
-- If STR or DEX is reduced to **zero**, you **die**.   
+- If STR or DEX is reduced to **zero**, you **die**.
 
 ## Healing
 
@@ -81,10 +88,10 @@ Damage is first dealt to HP.
 
 Invest **1–3 anima** (up to the remaining uses) and roll **d6** for each anima invested:
 
-- Mark anima usage for each **1 or 2** rolled.  
+- Mark anima usage for each **1 or 2** rolled.
 - For every **1 rolled**, take d6 INT or WIL damage. Make an attribute save to avoid critical damage.
 - The spell's effect is determined by the number of dice rolled and the sum.
-  
+
 ## Inventory
 
 - Maximum of **12** inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
