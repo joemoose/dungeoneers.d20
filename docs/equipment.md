@@ -66,7 +66,7 @@ Unless specified otherwise, all items have three uses.
 - **Weapons**: Mark usage whenever you roll the weapon's minimum damage.
 - **Other gear**: If you use it in a way that could break or deplete it, the GM may ask you to mark its usage.
 
-Usage can be repaired on most damaged items by a craftsman in a town for 10% of the original cost per point of usage removed. Alternatively, you can spend one unit of adventuring supplies to repair one point of usage on an item while adventuring.
+An artisan in a town can repair usage on most damaged items for 10% of the original cost per point of usage removed. Alternatively, you can spend one unit of adventuring supplies to repair one point of usage on an item while adventuring.
 
 ## Armor
 
@@ -155,7 +155,7 @@ Use your gear to solve challenges creatively and keep your character adventuring
 
 | Item | Description | Notes | Coins |
 | :-- | :-- | :-- | --: |
-| Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. | 3 Uses | 20 |
+| Adventuring Gear | A collection of useful mundane expeditionary items such as chalk, lockpicks, poles, pry bars, ropes, spikes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use. Adventuring gear can also be used to repair one point of usage on a damaged item. | 3 Uses | 20 |
 | Bag of Books | When your bag contains just the right book for your research subject to gain an *advantage*, name the book and mark off one use. | 3 Uses, Slow, Bulky | 100 |
 | Healer’s Kit | A collection of mundane treatments for injury and illness, such as bandages and herbal poultices. When you take a few minutes to treat someone else’s wounds after a battle, mark off one use and restore d3 points of attribute damage. | 3 Uses, Slow | 10 |
 | Pipeleaf | When you share pipeleaf with someone, expend two uses and gain an *advantage* when attempting to persuade or negotiate with them. | 3 Uses, Slow, Small | 5 |
