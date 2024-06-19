@@ -22,7 +22,7 @@ The results of each side’s actions occur **simultaneously**. As such, all play
 
 ## Attacks
 
-**Attacks always hit**. Roll your weapon’s damage dice, and add the appropriate attribute modifier:
+**Attacks always hit**. Roll your weapon’s damage dice, and add the appropriate attribute damage modifier:
 
 - **STR**: for melee or thrown weapons
 - **DEX**: for ranged weapons
