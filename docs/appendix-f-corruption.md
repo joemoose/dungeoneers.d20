@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Your corruption level can be increased manifold while adventuring: using sorcerous powers, attuning to forbidden relics, committing heinous acts, and interacting with maleficent areas, creatures, or objects.
+Your corruption level can be increased manifold while adventuring: using sorcerous powers, wielding forbidden relics, committing heinous acts, and interacting with maleficent areas, creatures, or objects.
 
 A newly created character has zero corruption level.
 
