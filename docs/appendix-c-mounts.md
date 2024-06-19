@@ -47,31 +47,11 @@ A *fearless* mount, or one explicitly trained for war, checks morale only when i
 
 ## Example Mounts
 
-**Draft Horse**
-
-5 HP, 0 Armor, 12 STR, 8 DEX, 10 INT, 10 WIL, Load 12 (*large*)
-
-**Elephant**
-
-10 HP, 1 Armor, 20 STR, 6 DEX, 16 INT, 16 WIL, Load 20 (*huge*, *fearless*)
-
-**Mountain Goat**
-
-2 HP, 0 Armor, 8 STR, 14 DEX, 6 INT, 6 WIL, Load 4 (*small*, *surefooted*, unless traveling in a blasted hellscape, does not require feeding)
-
-**Mule**
-
-As pony, Load 8 (*fearless*, *surefooted*, can travel underground)
-
-**Pony**
-
-3 HP, 0 Armor, 8 STR, 12 DEX, 8 INT, 8 WIL, Load 6 (*medium*)
-
-**Riding Horse**
-
-4 HP, 0 Armor, 10 STR, 10 DEX, 8 INT, 8 WIL, Load 10(*large*)
-
-**Warhorse**
-
-6 HP, 0 Armor, 14 STR, 10 DEX, 12 INT, 12 WIL, 12 Load (*large*)
+- **Draft Horse**: 5 HP, 0 Armor, 12 STR, 8 DEX, 10 INT, 10 WIL, Load 12 (*large*)
+- **Elephant**: 10 HP, 1 Armor, 20 STR, 6 DEX, 16 INT, 16 WIL, Load 20 (*huge*, *fearless*)
+- **Mountain Goat**: 2 HP, 0 Armor, 8 STR, 14 DEX, 6 INT, 6 WIL, Load 4 (*small*, *surefooted*, unless traveling in a blasted hellscape, does not require feeding)
+- **Mule**: As pony, Load 8 (*fearless*, *surefooted*, can travel underground)
+- **Pony**: 3 HP, 0 Armor, 8 STR, 12 DEX, 8 INT, 8 WIL, Load 6 (*medium*)
+- **Riding Horse**: 4 HP, 0 Armor, 10 STR, 10 DEX, 8 INT, 8 WIL, Load 10(*large*)
+- **Warhorse**: 6 HP, 0 Armor, 14 STR, 10 DEX, 12 INT, 12 WIL, 12 Load (*large*)
 
