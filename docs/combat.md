@@ -16,7 +16,7 @@ Minor actions, such as drawing a weapon from a body inventory slot, dropping to 
 
 During the **first round of combat**, each player must make an **INT save** to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this save **lose their turn** for the first round and do not act.
 
-The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+The opposing side then takes its turn and the first round ends. The second round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
 The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
 
@@ -124,7 +124,7 @@ Taking an action to aim a ranged or thrown weapon while not moving provides **en
 	
 ## Berserkers
 
-While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. Taking an action and a WIL save are required to become berserk and also to stop the frenzy.
+While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. A WIL save is required to become berserk and also to stop the frenzy.
 
 ## Subdual
 
