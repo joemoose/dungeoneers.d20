@@ -14,7 +14,7 @@ edit_uri: blob/main/docs
 # Navigation
 
 nav:
-  - index.md
+  - 'Preface': index.md
   - character.md
   - equipment.md
   - play.md
