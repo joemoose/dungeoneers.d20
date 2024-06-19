@@ -218,6 +218,7 @@ Choose **three** more items from the following list. You may choose an item more
 - 50 coins
 - Bag of books (3/3 uses)
 - Bottle of fine wine (3/3 uses)
+- Extra adventuring gear (3/3 uses)
 - Fancy clothes
 - Healer’s kit (3/3 uses)
 - Loyal animal companion (describe it)
