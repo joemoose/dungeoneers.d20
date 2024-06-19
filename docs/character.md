@@ -202,28 +202,28 @@ Let’s see what equipment you’ve brought to your new adventuring life.
 
 You start with the following equipment:
 
-- adventuring gear
-- travel rations
-- a dagger
+- Adventuring gear (3/3 uses)
+- Travel rations (3/3 uses)
+- Dagger (d6, piercing)
 - 3d6 coins
 
 Choose **three** more items from the following list. You may choose an item more than once.
 
-- spear
-- shortbow and a quiver of arrows
-- sword
-- helmet
-- shield
-- hauberk
+- Spear (d8/+d8, piercing)
+- Shortbow and a quiver of arrows (d8, piercing)
+- Sword (d8/+d8, slashing)
+- Helmet (+1 armor)
+- Shield (+1 armor)
+- Hauberk (1 armor)
 - 50 coins
-- bag of books
-- bottle of fine wine
-- fancy clothes
-- healer’s kit
-- a loyal animal companion (describe it)
-- musical instrument
-- pipe and pipeleaf
-- spell tablet (*selected randomly, see the [Spells](spells.md) section for a list )*
+- Bag of books (3/3 uses)
+- Bottle of fine wine (3/3 uses)
+- Fancy clothes
+- Healer’s kit (3/3 uses)
+- Loyal animal companion (describe it)
+- Musical instrument
+- Pipe and pipeleaf (3/3 uses)
+- Spell tablet (*selected randomly, see the [Spells](spells.md) section for a list )*
 
 ### Archetypes
 
