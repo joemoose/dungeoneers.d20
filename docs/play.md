@@ -164,3 +164,11 @@ The distance within and between zones is relative:
 
 - You might see it, but that’s about it.
 - It’s out of range for anything else.
+
+## Reaction Roll
+
+When you encounter an NPC whose reaction to your party is not obvious, the GM may roll 2D6 and consult the following table:
+
+| 2 | 3–5 | 6–8 | 9–11 | 12 |
+| :-: | :-: | :-: | :-: | :-: |
+| Hostile | Wary | Curious | Friendly | Helpful |

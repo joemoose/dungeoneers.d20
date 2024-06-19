@@ -124,11 +124,11 @@ Taking an action to aim a ranged or thrown weapon while not moving provides **en
 	
 ## Berserkers
 
-While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. A WIL save is required to become berserk and also stop the frenzy.
+While in a battle frenzy, damage from melee attacks is **enhanced**, but your HP is reduced to **zero** while berserk. After defeating an opponent, you'll always move towards and attack the next closest opponent. Taking an action and a WIL save are required to become berserk and also to stop the frenzy.
 
 ## Subdual
 
-Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual, but halve the damage after reducing it by the opponent’s armor rating. An enemy who suffers critical damage or death from a subdual attack is knocked unconscious.
+Rather than inflicting grievous harm, you can attempt to **subdue** an opponent using a melee weapon. Ranged weapons can’t subdue. Declare that you’re trying to subdue and then attack as usual, but halve the damage after reducing it by the opponent’s armor rating. An enemy who would suffer critical damage or death from a subdual attack is instead knocked unconscious.
 
 ## Morale
 
