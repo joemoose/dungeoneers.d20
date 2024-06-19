@@ -8,9 +8,9 @@ One might walk into the wilderness, but trekking is far more impressive when ast
 
 ## Loads
 
-The maximum size of the rider and the extra load carried in saddlebags depends on the mount’s size.
+The maximum size of the rider and the extra inventory slots carried in saddlebags depend on the mount’s size.
 
-| Size | Example | Rider | Load |
+| Size | Example | Rider | Slots |
 | :-- | :-- | :-- | :-- |
 | small | goat | halfling | 4 |
 | medium | pony | dwarf or elf | 6 |
@@ -20,7 +20,7 @@ The maximum size of the rider and the extra load carried in saddlebags depends o
 !!! note "Notes"
 
 	- If a mount has no rider, its maximum load is doubled.
-	- A mount bred and trained specifically for war has a +2 load.
+	- A mount bred and trained specifically for war has +2 inventory slots.
 	
 ## Traveling
 
@@ -32,7 +32,7 @@ In some terrain, such as trackless mountainsides or dark, underground tunnels, i
 
 While mounted, a rider has a combat advantage over opponents on foot. If your zone contains only opponents on foot, no disengage save is required when retreating on a mount.
 
-If you charge to attack while mounted, your damage is doubled.
+If you charge to attack while mounted, your damage is enhanced.
 
 ## Morale
 
