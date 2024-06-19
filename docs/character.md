@@ -37,11 +37,11 @@ For example, a character with all bright traits would be the traditional hero. C
 
 ### Traits Table
 
-| Bright | | Dark |
-| :-: | :-: | :-: |
-| Empathetic | *or* | Callous |
-| Protective | *or* | Manipulative |
-| Selfless | *or* | Self-Entitled |
+| | Bright | | Dark |
+| :-: | :-: | :-: | :-: |
+| 1st | Empathetic | *or* | Callous |
+| 2nd | Protective | *or* | Manipulative |
+| 3rd | Selfless | *or* | Self-Entitled |
 
 These traits set a tone for role-playing your character, letting others know what to expect.
 
