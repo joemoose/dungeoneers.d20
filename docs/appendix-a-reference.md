@@ -58,7 +58,7 @@ Make an **INT save** to act before your opponents **in the first round** of comb
 - **Enhanced**: Roll an extra d12 damage die, take best.
 - **Impaired**: Roll d4 damage, ignoring critical hits.
 
-#### Attribute Damage Modifier
+### Attribute Damage Modifier
 
 - **STR**: for melee or thrown weapons
 - **DEX**: for ranged weapons
@@ -69,7 +69,7 @@ Make an **INT save** to act before your opponents **in the first round** of comb
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Modifier | -3 | -2 | -1 | 0 | +1 | +2 | +3 |
 
-### Damage
+## Damage
 
 Damage is first dealt to HP.
 
