@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You’re a newly minted **dungeoneer**: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook just as readily as a blade. You’re not like ordinary folk. You will live a dangerous life, questing for gold and glory. You will delve into dark and forgotten places best left undisturbed. With some luck, you might retire before dying.
+You’re a newly minted **dungeoneer**: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook just as readily as a blade. You’re not like ordinary folk. You’ll live a dangerous life, questing for gold and glory. You’ll delve into dark and forgotten places best left undisturbed. With some luck, you might retire before dying.
 
 ## Step 1: Backstory
 
