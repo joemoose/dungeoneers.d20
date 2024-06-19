@@ -49,21 +49,14 @@ These traits set a tone for role-playing your character, letting others know wha
 
 Combining the *bright* (B) and *dark* (D) traits suggests a certain archetypical personality as follows:
 
-**BBB: The Hero**. An everyday saint. Someone who is loved by all and who, in turn, spends their life trying to make the world better for everyone, no matter the stakes or the personal reward.
-
-**BBD: The Mercenary**. A fairly good-hearted person who will fight to protect the weak as long as they get something in return.
-
-**BDB: The Parent**. Someone who genuinely cares about and feels deeply for others but is okay with deceiving and manipulating them, as long as it’s for the other’s well-being.
-
-**DBB: The Reluctant Hero**. This type is gritty and down-to-earth. Although they may appear gruff and cold, even rude on the outside, they genuinely care for their friends deep down.
-
-**DDB: The Tribal Leader**. Someone who cares for their people but has little to no regard for outsiders. They are willing to do anything for themselves and their people, no matter the cost to outsiders.
-
-**DBD: The Guard**. They are ruthless protectors of the status quo who care only for the pay they receive but won’t tolerate fighting or exploitation amongst those under their charge.
-
-**BDD: The Intelligencer**. An expert manipulator who can find and exploit people’s strengths and weaknesses, connecting with them emotionally only to use them.
-
-**DDD: The Villain**. An antisocial, cruel, greedy person who cares only for personal gain and will betray, deceive, or steal to get what they want.
+- **BBB: The Hero**. An everyday saint. Someone who is loved by all and who, in turn, spends their life trying to make the world better for everyone, no matter the stakes or the personal reward.
+- **BBD: The Mercenary**. A fairly good-hearted person who will fight to protect the weak as long as they get something in return.
+- **BDB: The Parent**. Someone who genuinely cares about and feels deeply for others but is okay with deceiving and manipulating them, as long as it’s for the other’s well-being.
+- **DBB: The Reluctant Hero**. This type is gritty and down-to-earth. Although they may appear gruff and cold, even rude on the outside, they genuinely care for their friends deep down.
+- **DDB: The Tribal Leader**. Someone who cares for their people but has little to no regard for outsiders. They are willing to do anything for themselves and their people, no matter the cost to outsiders.
+- **DBD: The Guard**. They are ruthless protectors of the status quo who care only for the pay they receive but won’t tolerate fighting or exploitation amongst those under their charge.
+- **BDD: The Intelligencer**. An expert manipulator who can find and exploit people’s strengths and weaknesses, connecting with them emotionally only to use them.
+- **DDD: The Villain**. An antisocial, cruel, greedy person who cares only for personal gain and will betray, deceive, or steal to get what they want.
 
 These starting traits may change as you adventure and further develop your character.
 
