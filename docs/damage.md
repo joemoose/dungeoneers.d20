@@ -10,7 +10,7 @@ After taking STR or DEX attribute damage, you must make an attribute save for th
 
 !!! note "Note"
 
-	As your attributes are damaged, the associated attribute damage modifier will likely decrease. The modifier is determined by your current attribute score, not the total (undamaged) score.
+	As your attributes are damaged, the associated attribute damage modifier might decrease. The modifier is determined by your current attribute score, not the total (undamaged) score.
 
 ## Critical Damage
 
