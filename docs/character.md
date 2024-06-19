@@ -174,7 +174,7 @@ Strength is a prime attribute for combat. Dexterity is useful for stealth and th
 
 - Roll **2d6+4** five times, noting the results. Assign the lowest value to LUCK and the other four as you prefer to your STR, DEX, INT, and WIL.
 
-### Attribute Modifiers
+### Attribute Damage Modifiers
 
 Next, determine each attribute score's die roll **modifier**. You apply these modifiers to damage when attacking.
 

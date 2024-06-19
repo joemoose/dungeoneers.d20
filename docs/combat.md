@@ -26,7 +26,7 @@ The results of each side’s actions occur **simultaneously**. As such, all play
 
 - **STR**: for melee or thrown weapons
 - **DEX**: for ranged weapons
-- **INT**: optional bonus for surprise attacks
+- **INT**: bonus for surprise attacks
 - **WIL**: for spells
 
 You inflict the total damage to an opponent minus their armor rating.
