@@ -47,6 +47,8 @@ These traits set a tone for role-playing your character, letting others know wha
 
 ### Trait Combination Descriptions
 
+Combining the *bright* (B) and *dark* (D) traits suggests a certain archetypical personality as follows:
+
 **BBB: The Hero**. An everyday saint. Someone who is loved by all and who, in turn, spends their life trying to make the world better for everyone, no matter the stakes or the personal reward.
 
 **BBD: The Mercenary**. A fairly good-hearted person who will fight to protect the weak as long as they get something in return.
