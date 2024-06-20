@@ -51,6 +51,7 @@ Consider a heavy, locked castle door—how do you pass through it?
 - If you use a lock pick to unlock the door, that’s a DEX save.
 - If you search for a hidden mechanism to open it, that’s an INT save.
 - If you want to bribe a guard to open it, that’s a WIL save.
+- If you wait around to see if someone might open it and come through, that’s a LUCK save.
 
 !!! Tip
 
