@@ -1,5 +1,15 @@
 # Tactical Inititative
 
+- Tactical initiative inspired by *[Errant](https://www.drivethrurpg.com/product/413739/Errant-No-Art-Edition)* written by Ava Islam, published by [Kill Jester Publishing, LLP](https://www.killjester.com/), and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+(Alternate order: 
+
+- **Phase 1**. Single Action
+- **Phase 2**. Two actions: 1st action point
+- **Phase 3**. Two actions: 2nd action point
+- **Phase 4.** End of turn
+
+TACTICS save to act before opponents in the same phase)
 
 ## Actions
 
