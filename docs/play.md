@@ -31,7 +31,7 @@ When you describe your character doing something risky with an essential but unc
 Roll **d20** and compare the result to the applicable **attribute score**:
 
 - **If the roll is equal to or less than** your attribute score, you succeed without complications.
-- **If the roll is greater than** your attribute score, you fail and make things worse, creating an entirely new problem.
+- **If the roll is greater than** your attribute score, you fail and worsen things, creating an entirely new problem.
 
 !!! note "Notes"
 

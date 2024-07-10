@@ -42,7 +42,7 @@ Each action on this list takes time and is potentially significant in that it de
 - Splendid Artifacts
 - Spiritual Exercises
 
-To perform a downtime activity, the player must describe how their character performs the chosen action. The GM will make alternative suggestions if the action seems unlikely to succeed.
+To perform a downtime activity, the player must describe how their character performs the chosen action. If the action seems unlikely to succeed, the GM will make alternative suggestions.
 
 For all downtime activities, the player rolls a relevant attribute save to adjudicate the success of the action. 
 

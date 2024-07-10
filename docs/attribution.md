@@ -22,10 +22,6 @@ DUNGEONEERS builds upon the trailblazing creativity of Yochai Gal’s *[Cairn](h
 
 ---
 
-Dungeoneers RPG is an independent production by Zachary Taylor and is not affiliated with Losing Games. It is published under the Mausritter Third Party Licence. Mausritter is copyright Losing Games.
-
----
-
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;margin-right:auto;margin-left:auto;display: block" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work outside the copyrighted material or trademarks of the entities above is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br/><br/>

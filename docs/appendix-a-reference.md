@@ -74,7 +74,7 @@ Make an **INT save** to act before your opponents **in the first round** of comb
 Damage is first dealt to HP.
 
 - If HP is reduced to ***exactly*** **zero** in a single attack, receive a **Scar**.
-- Once HP is zero, take damage directly to STR or DEX.
+- Once HP is zero, damage is taken directly to STR or DEX.
 - After taking STR or DEX damage, make the respective attribute save to avoid critical damage. On failure, take a *Wounded* constraint and become incapacitated.
 - If STR or DEX is reduced to **zero**, you **die**.
 

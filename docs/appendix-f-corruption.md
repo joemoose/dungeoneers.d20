@@ -82,7 +82,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 61 | Scaly Skin | Your skin is thick and scaly; add +1 to your armor. |
 | 62 | Tail, Prehensile | You have a long, thin tail that can grip objects. |
 | 63 | Toxic Flesh | Your flesh is toxic when eaten. |
-| 64 | Vocal Mimic | You can mimic other voices or sounds perfectly. |
+| 64 | Vocal Mimic | You can perfectly mimic other voices or sounds. |
 | 65 | Warty Skin | Your skin is thick and warty. Add +1 to your armor rating. |
 | 66 | Whiskers | You have sensitive whiskers like a cat. |
 

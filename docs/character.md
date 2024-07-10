@@ -47,7 +47,7 @@ These traits set a tone for role-playing your character, letting others know wha
 
 ### Trait Combination Descriptions
 
-Combining the *bright* (B) and *dark* (D) traits suggests a certain archetypical personality as follows:
+Combining the *bright* (B) and *dark* (D) traits suggests a specific archetypical personality as follows:
 
 - **BBB: The Hero**. An everyday saint. Someone who is loved by all and who, in turn, spends their life trying to make the world better for everyone, no matter the stakes or the personal reward.
 - **BBD: The Mercenary**. A fairly good-hearted person who will fight to protect the weak as long as they get something in return.
@@ -68,7 +68,7 @@ These starting traits may change as you adventure and further develop your chara
 
 Give your character a name and describe how they look. Choose two or three physical characteristics that people first notice.
 
-If you’d like inspiration or prefer to determine your character’s name and appearance randomly, consult the following tables.
+If you’d like inspiration or prefer to randomly determine your character’s name and appearance, consult the following tables.
 
 ### Names Table
 
