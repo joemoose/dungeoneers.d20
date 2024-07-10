@@ -157,13 +157,13 @@ Five attributes describe your character’s primary characteristics:
 
 - **STRENGTH (STR)**: brawn, endurance, toughness
 - **DEXTERITY (DEX)**: agility, finesse, quickness
-- **INTELLECT (INT)**: intuition, perception, reasoning
+- **INTELLIGENCE (INT)**: intuition, perception, reasoning
 - **WILLPOWER (WIL)**: charisma, command, determination
 - **LUCK**: destiny, good fortune, favor of the gods
 
 Is your character musclebound and insightful? Fortunate and charming? Nimble and hardy? Attribute scores define these qualities—your character’s assets and weaknesses.
 
-Strength and Dexterity are your physical attributes. Intellect and Willpower are your mental attributes.
+Strength and Dexterity are your physical attributes. Intelligence and Willpower are your mental attributes.
 
 Strength is a prime attribute for combat. Dexterity is useful for stealth and thievery. Intellect is essential for exploration and scholarly pursuits. Casting spells or leading others requires Willpower. Luck has saved many an adventurer.
 

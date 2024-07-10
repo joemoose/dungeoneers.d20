@@ -26,7 +26,7 @@ Roll **d20** versus applicable attribute score:
 
 - **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
 - **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
-- **INTELLECT (INT)**: Tests of perception and intuition; resisting illusions or deception.
+- **INTELLIGENCE (INT)**: Tests of perception and intuition; resisting illusions or deception.
 - **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm or charming effects.
 - **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
 
