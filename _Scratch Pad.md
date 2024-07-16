@@ -1,5 +1,10 @@
 _Scratch Pad
 
+- Torches last 1 hour and can be bundled. So at 6 torches/bundle it's 6 hours of light per slot.
+- Lanterns burn for 6 hours on 1 pint of fuel. A waterskin holds 4 pints of liquid and takes up 1 slot, so that's 24 hours of light.
+- The lantern itself takes up a slot, so it actually works out to 12 hours of light/slot and gets slightly better if you carry more skins of fuel.
+- A jug holds a gallon of liquid (8 pints), so if you use those to store your fuel you can double the waterskin numbers.
+
 | Score | Damage Modifier |
 | :-: | :-: |
 | 1 | -5 |
