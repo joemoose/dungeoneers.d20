@@ -74,10 +74,7 @@ Roll **an extra d20** (2d20) for the attribute save, but take only the **best** 
 	- If you have multiple advantages or disadvantages, you take only one—they don't stack.
 	- However, if an action has multiple advantages without any disadvantages, it's likely to be no longer risky and will succeed automatically, per the GM.
 	- If you are in a situation with advantages and disadvantages, they cancel each other out; you roll just one d20 as usual.
-	
-!!! Tip
-
-	Always look to gain an advantage over opponents and obstacles!
+	- Always look to gain an advantage over opponents and obstacles!
 	
 ### Opposed Saves
 
@@ -89,7 +86,7 @@ Allies can assist another player in an attribute save whenever feasible. The pla
 
 ### Group Saves
 
-When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM will ask that the character who will most likely fail make the attribute save. This would be an excellent time to assist them.	
+When everyone in the adventuring party tries to do the same thing, such as tiptoeing past a sleeping ogre, the GM will ask that the character who will most likely fail make the attribute save. This would be an excellent time to assist them!
 
 ## Saving Throws
 
@@ -97,8 +94,8 @@ Unlike many traditional roleplaying games, saving throws have no separate values
 
 - **STR**: physical harm that *can’t* be dodged
 - **DEX**: physical harm that *can* be dodged
-- **INT**: illusions or deception
-- **WIL**: mental harm or mind-control
+- **INT**: stealth, illusions, or deception
+- **WIL**: fear, mental harm, or mind-control
 
 ## Luck
 
@@ -128,11 +125,17 @@ Time measurements are flexible depending on the narrative's current scope and th
 | Travelling Overland | Day |  24 hours |
 | Downtime between adventures or a full rest | Week | 7, or more, days |
 
-## Distance
+## Zones, Movement, and Range
 
-The game uses zones, abstractions of distance and area, to divide larger physical spaces into smaller units, like rooms in a house.
+The game uses **zones**, abstractions of distance and area, to divide larger physical spaces into smaller units, like rooms in a house.
 
 For example, at the start of combat, the GM divides the battlefield into at least three zones: one where the party starts, one where the opponents start, and another between them.
+
+You can move from one zone into an adjacent zone as your normal move action. You may forfeit additional actions that round to move a second time into another zone.
+
+Zones can also represent vertical separation, such as a cliff or a balcony.
+
+### Distances
 
 The distance within and between zones is relative:
 
@@ -165,6 +168,15 @@ The distance within and between zones is relative:
 
 - You might see it, but that’s about it.
 - It’s out of range for anything else.
+
+### Obstacles
+
+Typically, zone boundaries are open and require only movement to enter. However, some zones will have obstacles or hard boundaries requiring a save to enter.
+
+For example, a zone containing traps might require a DEX save to avoid damage when entering. 
+
+Some zones, such as a collapsing bridge or rising water, may also disappear or change as the encounter progresses.
+
 
 ## Reaction Roll
 

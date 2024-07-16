@@ -4,7 +4,7 @@
 
 The goal of an Expedition is most often to learn about a mysterious environment, evade a potent threat, or seek out mysterious artifacts.
 
-A successful expedition is one that returns to Civilisation with something to show for it. This could be a lost relic, a terrible secret, or just a good story.
+A successful expedition is one that returns to Civilisation with something to show for it. This could be a lost relic, a terrible secret, treasure, or just a good story.
 
 ## Experience Levels
 
@@ -23,28 +23,27 @@ Each time they advance a level, roll **d20** for HP and each of their four prima
 
 ## Downtime Opportunities
 
-Downtime is a phase of play between adventures. It begins as soon as the party returns to civilization after adventuring.
+Downtime is a phase of play between adventures. It begins as soon as the party returns to civilization after a successful expedition.
 
 During each downtime, characters may perform activities of daily living and run errands that can be quickly adjudicated on the spot.
 
-Each player character may also perform one downtime action drawn from the list of 10 actions that follow.
+Each player character may also perform one downtime action drawn from the list of example actions that follow.
 
 Each action on this list takes time and is potentially significant in that it develops a character, leaves a mark on the campaign world, or provides a leg up for adventuring.
 
-- Building an Institution
-- Cultivating a Relationship
-- Gathering Intelligence
-- Learning a Skill
-- Martial Training
+- Building an institution
+- Cultivating a relationship
+- Gathering intelligence
+- Learning a skill
+- Martial training
 - Research
 - Revelry
 - Spellcraft
-- Splendid Artifacts
-- Spiritual Exercises
+- Splendid artifacts
+- Spiritual exercises
 
 To perform a downtime activity, the player must describe how their character performs the chosen action. If the action seems unlikely to succeed, the GM will make alternative suggestions.
 
 For all downtime activities, the player rolls a relevant attribute save to adjudicate the success of the action. 
 
 Progress may be measured against a downtime activity tracker—it could require several downtimes to complete a chosen activity.
-
