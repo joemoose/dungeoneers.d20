@@ -9,7 +9,7 @@ site_dir: ../joemoose.github.io/dungeoneers
 # Repo
 
 repo_url: https://github.com/joemoose/dungeoneers/
-edit_uri: blob/main/docs
+edit_uri: edit/main/docs
 
 # Navigation
 
@@ -21,6 +21,7 @@ nav:
   - combat.md
   - damage.md
   - spells.md
+  - attribution.md
   - Appendices:
     - 'Appendix A: Rules Reference': appendix-a-reference.md
     - 'Appendix B: Equipment': appendix-b-sundries.md
@@ -29,22 +30,25 @@ nav:
     - 'Appendix E: Advancement': appendix-e-advancement.md
     - 'Appendix F: Corruption': appendix-f-corruption.md
     - 'Appendix G: Dragonpowder': appendix-g-dragonpowder.md
-  - attribution.md
+  
   
 # Theme
 
 theme:
   name: material
+  language: en
+  font: false
   logo: logo.png
   favicon: favicon.ico
   icon:
-#    repo: fontawesome/brands/github
     edit: octicons/pencil-24
   features:
-    - header.autohide
     - content.action.edit
+    - content.tooltips
+    - header.autohide
     - navigation.footer
     - navigation.instant
+    - navigation.tabs
     - navigation.top
     - navigation.tracking
     - toc.follow
@@ -65,54 +69,20 @@ theme:
 # Extensions
 
 markdown_extensions:
-  - abbr
   - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
   - toc:
       permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+      toc_depth: 3
 
 # CSS
 
 extra_css:
-  - extra.css
+  - stylesheets/extra.css
+  - stylesheets/print.css
 
 # Plugins
 
 plugins:
-  - search
-#  - social
+  - search:
+      lang: en
   
