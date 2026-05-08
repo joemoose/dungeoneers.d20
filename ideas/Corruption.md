@@ -1,37 +1,37 @@
 # Corruption
 
-Your corruption level can be increased manifold while adventuring: using sorcerous powers, attuning to forbidden relics, committing heinous acts, and interacting with maleficent areas, creatures, or objects. A newly created character has zero corruption level.
+Your **Corruption level** can increase dramatically while adventuring: by using sorcerous powers, attuning to forbidden relics, committing heinous acts, or interacting with maleficent areas, creatures, or objects. A newly created character has a Corruption level of **zero**.
 
-As your corruption level increases, you may undergo increasingly unpleasant mutations.
+As your Corruption level increases, you may experience increasingly severe mutations.
 
 ## Corruption Saves 
 
-When directed by the GM to make a corruption check, roll **d20**.
+When the GM directs you to make a Corruption save, roll **d20**.
 
-- If the result **equals or exceeds** your current corruption level, you hold chaos at bay (this time) and suffer no consequences.
-- If you roll **less than** your current corruption level, you succumb to chaos. Roll a subsequent **d20** and add your current corruption level, then consult the following table for a mutation.
+- If the result **equals or exceeds** your current **Corruption level**, you hold chaos at bay (this time) and suffer no consequences.
+- If the result is **less than** your current Corruption level, you succumb to chaos. Roll a **d20**, add your current **Corruption level**, and consult the table below for a **mutation**.
 
-Regardless of success or failure, **increase** your corruption level by 1.
+Regardless of success or failure, **increase** your Corruption level by **1 point**.
 
 ## Mutations
 
-Roll **d20 +corruption level** and consult the following table.
+Roll **d20 +Corruption level** and consult the following table.
 
 | d20 | Mutation |
 | :-: | :- |
-| 1–10 | You manifest a **Cacogenic Mutation**. See the following table. |
-| 11 | Manifest one **Chthonian Vitiation**. See the following table. |
-| 12 | Manifest one **Demonian Vitiation**. See the following table. |
-| 13 | Manifest one **Ophidian Vitiation**. See the following table. |
+| 1–10 | You manifest a **Cacogenic Mutation**. See the table below.  |
+| 11 | Manifest one **Chthonian Vitiation**. See the table below.  |
+| 12 | Manifest one **Demonian Vitiation**. See the table below.  |
+| 13 | Manifest one **Ophidian Vitiation**. See the table below.  |
 | 14 | You take direct STR damage from silvered weapons. |
-| 15 | Manifest one **Chthonian Vitiation**. See the following table. |
-| 16 | Manifest one **Demonian Vitiation**. See the following table. |
-| 17 | Manifest one **Ophidian Vitiation**. See the following table. |
+| 15 | Manifest one **Chthonian Vitiation**. See the table below.  |
+| 16 | Manifest one **Demonian Vitiation**. See the table below.  |
+| 17 | Manifest one **Ophidian Vitiation**. See the table below.  |
 | 18 | You can only enter a home when invited or cross running water if carried. |
 | 19 | A tiny famulus made of dirt (3 HP, d4 damage) follows you and whispers nonsense incessantly. |
-| 20 | Manifest one **Chthonian Vitiation**. See the following table. |
-| 21 | Manifest one **Demonian Vitiation**. See the following table. |
-| 22 | Manifest one **Ophidian Vitiation**. See the following table. |
+| 20 | Manifest one **Chthonian Vitiation**. See the table below.  |
+| 21 | Manifest one **Demonian Vitiation**. See the table below.  |
+| 22 | Manifest one **Ophidian Vitiation**. See the table below.  |
 | 23 | You crave decayed flesh. Take a *Deprived* constraint if you don't consume carrion daily. |
 | 24 | Permanently reduce your body inventory slots by one as your body warps and shrivels. |
 | 25 | You spawn a doppelgänger of yourself that tries to kill you and your group. |
@@ -39,7 +39,7 @@ Roll **d20 +corruption level** and consult the following table.
 | 27 | Manifest one **Vitiation** of whichever category you have the most. See the following tables. |
 | 28 | Manifest one **Chthonian Vitiation**, one **Demonian Vitiation**, and one **Ophidian Vitiation**. See the following tables. |
 | 29 | All animals loathe you, fleeing from you if they’re prey and attacking you if predatory. |
-| 30+ | A portal to a non-Euclydian dimension devoid of light opens and consumes you. You are forever obliterated. Create a new character. Everyone near you immediately adds one to their corruption level and makes a corruption save. |
+| 30+ | A portal to a non-Euclidean dimension, devoid of light, opens and consumes you. You are forever **obliterated**. Create a new character. Everyone near you immediately **adds one** to their Corruption level and makes a Corruption save. |
 
 ### Cacogenic Mutation
 
@@ -84,7 +84,7 @@ Roll **d20 +corruption level** and consult the following table.
 
 ## Vitiations
 
-As you suffer increasingly more corruption, supernatural beings of primal chaos begin to notice and take an interest in you. When manifesting a “vitiation,” refer to the following tables for the effect.
+As you succumb to greater Corruption, supernatural beings of primal chaos begin to notice and take an interest in you. When manifesting a **Vitiation**, consult the tables below for the effect.
 
 ### Chthonian
 
@@ -139,9 +139,9 @@ As you suffer increasingly more corruption, supernatural beings of primal chaos 
 
 ### Transmogrification
 
-After suffering a **fifth vitiation** of the same category, you are forever transformed into a vile servant of chaos. You become an immediate threat to your adventuring party and a long-term threat to the world. The GM takes over your character—a monster is born. It’s time to create a new adventurer.
+After suffering a **fifth vitiation** in the same category, you are forever transformed into a vile servant of chaos. You become an immediate threat to your adventuring party and a long-term threat to the world. The **GM assumes control** of your character — a monster is born. It’s time to create a new adventurer.
 
-- **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the landscape.
-- **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders in the region and beyond.
-- **Ophidian**: Your character transforms into a horrible serpentine malison, vowing enmity on all who trusted you.
+- **Chthonian**: Your character crystallizes into an obsidian pillar of hideous architecture, corrupting the surrounding landscape.
+- **Demonian**: Your character gains mastery over souls, seeking to ensorcell and enthrall the leaders of the region and beyond.
+- **Ophidian**: Your character transforms into a hideous serpentine malison, vowing enmity toward all who trusted you.
 
