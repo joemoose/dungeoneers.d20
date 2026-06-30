@@ -1,10 +1,9 @@
 # Project information
 
-site_name: Dungeoneers RPG
+site_name: DUNGEONEERS
 site_url: https://joemoose.github.io/dungeoneers/
 site_author: Zachary Taylor
-site_description: An Adventure Game for Errant Rogues
-site_dir: ../joemoose.github.io/dungeoneers
+site_description: An Adventure Roleplaying Game for Errant Rogues
 
 # Repo
 
@@ -14,7 +13,7 @@ edit_uri: edit/main/docs
 # Navigation
 
 nav:
-  - 'Preface': index.md
+  - index.md
   - character.md
   - equipment.md
   - play.md
@@ -22,24 +21,23 @@ nav:
   - damage.md
   - spells.md
   - attribution.md
-  - Appendices:
-    - 'Appendix A: Rules Reference': appendix-a-reference.md
-    - 'Appendix B: Equipment': appendix-b-sundries.md
-    - 'Appendix C: Mounts': appendix-c-mounts.md
-    - 'Appendix D: Renown': appendix-d-renown.md
-    - 'Appendix E: Advancement': appendix-e-advancement.md
-    - 'Appendix F: Corruption': appendix-f-corruption.md
-    - 'Appendix G: Dragonpowder': appendix-g-dragonpowder.md
-  
-  
+#  - Appendices:
+#    - 'Appendix A: Rules Reference': appendix-a-reference.md
+#    - 'Appendix B: Equipment': appendix-b-sundries.md
+#    - 'Appendix C: Mounts': appendix-c-mounts.md
+#    - 'Appendix D: Renown': appendix-d-renown.md
+#    - 'Appendix E: Advancement': appendix-e-advancement.md
+#    - 'Appendix F: Corruption': appendix-f-corruption.md
+#    - 'Appendix G: Dragonpowder': appendix-g-dragonpowder.md
+
 # Theme
 
 theme:
   name: material
   language: en
   font: false
-  logo: logo.png
-  favicon: favicon.ico
+  logo: img/logo.png
+  favicon: img/favicon.ico
   icon:
     edit: octicons/pencil-24
   features:
@@ -48,28 +46,37 @@ theme:
     - header.autohide
     - navigation.footer
     - navigation.instant
-    - navigation.tabs
     - navigation.top
     - navigation.tracking
     - toc.follow
+    
   palette:
+
+    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       primary: black
-      scheme: default
+      scheme: default 
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: Switch to Dark mode
+
+    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       primary: black
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to Light mode
 
 # Extensions
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - pymdownx.snippets:
+      base_path: [docs]
   - toc:
       permalink: true
       toc_depth: 3
@@ -77,12 +84,17 @@ markdown_extensions:
 # CSS
 
 extra_css:
-  - stylesheets/extra.css
-  - stylesheets/print.css
+  - css/extra.css
+  - css/print.css
 
 # Plugins
 
 plugins:
   - search:
       lang: en
-  
+  - social:
+      cards_layout_dir: layouts
+      cards_layout: blank
+      cards_layout_options:
+        background_image: docs/img/background.png
+        background_color: transparent
