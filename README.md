@@ -1,86 +1,17 @@
----
+# DUNGEONEERS Players Guide
 
-Dungeoneers is a minimalist rules system for playing old-school tabletop fantasy roleplaying games.
+> An Adventure Roleplaying Game for Errant Rogues
 
----
+[![Read online](https://img.shields.io/badge/read-online-black)](https://joemoose.github.io/dungeoneers/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Built with Material for MkDocs](https://img.shields.io/badge/built%20with-Material%20for%20MkDocs-526CFE)](https://squidfunk.github.io/mkdocs-material/)
 
-# Rules Summary
+You’re a newly minted DUNGEONEER: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook as readily as a blade. You’re no ordinary folk. You’ll live a dangerous life, questing for gold and glory. You’ll delve into dark, forgotten places best left undisturbed. With a little luck, you might just retire before you die.
 
-## Best Practices
+📖 **Read the manual:** <https://joemoose.github.io/dungeoneers/>
 
-- **Engage and collaborate** with your GM and other players. Be kind. Be positive. Be authentic.
-- **Ask lots of questions**. Gather information. Talk to NPCs. Make notes. Draw maps.
-- **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally. Always gain an advantage. Your character sheet doesn’t limit you.
-- **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away.
-- **Play to win, but savor a loss**. Leave your mark on the world. Create a memorable story.
+## License
 
-## Attribute Saves
+**DUNGEONEERS** by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- **STRENGTH (STR)**: Tests of brawn and endurance; resisting physical harm that can’t be dodged.
-- **DEXTERITY (DEX)**: Tests of agility and finesse; resisting physical harm that can be dodged.
-- **WILLPOWER (WIL)**: Tests of charisma and determination; resisting mental harm, illusions, or charming effects.
-- **LUCK**: Tests of chance or fate; can burn a point to re-roll a save.
-
-Roll **d20** +**modifier**:
-
-- **15+**: Success, with no complications
-- **10-14**: Success, with a complication
-- **9-**: Failure
-
-### Advantage & Disadvantage
-
-- When making a save from a **strong** or **weak** position, roll **two d20** and take the **best** or **worst** result, respectively.
-
-### Critical Success
-
-- Rolling a **20** always succeeds and is better-than-expected outcome. LUCK +1.
-
-### Critical Failure
-
-- Rolling a **1** always fails and is a worse-than-expected outcome. LUCK -1.
-
-## Combat
-
-On your turn, you can move and take one action: move a second time, attack, cast a spell, etc.
-
-### Initiative
-
-Make a DEX or a WIL save to act before your opponents *in the first round* of combat. Players that fail this save *lose their turn* for the first round.
-
-Players go before their opponents in the second and all subsequent rounds.
-
-### Attacks
-
-**Attacks always hit**. Roll weapon damage +modifier and deal that much damage to an opponent, minus armor rating.
-
-- **Critical Hit**: A maximum damage roll ignores all armor.
-- **Enhanced**: Roll an extra d12 damage die, take best.
-- **Impaired**: Roll an extra d4 damage die, take worst.
-
-### Damage
-
-Damage is first dealt to HP.
-
-- Once HP is depleted, take damage to STR or DEX.
-- After taking STR or DEX damage, make the respective attribute save. On failure, take a *Wounded* constraint and become incapacitated.
-- If two attributes besides LUCK are reduced to zero, you die.   
-
-## Healing
-
-- **Short**: Takes a turn. Restore all HP.
-- **Long**: Takes a watch. Restore 1 STR, DEX, and WIL. Clears *Fatigued*, *Dazed*, and other short-term constraints.
-- **Full**: Takes a week. Restore all STR, DEX, and WIL. Clears *Wounded* and other long-term constraints.
-
-## Spells
-
-Invest **1–3 anima** (up to the remaining uses) and roll **d6** for each anima invested:
-
-- Mark anima usage for each **1 or 2** rolled.  
-- For every **1 rolled**, take d6 WIL damage. Make a WIL save. On failure, take a *Dazed* constraint.
-- The spell effect is determined by the number of dice rolled and the sum.
-  
-## Inventory
-
-- Maximum of **12** inventory slots: 2 in hands, 4 on the body, and 6 in a backpack.
-- Items in the backpack require an action to retrieve during combat.
-- Most items take 1 slot, and bulky or two-handed take 2. Small items can be bundled 3 in a slot.
+You are free to copy, share, and modify this material for noncommercial use, provided you give appropriate credit and license any adaptations under the same terms.
