@@ -1,40 +1,51 @@
 /* =========================================================
-   PsiOps Field Manual — extra.css
-   Screen-side customisations for MkDocs Material. Print styles
-   live in print.css; screen rules with a print counterpart are
-   noted inline. Reading-measure rules are scoped to @media screen
+   DUNGEONEERS RPG Manual — dungeoneers.css
+   Forked from the PsiOps Field Manual stylesheet. Screen-side
+   customizations for MkDocs Material. Print styles live in
+   print.css; screen rules with a print counterpart are noted
+   inline. Reading-measure rules are scoped to @media screen
    because print sizes to the page, not to a ch-based column.
+
+   Typography and admonition palette revised for DUNGEONEERS'
+   low-fantasy, grounded-but-not-bleak tone (see Option B mockup:
+   Cinzel + Fauna One, earthy/rust admonition palette). Structural
+   rules (measure, tables, diagrams, roll-tables) are unchanged
+   from PsiOps.
    ========================================================= */
 
 /* ---- Web fonts --------------------------------------------------------
-   IBM Plex Serif  — body prose (Cold War technical-document register)
-   Barlow Condensed — headings and admonition titles (stencil/military)
-   IBM Plex Mono   — code, inline tokens, roll-table range column
+   Fauna One — body prose (warm, grounded old-book register)
+   Cinzel    — headings and admonition titles (carved/inscriptional,
+               used sparingly so it doesn't read as imperial-epic)
+   IBM Plex Mono — code, inline tokens, roll-table range column
    Loaded via Google Fonts; subset to the weights actually used.
    ---------------------------------------------------------------------- */
 
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Fauna+One&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
 /* ---- Base typography -------------------------------------------------- */
 
-/* Serif body, slightly tighter leading than the old system-UI value —
-   IBM Plex Serif is optically denser and reads cleanly at 1.6. */
+/* Serif body, slightly looser leading than the PsiOps Plex Serif value —
+   Fauna One is a touch lighter optically and benefits from 1.7 over 1.6. */
 .md-typeset {
-    font-family: "IBM Plex Serif", Georgia, serif;
-    line-height: 1.6;
+    font-family: "Fauna One", Georgia, serif;
+    line-height: 1.7;
 }
 
 body {
-    font-family: "IBM Plex Serif", Georgia, serif;
+    font-family: "Fauna One", Georgia, serif;
     overflow-wrap: break-word;
 }
 
 /* ---- Headings ---------------------------------------------------------
-   Barlow Condensed uppercase for all heading levels. The condensed width
-   creates visual contrast with the serif body and reads as field-manual /
-   stencil without tipping into horror-font territory.
-   letter-spacing at 0.05em suits the condensed face; tighten to 0.03em
-   if a specific heading level looks too loose at its rendered size.
+   Cinzel uppercase for all heading levels. Cinzel's carved, inscriptional
+   character creates contrast with the Fauna One body and reads as old
+   stonework / worn signage rather than the PsiOps stencil-military
+   register — used sparingly (headings + admonition titles only) so it
+   doesn't tip into imperial-epic high-fantasy.
+   letter-spacing at 0.04em suits Cinzel at heading sizes; PsiOps used
+   0.05em for the condensed face, Cinzel reads slightly looser at the
+   same value so it's been pulled in a touch.
    ---------------------------------------------------------------------- */
 
 .md-typeset h1,
@@ -43,28 +54,28 @@ body {
 .md-typeset h4,
 .md-typeset h5,
 .md-typeset h6 {
-    font-family: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+    font-family: "Cinzel", Georgia, serif;
     font-weight: 700;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     text-transform: uppercase;
 }
 
-/* Condensed faces need less vertical space between baseline and
-   cap-height; tighter leading prevents headings looking floaty. */
+/* Cinzel is a full-width serif, not condensed — slightly more vertical
+   space than Barlow Condensed needed to avoid feeling cramped. */
 .md-typeset h1,
 .md-typeset h2 {
-    line-height: 1.1;
+    line-height: 1.2;
 }
 
 .md-typeset h3,
 .md-typeset h4,
 .md-typeset h5,
 .md-typeset h6 {
-    line-height: 1.2;
+    line-height: 1.3;
 }
 
 /* ---- Admonition titles ------------------------------------------------
-   Barlow Condensed for admonition/details title bars, matching headings.
+   Cinzel for admonition/details title bars, matching headings.
    Slightly wider tracking than body headings suits the smaller size.
 
    SPECIFICITY NOTE: Material's minified stylesheet qualifies these
@@ -78,15 +89,15 @@ body {
 
 :is([dir=ltr],[dir=rtl]) .md-typeset .admonition-title,
 :is([dir=ltr],[dir=rtl]) .md-typeset details > summary {
-    font-family: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+    font-family: "Cinzel", Georgia, serif;
     font-weight: 700;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
 }
 
 /* ---- Code and monospace -----------------------------------------------
    IBM Plex Mono throughout — inline tokens, fenced blocks, roll-table
-   range column. Matches the Plex Serif body family visually.
+   range column. Visually matches the Fauna One body family.
    ---------------------------------------------------------------------- */
 
 .md-typeset code,
@@ -96,19 +107,23 @@ body {
 }
 
 /* ---- Admonition colour palette ----------------------------------------
-   Overrides Material's default vivid palette with muted, military-register
-   colours suited to PSIOPS. Five types are used in the source:
+   Overrides Material's default vivid palette with muted, earthy colours
+   suited to DUNGEONEERS' low-fantasy, grounded-but-not-bleak register —
+   desaturated toward brown/ochre rather than grey/black, per the Option B
+   mockup. Five types are used in the source, remapped from PsiOps:
 
-     note      cool slate blue    — neutral field-report register
-     tip       muted army green   — positive / actionable
-     example   warm khaki/amber   — illustrative / reference
-     warning   amber-orange       — heightened alert
-     important deep red           — critical, do not ignore
+     note      dusty slate blue   — neutral, lore/flavour register
+     tip       muted sage green   — positive / actionable
+     example   ochre/mustard      — illustrative / variant rule
+     warning   burnt rust-orange  — heightened alert
+     important deep oxblood       — critical, do not ignore (kept distinct
+                                    from warning; deeper and less orange,
+                                    avoids horror-bleak pure red/black)
 
    Pattern per type (mirrors Material's own admonition CSS structure):
-     1. Border colour on the .admonition/.details container
-     2. Title bar background — border colour at ~12% alpha
-     3. Icon mask colour (the ::before pseudo-element)
+     1. Border color on the .admonition/.details container
+     2. Title bar background — border color at ~12% alpha
+     3. Icon mask color (the ::before pseudo-element)
      4. Dark-scheme overrides (same hue, reduced saturation)
 
    Specificity note: the container rules are (0,2,1) in Material's sheet
@@ -116,144 +131,144 @@ body {
    selectors are (0,3,0) — higher, so no [dir] wrapper needed here.
    ---------------------------------------------------------------------- */
 
-/* -- note: slate blue --------------------------------------------------- */
+/* -- note: dusty slate blue ---------------------------------------------- */
 
 .md-typeset .admonition.note,
 .md-typeset details.note {
-    border-color: #5c7fa3;
+    border-color: #4a5568;
 }
 .md-typeset .note > .admonition-title,
 .md-typeset .note > summary {
-    background-color: rgba(92, 127, 163, 0.12);
+    background-color: rgba(74, 85, 104, 0.12);
 }
 .md-typeset .note > .admonition-title::before,
 .md-typeset .note > summary::before {
-    background-color: #5c7fa3;
+    background-color: #4a5568;
 }
 
 [data-md-color-scheme="slate"] .md-typeset .admonition.note,
 [data-md-color-scheme="slate"] .md-typeset details.note {
-    border-color: #4a6a8a;
+    border-color: #3b4456;
 }
 [data-md-color-scheme="slate"] .md-typeset .note > .admonition-title,
 [data-md-color-scheme="slate"] .md-typeset .note > summary {
-    background-color: rgba(74, 106, 138, 0.18);
+    background-color: rgba(59, 68, 86, 0.18);
 }
 [data-md-color-scheme="slate"] .md-typeset .note > .admonition-title::before,
 [data-md-color-scheme="slate"] .md-typeset .note > summary::before {
-    background-color: #6d9cbd;
+    background-color: #6c7a96;
 }
 
-/* -- tip: muted army green ---------------------------------------------- */
+/* -- tip: muted sage green ------------------------------------------------ */
 
 .md-typeset .admonition.tip,
 .md-typeset details.tip {
-    border-color: #4a7c59;
+    border-color: #5b7a5b;
 }
 .md-typeset .tip > .admonition-title,
 .md-typeset .tip > summary {
-    background-color: rgba(74, 124, 89, 0.12);
+    background-color: rgba(91, 122, 91, 0.12);
 }
 .md-typeset .tip > .admonition-title::before,
 .md-typeset .tip > summary::before {
-    background-color: #4a7c59;
+    background-color: #5b7a5b;
 }
 
 [data-md-color-scheme="slate"] .md-typeset .admonition.tip,
 [data-md-color-scheme="slate"] .md-typeset details.tip {
-    border-color: #3d6b4a;
+    border-color: #4a6650;
 }
 [data-md-color-scheme="slate"] .md-typeset .tip > .admonition-title,
 [data-md-color-scheme="slate"] .md-typeset .tip > summary {
-    background-color: rgba(61, 107, 74, 0.18);
+    background-color: rgba(74, 102, 80, 0.18);
 }
 [data-md-color-scheme="slate"] .md-typeset .tip > .admonition-title::before,
 [data-md-color-scheme="slate"] .md-typeset .tip > summary::before {
-    background-color: #5e9e72;
+    background-color: #7c9c80;
 }
 
-/* -- example: warm khaki/amber ------------------------------------------ */
+/* -- example: ochre / mustard -------------------------------------------- */
 
 .md-typeset .admonition.example,
 .md-typeset details.example {
-    border-color: #8c7340;
+    border-color: #b8893f;
 }
 .md-typeset .example > .admonition-title,
 .md-typeset .example > summary {
-    background-color: rgba(140, 115, 64, 0.12);
+    background-color: rgba(184, 137, 63, 0.12);
 }
 .md-typeset .example > .admonition-title::before,
 .md-typeset .example > summary::before {
-    background-color: #8c7340;
+    background-color: #b8893f;
 }
 
 [data-md-color-scheme="slate"] .md-typeset .admonition.example,
 [data-md-color-scheme="slate"] .md-typeset details.example {
-    border-color: #7a6535;
+    border-color: #9c7234;
 }
 [data-md-color-scheme="slate"] .md-typeset .example > .admonition-title,
 [data-md-color-scheme="slate"] .md-typeset .example > summary {
-    background-color: rgba(122, 101, 53, 0.18);
+    background-color: rgba(156, 114, 52, 0.18);
 }
 [data-md-color-scheme="slate"] .md-typeset .example > .admonition-title::before,
 [data-md-color-scheme="slate"] .md-typeset .example > summary::before {
-    background-color: #b89650;
+    background-color: #d4a85e;
 }
 
-/* -- warning: amber-orange ---------------------------------------------- */
+/* -- warning: burnt rust-orange ------------------------------------------ */
 
 .md-typeset .admonition.warning,
 .md-typeset details.warning {
-    border-color: #a0692a;
+    border-color: #a8542e;
 }
 .md-typeset .warning > .admonition-title,
 .md-typeset .warning > summary {
-    background-color: rgba(160, 105, 42, 0.12);
+    background-color: rgba(168, 84, 46, 0.12);
 }
 .md-typeset .warning > .admonition-title::before,
 .md-typeset .warning > summary::before {
-    background-color: #a0692a;
+    background-color: #a8542e;
 }
 
 [data-md-color-scheme="slate"] .md-typeset .admonition.warning,
 [data-md-color-scheme="slate"] .md-typeset details.warning {
-    border-color: #8c5c22;
+    border-color: #8f4626;
 }
 [data-md-color-scheme="slate"] .md-typeset .warning > .admonition-title,
 [data-md-color-scheme="slate"] .md-typeset .warning > summary {
-    background-color: rgba(140, 92, 34, 0.18);
+    background-color: rgba(143, 70, 38, 0.18);
 }
 [data-md-color-scheme="slate"] .md-typeset .warning > .admonition-title::before,
 [data-md-color-scheme="slate"] .md-typeset .warning > summary::before {
-    background-color: #c98840;
+    background-color: #cb7a4c;
 }
 
-/* -- important: deep red ------------------------------------------------ */
+/* -- important: deep oxblood ---------------------------------------------- */
 
 .md-typeset .admonition.important,
 .md-typeset details.important {
-    border-color: #8b2e2e;
+    border-color: #6e2e2a;
 }
 .md-typeset .important > .admonition-title,
 .md-typeset .important > summary {
-    background-color: rgba(139, 46, 46, 0.12);
+    background-color: rgba(110, 46, 42, 0.12);
 }
 .md-typeset .important > .admonition-title::before,
 .md-typeset .important > summary::before {
-    background-color: #8b2e2e;
+    background-color: #6e2e2a;
 }
 
 [data-md-color-scheme="slate"] .md-typeset .admonition.important,
 [data-md-color-scheme="slate"] .md-typeset details.important {
-    border-color: #7a2626;
+    border-color: #5c2622;
 }
 [data-md-color-scheme="slate"] .md-typeset .important > .admonition-title,
 [data-md-color-scheme="slate"] .md-typeset .important > summary {
-    background-color: rgba(122, 38, 38, 0.18);
+    background-color: rgba(92, 38, 34, 0.18);
 }
 [data-md-color-scheme="slate"] .md-typeset .important > .admonition-title::before,
 [data-md-color-scheme="slate"] .md-typeset .important > summary::before {
-    background-color: #b54040;
+    background-color: #97524c;
 }
 
 /* ---- Reading measure (screen only) -----------------------------------
@@ -391,15 +406,15 @@ body {
 }
 
 /* ---- Figures ----------------------------------------------------------
-   Material centres figures and shrinks them to their content
+   Material centers figures and shrinks them to their content
    (width: fit-content; margin: … auto). These rules override that so a
    figure is a left-aligned block capped at the reading column; the SVG
-   inside is then centred within that box (see Diagram sizing), which
+   inside is then centered within that box (see Diagram sizing), which
    lines the diagram up under the prose.
 
    NOTE: this cap is 60ch — narrower than the 68ch prose measure — so a
-   diagram is centred under a 60ch column, not the full prose width. Set
-   to 68ch if you want it centred under the prose column proper.
+   diagram is centered under a 60ch column, not the full prose width. Set
+   to 68ch if you want it centered under the prose column proper.
    ---------------------------------------------------------------------- */
 
 .md-typeset figure {
@@ -422,7 +437,7 @@ figcaption {
    Inlined SVGs sit in the page cascade, so theming reaches them. One
    class — .diagram — now covers every diagram figure (zones, clocks,
    combat flowchart, anything added later). Ink is currentColor and
-   follows --md-default-fg-color (which flips per colour scheme), so only
+   follows --md-default-fg-color (which flips per color scheme), so only
    the surface fills need a dark override. Drop shadows are baked
    light-mode only; in dark mode the currentColor strokes carry the shape
    outlines.
@@ -454,7 +469,7 @@ figcaption {
    set its own. The <svg> is matched by element, not by class, so a
    diagram's root needs no sizing hook of its own.
 
-   margin: 0 auto centres it. NOTE: width:100% is relative to the figure,
+   margin: 0 auto centers it. NOTE: width:100% is relative to the figure,
    whose own max-width is 60ch (see the Figures section above) — so that
    column width is the real ceiling. A --diagram-max-width larger than the
    column makes the SVG fill the column but not exceed it; to go wider
