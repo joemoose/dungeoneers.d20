@@ -2,55 +2,44 @@
 
 ## Introduction
 
-The equipment that your character carries and your ingenuity define your character’s role and specialty in the group.
+Your specialty within the party is shaped in part by the equipment you carry.
 
 ## Inventory slots
 
-Your character has **12** inventory slots to carry equipment: 2 hand slots, 4 body slots, and 6 backpack slots. 
+You have **10** *inventory slots* to carry all your gear. The number of slots each piece of equipment occupies depends on its size and bulk:
 
-- **Hand Slots**: Items being held, such as weapons, shields, and torches.
-- **Body Slots**: Items worn for immediate access during combat, like secondary weapons or ammunition for ranged weapons. Armor and helmets also take up body slots.
-- **Backpack Slots**: Items in these slots take a little time to retrieve. While in combat, you must use an action to fetch an item from your pack.
+- Most items take **1** slot.
+- Bulky items, such as armor or two-handed weapons, take **2** slots.
+- Small items may not require an inventory slot or may be bundled into **1** slot.
+- You cannot fill more than **10** slots.
 
-Most items take up one inventory slot. Bulky items, such as armor or two-handed weapons, take up two slots. Small items may not require an inventory slot or be bundled three or so into a single slot.
-
-You cannot fill more than 12 slots. Carts, horses, or mules can increase inventory space. Hirelings can also haul your equipment. 
+Carts, horses, or mules can increase your inventory space. Hirelings can also haul your equipment. 
 
 ### Inventory and HP
 
-The amount of gear you’re carrying modifies your HP as follows:
+The gear you carry affects your HP as follows:
 
-- Add **1 point** to your maximum HP for every **two open slots** in your inventory.
-- If you carry a full inventory (i.e., filling all 12 slots), your HP is reduced to **zero**. 
+- Add **1** to your **HP** for every **2 open** inventory slots.
+- However, if your inventory is full (i.e., all **10** slots are filled), your HP is reduced to **0**. 
+
+==See [Hit Points]().==
+
+!!! tip
+
+    If you're carrying a full inventory, drop some gear at the start of combat.
 
 ## Coins
 
 Your character can carry up to 100 coins freely in their pockets. After that, each additional 200 coins occupies one inventory slot.
 
-## Constraints
+## Conditions
 
-Constraints are detrimental conditions your character endures, such as being *Wounded* or *Fatigued*. They can result from combat injuries, failed attribute saves, baleful spells, or events in the narrative.
+*Conditions* are harmful effects your character endures, such as *wounds* or *fatigue*. Conditions can arise from events and circumstances in your adventure, including damage taken in combat, failed attribute saves, and baleful magic.
 
-Each constraint must be placed in an **inventory slot**. You can have multiple copies of the same constraint. 
+Each condition occupies **1** *inventory slot*. You can have multiple instances of a condition. If you don’t have an open inventory slot for a condition, you must drop gear to free up enough space.
 
-You must remove an item if you are forced to add a constraint to your inventory but have no free space.
+Constraints can only be removed from your inventory by satisfying their cleared requirement, usually healing or rest. ==See [Healing and Rest]().==
 
-Some constraints have additional adverse effects besides taking up inventory slots. These effects apply as long as the constraint remains in your inventory. 
-
-Constraints can only be removed from your inventory by satisfying their cleared requirement, usually a short, long, or full rest.
-
-### Example Constraints
-
-| Condition | Adverse Effect | Cleared After |
-| :-- | :-- | :-- |
-| *Deprived* | Can’t heal or remove constraints when resting | Meal and long rest |
-| *Fatigued* | No effect besides taking up inventory | Long rest |
-| *Frightened* | Make a WIL save to approach the source of fear | Short rest |
-| *Wounded* | Disadvantage on an attribute save, per the failed critical wound save | Full rest |
-
-!!! Note
-
-	See the [How to Play](play.md) section for information about attribute saves and disadvantages and the [Damage](damage.md) section for information about rests.
 
 ## Usage and Durability
 
@@ -71,17 +60,22 @@ An artisan in a town can repair usage on most damaged items for 10% of the origi
 
 ## Armor
 
-Armor reduces the damage you suffer from an attack. Any character can strap on the best armor they can afford and enjoy its protective qualities. A player character can have up to a **5 armor rating** at most, even if items would increase it above this number.
+Armor reduces the damage you take from an attack. You can strap on the best armor you can afford and enjoy its protection. You can have up to a **5 armor rating** at most, even if items would increase the rating above this number.
 
-Armor has characteristics that affect its use.
+There are two types of protective gear: base armor and secondary protective items. 
 
-- ***n* armor rating** items are the base armor. Only a single type of base armor can be equipped.
-- **+1 armor rating** items can be equipped with the base armor to increase the armor rating by one. 
-- **Bulky** armor requires two body inventory slots.
+### Base Armor
+
+***n* armor** where “n” is the armor rating, such as **1** or **2**. These items represent your *base armor*. You can wear only one type of base armor.
+- Base armor typically takes up **2** *inventory slots*. 
+- **+1 armor** is a secondary protective gear that can be used along with the base armor to increase your armor rating by **1**. Examples include *shields* and *helms*.  
+
+### Secondary Protection
+
 - **Helmets** provide an advantage on attribute saves to avoid critical damage in addition to a +1 armor rating.
 - **Shields** have other uses in addition to a +1 armor rating:
 	- Can be sundered to avoid all damage from an attack; the shield is destroyed.
-	- Can be used as a dual weapon (as cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
+	- Can be used as a dual weapon (as a cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 
 **Armor List**
 
@@ -92,7 +86,7 @@ Armor has characteristics that affect its use.
 | Light (hauberk) | 1 Armor, Bulky | 100 |
 | Medium (chainmail) | 2 Armor, Bulky | 400 |
 | Heavy (plate mail) | 3 Armor, Bulky | 1,200 |
-| Heavy (full plate) | 4 Armor, Bulky, Helmet built-in | 3,600 |
+| Heavy (full plate) | 4 Armor, Bulky | 3,600 |
 
 ## Weapons
 

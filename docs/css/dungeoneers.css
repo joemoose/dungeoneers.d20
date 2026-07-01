@@ -29,16 +29,19 @@
 /* ---- Base typography -------------------------------------------------- */
 
 /* Serif body, slightly looser leading than the PsiOps Plex Serif value —
-   Fauna One is a touch lighter optically and benefits from 1.7 over 1.6. */
-.md-typeset {
-    font-family: "Fauna One", Georgia, serif;
-    line-height: 1.7;
-}
-
+   Fauna One is a touch lighter optically and benefits from ~1.7 over 1.6. */
 body {
     font-family: "Fauna One", Georgia, serif;
     overflow-wrap: break-word;
 }
+
+.md-typeset {
+    font-family: "Fauna One", Georgia, serif;
+    font-size: 0.79rem;
+    line-height: 1.65;
+}
+
+
 
 /* ---- Headings ---------------------------------------------------------
    Cinzel uppercase for all heading levels. Cinzel's carved, inscriptional
